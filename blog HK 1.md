@@ -16,25 +16,16 @@
 
 以下連結 先讓初次去該國旅遊的你 有個初步的概念~
 
-[google+flights+TPE+to+HKG](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=google+flights+TPE+to+HKG)
-
-[twd+to+hkd](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=twd+to+hkd)
-
-[google+flights+SIN+to+HKG](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=google+flights+SIN+to+HKG)
-
-[sgd+to+hkd](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sgd+to+hkd)
-
-[香港+天氣](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=香港+天氣)
-
-[香港+插頭](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=香港+插頭)
-
-[香港+伴手禮](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=香港+伴手禮)
-
-[香港+美食](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=香港+美食)
-
-[香港+美景](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=香港+美景)
-
-[My Instagram](https://www.instagram.com/redbox111)
+- [google+flights+TPE+to+HKG](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=google+flights+TPE+to+HKG)
+- [twd+to+hkd](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=twd+to+hkd)
+- [google+flights+SIN+to+HKG](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=google+flights+SIN+to+HKG)
+- [sgd+to+hkd](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sgd+to+hkd)
+- [香港+天氣](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=香港+天氣)
+- [香港+插頭](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=香港+插頭)
+- [香港+伴手禮](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=香港+伴手禮)
+- [香港+美食](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=香港+美食)
+- [香港+美景](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=香港+美景)
+- [My Instagram](https://www.instagram.com/redbox111)
 
 若看完以上的攻略，對旅遊該國 依舊燃起興趣的話，以下有一些 心得整理和懶人包：Ｄ
 
@@ -43,7 +34,6 @@
 台灣人 要去 香港 並非免簽，要先準備以下，二選一：
 
 - 台灣護照＋新版台胞證卡
-
 - 台灣護照＋電子簽證
 
 因為我人在海外工作 故選擇 `2. 電子簽證` 當下就批准了，並存成PDF檔案，然後再印出來。
@@ -53,14 +43,13 @@
 我先透過KLOOK APP購買以下兩種：
 
 - 香港機場快線車票（QR Code迅速入閘）
-
 - 香港4G / 3G上網SIM卡（香港機場領取）
 
 一定要有網路！對我滿重要的 因為我跑行程和搭車 都是靠google map XD 領卡地點和時間要多注意 不然櫃檯關門就尷尬了！機場：香港國際機場1號客運大樓抵港大堂A13。營業時間：7:00 AM – 11:00 PM。
 
 領卡地點和時間要多注意 不然櫃檯關門就尷尬了：
 
-[香港+klook](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=香港+klook)
+- [香港+klook](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=香港+klook)
 
 ### 西貢 東壩水庫 懶人包 SOP：
 以下的行山網站很不錯！我們改善了一些。Feb 3 Sun, 11:30am-pm，中午出發，健行起點：西灣亭。順時針繞。終點：東霸水庫。剛好看到日落。此段路程大概 3hrs，但若同行爬山新手的話，建議抓1-2倍時間，建議帶登山杖 因為下坡路段，一半階梯，一半石頭路（高低差超過膝蓋），也會走到沙灘。滿有趣的。
