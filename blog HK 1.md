@@ -69,15 +69,11 @@ http://www.walkonhill.com/route.php?area=3&seq=2#
 
 一開始中午集合地點是：彩虹站。這裡剛好有一個打卡聖地：彩虹邨。在一個停車場，頂樓有籃球場，四處會被踩紅色的大樓環繞。搭綠色小巴1/1A的地點在：牛池灣村，大概二十分鐘會有一班車，上車刷卡，下車不用刷，但是下車要大聲喊給司機聽，因為不是每一個站點都停車。建議先查好google map然後注意位置。下車地點是在西貢市中心，所以也滿多人會下車比較不用擔心。
 
-- 彩虹站 香港
-
-- 彩虹邨
-
-- 牛池灣村 香港牛池灣
-
-- moovit Hong Kong 綠色專線小巴 1
-
-- 西貢總站 香港西貢
+- [彩虹站+香港](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=彩虹站+香港)
+- [彩虹邨](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=彩虹邨)
+- [牛池灣村+香港牛池灣](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=牛池灣村+香港牛池灣)
+- [moovit+Hong+Kong+綠色專線小巴+1](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=moovit+Hong+Kong+綠色專線小巴+1)
+- [西貢總站+香港西貢](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=西貢總站+香港西貢)
 
 我們在西貢市中心的一個麥當勞附近下車，因為剛好可以買些午餐ＸＤ，也建議買1-2瓶水，因為一整個下午都會在健走看風景。麥當勞外面有計程車站，可看到上面有一張表，有到達各個景點的車費粗估，不怕被坑。後來我們跑到外面大馬路往東邊的道路攔計程車。另外上車請繫安全帶，因為司機通常很急開很快。另外車上可吃東西，所以我們在車上享用麥當勞ＸＤ。我們坐車到：西灣亭，大概20 min就到了，花費約110 hkd！
 
