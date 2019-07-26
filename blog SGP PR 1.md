@@ -38,17 +38,17 @@ page 1 很清楚的說明 申請者的個資 此資料為IPA letter 有效期限
 
 繳交check list所列資料 & NETS現場繳費成功
 
-ICA職員會給你三張A4文件:
+ICA職員會給你`三張A4文件:`
 
 有兩張是entry permit相關文件
 
-有一張是教你ICA預約again…領取 PR藍卡
+有一張是教你ICA預約again…領取 `PR藍卡`
 
 我是申請我家附近的singpost 下周六領取
 
 還有重要事情
 
-SOP來說 要給在職公司HR這三份影本 否則可能會有罰則
+SOP來說 要給在職公司HR這`三份影本 否則可能會有罰則`
 
 ### 總結:
 
