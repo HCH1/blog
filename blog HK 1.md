@@ -83,9 +83,9 @@ http://www.walkonhill.com/route.php?area=3&seq=2#
 
 ### 以下是關鍵景點之間的路徑與時間估算:
 
-- (From) 彩虹站 香港 (to) 西貢總站 香港西貢
-- (From) 西灣亭 Sai Wan Pavilion (to) 萬宜水庫東壩
-- (From) 萬宜水庫東壩 (to) 西貢總站 香港西貢
+- [(From) 彩虹站 香港 (to) 西貢總站 香港西貢](https://www.google.com/maps/dir/彩虹站 香港/西貢總站 香港西貢)
+- [(From) 西灣亭 Sai Wan Pavilion (to) 萬宜水庫東壩](https://www.google.com/maps/dir/西灣亭 Sai Wan Pavilion/萬宜水庫東壩)
+- [(From) 萬宜水庫東壩 (to) 西貢總站 香港西貢](https://www.google.com/maps/dir/萬宜水庫東壩/西貢總站 香港西貢)
 
 ### end
 
