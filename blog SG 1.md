@@ -1,6 +1,8 @@
 ## 2019 新國之旅推薦
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/sg1.jpeg)
+![f2](https://github.com/HCH1/blog/blob/master/fig/sg2.jpeg)
+![f3](https://github.com/HCH1/blog/blob/master/fig/sg3.jpeg)
 
 ### 新國 簡介：
 - [新加坡+天氣](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=新加坡+天氣)
