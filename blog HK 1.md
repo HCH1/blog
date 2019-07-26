@@ -34,6 +34,8 @@
 
 [香港+美景](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=香港+美景)
 
+[My Instagram](https://www.instagram.com/redbox111)
+
 若看完以上的攻略，對旅遊該國 依舊燃起興趣的話，以下有一些 心得整理和懶人包：Ｄ
 
 簽證：
@@ -60,7 +62,7 @@
 
 [香港+klook](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=香港+klook)
 
-![Image](https://drive.google.com/open?id=0BwToaKW3j799YTNFNTB0em9BUlU)
+![Image](src)
 
 ### end
 
