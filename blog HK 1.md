@@ -83,9 +83,9 @@ http://www.walkonhill.com/route.php?area=3&seq=2#
 
 ### 以下是關鍵景點之間的路徑與時間估算:
 
-- [(From) 彩虹站 香港 (to) 西貢總站 香港西貢](https://www.google.com/maps/dir/彩虹站 香港/西貢總站 香港西貢)
-- [(From) 西灣亭 Sai Wan Pavilion (to) 萬宜水庫東壩](https://www.google.com/maps/dir/西灣亭 Sai Wan Pavilion/萬宜水庫東壩)
-- [(From) 萬宜水庫東壩 (to) 西貢總站 香港西貢](https://www.google.com/maps/dir/萬宜水庫東壩/西貢總站 香港西貢)
+- [(From) 彩虹站 香港 (to) 西貢總站 香港西貢](https://www.google.com/maps/dir/%E5%BD%A9%E8%99%B9%E7%AB%99%20%E9%A6%99%E6%B8%AF/%E8%A5%BF%E8%B2%A2%E7%B8%BD%E7%AB%99%20%E9%A6%99%E6%B8%AF%E8%A5%BF%E8%B2%A2)
+- [(From) 西灣亭 Sai Wan Pavilion (to) 萬宜水庫東壩](https://www.google.com/maps/dir/%E8%A5%BF%E7%81%A3%E4%BA%AD%20Sai%20Wan%20Pavilion/%E8%90%AC%E5%AE%9C%E6%B0%B4%E5%BA%AB%E6%9D%B1%E5%A3%A9)
+- [(From) 萬宜水庫東壩 (to) 西貢總站 香港西貢](https://www.google.com/maps/dir/High+Island+Reservoir+East+Dam,+%E8%90%AC%E5%AE%9C%E6%B0%B4%E5%BA%AB%E6%9D%B1%E5%A3%A9,+Sai+Kung,+Hong+Kong/Sai+Kung+Bus+Terminus,+Sai+Kung,+Hong+Kong/@22.3794997,114.2517771,12z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x34041af2e3900e57:0xc8d72bd1c360b30c!2m2!1d114.372725!2d22.364072!1m5!1m1!1s0x34040597e48e7035:0xd35e26f938451819!2m2!1d114.2738207!2d22.3821683)
 
 ### end
 
