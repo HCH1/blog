@@ -74,24 +74,17 @@ http://www.walkonhill.com/route.php?area=3&seq=2#
 
 ### 以下是關鍵景點:
 
-- 西灣亭 Sai Wan Pavilion
-
-- 吹筒坳
-
-- 西灣山
-
-- 浪茄灣
-
-- 萬宜水庫東壩
-
-- 西貢總站 香港西貢
+- [西灣亭+Sai+Wan+Pavilion](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=西灣亭+Sai+Wan+Pavilion)
+- [吹筒坳](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=吹筒坳)
+- [西灣山](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=西灣山)
+- [浪茄灣](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=浪茄灣)
+- [萬宜水庫東壩](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=萬宜水庫東壩)
+- [西貢總站+香港西貢](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=西貢總站+香港西貢)
 
 ### 以下是關鍵景點之間的路徑與時間估算:
 
 - (From) 彩虹站 香港 (to) 西貢總站 香港西貢
-
 - (From) 西灣亭 Sai Wan Pavilion (to) 萬宜水庫東壩
-
 - (From) 萬宜水庫東壩 (to) 西貢總站 香港西貢
 
 ### end
