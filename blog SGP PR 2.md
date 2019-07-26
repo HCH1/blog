@@ -5,8 +5,12 @@
 會收到ICA寄到家裡的信件 裡面有裝好的一堆文件
 
 page 1 很清楚的說明 申請者的個資 此資料為IPA letter 有效期限兩個月
-![IPA letter](/blog/fig/pr f1.png)
+
+![IPA letter](https://github.com/HCH1/blog/blob/master/fig/pr%20f1.png)
+
 對於個人申請PR來說 check list 共八個:
+
+![IPA letter](https://github.com/HCH1/blog/blob/master/fig/pr%20f2.png)
 
 ### (1) IPA
 - 很簡單 就是這封信件
@@ -15,6 +19,9 @@ page 1 很清楚的說明 申請者的個資 此資料為IPA letter 有效期限
 ### (3) MediShield Life
 - 指定網站 登入 填寫資料 宣稱健康狀態 遞交
 - 然後把網頁影印下來 說明你完成 https://www.cpf.gov.sg/eSvc/Web/Services/MyRequest/MyRequestLanding
+
+![IPA letter](https://github.com/HCH1/blog/blob/master/fig/pr%20f3.png)
+
 ### (4) 體檢報告
 - 需要 胸腔X-ray & HIV檢驗 我是去Farrer Park Hospital做檢查 70sgd 一個工作天後可領取正本報告
 ### (5) 護照照片*2
@@ -33,6 +40,8 @@ page 1 很清楚的說明 申請者的個資 此資料為IPA letter 有效期限
 所以希望準備一張NETS卡 對我來說我只有信用卡和MRT卡
 
 最快方法就是 去7–11購買一張NETS 儲值230sgd
+
+![IPA letter](https://github.com/HCH1/blog/blob/master/fig/pr%20f4.png)
 
 所以
 
