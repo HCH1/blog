@@ -5,7 +5,7 @@
 會收到ICA寄到家裡的信件 裡面有裝好的一堆文件
 
 page 1 很清楚的說明 申請者的個資 此資料為IPA letter 有效期限兩個月
-
+![IPA letter](/blog/fig/pr f1.png)
 對於個人申請PR來說 check list 共八個:
 
 ### (1) IPA
