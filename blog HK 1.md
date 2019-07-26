@@ -1,10 +1,20 @@
-## Welcome to my blog
+## 2019 香港 西貢 秘境拍照打卡
 
-You can use the [editor on GitHub](https://github.com/HCH1/blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+旅遊旺季約在十一月到隔年二月 多晴天且氣溫十幾度很舒適；）我爬了香港四座山（飛鵝山 龍脊 香港後山西高山 西貢西灣山和水庫），滿推薦西貢的自然美景。若有一整天的時間，真心建議來西貢郊區走走，交通也不是很難。
+-
+（文字版）
+簡介：
+香港（簡稱港，雅稱香江；英語：Hong Kong，縮寫作 HK、HKG、HKSAR）是中華人民共和國兩個特別行政區之一，位於南海北岸、珠江口東側，北接廣東省深圳市，西面與鄰近的澳門特別行政區相距63公里，其餘兩面與南海鄰接。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+香港全境由香港島、九龍和新界組成，其中香港島北最為發達；地理環境上則由九龍半島等大陸土地、以及263個島嶼構成，人口約741萬人（2017年底）。
 
-##demo:
+香港管轄總面積2,755.03平方公里，其中陸地面積1,105.6平方公里（香港島80.7平方公里、九龍46.9平方公里、新界及離島978平方公里，2014年年底數字），水域面積1,650.64平方公里。香港土地可概括為香港島、九龍半島、新界三大部份及263個島嶼，衆島嶼中以大嶼山面積最大。
+
+[香港+wiki](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=香港+wiki)
+
+##行前 懶人包+任意門：
+
+以下連結 先讓初次去該國旅遊的你 有個初步的概念~
 
 [google+flights+TPE+to+HKG](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=google+flights+TPE+to+HKG)
 
