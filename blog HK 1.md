@@ -36,7 +36,7 @@
 - 台灣護照＋新版台胞證卡
 - 台灣護照＋電子簽證
 
-因為我人在海外工作 故選擇 `2. 電子簽證` 當下就批准了，並存成PDF檔案，然後再印出來。
+因為我人在海外工作 故選擇 `電子簽證` 當下就批准了，並存成PDF檔案，然後再印出來。
 
 ### 行前準備：
 
@@ -88,39 +88,3 @@
 - [(From) 萬宜水庫東壩 (to) 西貢總站 香港西貢](https://www.google.com/maps/dir/High+Island+Reservoir+East+Dam,+%E8%90%AC%E5%AE%9C%E6%B0%B4%E5%BA%AB%E6%9D%B1%E5%A3%A9,+Sai+Kung,+Hong+Kong/Sai+Kung+Bus+Terminus,+Sai+Kung,+Hong+Kong/@22.3794997,114.2517771,12z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x34041af2e3900e57:0xc8d72bd1c360b30c!2m2!1d114.372725!2d22.364072!1m5!1m1!1s0x34040597e48e7035:0xd35e26f938451819!2m2!1d114.2738207!2d22.3821683)
 
 ### end
-
-### 
-
-### ref:
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HCH1/blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
