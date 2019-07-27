@@ -1,5 +1,7 @@
 ## 新國申請公民：
 
+![sg c1](https://github.com/HCH1/blog/blob/master/fig/sg%20c1.png)
+
 公民申請條件是什麼？
 
 - 年滿21周歲，並且在申請之前已經成為新加坡永久居民至少2年。
