@@ -1,6 +1,6 @@
 # 2019 Bali trip
 
-![f1](https://github.com/HCH1/blog/blob/master/fig/bali1.jpeg)
+![f1](https://github.com/HCH1/blog/blob/master/fig/bali1.png)
 
 ### 02nd Aug 2019 : Airport Pick Up + Uluwatu Sunset Tour Itinerary :
 - 09.50 – Pick up at airport by flight  at 09.50 am
