@@ -4,8 +4,8 @@
 
 ### 簡介：
 索尼 Cyber-shot DSC-RX100（簡稱RX100）是由索尼於2012年6月發布的緊湊型不可換鏡頭數位相機，特色為在緊湊的空間內設計配置了1英寸規格傳感器與高表現的鏡頭，上市初7萬円/$650定價一度被認為難以接受，隨後RX100在各類評測中的優異表現則證明物有所值。RX100在發布後獲得了業界與市場認可，其於2012年入選時代雜誌評出的年度50佳發明(50 ‘best inventions’ of 2012)。
-### ref:
 - [sony RX100m5a wiki](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sony+RX100m5a+wiki)
+
 ### 懶人包+任意門：
 以下連結 先讓初次接觸的你 有個概念~
 - [sony RX100m5a 價位](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sony+RX100m5a+價位)
@@ -14,15 +14,17 @@
 - [sony RX100m5a 比較](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sony+RX100m5a+比較)
 - [sony RX100m5a spec](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sony+RX100m5a+spec)
 - [sony RX100m5a compare](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sony+RX100m5a+compare)
-
 若看完以上的攻略，依舊燃起興趣的話，以下有一些 心得整理和懶人包：Ｄ
+
 ### 心得:
 最近入手了一台類單: sony RX100m5a，鄉民戲稱之為
 > 口袋類單機皇！
+
 我之前都是拿著一之iphone7到處隨手拍留下回憶。所以輕巧一直是我的首要考量之一。實際操作了RX100m5a幾次以後，真心覺得很不錯！ 若是未來能更多的使用並且留下美好回憶，我想 貴也是值得的！
 
 首先，我愛 “自動模式”！類單眼，可微調: P A S M模式，但你若不會單眼設定沒關係，請直接用
 > 超級懶人法”自動模式”就對了！
+
 以我需求來說，旅遊首重: 簡單輕巧！ sony RX100m5a，300g，可放入口袋(還是不建議褲子 因為可能會折到。胸前口袋很OK)，平面大小跟愛風差不多(厚度當然差三四倍XD)
 
 ### [sony RX100m5a 模式轉盤功能清單](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sony+RX100m5a+模式轉盤功能清單)
