@@ -14,13 +14,12 @@
 - [sony RX100m5a 比較](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sony+RX100m5a+比較)
 - [sony RX100m5a spec](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sony+RX100m5a+spec)
 - [sony RX100m5a compare](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sony+RX100m5a+compare)
+
 若看完以上的攻略，依舊燃起興趣的話，以下有一些 心得整理和懶人包：Ｄ
 
 ![f2](https://github.com/HCH1/blog/blob/master/fig/rx2.png)
-![f3](https://github.com/HCH1/blog/blob/master/fig/rx3.jpeg)
-![f4](https://github.com/HCH1/blog/blob/master/fig/rx4.jpeg)
-![f5](https://github.com/HCH1/blog/blob/master/fig/rx5.jpeg)
-![f6](https://github.com/HCH1/blog/blob/master/fig/rx6.jpeg)
+![f3](https://github.com/HCH1/blog/blob/master/fig/rx3.png)
+![f4](https://github.com/HCH1/blog/blob/master/fig/rx4.png)
 
 ### [sony RX100m5a 模式轉盤功能清單](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sony+RX100m5a+模式轉盤功能清單)
 
