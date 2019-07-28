@@ -1,113 +1,69 @@
-## 2019 新國之旅推薦
+## 2019 Bali trip
 
-![f1](https://github.com/HCH1/blog/blob/master/fig/sg1.jpeg)
-![f2](https://github.com/HCH1/blog/blob/master/fig/sg2.jpeg)
-![f3](https://github.com/HCH1/blog/blob/master/fig/sg3.jpeg)
+![f1](https://github.com/HCH1/blog/blob/master/fig/.jpeg)
 
-### 新國 簡介：
-- [新加坡+天氣](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=新加坡+天氣)
-- [新加坡+插頭](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=新加坡+插頭)
-- [新加坡+伴手禮](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=新加坡+伴手禮)
-- [新加坡+美食](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=新加坡+美食)
-- [新加坡+美景](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=新加坡+美景)
-- [sg+klook+4g+sim](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+klook+4g+sim)
+### 02nd Aug 2019 : Airport Pick Up + Uluwatu Sunset Tour Itinerary :
+- 09.50 – Pick up at airport by flight  at 09.50 am
+- 11.50 – Go to The Pavilion Hotel Kuta for check in 
+- 15.30 – Pick up at the hotel
+> 17.00 – Visit Uluwatu Temple
+- 18.00 – Watching Kecak Dance Performance
+- 20.00 – Enjoy Seafood dinner at Jimbaran Beach
+- 21.30 – Back to hotel
+- 22.00 – Arrive at Hotel
 
-### china town point mall
+### 03rd Aug 2019 : Nusa Penida Tour Itinerary :
+- 06.30 – Pick up at The Pavilion Hotel Kuta and go to Sanur port 
+- 08.00 – Go to Nusa Penida by using Speedboat
+> 09.00 – Arrive at Nusa Penida and Start the tour
+- 10.00 – Visit Angel Billabong
+- 11.00 – Visit Broken Beach
+- 12.00 – Visit Kelingking Beach
+- 13.00 – Enjoy Lunch
+- 15.00 – Visit Crystal Bay
+- 17.00 – Go to sanur port by using speedboat
+- 18.00 – Arrive at sanur port and back to hotel
+- 19.00 – Arrive at hotel
 
-建議下午先到 天宇(在chinatown point mall)買景點的票
+### 04th Aug 2019 : Ubud Village and Kintamani Volcano Tour Itinerary :
+- 08.30 – Pick up at The Pavilion Hotel Kuta
+> 09.30 – Watching Barong Dance Performance
+- 11.00 – Visit Celuk Vilage ( gold/silver smith)
+- 12.30 – Visit Tirta Empul Temple
+- 13.45 – Visit Kintamani with view Volcano
+- 14.00 – Lunch at Kintamani
+- 15.30 – Visit Tegalalang Rice Terrace
+- 16.30 – Visit Ubud Monkey Forest
+- 17.30 – drop at Kuta Seaview Boutique Resort
+- 18.30 – Arrive at Hotel
 
-票卷推薦：敞篷巴士 HiPPO City Sightseeing Tour
+### 05th Aug 2019 : Bedugul and Tanah Lot Sunset Tour :
+- 08:00 – Pick up at Kuta Seaview Boutique Resort
+> 10.30 – Visit Ulun Danu Beratan Temple
+- 12.00 – Visit Handara Gate
+- 13.00 – Visit Wanagiri Hidden Hill
+- 14.00 – Enjoy lunch
+- 17.30 – Visit Tanah Lot Temple with sunset view
+- 18.30 – Back to Hotel
+- 19.30 – Arrive at Hotel
 
-滨海湾花园 Gardens By the Bay
+### 06th Aug 2019 : Airport Transfer Itinerary :
+- 16.00 – Pick Up at Kuta Seaview Boutique Resort
+- 16.30 – Arrive at Airport (flight at 19.25 pm)
 
-环球影城 Universal Studio Singapore
+### Price Without Hotel : IDR 4.450.000 (1 person)
 
-晚餐可在mall一樓吃 松發肉骨茶
+### Price Include :
+- Private Car with Good AC Condition
+- English Speaking Driver
+- Petrol
+- Return Speedboat Ticket to Nusa Penida
+- Private Car for tour in Nusa Penida
+- 3 x Lunch Indonesian Food
+- 1 x Seafood Dinner at Jimbaran Beach
+- Mineral water (1 bottle/person/day)
+- Entrance fee to all site based on itinerary
+- Airport Pick up upon arrival
+- Airport Transfer upon Departure
 
-mall b1 有超市可逛逛 買伴手禮
-
-- [sg+chinatown+point+mall](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+chinatown+point+mall)
-- [sg+天宇旅游新加坡景点门票价目表](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+天宇旅游新加坡景点门票价目表)
-- [sg+Song+Fa+Bak+Kut+Teh+Chinatown+Point](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+Song+Fa+Bak+Kut+Teh+Chinatown+Point)
-
-
-### 推薦美食 
-
-麻辣香鍋 靠近 中國城 牛車水：
-- [sg+日日紅麻辣香鍋+Ri+Ri+Hong+Mala+Xiang+Guo](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+日日紅麻辣香鍋+Ri+Ri+Hong+Mala+Xiang+Guo)
-
-推薦美食 辣椒螃蟹：
-- [sg+Keng+Eng+Kee+Seafood](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+Keng+Eng+Kee+Seafood)
-
-推薦美食 印度餐：
-- [sg+Muthu's+Curry](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+Muthu's+Curry)
-- [sg+Samy's+Curry+Restaurant](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+Samy's+Curry+Restaurant)
-
-推薦美食 laksa：
-- [sg+Sungei+Road+Laksa](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+Sungei+Road+Laksa)
-
-推薦美食 咖椰吐司：
-- [sg+Ya+Kun+Kaya+Toast+100AM+亞坤](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+Ya+Kun+Kaya+Toast+100AM+亞坤)
-
-推薦美食 肉骨茶：
-- [sg+Song+Fa+Bak+Kut+Teh+Chinatown+Point](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+Song+Fa+Bak+Kut+Teh+Chinatown+Point)
-
-烏節路上會有賣 冰淇淋麵包
-
-小販中心有賣 甘蔗水
-
-### 一下午可逛 濱海花園 裡面有兩個冷氣展館：
-
-taxi可到以下入口：
-- https://goo.gl/maps/oBQFKTnpiJRTuF4p6
-- [sg+taxi+Gdns+by+the+Bay](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+taxi+Gdns+by+the+Bay)
-
-- [sg+Gardens+by+the+Bay](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+Gardens+by+the+Bay)
-- [sg+Cloud+Forest](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+Cloud+Forest)
-- [sg+Flower+Dome](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+Flower+Dome)
-
-
-### 挑一晚 可逛逛河岸 吹風看夜景 看 噴水魚尾獅Merlion
-- [sg+mrt+Raffles+Place](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+mrt+Raffles+Place)
-- [sg+The+Fullerton+Bay+Hotel](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+The+Fullerton+Bay+Hotel)
-
-### 若要去 環球影城USS 要先到Vivocity mall 四樓轉輕軌
-- [sg+mrt+HarbourFront](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+mrt+HarbourFront)
-- [sg+VivoCity](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+VivoCity)
-- [sg+Universal+Studios+Singapore](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+Universal+Studios+Singapore)
-
-### 若要做 敞蓬巴士 要先到 Suntec city mall
-- [sg+mrt+Esplanade](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+mrt+Esplanade)
-- [sg+Suntec+City+Tourist+Hub](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+Suntec+City+Tourist+Hub)
-
-### 北橋路 上很多異國古蹟 介於mrt bugis（往南走）to city hall：
-- [sg+mrt+bugis](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+mrt+bugis)
-- [sg+mrt+city+hall](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+mrt+city+hall)
-- [sg+north+bridge+road](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+north+bridge+road)
-
-### 回教堂和市集：
-- [sg+Masjid+Sultan](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+Masjid+Sultan)
-
-### 天主教堂和市集：
-- [sg+Chijmes](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+Chijmes)
-
-### 舊警察局古蹟：
-- [sg+Old+Hill+Street+Police+Station](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+Old+Hill+Street+Police+Station)
-
-### 星國 烏節路徒步區（類似東區）
-- [sg+mrt+orchard](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+mrt+orchard)
-- [sg+mrt+somerset](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+mrt+somerset)
-
-### 星國 酒吧鬧區 克拉碼頭
-- [sg+mrt+clarke+quay](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+mrt+clarke+quay)
-
-### 可逛機場T1對面的JEWEL mall 裡面有森林瀑布 可逛1–2hrs
-- [sg+JEWEL](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+JEWEL)
-
-### 備註：
-
-在新加坡 推薦用 Grab app 叫計程車
-
-記得帶 乾濕紙巾 通常 小販中心或者餐廳 不提供
-
-不可亂丟垃圾 不可穿越馬路 路上不可抽菸
+### End
