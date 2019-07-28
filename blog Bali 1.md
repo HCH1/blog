@@ -20,7 +20,7 @@
 - 09.50 – Pick up at airport by flight  at 09.50 am
 - 11.50 – Go to The Pavilion Hotel Kuta for check in 
 - 15.30 – Pick up at the hotel
-> 17.00 – Visit Uluwatu Temple
+> 17.00 – Visit Uluwatu Temple 崖廟
 - 18.00 – Watching Kecak Dance Performance
 - 20.00 – Enjoy Seafood dinner at Jimbaran Beach
 - 21.30 – Back to hotel
@@ -28,12 +28,12 @@
 
 ### 03rd Aug 2019 : Nusa Penida Tour Itinerary :
 ![f4](https://github.com/HCH1/blog/blob/master/fig/bali4.png)
-- 06.30 – Pick up at The Pavilion Hotel Kuta and go to Sanur port 
-- 08.00 – Go to Nusa Penida by using Speedboat
+- 06.30 – Pick up at The Pavilion Hotel Kuta and go to Sanur port 港口 
+- 08.00 – Go to Nusa Penida by using Speedboat 
 > 09.00 – Arrive at Nusa Penida and Start the tour
-- 10.00 – Visit Angel Billabong
-- 11.00 – Visit Broken Beach
-- 12.00 – Visit Kelingking Beach
+- 10.00 – Visit Angel Billabong 藍綠海
+- 11.00 – Visit Broken Beach 橋岩
+- 12.00 – Visit Kelingking Beach 恐龍嘴
 - 13.00 – Enjoy Lunch
 - 15.00 – Visit Crystal Bay
 - 17.00 – Go to sanur port by using speedboat
@@ -44,23 +44,23 @@
 ![f5](https://github.com/HCH1/blog/blob/master/fig/bali5.png)
 - 08.30 – Pick up at The Pavilion Hotel Kuta
 > 09.30 – Watching Barong Dance Performance
-- 11.00 – Visit Celuk Vilage ( gold/silver smith)
-- 12.30 – Visit Tirta Empul Temple
-- 13.45 – Visit Kintamani with view Volcano
+- 11.00 – Visit Celuk Vilage ( gold/silver smith) 鞦韆
+- 12.30 – Visit Tirta Empul Temple 方水廟 & Pura Gunung Kawi 石像
+- 13.45 – Visit Kintamani with view Volcano 遠山
 - 14.00 – Lunch at Kintamani
-- 15.30 – Visit Tegalalang Rice Terrace
-- 16.30 – Visit Ubud Monkey Forest
+- 15.30 – Visit Tegalalang Rice Terrace 梯田
+- 16.30 – Visit Ubud Monkey Forest (removed)
 - 17.30 – drop at Kuta Seaview Boutique Resort
 - 18.30 – Arrive at Hotel
 
 ### 05th Aug 2019 : Bedugul and Tanah Lot Sunset Tour :
 ![f6](https://github.com/HCH1/blog/blob/master/fig/bali6.png)
 - 08:00 – Pick up at Kuta Seaview Boutique Resort
-> 10.30 – Visit Ulun Danu Beratan Temple
-- 12.00 – Visit Handara Gate
+> 10.30 – Visit Ulun Danu Beratan Temple 島廟
+- 12.00 – Visit Handara Gate 天堂門
 - 13.00 – Visit Wanagiri Hidden Hill
 - 14.00 – Enjoy lunch
-- 17.30 – Visit Tanah Lot Temple with sunset view
+- 17.30 – Visit Tanah Lot Temple 海神廟 with sunset view
 - 18.30 – Back to Hotel
 - 19.30 – Arrive at Hotel
 
