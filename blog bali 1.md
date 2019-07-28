@@ -1,4 +1,4 @@
-## 2019 Bali trip
+# 2019 Bali trip
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/.jpeg)
 
@@ -68,6 +68,7 @@
 
 ### ref:
 > IDR 4.450.000 
+
 > [BALI TOUR PACKAGES 5 DAYS AND 4 NIGHTS TOURS](http://www.baligoldentour.com/bali-tour-packages-5-days-4-nights.php)
 
 ### End
