@@ -66,4 +66,8 @@
 - Airport Pick up upon arrival
 - Airport Transfer upon Departure
 
+### ref:
+> IDR 4.450.000 
+> [BALI TOUR PACKAGES 5 DAYS AND 4 NIGHTS TOURS](http://www.baligoldentour.com/bali-tour-packages-5-days-4-nights.php)
+
 ### End
