@@ -51,8 +51,8 @@
 - 16.00 – Pick Up at Kuta Seaview Boutique Resort
 - 16.30 – Arrive at Airport (flight at 19.25 pm)
 
+### ref:
 ### Price Without Hotel : IDR 4.450.000 (1 person)
-
 ### Price Include :
 - Private Car with Good AC Condition
 - English Speaking Driver
@@ -65,10 +65,6 @@
 - Entrance fee to all site based on itinerary
 - Airport Pick up upon arrival
 - Airport Transfer upon Departure
-
-### ref:
-> IDR 4.450.000 
-
-> [BALI TOUR PACKAGES 5 DAYS AND 4 NIGHTS TOURS](http://www.baligoldentour.com/bali-tour-packages-5-days-4-nights.php)
+### [BALI TOUR PACKAGES 5 DAYS AND 4 NIGHTS TOURS](http://www.baligoldentour.com/bali-tour-packages-5-days-4-nights.php)
 
 ### End
