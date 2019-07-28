@@ -3,6 +3,10 @@
 ![f1](https://github.com/HCH1/blog/blob/master/fig/bali1.png)
 
 ### 02nd Aug 2019 : Airport Pick Up + Uluwatu Sunset Tour Itinerary :
+![f2](https://github.com/HCH1/blog/blob/master/fig/bali2.png)
+
+![f3](https://github.com/HCH1/blog/blob/master/fig/bali3.png)
+
 - 09.50 – Pick up at airport by flight  at 09.50 am
 - 11.50 – Go to The Pavilion Hotel Kuta for check in 
 - 15.30 – Pick up at the hotel
@@ -13,6 +17,9 @@
 - 22.00 – Arrive at Hotel
 
 ### 03rd Aug 2019 : Nusa Penida Tour Itinerary :
+
+![f4](https://github.com/HCH1/blog/blob/master/fig/bali4.png)
+
 - 06.30 – Pick up at The Pavilion Hotel Kuta and go to Sanur port 
 - 08.00 – Go to Nusa Penida by using Speedboat
 > 09.00 – Arrive at Nusa Penida and Start the tour
@@ -26,6 +33,9 @@
 - 19.00 – Arrive at hotel
 
 ### 04th Aug 2019 : Ubud Village and Kintamani Volcano Tour Itinerary :
+
+![f5](https://github.com/HCH1/blog/blob/master/fig/bali5.png)
+
 - 08.30 – Pick up at The Pavilion Hotel Kuta
 > 09.30 – Watching Barong Dance Performance
 - 11.00 – Visit Celuk Vilage ( gold/silver smith)
@@ -38,6 +48,9 @@
 - 18.30 – Arrive at Hotel
 
 ### 05th Aug 2019 : Bedugul and Tanah Lot Sunset Tour :
+
+![f6](https://github.com/HCH1/blog/blob/master/fig/bali6.png)
+
 - 08:00 – Pick up at Kuta Seaview Boutique Resort
 > 10.30 – Visit Ulun Danu Beratan Temple
 - 12.00 – Visit Handara Gate
