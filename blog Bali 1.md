@@ -1,12 +1,7 @@
 # 2019 Bali trip
-
 ![f1](https://github.com/HCH1/blog/blob/master/fig/bali1.png)
-
 ### 02nd Aug 2019 : Airport Pick Up + Uluwatu Sunset Tour Itinerary :
 ![f2](https://github.com/HCH1/blog/blob/master/fig/bali2.png)
-
-![f3](https://github.com/HCH1/blog/blob/master/fig/bali3.png)
-
 - 09.50 – Pick up at airport by flight  at 09.50 am
 - 11.50 – Go to The Pavilion Hotel Kuta for check in 
 - 15.30 – Pick up at the hotel
