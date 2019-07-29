@@ -49,7 +49,9 @@
 - 13.45 – Visit Kintamani with view Volcano 遠山
 - 14.00 – Lunch at Kintamani
 - 15.30 – Visit Tegalalang Rice Terrace 梯田
+
 ~~- 16.30 – Visit Ubud Monkey Forest (removed)~~
+
 - 17.30 – drop at Kuta Seaview Boutique Resort
 - 18.30 – Arrive at Hotel
 
