@@ -1,6 +1,6 @@
 # Check list for before trip
 
-![f1](https://github.com/HCH1/blog/fig/.jpeg)
+## [song](https://www.ptt.cc/bbs/Aviation/M.1513586612.A.29D.html)
 
 ## 護照 手機 鑰匙 錢包 類單 腳架 耳機
 
