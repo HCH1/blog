@@ -1,4 +1,4 @@
-# 2019 Bali trip for 5D4N:
+# 2019 Bali trip; 5D4N:
 ![f1](https://github.com/HCH1/blog/blob/master/fig/bali1.png)
 
 - [Bali wiki](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Bali+wiki)
@@ -16,7 +16,8 @@
 - [Bali 美景](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Bali+美景)
 
 ###
-- 司機建議當地美食 babi guling 也就是烤乳豬。因為印尼大多數是信奉回教所以不可吃豬肉。但是只有Bali宗教為 峇里印度教。
+- 不太下雨的七到九月 天藍好拍照
+- 司機建議當地美食 babi guling 也就是 烤乳豬。因為印尼大多數是信奉回教所以不可吃豬肉。但是只有Bali宗教為 峇里印度教。
 - 這次是住在Kuta鬧區 很多酒吧和夜店 缺點就是單行道 路小條 很塞車。從Kuta到機場 若順暢只要十五分鐘 但是若下午塞車需要快一小時。下次若再去我會選擇避開海灘那兩條單行單。另外 司機建議說下次或可住在Ubud也不錯。
 
 ### 02nd Aug 2019 : Airport Pick Up + Uluwatu Sunset Tour Itinerary :
@@ -63,7 +64,7 @@
 ![f5](https://github.com/HCH1/blog/blob/master/fig/bali5.png)
 - 08.30 – Pick up at Hotel Kuta
 - 09.30 – Watching Barong Dance Performance
-- 11.00 – Visit Celuk Vilage ( gold/silver smith) 鞦韆
+- 11.00 – Visit Celuk Vilage ( gold/silver smith) 銀飾品製作
 - 12.30 – Visit Tirta Empul Temple 方水廟
 
 ~~Pura Gunung Kawi 石像~~
@@ -72,24 +73,28 @@
 - 14.00 – Lunch at Kintamani
 - 15.30 – Visit Tegalalang Rice Terrace 梯田
 
-> 我覺得今日的景點比較普通。
+> 我覺得今日的景點比較普通。若時間較少或者預算考量 或可刪除今日。只有Tirta Empul Temple方水廟還不錯 閒逛拍照 大概一小時半。梯田照片比較美 實際上去看沒有很廣闊 加上趟鞦韆阿 草屋阿 人潮阿 有點美中不足。午餐是在山上某餐廳用餐 可遠眺山景 還不錯的體驗。司機建議我把最後行程改成瀑布 但那個景點太多人為設施有點可惜 例如現場 放熱音 露天酒吧。。
 
 ~~- 16.30 – Visit Ubud Monkey Forest (removed)~~
 
+- 16.30 Tegenungan Waterfall
 - 17.30 – drop at Kuta Seaview Boutique Resort
 - 18.30 – Arrive at Hotel
 
 ### 05th Aug 2019 : Bedugul and Tanah Lot Sunset Tour :
 ![f6](https://github.com/HCH1/blog/blob/master/fig/bali6.png)
 - 08:00 – Pick up at Hotel Kuta
-> 10.30 – Visit Ulun Danu Beratan Temple 島廟
+> 10.30 – Visit Ulun Danu Beratan Temple 湖廟
 - 12.00 – Visit Handara Gate 天堂門
 
-> 中午以前到 排隊大概 一小時。(其他在山上類似景點 聽說要排隊三到四小時很誇張)
+> 湖廟略失望 因為裡面對我來說就是一個大公園 可逛一小時 最值得拍照的就是 山下湖中的兩座塔廟。天堂門就很值得 很高周景美。中午以前到 排隊大概 一小時。(其他在山上類似景點 聽說要排隊三到四小時很誇張)
 
 - 13.00 – Visit Wanagiri Hidden Hill 人造打卡景點
 - 14.00 – Enjoy lunch
 - 17.30 – Visit Tanah Lot Temple 海神廟 with sunset view
+
+> 海神廟 閒逛拍照 大概兩小時。很值得的景點因為難見。像是在退潮才看的到的廟宇 再延伸拱門岩石上的廟宇 還有很多小型 二到四層樓高的 天堂門。我們沒有待到看日落 因為想避開塞車 加上最後了也累。
+
 - 18.30 – Back to Hotel
 - 19.30 – Arrive at Hotel
 
