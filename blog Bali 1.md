@@ -103,7 +103,11 @@
 - 16.30 – Arrive at Airport (flight at 19.25 pm)
 
 ### ref:
-
+### [BALI TOUR PACKAGES 5 DAYS AND 4 NIGHTS TOURS](http://www.baligoldentour.com/bali-tour-packages-5-days-4-nights.php)
+### PROS:
+早上會提早到。若客戶同意 會建議行程微調 避開人潮。 
+### CONS:
+司機比較不愛幫拍照 像是天堂之門排隊一小時 中間做了幾個跳躍的動作 結果拍得很差不然就是沒拍到。車子冷氣不是很強。
 ### Price Include :
 - Private Car with Good AC Condition
 - English Speaking Driver
@@ -116,6 +120,5 @@
 - Entrance fee to all site based on itinerary
 - Airport Pick up upon arrival
 - Airport Transfer upon Departure
-### [BALI TOUR PACKAGES 5 DAYS AND 4 NIGHTS TOURS](http://www.baligoldentour.com/bali-tour-packages-5-days-4-nights.php)
 
 ### End
