@@ -7,22 +7,24 @@
 - Basically breaking down a big task into smaller ones.
 - By doing this just a couple of times, it will actually start to feel good to read. 
 - your brain will start to associate it with something very pleasurable. 
+- Besides that guys, stay tuned. 保持聯絡
+- After an exhausting day, you brush your teeth, get into your Zelda themed pajamas, snuggle up in bed, turn the lights off and then... 經歷了疲憊的一天，你刷刷牙，穿上你的薩爾達睡衣，爬上舒服的床後，你關了燈 
+- 
+
 
 ### 
-- broadcasting to the masses.
+- broadcasting to the masses. 
 - set to debut 出場
-- Market retailers are accustomed to haggling.
-- To quote one energy guru: 
+- Market retailers are accustomed to haggling. 習慣於討價還價
+- To quote one energy guru: 引用一位能源大師的話
 - Financial services and banking will be overwhelmingly driven by AI. 
 - Fossil fuels have become the new forbidden fruit. 
-- to buy a round means to buy a drink for everybody.
-- on the rocks, it means your drink on ice only. 
-
-### 
-- a straight up drink, there's nothing else in the glass, but it is a chilled drink. 
-- a drink neat means the drink is not chilled, and there is no ice. 
+- to buy a round means to buy a drink for everybody. 請一輪
+- on the rocks, it means your drink on ice only. 冰
+- a straight up drink, there's nothing else in the glass, but it is a chilled drink. 冰鎮
+- a drink neat means the drink is not chilled, and there is no ice. 純飲
 - tipsy from alcohol. 喝茫
-- call it a night means to decide, to finish at the bar, to go home. 
+- call it a night means to decide, to finish at the bar, to go home. 喝差不多了
 - feel sick to your stomach, you have a headache, your body is sore. 
 - And that's the way I intended it to be, 
 - So the moral of the story? 
