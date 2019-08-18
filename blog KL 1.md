@@ -34,9 +34,8 @@
 - [KL Sultan Ahmad Samad Building](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=KL+Sultan+Ahmad+Samad+Building)
 ![f5](https://github.com/HCH1/blog/blob/master/fig/kl5.png)
 
-- [Negara Malaysia Museum & Art Gallery](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Negara+Malaysia+Museum+&+Art+Gallery)
 - [Masjid Jamek of Kuala Lumpur](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Masjid+Jamek+of+Kuala+Lumpur)
-- [KL Holy Rosary Church](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=KL+Holy+Rosary+Church)
+![f6](https://github.com/HCH1/blog/blob/master/fig/kl6.png)
 
 ### food
 - [KL 姐妹鸡酒面](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=KL+姐妹鸡酒面)
@@ -57,8 +56,6 @@
 > aaa
 
 ### ref:
-### []()
 ### PROS:
 ### CONS:
-### 
 ### End
