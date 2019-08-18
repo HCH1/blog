@@ -1,4 +1,4 @@
-# 2019 Mount Rinjani 4 Days Climbing Expeditions:
+# Mount Rinjani Aik Berik Crater Rim Trekking
 ![f1](https://github.com/HCH1/blog/blob/master/fig/rinjani1.jpg)
 
 - [Bali wiki](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Bali+wiki)
@@ -15,6 +15,64 @@
 - [Bali 美食](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Bali+美食)
 - [Bali 美景](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Bali+美景)
 - [My Instagram](https://www.instagram.com/redbox111)
+
+### Mount Rinjani Aik Berik Crater Rim located on 2.671 Meter above sea level. Your strenuous effort will be excellence rewarded by the breathtaking panoramic view of the Sunrise over the volcano with the summit of Rinjani as an idyllic backdrop on the horizon and the dazzling blue waters of Segara Anak glistening hundreds of meters below.
+
+### Trip Highlights
+- Crater Lake and Summit Scenery
+- Rinjani Crater Rim
+- Sunrise
+- Flora and Fauna as you ascent and descent.
+
+### Trekking Descriptions
+- This fully organised private trekking package is designed for trekkers or climbers who wish to experience difference trekking to Mount Rinjani, we offer Crater Rim of Aik Berik. On this trekking trip you will ascent and descent on fairly good trek trail and you will awarded by the breathtaking panoramic view on ascent and descent on trek trail. from crater Rim can see on the horizon and the dazzling blue waters of Segara Anak glistening hundreds of meters below includes the summit view from Aik Berik Crater Rim. This Rinjani trekking package is highly recommended for those who wish to keep fit during holiday. This trekking tour takes 3 days and 2 night trip and will give you great trekking experience on one of the best ecotourism destination in South East Asia.
+
+### Day 1 : Hotel – Jebak Gawah – Base Camp I, II & III
+- Pick up from your hotel at 6 am, by Air Conditioned vehicle to TNGR Aik Berik, arrive at Aik Berik, then register at National Park office. Take a short briefing for trekking then start walking from National Park gate to Jebak Gawah for around 25 minutes, banana forest will cover you along the way to Jebak Gawah. From Jebak Gawah to pos 1 takes 2 hours walking up through the rain forest, rest point available along the way to pos 2, passing through rain forest will also give you experience during gentle walk to pos 2. From pos 2 to pos 3, you will pass 3 hours walking up through savanna while enjoy the beauty of Kondo hill that line next to you, monkey and wild animals also would be another attraction during your way to pos 3. Arrive at post 3 then overnight. Enjoy the night with bonfire while enjoy your dinner that have been well prepared by our team, complete the joyful night with a cup of tea or coffee.
+
+> 早上6点从酒店出发，乘坐空调车到TNGR Aik Berik，到达Aik Berik，然后在国家公园办公室登记。先简单介绍一下徒步旅行的情况，然后从国家公园大门步行到杰巴克加瓦，大约25分钟，一路上香蕉林会覆盖你。
+
+> 从Jebak Gawah到pos 1需要步行2个小时穿过雨林，沿途可以到达pos 2的休息点，穿过雨林也会让你在漫步到pos 2的过程中获得体验。
+
+> 从pos 2到pos 3，你将在热带草原上步行3个小时，同时欣赏旁边的近藤山的美景，猴子和野生动物也将是你前往pos 3的另一个吸引人的地方。然后连夜到达3号邮局。在享受我们团队精心准备的晚餐的同时，用一杯茶或咖啡来结束这个快乐的夜晚。
+
+### Day 2 : Post III – Post IV – Pelawangan
+- After breakfast and coffee time, start walking up to Pelawangan, along the way to Pelawangan you will pass through pos 4, stepping a challenging trail starts from pos 3 to pos 4 for 2 hours until you get a gentle footstep, along the way you can see waterfall that fall around 1 km from your stand point, beating a challenging trail to pos 4 will blow your adrenaline to pass through. Taking a rest at pos 4 and continue walk to pelawangan for overnight. When you arrive at Pelawangan, all your effort will be paid by the wonderful view at crater rim, with sweeping views across the Segara Anak lake to the summit of Mt. Rinjani, within the crater, beautifully sits Mt. Baru Jari that continuing active until now and sometimes erupting, misty cloud will also impress your moment. Overnight at Pelawangan, a served dinner, coffee or tea will accompany your wonderful night at crater, play the night with bonfire to frame the moment. Take a rest for tomorrow’s sunrise.
+
+> 早餐和咖啡时间后,开始走到Pelawangan,一路上Pelawangan你将通过pos 4步进一个具有挑战性的小道从pos 3 - pos 4 2小时,直到你得到一个温柔的脚步,沿途可以看到瀑布,从你的角度大约1公里,击败一个具有挑战性的小道pos 4会打击你的肾上腺素通过。
+
+> 在四号检查站休息，然后继续步行到佩拉旺甘过夜。当你到达Pelawangan,你所有的努力将会支付在火山口边缘的视图,以全面的观点Segara赶出亚衲族湖太润加尼山的顶峰,在火山口内,漂亮太。巴鲁Jari,直到现在,有时喷发持续活跃,雾云也会打动你的时刻。
+
+> 在Pelawangan过夜，一顿丰盛的晚餐，咖啡或茶将伴随你在火山口度过一个美妙的夜晚，在篝火的映衬下玩上一晚。为明天的日出休息一下。
+
+### Day 3 : Pelawangan, Basecamp IV, III, II, I – Jebak Gawah – Hotel
+- Your guide will wake you up at proper time for sunrise while enjoy morning coffee at crater rim as a memorable moment to frame. After enjoy the view then enjoy breakfast that have been served for you, after breakfast then descent down to Aik Berik village through challenging footstep and back into the shade of the rain forest. After about seven to eight hours (depend on your speed) walking from the rim, the trek ends at Rinjani Trek Centre at the road head to Aik Berik gate and transfer back to your hotel by our private car.
+
+> 你的导游会在日出的适当时间叫醒你，同时在火山口边缘享受早晨的咖啡，这是一个难忘的时刻。
+
+> 欣赏完美景后，享用早餐，早餐后，通过富有挑战性的步行下山到Aik Berik村，回到热带雨林的阴影中。大约7到8个小时后(取决于你的速度)步行从边缘，徒步结束在林贾尼崔克中心在路的头Aik Berik门和转移回您的酒店乘坐我们的私家车。
+
+### Pick Up
+- Hotel in Senggigi / Mataram Area
+
+### Drop Off
+- Hotel in Senggigi, Mataram Area or Bangsal Harbor
+
+### Inclusions
+- Way and return transfer to Rinjani National Park
+- Experienced guide and porter on trek
+- All trekking equipment (tent, sleeping bag, airbed mattress, toilet tent and all cutlery )
+- Full board meals on trek
+- Unlimited water consumption on the trek
+- National park entrance fee
+
+### ref:
+### []()
+### PROS:
+### CONS:
+### 
+### End
+
 
 ### 
 - Mount Rinjani expeditions taking 4 days trip to explorer Crater Rim, Summit, crater Lake, cave and Hot spring on fully private guided and organised trekking trip.
