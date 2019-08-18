@@ -21,16 +21,30 @@
 - [KLCC Park](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=KLCC+Park)
 - [KL Tower](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=KL+Tower)
 - [Broga Hill 1st Hilltop](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Broga+Hill+1st+Hilltop)
+- [KL HELI LOUNGE BAR](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=KL+HELI+LOUNGE+BAR)
+> Saturday 5pm–2am
+
 - [KL Putra Mosque](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=KL+Putra+Mosque)
+> Saturday-Thursday: 9am-12.30pm, 2-4pm, 5.30-6pm
+
 ![f2](https://github.com/HCH1/blog/blob/master/fig/kl2.png)
 
 - [KL Astaka Morocco](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=KL+Astaka+Morocco)
+> Friday	9am–12pm, 2–5pm
+
+> Saturday 9am–12pm 2–5pm
+
+> Sunday	9am–12pm, 2–5pm
+
+> Monday	9am–12pm, 2–5pm
+
 ![f3](https://github.com/HCH1/blog/blob/master/fig/kl3.png)
 
 - [KL Wilayah Mosque](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=KL+Wilayah+Mosque)
+> Mon – Sun 09:00 – 12:00, 15:00 – 16:00 & 17:30 – 18:30
+
 ![f4](https://github.com/HCH1/blog/blob/master/fig/kl4.png)
 
-- [KL HELI LOUNGE BAR](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=KL+HELI+LOUNGE+BAR)
 - [KL Sultan Ahmad Samad Building](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=KL+Sultan+Ahmad+Samad+Building)
 ![f5](https://github.com/HCH1/blog/blob/master/fig/kl5.png)
 
