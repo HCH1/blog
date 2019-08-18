@@ -30,13 +30,7 @@
 ![f2](https://github.com/HCH1/blog/blob/master/fig/kl2.png)
 
 - [KL Astaka Morocco](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=KL+Astaka+Morocco)
-> Friday	9am–12pm, 2–5pm
-
-> Saturday 9am–12pm 2–5pm
-
-> Sunday	9am–12pm, 2–5pm
-
-> Monday	9am–12pm, 2–5pm
+> Friday - Monday	9am–12pm, 2–5pm
 
 ![f3](https://github.com/HCH1/blog/blob/master/fig/kl3.png)
 
