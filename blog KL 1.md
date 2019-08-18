@@ -40,27 +40,43 @@
 ![f4](https://github.com/HCH1/blog/blob/master/fig/kl4.png)
 
 - [KL Sultan Ahmad Samad Building](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=KL+Sultan+Ahmad+Samad+Building)
+> 24hrs
+
 ![f5](https://github.com/HCH1/blog/blob/master/fig/kl5.png)
 
 - [Masjid Jamek of Kuala Lumpur](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Masjid+Jamek+of+Kuala+Lumpur)
+> 24hrs
+
 ![f6](https://github.com/HCH1/blog/blob/master/fig/kl6.png)
 
 ### food
 - [KL 姐妹鸡酒面](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=KL+姐妹鸡酒面)
+> other days	7am–4pm
+
+> Monday	Closed
+
 ![ff1](https://github.com/HCH1/blog/blob/master/fig/kl%20f1.png)
 
 - [KL 牛记牛腩牛肉丸粉](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=KL+牛记牛腩牛肉丸粉)
+> other days	4pm–3am
+
+> Tuesday	Closed
+
 ![ff2](https://github.com/HCH1/blog/blob/master/fig/kl%20f2.png)
 
 - [KL 四眼仔 鸭脚包&特制咸鸭 (Sei Garn Zai Duck)](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=KL+四眼仔+鸭脚包&特制咸鸭+(Sei+Garn+Zai+Duck))
+> other days 6am–4pm
+Monday	Closed
+
 ![ff3](https://github.com/HCH1/blog/blob/master/fig/kl%20f3.png)
 
 - [KL 燕美巴剎 (ICC PUDU) ](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=KL+燕美巴剎+(ICC+PUDU)+)
 ![ff4](https://github.com/HCH1/blog/blob/master/fig/kl%20f4.png)
+> other days	6am–2pm
+> Monday	Closed
 
 ### Day 1: 
 - aaa
-
 > aaa
 
 ### ref:
