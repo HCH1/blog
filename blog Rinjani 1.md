@@ -16,7 +16,7 @@
 - [Bali 美景](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Bali+美景)
 - [My Instagram](https://www.instagram.com/redbox111)
 
-### Mount Rinjani Aik Berik Crater Rim located on 2.671 Meter above sea level. Your strenuous effort will be excellence rewarded by the breathtaking panoramic view of the Sunrise over the volcano with the summit of Rinjani as an idyllic backdrop on the horizon and the dazzling blue waters of Segara Anak glistening hundreds of meters below.
+- Mount Rinjani Aik Berik Crater Rim located on 2.671 Meter above sea level. Your strenuous effort will be excellence rewarded by the breathtaking panoramic view of the Sunrise over the volcano with the summit of Rinjani as an idyllic backdrop on the horizon and the dazzling blue waters of Segara Anak glistening hundreds of meters below.
 
 ### Trip Highlights
 - Crater Lake and Summit Scenery
