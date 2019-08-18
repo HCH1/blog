@@ -1,5 +1,5 @@
 # 2019 Mount Rinjani 4 Days Climbing Expeditions:
-![f1](https://github.com/HCH1/blog/blob/master/fig/rinjani1.png)
+![f1](https://github.com/HCH1/blog/blob/master/fig/rinjani1.pjpg)
 
 - [Bali wiki](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Bali+wiki)
 - [Bali 簽證](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Bali+簽證)
