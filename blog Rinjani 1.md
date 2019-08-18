@@ -1,5 +1,5 @@
 # 2019 Mount Rinjani 4 Days Climbing Expeditions:
-![f1](https://github.com/HCH1/blog/blob/master/fig/rinjani1.pjpg)
+![f1](https://github.com/HCH1/blog/blob/master/fig/rinjani1.jpg)
 
 - [Bali wiki](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Bali+wiki)
 - [Bali 簽證](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Bali+簽證)
@@ -28,7 +28,7 @@
 - This trekking package is designed for real trekker or who has experienced on mountain climbing/trekking. The participants must be at good level of fitness, this package is not recommended for beginners. The trekking start from Sembalun North of Rinjani end in Senaru south of Rinjani. This take 4 days 3 nights trekking trip.
 
 ### Day 1: Hotel – Sembalun Lawang to Pelawangan II (2700m)
-![f2](https://github.com/HCH1/blog/blob/master/fig/rinjani2.png)
+![f2](https://github.com/HCH1/blog/blob/master/fig/rinjani2.jpg)
 - Our guide will pick you up at hotel lobby at 06.00 AM then transfer you to Sembalun. Register at the Rinjani Information Center (RIC) in Sembalun Lawang, meet your guide and arrange National Park entry tickets. Your guide will give you briefing for the route details, about what local culture traditions and what you might to go for and see during the trekking, and will be explained about rubbish management and safety procedures. The trek starts from Sembalun Lawang (1156m) with the gentle ascent walking through open grassland used as cattle grazing by local people. Resting at Pos 1 Pemantauan (1,300), after around three hours from Sembalun we reach Pos 2 Tengengean (1,500 m), enjoy the beautiful views of Mt. Rinjani summit (3,726 m). After another hours ascent to Pos 3 Pada Balong (1,800 m), we start the step 3,5 climb amidst the pine-like Casuarinas species locally known as Cemara, perhaps seeing evidence of wild pigs and the long-tailed grey macaque monkeys to the camp site at Plawangan II Sembalun crater rim (2,700m).
 
 - Sembalun Lawang (1156m)
