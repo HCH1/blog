@@ -22,12 +22,18 @@
 - [KL Tower](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=KL+Tower)
 - [Broga Hill 1st Hilltop](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Broga+Hill+1st+Hilltop)
 - [KL Putra Mosque](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=KL+Putra+Mosque)
+![f2](https://github.com/HCH1/blog/blob/master/fig/kl2.png)
+
 - [KL Astaka Morocco](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=KL+Astaka+Morocco)
+![f3](https://github.com/HCH1/blog/blob/master/fig/kl3.png)
+
 - [KL Wilayah Mosque](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=KL+Wilayah+Mosque)
+![f4](https://github.com/HCH1/blog/blob/master/fig/kl4.png)
+
 - [KL HELI LOUNGE BAR](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=KL+HELI+LOUNGE+BAR)
 - [KL Sultan Ahmad Samad Building](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=KL+Sultan+Ahmad+Samad+Building)
-- []()
-- [](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=)
+![f5](https://github.com/HCH1/blog/blob/master/fig/kl5.png)
+
 - [Negara Malaysia Museum & Art Gallery](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Negara+Malaysia+Museum+&+Art+Gallery)
 - [Masjid Jamek of Kuala Lumpur](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Masjid+Jamek+of+Kuala+Lumpur)
 - [KL Holy Rosary Church](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=KL+Holy+Rosary+Church)
@@ -37,13 +43,10 @@
 - [KL 四眼仔 鸭脚包&特制咸鸭 (Sei Garn Zai Duck)](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=KL+四眼仔+鸭脚包&特制咸鸭+(Sei+Garn+Zai+Duck))
 - [KL 燕美巴剎 (ICC PUDU) ](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=KL+燕美巴剎+(ICC+PUDU)+)
 
-### Trekking Descriptions
-- This fully organised private trekking package is designed for trekkers or climbers who wish to experience difference trekking to Mount Rinjani, we offer Crater Rim of Aik Berik. On this trekking trip you will ascent and descent on fairly good trek trail and you will awarded by the breathtaking panoramic view on ascent and descent on trek trail. from crater Rim can see on the horizon and the dazzling blue waters of Segara Anak glistening hundreds of meters below includes the summit view from Aik Berik Crater Rim. This Rinjani trekking package is highly recommended for those who wish to keep fit during holiday. This trekking tour takes 3 days and 2 night trip and will give you great trekking experience on one of the best ecotourism destination in South East Asia.
+### Day 1: 
+- aaa
 
-### Day 1 : Hotel – Jebak Gawah – Base Camp I, II & III
-- Pick up from your hotel at 6 am, by Air Conditioned vehicle to TNGR Aik Berik, arrive at Aik Berik, then register at National Park office. Take a short briefing for trekking then start walking from National Park gate to Jebak Gawah for around 25 minutes, banana forest will cover you along the way to Jebak Gawah. From Jebak Gawah to pos 1 takes 2 hours walking up through the rain forest, rest point available along the way to pos 2, passing through rain forest will also give you experience during gentle walk to pos 2. From pos 2 to pos 3, you will pass 3 hours walking up through savanna while enjoy the beauty of Kondo hill that line next to you, monkey and wild animals also would be another attraction during your way to pos 3. Arrive at post 3 then overnight. Enjoy the night with bonfire while enjoy your dinner that have been well prepared by our team, complete the joyful night with a cup of tea or coffee.
-
-> 
+> aaa
 
 ### ref:
 ### []()
