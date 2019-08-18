@@ -1,5 +1,5 @@
 # Mount Rinjani Aik Berik Crater Rim Trekking
-![f1](https://github.com/HCH1/blog/blob/master/fig/rinjani1.jpg)
+![f2](https://github.com/HCH1/blog/blob/master/fig/rinjani2.jpg)
 
 - [Bali wiki](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Bali+wiki)
 - [Bali 簽證](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Bali+簽證)
