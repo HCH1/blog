@@ -50,6 +50,13 @@
 ![f6](https://github.com/HCH1/blog/blob/master/fig/kl6.png)
 
 ### food
+- [KL Ah Hei Bak Kut Teh 阿喜肉骨茶](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=KL+Ah+Hei+Bak+Kut+Teh)
+> other days	6am–2pm
+
+> Wed	Closed
+
+![ff5](https://github.com/HCH1/blog/blob/master/fig/kl%20f5.png)
+
 - [KL 姐妹鸡酒面](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=KL+姐妹鸡酒面)
 > other days	7am–4pm
 
