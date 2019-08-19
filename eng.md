@@ -3,14 +3,19 @@
 ![f1](https://github.com/HCH1/blog/blob/master/fig/)
 
 ### 
+https://tw.voicetube.com/videos/78050?ref=new
+- most important meal of the day but not everybody wakes up with an appetite. 啊坡太
+- Instead of just giving you one quick peak and then a crash later on, and sometimes get into that "hangry" state that we all know about. 
+- Pretty cool fact. 冷知識
+
+
+### 
 - we all know that people who read succeed. 
 - Basically breaking down a big task into smaller ones.
 - By doing this just a couple of times, it will actually start to feel good to read. 
 - your brain will start to associate it with something very pleasurable. 
 - Besides that guys, stay tuned. 保持聯絡
 - After an exhausting day, you brush your teeth, get into your Zelda themed pajamas, snuggle up in bed, turn the lights off and then... 經歷了疲憊的一天，你刷刷牙，穿上你的薩爾達睡衣，爬上舒服的床後，你關了燈 
-- 
-
 
 ### 
 - broadcasting to the masses. 
