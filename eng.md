@@ -1,6 +1,6 @@
 # [voicetube](https://tw.voicetube.com/?ref=logo)
-
 ![f1](https://github.com/HCH1/blog/blob/master/fig/)
+#
 
 ### 
 https://tw.voicetube.com/videos/78050?ref=new
@@ -8,6 +8,25 @@ https://tw.voicetube.com/videos/78050?ref=new
 - Instead of just giving you one quick peak and then a crash later on, and sometimes get into that "hangry" state that we all know about. 
 - Pretty cool fact. 冷知識
 
+https://tw.voicetube.com/videos/78069?ref=new
+- Sitting all day might actually be killing you. 
+
+https://tw.voicetube.com/videos/77437?ref=new
+- Hey, how you doing, Joe? 
+- I'm doing great. 
+- Two hours every second day, I'd say. 
+- Dream big. You know, sometimes we don't dream big enough that it's possible because we think there is barriers and stuff. 
+- You gotta go for it and do it full on. 
+- What TV show are you obsessed with at the moment?
+- What do you do on your off days? 
+- Patience and snuggling again. 
+- but we always have space for one more. 
+- I tell you that. 
+- I can imagine. 
+- Here we go. After you. 
+- This is so cool. 
+- I feel like strokes are maybe more talent involved. 
+- that concludes the interview and I'm gonna leave with a message from a special guest. 
 
 ### 
 - we all know that people who read succeed. 
