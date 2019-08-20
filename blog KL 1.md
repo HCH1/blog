@@ -16,12 +16,17 @@
 - [KL 美景](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=KL+美景)
 - [My Instagram](https://www.instagram.com/redbox111)
 ### plan:
-- Fri AM: flight
-- PM: 清真寺
-- Sat AM: sunrise 
-- PM: night market
-- Sun AM: fly back
-- PM: 
+> Fri AM: flight
+
+> PM: 清真寺
+
+> Sat AM: sunrise 
+
+> PM: night market
+
+> Sun AM: fly back
+
+> PM: 
 
 ### sightseeing
 - [Petronas Twin Towers](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Petronas+Twin+Towers)
