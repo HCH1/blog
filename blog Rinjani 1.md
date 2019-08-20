@@ -24,6 +24,8 @@
 - []()
 - []()
 - https://adventure-lombok.com/mount-rinjani/aik-berik-trekking/
+- https://www.google.com/maps/d/u/0/viewer?mid=1XQ1m6LEJwab41SdqvqqzLl39zOQWI3Uw&ll=-8.432139201992964%2C116.42628301563741&z=12
+
 ### Trip Highlights
 - Crater Lake and Summit Scenery
 - Rinjani Crater Rim
