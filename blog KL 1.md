@@ -68,7 +68,8 @@ https://www.youtube.com/watch?v=PoJdtmT5688
 
 ### food
 
-- [blog coffee](https://klfoodie.com/10-instagrammable-garden-inspired-cafes-in-kl-pj-to-spice-up-your-feed/)
+- [coffee blog ref](https://klfoodie.com/10-instagrammable-garden-inspired-cafes-in-kl-pj-to-spice-up-your-feed/)
+- [food vedio ref](http://babyqueen32.pixnet.net/blog/post/172505415-%E9%A6%AC%E4%BE%86%E8%A5%BF%E4%BA%9E%E4%BA%BA%E9%83%BD%E6%8E%A8%E8%96%A6%E7%9A%84-%E5%90%89%E9%9A%86%E5%9D%A110%E5%A4%A7%E5%BF%85%E5%90%83%E7%BE%8E%E9%A3%9F)
 
 - [KL Ah Hei Bak Kut Teh 阿喜肉骨茶](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=KL+Ah+Hei+Bak+Kut+Teh)
 > other days	6am–2pm
