@@ -58,7 +58,7 @@
 
 ### food
 
-- [coffee](https://klfoodie.com/10-instagrammable-garden-inspired-cafes-in-kl-pj-to-spice-up-your-feed/)
+- [blog coffee](https://klfoodie.com/10-instagrammable-garden-inspired-cafes-in-kl-pj-to-spice-up-your-feed/)
 
 - [KL Ah Hei Bak Kut Teh 阿喜肉骨茶](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=KL+Ah+Hei+Bak+Kut+Teh)
 > other days	6am–2pm
