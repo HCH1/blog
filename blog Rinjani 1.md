@@ -23,8 +23,8 @@
 - [flights lombok to sin oct 28](https://www.google.com.sg/search?hl=zh-TW&authuser=1&ei=nKdbXdnEF4jXvgTcpI6ACA&q=flights+lombok+to+sin+oct+28&oq=flights+lombok+to+sin+oct+28&gs_l=psy-ab.3...40408.47957..48455...0.0..0.110.1035.13j1......0....1..gws-wiz.......35i39.Ue6wrq6SyFQ&ved=0ahUKEwjZgqjS_JDkAhWIq48KHVySA4AQ4dUDCAo&uact=5)
 - []()
 - []()
-- https://adventure-lombok.com/mount-rinjani/aik-berik-trekking/
-- https://www.google.com/maps/d/u/0/viewer?mid=1XQ1m6LEJwab41SdqvqqzLl39zOQWI3Uw&ll=-8.432139201992964%2C116.42628301563741&z=12
+- [adventure-lombok](https://adventure-lombok.com/mount-rinjani/aik-berik-trekking/)
+- [adventure-lombok map](https://www.google.com/maps/d/u/0/viewer?mid=1XQ1m6LEJwab41SdqvqqzLl39zOQWI3Uw&ll=-8.432139201992964%2C116.42628301563741&z=12)
 
 ### Trip Highlights
 - Crater Lake and Summit Scenery
