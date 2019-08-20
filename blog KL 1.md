@@ -31,6 +31,11 @@
 - [KL HELI LOUNGE BAR](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=KL+HELI+LOUNGE+BAR)
 > Saturday 5pm–2am
 
+- [KL Bukit Tabur](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=KL+Bukit+Tabur)
+https://www.youtube.com/watch?v=PoJdtmT5688
+
+![f7](https://github.com/HCH1/blog/blob/master/fig/kl7.JPG)
+
 - [KL Putra Mosque](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=KL+Putra+Mosque)
 > Saturday-Thursday: 9am-12.30pm, 2-4pm, 5.30-6pm
 
