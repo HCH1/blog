@@ -45,7 +45,8 @@
 - [Bukit Kutu](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Bukit+Kutu)
 ![f9](https://github.com/HCH1/blog/blob/master/fig/kl9.JPG)
 
-- [[closed] KL Bukit Tabur](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=KL+Bukit+Tabur)
+- [[closed] Bukit Tabur](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Bukit+Tabur)
+
 https://www.youtube.com/watch?v=PoJdtmT5688
 
 ![f7](https://github.com/HCH1/blog/blob/master/fig/kl7.JPG)
