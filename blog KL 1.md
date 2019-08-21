@@ -42,6 +42,8 @@
 - [Broga Hill 1st Hilltop](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Broga+Hill+1st+Hilltop)
 ![f8](https://github.com/HCH1/blog/blob/master/fig/kl8.JPG)
 
+https://chasingplaces.com/climbing-broga-hill-kampung-broga-malaysia/
+
 - [[difficult] Bukit Kutu](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Bukit+Kutu)
 ![f9](https://github.com/HCH1/blog/blob/master/fig/kl9.JPG)
 
