@@ -111,6 +111,9 @@ Monday	Closed
 > other days	6am–2pm
 > Monday	Closed
 
+- [kl Chocha Foodstore](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=KL+Chocha+Foodstore)
+
+
 ### Day 1: 
 - aaa
 > aaa
