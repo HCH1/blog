@@ -37,11 +37,15 @@
 - [Petronas Twin Towers](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Petronas+Twin+Towers)
 - [KLCC Park](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=KLCC+Park)
 - [KL Tower](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=KL+Tower)
-- [Broga Hill 1st Hilltop](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Broga+Hill+1st+Hilltop)
 - [KL HELI LOUNGE BAR](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=KL+HELI+LOUNGE+BAR)
 > Saturday 5pm–2am
+- [Broga Hill 1st Hilltop](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Broga+Hill+1st+Hilltop)
+![f8](https://github.com/HCH1/blog/blob/master/fig/kl8.JPG)
 
-- [KL Bukit Tabur](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=KL+Bukit+Tabur)
+- [Bukit Kutu](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Bukit+Kutu)
+![f9](https://github.com/HCH1/blog/blob/master/fig/kl9.JPG)
+
+- closed [KL Bukit Tabur](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=KL+Bukit+Tabur)
 https://www.youtube.com/watch?v=PoJdtmT5688
 
 ![f7](https://github.com/HCH1/blog/blob/master/fig/kl7.JPG)
