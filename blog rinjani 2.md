@@ -1,5 +1,5 @@
 # 2 Days 1 Night to Crater Rim
-![f2](https://github.com/HCH1/blog/blob/master/fig/rinjani2.jpg)
+![f2](https://github.com/HCH1/blog/blob/master/fig/.jpg)
 
 - [Bali wiki](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Bali+wiki)
 - [Bali 簽證](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Bali+簽證)
@@ -45,27 +45,27 @@ Our guide will pick you up at hotel lobby at 06.30 AM then transfer and Register
 
 ### Price includes of Mount Rinjani
 
-Pick up and transfers
-A night accommodation in Senaru
-Trekking guide Porters
-Foods and drinking water on the trek,
-Tent, toilet tent, sleeping bags, and mattress
-Entrance fee for the national park
+- Pick up and transfers
+- A night accommodation in Senaru
+- Trekking guide Porters
+- Foods and drinking water on the trek,
+- Tent, toilet tent, sleeping bags, and mattress
+- Entrance fee for the national park
 
 ### Price excludes of Mount Rinjani
 
-Head lamp /hand torch (summit)
-Small bag pack/daily pack
-Trekking shoes
-Digital camera and Handy cam
-Trekking jacket
-Extra porter for own luggage
-Long pants/trousers
-Short Pans for nature sauna
-Any Personal Medicine
-Small Towel
-Plantation Seeds for your Green protection help
-Tips for guide and porters
+- Head lamp /hand torch (summit)
+- Small bag pack/daily pack
+- Trekking shoes
+- Digital camera and Handy cam
+- Trekking jacket
+- Extra porter for own luggage
+- Long pants/trousers
+- Short Pans for nature sauna
+- Any Personal Medicine
+- Small Towel
+- Plantation Seeds for your Green protection help
+- Tips for guide and porters
 
 ### ref:
 ### []()
