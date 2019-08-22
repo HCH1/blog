@@ -25,6 +25,8 @@
 
 - [flights lombok to sin oct 28](https://www.google.com.sg/search?hl=zh-TW&authuser=1&ei=nKdbXdnEF4jXvgTcpI6ACA&q=flights+lombok+to+sin+oct+28&oq=flights+lombok+to+sin+oct+28&gs_l=psy-ab.3...40408.47957..48455...0.0..0.110.1035.13j1......0....1..gws-wiz.......35i39.Ue6wrq6SyFQ&ved=0ahUKEwjZgqjS_JDkAhWIq48KHVySA4AQ4dUDCAo&uact=5)
 
+- [flights bali to sin oct 28](https://www.google.com.tw/search?ei=d6leXeWYDuTdz7sPvYakyAs&q=flights+bali+to+sin+oct+28&oq=flights+bali+to+sin+oct+28&gs_l=psy-ab.3..33i160l3.4930.4930..5270...0.0..0.146.146.0j1......0....2j1..gws-wiz.KorVAkB_N-8&ved=0ahUKEwilsN7q2pbkAhXk7nMBHT0DCbkQ4dUDCAo&uact=5)
+
 - []()
 - []()
 - [adventure-lombok](https://adventure-lombok.com/mount-rinjani/aik-berik-trekking/)
