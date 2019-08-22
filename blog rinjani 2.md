@@ -1,5 +1,5 @@
-# 2 Days 1 Night to Crater Rim
-![f2](https://github.com/HCH1/blog/blob/master/fig/.jpg)
+# Rinjani 2 Days 1 Night to Crater Rim
+![f2](https://github.com/HCH1/blog/blob/master/fig/rinjani3.png)
 
 - [Bali wiki](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Bali+wiki)
 - [Bali 簽證](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Bali+簽證)
