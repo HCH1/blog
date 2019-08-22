@@ -37,7 +37,7 @@ Oct-28 一：
 
 ### flights
 
-- [flights sin to bali oct 24](hhttps://www.google.com.sg/flights?hl=zh-TW&authuser=1&lite=0#flt=/m/06t2t.DPS.2019-10-24;c:SGD;e:1;sd:1;t:f;tt:o)
+- [flights sin to bali oct 24](https://www.google.com.sg/flights?hl=zh-TW&authuser=1&lite=0#flt=/m/06t2t.DPS.2019-10-24;c:SGD;e:1;sd:1;t:f;tt:o)
 
 - [flights bali to lombok oct 24](https://www.google.com.sg/flights?hl=zh-TW&authuser=1&lite=0#flt=DPS.LOP.2019-10-24;c:SGD;e:1;sd:1;t:f;tt:o)
 
