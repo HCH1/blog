@@ -18,8 +18,13 @@
 
 ###
 - [flights sin to bali oct 24](https://www.google.com.sg/search?hl=zh-TW&authuser=1&ei=cqhbXc-YCortvgSPsa6AAQ&q=flights+sin+to+bali+oct+24&oq=flights+sin+to+bali+oct+24&gs_l=psy-ab.3...6639.14493..14691...0.0..0.95.798.13......0....2j1..gws-wiz.......35i39j35i304i39.sL3g_HiD0Qg&ved=0ahUKEwjPmaC4_ZDkAhWKto8KHY-YCxAQ4dUDCAo&uact=5)
+
 - [flights bali to lombok oct 24](https://www.google.com.sg/search?hl=zh-TW&authuser=1&ei=L6dbXfK7BIrlvgTi4qiQDA&q=flights+bali+to+lombok+oct+24&oq=flights+bali+to+lombok+oct+24&gs_l=psy-ab.3..35i39l2.3585.3585..4224...0.0..0.46.46.1......0....1..gws-wiz.ITniHFdleXk&ved=0ahUKEwiyj5ie_JDkAhWKso8KHWIxCsIQ4dUDCAo&uact=5)
+
+- [flights lombok to bali oct 26](https://www.google.com.tw/search?source=hp&ei=HaleXZK1OuLZz7sP5MeEyAk&q=flights+lombok+to+bali+oct+26&oq=flights+lombok+to+bali+oct+26&gs_l=psy-ab.3...2136.2136..2687...0.0..0.268.411.0j1j1......0....2j1..gws-wiz.....10..35i39.bogN6bxXov8&ved=0ahUKEwjSt5XA2pbkAhXi7HMBHeQjAZkQ4dUDCAU&uact=5)
+
 - [flights lombok to sin oct 28](https://www.google.com.sg/search?hl=zh-TW&authuser=1&ei=nKdbXdnEF4jXvgTcpI6ACA&q=flights+lombok+to+sin+oct+28&oq=flights+lombok+to+sin+oct+28&gs_l=psy-ab.3...40408.47957..48455...0.0..0.110.1035.13j1......0....1..gws-wiz.......35i39.Ue6wrq6SyFQ&ved=0ahUKEwjZgqjS_JDkAhWIq48KHVySA4AQ4dUDCAo&uact=5)
+
 - []()
 - []()
 - [adventure-lombok](https://adventure-lombok.com/mount-rinjani/aik-berik-trekking/)
