@@ -27,6 +27,9 @@
 
 ### rinjani
 http://hallotrekker.com/category/rinjani-trekking-packages/trekking-via-senaru/
+
+blog:
+
 https://girleatworld.net/mount-rinjani-trekking-guide/
 
 ### rinjani
@@ -47,7 +50,11 @@ https://girleatworld.net/mount-rinjani-trekking-guide/
 - 01:47pm	Arrive at Entrance of Mount Rinjani National Park
 - 02:15pm	Arrive back at Senaru
 ### backup batur 
+blog:
+
 https://girleatworld.net/mount-batur-bali-sunrise-trek/
+
+http://www.baligoldentour.com/bali-trekking-mount-batur-tour.php
 
 Mount Batur Sunrise Trek Overview
 Our trek schedule went roughly like this:
