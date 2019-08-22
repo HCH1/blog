@@ -67,6 +67,10 @@ http://hallotrekker.com/category/rinjani-trekking-packages/trekking-via-senaru/
 
 blog:
 https://girleatworld.net/mount-rinjani-trekking-guide/
+
+map:
+https://www.google.com/maps/d/viewer?mid=1XQ1m6LEJwab41SdqvqqzLl39zOQWI3Uw&ll=-8.419324533174773%2C116.38571026060379&z=12
+
 ### rinjani
 - Day 1 – The climb (9.5 hours)
 - 08:00am	Start Trek from Senaru
