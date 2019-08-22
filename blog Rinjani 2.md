@@ -62,12 +62,11 @@ Oct-28 一：
 - [adventure-lombok map](https://www.google.com/maps/d/u/0/viewer?mid=1XQ1m6LEJwab41SdqvqqzLl39zOQWI3Uw&ll=-8.432139201992964%2C116.42628301563741&z=12)
 
 ### rinjani
+agency:
 http://hallotrekker.com/category/rinjani-trekking-packages/trekking-via-senaru/
 
 blog:
-
 https://girleatworld.net/mount-rinjani-trekking-guide/
-
 ### rinjani
 - Day 1 – The climb (9.5 hours)
 - 08:00am	Start Trek from Senaru
@@ -86,10 +85,10 @@ https://girleatworld.net/mount-rinjani-trekking-guide/
 - 01:47pm	Arrive at Entrance of Mount Rinjani National Park
 - 02:15pm	Arrive back at Senaru
 ### backup batur 
-blog:
-
+blog 2:
 https://girleatworld.net/mount-batur-bali-sunrise-trek/
 
+agency 2:
 http://www.baligoldentour.com/bali-trekking-mount-batur-tour.php
 
 Mount Batur Sunrise Trek Overview
@@ -146,6 +145,17 @@ Our guide will pick you up at hotel lobby at 06.30 AM then transfer and Register
 - Tips for guide and porters
 
 ### ref:
+agent:
+http://hallotrekker.com/category/rinjani-trekking-packages/trekking-via-senaru/
+
+blog:
+https://girleatworld.net/mount-rinjani-trekking-guide/
+
+blog 2:
+https://girleatworld.net/mount-batur-bali-sunrise-trek/
+
+agency 2:
+http://www.baligoldentour.com/bali-trekking-mount-batur-tour.php
 ### []()
 ### PROS:
 ### CONS:
