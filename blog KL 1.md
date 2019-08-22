@@ -23,15 +23,21 @@
 ### plan:
 > Fri AM: flight
 
-> PM: 清真寺
+> PM: 清真寺 x2
 
-> Sat AM: sunrise 
+> 逛夜市 雙子星塔
 
-> PM: night market
+> Sat AM: Broga Hill sunrise (比象山簡單 一小時以內 但要早起)
 
-> Sun AM: fly back
+> 吃早午餐
 
-> PM: 
+> PM: 前吉隆坡高等法院 清真寺 
+
+> 逛夜市
+
+> Sun AM: 自由活動
+
+> PM: fly back
 
 ### sightseeing
 - [Petronas Twin Towers](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Petronas+Twin+Towers)
