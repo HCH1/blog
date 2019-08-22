@@ -1,0 +1,75 @@
+# 2 Days 1 Night to Crater Rim
+![f2](https://github.com/HCH1/blog/blob/master/fig/rinjani2.jpg)
+
+- [Bali wiki](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Bali+wiki)
+- [Bali 簽證](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Bali+簽證)
+- [Bali klook](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Bali+klook)
+
+- [google flights TPE to bali](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=google+flights+TPE+to+bali)
+- [twd to idr](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=twd+to+idr)
+- [google flights SIN to bali](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=google+flights+SIN+to+bali)
+- [sgd to idr](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sgd+to+idr)
+- [Bali 天氣](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Bali+天氣)
+- [Bali 插頭](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Bali+插頭)
+- [Bali 伴手禮](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Bali+伴手禮)
+- [Bali 美食](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Bali+美食)
+- [Bali 美景](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Bali+美景)
+- [My Instagram](https://www.instagram.com/redbox111)
+
+###
+http://hallotrekker.com/category/rinjani-trekking-packages/trekking-via-senaru/
+
+- [flights sin to bali oct 24](https://www.google.com.sg/search?hl=zh-TW&authuser=1&ei=cqhbXc-YCortvgSPsa6AAQ&q=flights+sin+to+bali+oct+24&oq=flights+sin+to+bali+oct+24&gs_l=psy-ab.3...6639.14493..14691...0.0..0.95.798.13......0....2j1..gws-wiz.......35i39j35i304i39.sL3g_HiD0Qg&ved=0ahUKEwjPmaC4_ZDkAhWKto8KHY-YCxAQ4dUDCAo&uact=5)
+- [flights bali to lombok oct 24](https://www.google.com.sg/search?hl=zh-TW&authuser=1&ei=L6dbXfK7BIrlvgTi4qiQDA&q=flights+bali+to+lombok+oct+24&oq=flights+bali+to+lombok+oct+24&gs_l=psy-ab.3..35i39l2.3585.3585..4224...0.0..0.46.46.1......0....1..gws-wiz.ITniHFdleXk&ved=0ahUKEwiyj5ie_JDkAhWKso8KHWIxCsIQ4dUDCAo&uact=5)
+- [flights lombok to sin oct 28](https://www.google.com.sg/search?hl=zh-TW&authuser=1&ei=nKdbXdnEF4jXvgTcpI6ACA&q=flights+lombok+to+sin+oct+28&oq=flights+lombok+to+sin+oct+28&gs_l=psy-ab.3...40408.47957..48455...0.0..0.110.1035.13j1......0....1..gws-wiz.......35i39.Ue6wrq6SyFQ&ved=0ahUKEwjZgqjS_JDkAhWIq48KHVySA4AQ4dUDCAo&uact=5)
+- []()
+- []()
+- [adventure-lombok](https://adventure-lombok.com/mount-rinjani/aik-berik-trekking/)
+- [adventure-lombok map](https://www.google.com/maps/d/u/0/viewer?mid=1XQ1m6LEJwab41SdqvqqzLl39zOQWI3Uw&ll=-8.432139201992964%2C116.42628301563741&z=12)
+
+### Itinerary : This trek start and ending in Senaru Village
+
+### Day 0
+
+When you arrive at Lombok, no matter if it’s at the airport or by boat, our staff will come and pick you up and transfer you to our hotel and office in Senaru. Once you arrive in Senaru, you will meet our staff to complete your registration and do a short briefing with your guide. You will learn about the trekking procedure and get prepared for the trip. Arriving at the latest 1h before sunset, you can go see the Sindang Gile and Tiu Kelap Waterfall. Note: you can arrive the same day as the trekking. But we recommend you to come the day before and spend the night so there will be no delays.
+
+### Day 1
+
+Our guide will pick you up at hotel lobby at 06.30 AM then transfer and Register to Rinjani Information Center (RIC) in Senaru (601 m), meet your guide and arrange National Park entry tickets. The first hours of the trek climb steeply through thick tropical forest rich in flora, bird life and variety of butterflies. You might see orchid and if lucky, the rare black ebony leaf monkey, known locally as lutung. Rest stops are taken along the way, and at pos 2 Montong Satas shelter ( 1,500m ). Village stories and local legends are related by your guide. Features include the bayan tree bunut ngenkang that looks like someone standing with their legs apart, and the batu penyesalan stone.
+
+15.00 pm depart third post for Senaru Crater Rim (2,641 m) – walking approx 2,5 hours (afternoon break on the way). 17.30 pm onwards Dinner and overnight Base Camp at Senaru Crater Rim Camp. from the Crater Rim are sweeping views across the lake Segara Anak (2,00m) to the summit of Mt. Rinjani. Within the crater, Mt. Baru ( 2,351m) is an active, last erupting dramatically in 2009 On a clear evening the Gili Island, Spectacular Sunrise and Sunset, Bali and Mt. Agung can be seen to the west
+
+### Day 2
+
+06.30 am – 08.00 am Breakfast and Relaxing. After enjoying the views, descend down the trail down to senaru village through first grassland then back into the shade of the tropical forest. After about seven hours from the rim, the trek ends at Rinjani Information Center at the road head in Senaru, where the car is waiting to transfer you to the hotel and your next destination. End of Service
+
+### Price includes of Mount Rinjani
+
+Pick up and transfers
+A night accommodation in Senaru
+Trekking guide Porters
+Foods and drinking water on the trek,
+Tent, toilet tent, sleeping bags, and mattress
+Entrance fee for the national park
+
+### Price excludes of Mount Rinjani
+
+Head lamp /hand torch (summit)
+Small bag pack/daily pack
+Trekking shoes
+Digital camera and Handy cam
+Trekking jacket
+Extra porter for own luggage
+Long pants/trousers
+Short Pans for nature sauna
+Any Personal Medicine
+Small Towel
+Plantation Seeds for your Green protection help
+Tips for guide and porters
+
+### ref:
+### []()
+### PROS:
+### CONS:
+### 
+### End
