@@ -18,8 +18,10 @@
 
 ### timeline
 - Oct-24 四：
-> 7am SIN to Bali 
+> 7am SIN to Bali
+
 > 4pm Bali to Lombok
+
 > sleep
 
 - Oct-25 五：
@@ -27,14 +29,17 @@
 
 - Oct-26 六：
 > 7am - 2pm Rinjani
+
 > sleep
 
 - Oct-27 日：
 > 6am Lombok to Bali
+
 > sleep 
 
 Oct-28 一：
 > 2am - 5am - 10am Batur
+
 > pm Bali to SIN
 
 ### flights
