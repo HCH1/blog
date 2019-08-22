@@ -17,10 +17,6 @@
 - [My Instagram](https://www.instagram.com/redbox111)
 
 ###
-http://hallotrekker.com/category/rinjani-trekking-packages/trekking-via-senaru/
-
-https://girleatworld.net/mount-rinjani-trekking-guide/
-
 - [flights sin to bali oct 24](https://www.google.com.sg/search?hl=zh-TW&authuser=1&ei=cqhbXc-YCortvgSPsa6AAQ&q=flights+sin+to+bali+oct+24&oq=flights+sin+to+bali+oct+24&gs_l=psy-ab.3...6639.14493..14691...0.0..0.95.798.13......0....2j1..gws-wiz.......35i39j35i304i39.sL3g_HiD0Qg&ved=0ahUKEwjPmaC4_ZDkAhWKto8KHY-YCxAQ4dUDCAo&uact=5)
 - [flights bali to lombok oct 24](https://www.google.com.sg/search?hl=zh-TW&authuser=1&ei=L6dbXfK7BIrlvgTi4qiQDA&q=flights+bali+to+lombok+oct+24&oq=flights+bali+to+lombok+oct+24&gs_l=psy-ab.3..35i39l2.3585.3585..4224...0.0..0.46.46.1......0....1..gws-wiz.ITniHFdleXk&ved=0ahUKEwiyj5ie_JDkAhWKso8KHWIxCsIQ4dUDCAo&uact=5)
 - [flights lombok to sin oct 28](https://www.google.com.sg/search?hl=zh-TW&authuser=1&ei=nKdbXdnEF4jXvgTcpI6ACA&q=flights+lombok+to+sin+oct+28&oq=flights+lombok+to+sin+oct+28&gs_l=psy-ab.3...40408.47957..48455...0.0..0.110.1035.13j1......0....1..gws-wiz.......35i39.Ue6wrq6SyFQ&ved=0ahUKEwjZgqjS_JDkAhWIq48KHVySA4AQ4dUDCAo&uact=5)
@@ -28,6 +24,43 @@ https://girleatworld.net/mount-rinjani-trekking-guide/
 - []()
 - [adventure-lombok](https://adventure-lombok.com/mount-rinjani/aik-berik-trekking/)
 - [adventure-lombok map](https://www.google.com/maps/d/u/0/viewer?mid=1XQ1m6LEJwab41SdqvqqzLl39zOQWI3Uw&ll=-8.432139201992964%2C116.42628301563741&z=12)
+
+### rinjani
+http://hallotrekker.com/category/rinjani-trekking-packages/trekking-via-senaru/
+https://girleatworld.net/mount-rinjani-trekking-guide/
+
+### rinjani
+- Day 1 – The climb (9.5 hours)
+- 08:00am	Start Trek from Senaru
+- 08:30am	Arrive at Entrance of Mount Rinjani National Park
+- 09:11am	Arrive at Pos 1
+- 11:34am	Arrive at Pos 2 & Lunch
+- 02:55pm	Arrive at Pos 3
+- 05:30pm	Arrive at Crater Rim camp site
+### rinjani
+- Day 2 – The descent (6.5 hours)
+- 07:45am	Start Descending from the campsite
+- 09:06am	Arrive at Pos 3
+- 10:45am	Arrive at Pos 2
+- 11:53am	Arrive at Pos Extra & Lunch
+- 01:18pm	Arrive at Pos 1
+- 01:47pm	Arrive at Entrance of Mount Rinjani National Park
+- 02:15pm	Arrive back at Senaru
+### backup batur 
+https://girleatworld.net/mount-batur-bali-sunrise-trek/
+
+Mount Batur Sunrise Trek Overview
+Our trek schedule went roughly like this:
+
+- 02:00am	Pick up from our villa in Ubud
+- 04:00am	Start trek from Bali Sunrise Villas (1,000m elevation)
+- 04:30am	First break at a small warung
+- 04:50am	Halfway point water break
+- 05:17am	Third water break
+- 05:35am	Summit (1,717m elevation)
+- 07:55am	Start descending back down
+- 08:35am	Arrive back at Bali Sunrise Villas
+- 10:10am	Back at our villa in Ubud
 
 ### Itinerary : This trek start and ending in Senaru Village
 
