@@ -1,5 +1,11 @@
-# 2019 KL trip:
+# 2019 吉隆坡 KL trip:
 ![f1](https://github.com/HCH1/blog/blob/master/fig/kl1.png)
+
+##
+吉隆坡位在巴生河流域，東有蒂迪旺沙山脈為屏障，北方及南方有丘陵地環繞，西臨馬六甲海峽。吉隆坡的馬來語意指「泥濘河口」，即巴生河和鹅唛河的交會處。
+
+吉隆坡是馬來西亞华人的主要传统聚居地之一，以廣府人、閩南人和客家人為主，到1970年代时华人仍占吉隆坡人口的多数，现在华人约占该地区总人口的42%，为当地主要族裔之一。在吉隆坡土生土长的華人普遍地使用粤语作为日常社交和工商语，而標準華語一般則作為和来自非粤语地区的華人的沟通媒介，此外英語在白领工作领域廣泛地被使用，也是最重要的商业书信语文。吉隆坡也是馬來西亞數個以粵語為主導的城市之一，其他為怡保、关丹、芙蓉市、莎阿南、蒲種、梳邦再也、八打灵再也以及東馬的山打根。
+##
 
 - [KL wiki](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=KL+wiki)
 - [KL 簽證](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=KL+簽證)
@@ -119,12 +125,4 @@ Monday	Closed
 
 - [kl Chocha Foodstore](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=KL+Chocha+Foodstore)
 
-
-### Day 1: 
-- aaa
-> aaa
-
-### ref:
-### PROS:
-### CONS:
 ### End
