@@ -55,21 +55,17 @@ Oct-28 Mon：
 - [flights lombok to sin oct 28](https://www.google.com.sg/search?hl=zh-TW&authuser=1&ei=nKdbXdnEF4jXvgTcpI6ACA&q=flights+lombok+to+sin+oct+28&oq=flights+lombok+to+sin+oct+28&gs_l=psy-ab.3...40408.47957..48455...0.0..0.110.1035.13j1......0....1..gws-wiz.......35i39.Ue6wrq6SyFQ&ved=0ahUKEwjZgqjS_JDkAhWIq48KHVySA4AQ4dUDCAo&uact=5)
 
 - [flights bali to sin oct 28](https://www.google.com.tw/flights?lite=0#flt=DPS./m/06t2t.2019-10-28;c:SGD;e:1;sd:1;t:f;tt:o)
-
 - []()
+
+## ref
+- [hallotrekker](http://hallotrekker.com/category/rinjani-trekking-packages/trekking-via-senaru/)
+- [blog](https://girleatworld.net/mount-rinjani-trekking-guide/)
+- [map](https://www.google.com/maps/d/viewer?mid=1XQ1m6LEJwab41SdqvqqzLl39zOQWI3Uw&ll=-8.419324533174773%2C116.38571026060379&z=12)
+- [baligoldentour](http://www.baligoldentour.com/bali-trekking-mount-batur-tour.php)
+- [blog2](https://girleatworld.net/mount-batur-bali-sunrise-trek/)
 - []()
 - [adventure-lombok](https://adventure-lombok.com/mount-rinjani/aik-berik-trekking/)
 - [adventure-lombok map](https://www.google.com/maps/d/u/0/viewer?mid=1XQ1m6LEJwab41SdqvqqzLl39zOQWI3Uw&ll=-8.432139201992964%2C116.42628301563741&z=12)
-
-## Rinjani
-agency:
-http://hallotrekker.com/category/rinjani-trekking-packages/trekking-via-senaru/
-
-blog:
-https://girleatworld.net/mount-rinjani-trekking-guide/
-
-map:
-https://www.google.com/maps/d/viewer?mid=1XQ1m6LEJwab41SdqvqqzLl39zOQWI3Uw&ll=-8.419324533174773%2C116.38571026060379&z=12
 
 ## Rinjani
 - Day 1 – The climb (9.5 hours)
@@ -88,13 +84,8 @@ https://www.google.com/maps/d/viewer?mid=1XQ1m6LEJwab41SdqvqqzLl39zOQWI3Uw&ll=-8
 - 01:18pm	Arrive at Pos 1
 - 01:47pm	Arrive at Entrance of Mount Rinjani National Park
 - 02:15pm	Arrive back at Senaru
+
 ## Batur 
-blog 2:
-https://girleatworld.net/mount-batur-bali-sunrise-trek/
-
-agency 2:
-http://www.baligoldentour.com/bali-trekking-mount-batur-tour.php
-
 Mount Batur Sunrise Trek Overview
 Our trek schedule went roughly like this:
 
