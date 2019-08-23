@@ -30,7 +30,9 @@
 
 ## timeline
 - Oct-24 Thu：
-> 7am SIN to Bali
+> 5-8 am SIN to Bali 79$
+
+> 4-5 pm Bali to Lombok 27$
 
 > 4pm Bali to Lombok
 
@@ -45,7 +47,7 @@
 > sleep
 
 - Oct-27 Sun：
-> 6am Lombok to Bali
+> 6-7am Lombok to Bali 27$
 
 > sleep 
 
