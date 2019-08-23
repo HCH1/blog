@@ -73,8 +73,10 @@ Oct-28 Mon：
 - [map](https://www.google.com/maps/d/viewer?mid=1XQ1m6LEJwab41SdqvqqzLl39zOQWI3Uw&ll=-8.419324533174773%2C116.38571026060379&z=12)
 - [baligoldentour](http://www.baligoldentour.com/bali-trekking-mount-batur-tour.php)
 - [blog2](https://girleatworld.net/mount-batur-bali-sunrise-trek/)
-~~- [adventure-lombok](https://adventure-lombok.com/mount-rinjani/aik-berik-trekking/)~~
-~~- [adventure-lombok map](https://www.google.com/maps/d/u/0/viewer?mid=1XQ1m6LEJwab41SdqvqqzLl39zOQWI3Uw&ll=-8.432139201992964%2C116.42628301563741&z=12)~~
+
+~~- https://adventure-lombok.com/mount-rinjani/aik-berik-trekking/~~
+
+~~- (https://www.google.com/maps/d/u/0/viewer?mid=1XQ1m6LEJwab41SdqvqqzLl39zOQWI3Uw&ll=-8.432139201992964%2C116.42628301563741&z=12~~
 
 ## Rinjani
 - Day 1 – The climb (9.5 hours)
