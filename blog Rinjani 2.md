@@ -17,27 +17,27 @@
 - [My Instagram](https://www.instagram.com/redbox111)
 
 ## timeline
-- Oct-24 四：
+- Oct-24 Thu：
 > 7am SIN to Bali
 
 > 4pm Bali to Lombok
 
 > sleep
 
-- Oct-25 五：
+- Oct-25 Fri：
 > 8am - 6pm Rinjani
 
-- Oct-26 六：
+- Oct-26 Sat：
 > 7am - 2pm Rinjani
 
 > sleep
 
-- Oct-27 日：
+- Oct-27 Sun：
 > 6am Lombok to Bali
 
 > sleep 
 
-Oct-28 一：
+Oct-28 Mon：
 > 2am - 5am - 10am Batur
 
 > pm Bali to SIN
