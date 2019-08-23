@@ -79,7 +79,7 @@ Oct-28 Mon：
 ~~https://www.google.com/maps/d/u/0/viewer?mid=1XQ1m6LEJwab41SdqvqqzLl39zOQWI3Uw&ll=-8.432139201992964%2C116.42628301563741&z=12~~
 
 ## Rinjani
-- Day 1 – The climb ``(9.5 hours)``
+- Day 1 – The climb ```(9.5 hours)```
 - 08:00am	Start Trek from Senaru
 - 08:30am	Arrive at Entrance of Mount Rinjani National Park
 - 09:11am	Arrive at Pos 1
