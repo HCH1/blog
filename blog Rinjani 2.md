@@ -74,9 +74,9 @@ Oct-28 Mon：
 - [baligoldentour](http://www.baligoldentour.com/bali-trekking-mount-batur-tour.php)
 - [blog2](https://girleatworld.net/mount-batur-bali-sunrise-trek/)
 
-~~- https://adventure-lombok.com/mount-rinjani/aik-berik-trekking/~~
+~~https://adventure-lombok.com/mount-rinjani/aik-berik-trekking/~~
 
-~~- (https://www.google.com/maps/d/u/0/viewer?mid=1XQ1m6LEJwab41SdqvqqzLl39zOQWI3Uw&ll=-8.432139201992964%2C116.42628301563741&z=12~~
+~~https://www.google.com/maps/d/u/0/viewer?mid=1XQ1m6LEJwab41SdqvqqzLl39zOQWI3Uw&ll=-8.432139201992964%2C116.42628301563741&z=12~~
 
 ## Rinjani
 - Day 1 – The climb (9.5 hours)
@@ -150,18 +150,5 @@ Our guide will pick you up at hotel lobby at 06.30 AM then transfer and Register
 - Small Towel
 - Plantation Seeds for your Green protection help
 - Tips for guide and porters
-
-## ref:
-agent:
-http://hallotrekker.com/category/rinjani-trekking-packages/trekking-via-senaru/
-
-blog:
-https://girleatworld.net/mount-rinjani-trekking-guide/
-
-blog 2:
-https://girleatworld.net/mount-batur-bali-sunrise-trek/
-
-agency 2:
-http://www.baligoldentour.com/bali-trekking-mount-batur-tour.php
 
 ## End
