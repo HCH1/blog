@@ -1,7 +1,7 @@
 # Rinjani 2 Days 1 Night to Crater Rim
 ![f2](https://github.com/HCH1/blog/blob/master/fig/rinjani3.png)
 
-##
+## intro
 龍目島（印尼語：Pulau Lombok），是小巽他群島中的一个島嶼，屬印度尼西亞西努沙登加拉省管轄，該省首府馬塔蘭亦位於此島西部。该岛东隔阿拉斯海峡与松巴哇岛相望，西隔龙目海峡与巴厘相望，面积4725平方公里，人口2,403,025（1990年）。
 
 岛北部有林贾尼火山，海拔3726米，为全島最高峰；中部为低地，南部是石灰岩高原；有热带林木。
@@ -12,7 +12,7 @@
 
 林賈尼火山：為本島最高的山峰，也是印尼第二高的火山，位於本島的北方。
 
-##
+## checklist
 - [lombok wiki](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=lombok+wiki)
 - [lombok 簽證](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=lombok+簽證)
 - [lombok klook](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=lombok+klook)
