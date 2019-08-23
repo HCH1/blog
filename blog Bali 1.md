@@ -1,6 +1,12 @@
-# 2019 Bali trip; 5D4N:
+# 2019 Bali trip 5D4N
 ![f1](https://github.com/HCH1/blog/blob/master/fig/bali1.png)
 
+## intro
+- 不太下雨的七到九月 天藍好拍照
+- 司機建議當地美食 babi guling 也就是 烤乳豬。因為印尼大多數是信奉回教所以不可吃豬肉。但是只有Bali宗教為 峇里印度教。
+- 這次是住在Kuta鬧區 很多酒吧和夜店 缺點就是單行道 路小條 很塞車。從Kuta到機場 若順暢只要十五分鐘 但是若下午塞車需要快一小時。下次若再去我會選擇避開海灘那兩條單行單。另外 司機建議說下次或可住在Ubud也不錯。
+
+## checklist
 - [Bali wiki](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Bali+wiki)
 - [Bali 簽證](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Bali+簽證)
 - [Bali klook](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Bali+klook)
@@ -16,12 +22,7 @@
 - [Bali 美景](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Bali+美景)
 - [My Instagram](https://www.instagram.com/redbox111)
 
-###
-- 不太下雨的七到九月 天藍好拍照
-- 司機建議當地美食 babi guling 也就是 烤乳豬。因為印尼大多數是信奉回教所以不可吃豬肉。但是只有Bali宗教為 峇里印度教。
-- 這次是住在Kuta鬧區 很多酒吧和夜店 缺點就是單行道 路小條 很塞車。從Kuta到機場 若順暢只要十五分鐘 但是若下午塞車需要快一小時。下次若再去我會選擇避開海灘那兩條單行單。另外 司機建議說下次或可住在Ubud也不錯。
-
-### 02nd Aug 2019 : Airport Pick Up + Uluwatu Sunset Tour Itinerary :
+## 02nd Aug 2019 : Airport Pick Up + Uluwatu Sunset Tour Itinerary :
 ![f2](https://github.com/HCH1/blog/blob/master/fig/bali2.png)
 - 09.50 – Pick up at airport by flight  at 09.50 am
 - 11.50 – Go to Hotel Kuta for check in 
@@ -35,7 +36,7 @@
 - 21.30 – Back to hotel
 - 22.00 – Arrive at Hotel
 
-### 03rd Aug 2019 : Nusa Penida Tour Itinerary :
+## 03rd Aug 2019 : Nusa Penida Tour Itinerary :
 ![f4](https://github.com/HCH1/blog/blob/master/fig/bali4.png)
 - 06.30 – Pick up at Hotel Kuta and go to Sanur port 港口 
 - 08.00 – Go to Nusa Penida by using Speedboat 
@@ -61,7 +62,7 @@
 - 18.00 – Arrive at sanur port and back to hotel
 - 19.00 – Arrive at hotel
 
-### 04th Aug 2019 : Ubud Village and Kintamani Volcano Tour Itinerary :
+## 04th Aug 2019 : Ubud Village and Kintamani Volcano Tour Itinerary :
 ![f5](https://github.com/HCH1/blog/blob/master/fig/bali5.png)
 - 08.30 – Pick up at Hotel Kuta
 - 09.30 – Watching Barong Dance Performance
@@ -82,7 +83,7 @@
 - 17.30 – drop at Kuta Seaview Boutique Resort
 - 18.30 – Arrive at Hotel
 
-### 05th Aug 2019 : Bedugul and Tanah Lot Sunset Tour :
+## 05th Aug 2019 : Bedugul and Tanah Lot Sunset Tour :
 ![f6](https://github.com/HCH1/blog/blob/master/fig/bali6.png)
 - 08:00 – Pick up at Hotel Kuta
 > 10.30 – Visit Ulun Danu Beratan Temple 湖廟
@@ -99,17 +100,17 @@
 - 18.30 – Back to Hotel
 - 19.30 – Arrive at Hotel
 
-### 06th Aug 2019 : Airport Transfer Itinerary :
+## 06th Aug 2019 : Airport Transfer Itinerary :
 - 16.00 – Pick Up at Hotel Kuta
 - 16.30 – Arrive at Airport (flight at 19.25 pm)
 
-### ref:
-### [BALI TOUR PACKAGES 5 DAYS AND 4 NIGHTS TOURS](http://www.baligoldentour.com/bali-tour-packages-5-days-4-nights.php)
-### PROS:
+## ref:
+## [BALI TOUR PACKAGES 5 DAYS AND 4 NIGHTS TOURS](http://www.baligoldentour.com/bali-tour-packages-5-days-4-nights.php)
+## PROS:
 早上會提早到。若客戶同意 會建議行程微調 避開人潮。 
-### CONS:
+## CONS:
 司機比較不愛幫拍照 像是天堂之門排隊一小時 中間做了幾個跳躍的動作 結果拍得很差不然就是沒拍到。車子冷氣不是很強。
-### Price Include :
+## Price Include :
 - Private Car with Good AC Condition
 - English Speaking Driver
 - Petrol
@@ -122,4 +123,4 @@
 - Airport Pick up upon arrival
 - Airport Transfer upon Departure
 
-### End
+## End
