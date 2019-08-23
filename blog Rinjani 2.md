@@ -1,19 +1,19 @@
 # Rinjani 2 Days 1 Night to Crater Rim
 ![f2](https://github.com/HCH1/blog/blob/master/fig/rinjani3.png)
 
-- [Bali wiki](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Bali+wiki)
-- [Bali 簽證](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Bali+簽證)
-- [Bali klook](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Bali+klook)
+- [lombok wiki](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=lombok+wiki)
+- [lombok 簽證](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=lombok+簽證)
+- [lombok klook](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=lombok+klook)
 
-- [google flights TPE to bali](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=google+flights+TPE+to+bali)
+- [google flights TPE to lombok](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=google+flights+TPE+to+lombok)
 - [twd to idr](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=twd+to+idr)
-- [google flights SIN to bali](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=google+flights+SIN+to+bali)
+- [google flights SIN to lombok](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=google+flights+SIN+to+lombok)
 - [sgd to idr](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sgd+to+idr)
-- [Bali 天氣](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Bali+天氣)
-- [Bali 插頭](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Bali+插頭)
-- [Bali 伴手禮](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Bali+伴手禮)
-- [Bali 美食](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Bali+美食)
-- [Bali 美景](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Bali+美景)
+- [lombok 天氣](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=lombok+天氣)
+- [lombok 插頭](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=lombok+插頭)
+- [lombok 伴手禮](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=lombok+伴手禮)
+- [lombok 美食](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=lombok+美食)
+- [lombok 美景](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=lombok+美景)
 - [My Instagram](https://www.instagram.com/redbox111)
 
 ### timeline
@@ -61,7 +61,7 @@ Oct-28 一：
 - [adventure-lombok](https://adventure-lombok.com/mount-rinjani/aik-berik-trekking/)
 - [adventure-lombok map](https://www.google.com/maps/d/u/0/viewer?mid=1XQ1m6LEJwab41SdqvqqzLl39zOQWI3Uw&ll=-8.432139201992964%2C116.42628301563741&z=12)
 
-### rinjani
+### Rinjani
 agency:
 http://hallotrekker.com/category/rinjani-trekking-packages/trekking-via-senaru/
 
@@ -71,7 +71,7 @@ https://girleatworld.net/mount-rinjani-trekking-guide/
 map:
 https://www.google.com/maps/d/viewer?mid=1XQ1m6LEJwab41SdqvqqzLl39zOQWI3Uw&ll=-8.419324533174773%2C116.38571026060379&z=12
 
-### rinjani
+### Rinjani
 - Day 1 – The climb (9.5 hours)
 - 08:00am	Start Trek from Senaru
 - 08:30am	Arrive at Entrance of Mount Rinjani National Park
@@ -79,7 +79,7 @@ https://www.google.com/maps/d/viewer?mid=1XQ1m6LEJwab41SdqvqqzLl39zOQWI3Uw&ll=-8
 - 11:34am	Arrive at Pos 2 & Lunch
 - 02:55pm	Arrive at Pos 3
 - 05:30pm	Arrive at Crater Rim camp site
-### rinjani
+### Rinjani
 - Day 2 – The descent (6.5 hours)
 - 07:45am	Start Descending from the campsite
 - 09:06am	Arrive at Pos 3
@@ -88,7 +88,7 @@ https://www.google.com/maps/d/viewer?mid=1XQ1m6LEJwab41SdqvqqzLl39zOQWI3Uw&ll=-8
 - 01:18pm	Arrive at Pos 1
 - 01:47pm	Arrive at Entrance of Mount Rinjani National Park
 - 02:15pm	Arrive back at Senaru
-### backup batur 
+### Batur 
 blog 2:
 https://girleatworld.net/mount-batur-bali-sunrise-trek/
 
