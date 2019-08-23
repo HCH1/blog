@@ -16,7 +16,7 @@
 - [lombok 美景](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=lombok+美景)
 - [My Instagram](https://www.instagram.com/redbox111)
 
-### timeline
+## timeline
 - Oct-24 四：
 > 7am SIN to Bali
 
@@ -42,7 +42,7 @@ Oct-28 一：
 
 > pm Bali to SIN
 
-### flights
+## flights
 
 - [flights sin to bali oct 24](https://www.google.com.sg/flights?hl=zh-TW&authuser=1&lite=0#flt=/m/06t2t.DPS.2019-10-24;c:SGD;e:1;sd:1;t:f;tt:o)
 
@@ -61,7 +61,7 @@ Oct-28 一：
 - [adventure-lombok](https://adventure-lombok.com/mount-rinjani/aik-berik-trekking/)
 - [adventure-lombok map](https://www.google.com/maps/d/u/0/viewer?mid=1XQ1m6LEJwab41SdqvqqzLl39zOQWI3Uw&ll=-8.432139201992964%2C116.42628301563741&z=12)
 
-### Rinjani
+## Rinjani
 agency:
 http://hallotrekker.com/category/rinjani-trekking-packages/trekking-via-senaru/
 
@@ -71,7 +71,7 @@ https://girleatworld.net/mount-rinjani-trekking-guide/
 map:
 https://www.google.com/maps/d/viewer?mid=1XQ1m6LEJwab41SdqvqqzLl39zOQWI3Uw&ll=-8.419324533174773%2C116.38571026060379&z=12
 
-### Rinjani
+## Rinjani
 - Day 1 – The climb (9.5 hours)
 - 08:00am	Start Trek from Senaru
 - 08:30am	Arrive at Entrance of Mount Rinjani National Park
@@ -79,7 +79,7 @@ https://www.google.com/maps/d/viewer?mid=1XQ1m6LEJwab41SdqvqqzLl39zOQWI3Uw&ll=-8
 - 11:34am	Arrive at Pos 2 & Lunch
 - 02:55pm	Arrive at Pos 3
 - 05:30pm	Arrive at Crater Rim camp site
-### Rinjani
+## Rinjani
 - Day 2 – The descent (6.5 hours)
 - 07:45am	Start Descending from the campsite
 - 09:06am	Arrive at Pos 3
@@ -88,7 +88,7 @@ https://www.google.com/maps/d/viewer?mid=1XQ1m6LEJwab41SdqvqqzLl39zOQWI3Uw&ll=-8
 - 01:18pm	Arrive at Pos 1
 - 01:47pm	Arrive at Entrance of Mount Rinjani National Park
 - 02:15pm	Arrive back at Senaru
-### Batur 
+## Batur 
 blog 2:
 https://girleatworld.net/mount-batur-bali-sunrise-trek/
 
@@ -108,23 +108,23 @@ Our trek schedule went roughly like this:
 - 08:35am	Arrive back at Bali Sunrise Villas
 - 10:10am	Back at our villa in Ubud
 
-### Itinerary : This trek start and ending in Senaru Village
+## Itinerary : This trek start and ending in Senaru Village
 
-### Day 0
+## Day 0
 
 When you arrive at Lombok, no matter if it’s at the airport or by boat, our staff will come and pick you up and transfer you to our hotel and office in Senaru. Once you arrive in Senaru, you will meet our staff to complete your registration and do a short briefing with your guide. You will learn about the trekking procedure and get prepared for the trip. Arriving at the latest 1h before sunset, you can go see the Sindang Gile and Tiu Kelap Waterfall. Note: you can arrive the same day as the trekking. But we recommend you to come the day before and spend the night so there will be no delays.
 
-### Day 1
+## Day 1
 
 Our guide will pick you up at hotel lobby at 06.30 AM then transfer and Register to Rinjani Information Center (RIC) in Senaru (601 m), meet your guide and arrange National Park entry tickets. The first hours of the trek climb steeply through thick tropical forest rich in flora, bird life and variety of butterflies. You might see orchid and if lucky, the rare black ebony leaf monkey, known locally as lutung. Rest stops are taken along the way, and at pos 2 Montong Satas shelter ( 1,500m ). Village stories and local legends are related by your guide. Features include the bayan tree bunut ngenkang that looks like someone standing with their legs apart, and the batu penyesalan stone.
 
 15.00 pm depart third post for Senaru Crater Rim (2,641 m) – walking approx 2,5 hours (afternoon break on the way). 17.30 pm onwards Dinner and overnight Base Camp at Senaru Crater Rim Camp. from the Crater Rim are sweeping views across the lake Segara Anak (2,00m) to the summit of Mt. Rinjani. Within the crater, Mt. Baru ( 2,351m) is an active, last erupting dramatically in 2009 On a clear evening the Gili Island, Spectacular Sunrise and Sunset, Bali and Mt. Agung can be seen to the west
 
-### Day 2
+## Day 2
 
 06.30 am – 08.00 am Breakfast and Relaxing. After enjoying the views, descend down the trail down to senaru village through first grassland then back into the shade of the tropical forest. After about seven hours from the rim, the trek ends at Rinjani Information Center at the road head in Senaru, where the car is waiting to transfer you to the hotel and your next destination. End of Service
 
-### Price includes of Mount Rinjani
+## Price includes of Mount Rinjani
 
 - Pick up and transfers
 - A night accommodation in Senaru
@@ -133,7 +133,7 @@ Our guide will pick you up at hotel lobby at 06.30 AM then transfer and Register
 - Tent, toilet tent, sleeping bags, and mattress
 - Entrance fee for the national park
 
-### Price excludes of Mount Rinjani
+## Price excludes of Mount Rinjani
 
 - Head lamp /hand torch (summit)
 - Small bag pack/daily pack
@@ -148,7 +148,7 @@ Our guide will pick you up at hotel lobby at 06.30 AM then transfer and Register
 - Plantation Seeds for your Green protection help
 - Tips for guide and porters
 
-### ref:
+## ref:
 agent:
 http://hallotrekker.com/category/rinjani-trekking-packages/trekking-via-senaru/
 
@@ -160,8 +160,5 @@ https://girleatworld.net/mount-batur-bali-sunrise-trek/
 
 agency 2:
 http://www.baligoldentour.com/bali-trekking-mount-batur-tour.php
-### []()
-### PROS:
-### CONS:
-### 
-### End
+
+## End
