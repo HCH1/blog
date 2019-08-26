@@ -4,7 +4,7 @@
 
 ##
 https://tw.voicetube.com/videos/77221?ref=new
--This culture of binge-watching追劇 is actually a culmination of a lot of things. 
+- This culture of binge-watching追劇 is actually a culmination of a lot of things. 
 - it's the new streaming ecosystem that has us hooked著迷. 
 - 
 
