@@ -69,6 +69,10 @@ Oct-28 Mon：
 
 - [flights bali to sin oct 28](https://www.google.com.tw/flights?lite=0#flt=DPS./m/06t2t.2019-10-28;c:SGD;e:1;sd:1;t:f;tt:o)
 
+## hotel
+- [Sinar Rinjani](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=lombok+Sinar+Rinjani)
+- [Rinjani Lighthouse](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=lombok+Rinjani+Lighthouse)
+
 ## ref
 - [hallotrekker](http://hallotrekker.com/category/rinjani-trekking-packages/trekking-via-senaru/)
 - [blog](https://girleatworld.net/mount-rinjani-trekking-guide/)
