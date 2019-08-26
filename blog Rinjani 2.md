@@ -29,18 +29,18 @@
 - [My Instagram](https://www.instagram.com/redbox111)
 
 ## timeline
-- Oct-24 Thu：
+Oct-24 Thu：
 - 11-2 pm SIN to Bali 
 - 4-5 pm Bali to Lombok
 - 9pm to tour office 
 
-- Oct-25 Fri：
+Oct-25 Fri：
 - 8am - 6pm Rinjani 
 
-- Oct-26 Sat：
+Oct-26 Sat：
 - 7am - 2pm Rinjani
 
-- Oct-27 Sun：
+Oct-27 Sun：
 - 1-2 pm Lombok to Bali
 - 6-7 pm Bali to SIN
 
