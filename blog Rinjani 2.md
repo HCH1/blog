@@ -30,31 +30,19 @@
 
 ## timeline
 - Oct-24 Thu：
-> 5-8 am SIN to Bali 79$
-
-> 4-5 pm Bali to Lombok 27$
-
-> 4pm Bali to Lombok
-
-> sleep
+- 11-2 pm SIN to Bali 
+- 4-5 pm Bali to Lombok
+- 9pm to tour office 
 
 - Oct-25 Fri：
-> 8am - 6pm Rinjani
+- 8am - 6pm Rinjani 
 
 - Oct-26 Sat：
-> 7am - 2pm Rinjani
-
-> sleep
+- 7am - 2pm Rinjani
 
 - Oct-27 Sun：
-> 6-7am Lombok to Bali 27$
-
-> sleep 
-
-Oct-28 Mon：
-> 2am - 5am - 10am Batur
-
-> pm Bali to SIN
+- 1-2 pm Lombok to Bali
+- 6-7 pm Bali to SIN
 
 ## flights
 - [flights sin to bali oct 24](https://www.google.com.sg/flights?hl=zh-TW&authuser=1&lite=0#flt=/m/06t2t.DPS.2019-10-24;c:SGD;e:1;sd:1;t:f;tt:o)
