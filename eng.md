@@ -2,7 +2,13 @@
 ![f1](https://github.com/HCH1/blog/blob/master/fig/)
 #
 
-### 
+##
+https://tw.voicetube.com/videos/77221?ref=new
+-This culture of binge-watching追劇 is actually a culmination of a lot of things. 
+- it's the new streaming ecosystem that has us hooked著迷. 
+- 
+
+##
 https://tw.voicetube.com/videos/78050?ref=new
 - most important meal of the day but not everybody wakes up with an appetite. 啊坡太
 - Instead of just giving you one quick peak and then a crash later on, and sometimes get into that "hangry" state that we all know about. 
@@ -28,7 +34,7 @@ https://tw.voicetube.com/videos/77437?ref=new
 - I feel like strokes are maybe more talent involved. 
 - that concludes the interview and I'm gonna leave with a message from a special guest. 
 
-### 
+##
 - we all know that people who read succeed. 
 - Basically breaking down a big task into smaller ones.
 - By doing this just a couple of times, it will actually start to feel good to read. 
@@ -36,7 +42,7 @@ https://tw.voicetube.com/videos/77437?ref=new
 - Besides that guys, stay tuned. 保持聯絡
 - After an exhausting day, you brush your teeth, get into your Zelda themed pajamas, snuggle up in bed, turn the lights off and then... 經歷了疲憊的一天，你刷刷牙，穿上你的薩爾達睡衣，爬上舒服的床後，你關了燈 
 
-### 
+##
 - broadcasting to the masses. 
 - set to debut 出場
 - Market retailers are accustomed to haggling. 習慣於討價還價
@@ -54,7 +60,7 @@ https://tw.voicetube.com/videos/77437?ref=new
 - So the moral of the story? 
 - So I think it's a mixed bag. There are both sides to the argument and there is no clear verdict.
 
-### 
+##
 - on the rampage
 - knife-wielding
 - mental illness
@@ -67,4 +73,4 @@ https://tw.voicetube.com/videos/77437?ref=new
 - autonomy
 - ôˈtänəmē
 
-### End
+## End
