@@ -19,9 +19,9 @@ Crypto.com provides beautifully crafted MCO Visa approved pre-paid cards for cus
 ![f3](https://github.com/HCH1/blog/blob/master/fig/mco3.JPG)
 
 ## Crypto Earn
-Value proposition
-Crypto Earn gives users the freedom to grow their crypto assets and
-earn interest up to 8% p.a.
+- Value proposition
+- Crypto Earn gives users the freedom to grow their crypto assets and
+- earn interest up to ```8% p.a.
 ![f2](https://github.com/HCH1/blog/blob/master/fig/mco2.JPG)
 
 ## FAQ:
