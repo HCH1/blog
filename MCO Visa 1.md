@@ -16,13 +16,13 @@ Crypto.com provides beautifully crafted MCO Visa approved pre-paid cards for cus
 - Spend overseas at perfect interbank exchange rates
 - Conveniently spend and withdraw the fiat equivalent of their
 - cryptocurrency online and offline at all Visa approved merchants
+![f3](https://github.com/HCH1/blog/blob/master/fig/mco3.JPG)
 
 ## Crypto Earn
 Value proposition
-
 Crypto Earn gives users the freedom to grow their crypto assets and
-
 earn interest up to 8% p.a.
+![f2](https://github.com/HCH1/blog/blob/master/fig/mco2.JPG)
 
 ## FAQ:
 - [MCO Visa Card](https://help.crypto.com/en/collections/260584-mco-visa-card#mco-visa-card-features)
