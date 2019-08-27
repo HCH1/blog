@@ -1,12 +1,16 @@
 # [voicetube](https://tw.voicetube.com/?ref=logo)
 ![f1](https://github.com/HCH1/blog/blob/master/fig/)
-#
+
+## 
+https://tw.voicetube.com/videos/78279?ref=new
+- And speaking of antioxidants, let's take a look at the age-old belief that a hot toddy is exactly what the doctor ordered when you're suffering from a cold. 講到抗氧化，來聽聽看一個古老的說法：在你生病的時候，醫生都會要你喝一杯「熱托迪」。
+- The drink, traditionally made with hot water, whiskey, honey, and lemon, is basically medicine, according to Dr. William Schaffner, chair of preventative medicine at Vanderbilt University. 根據范德比大學預防醫學系主任的沙夫納博士提說，這傳統治療感冒的飲料是由熱開水、威士忌、蜂蜜和檸檬所沖配，他指這飲料基本上可說是藥物。
+- 	After all, everybody knows that age-old adage誒低居:  我想大家都知道，有句老話說
 
 ##
 https://tw.voicetube.com/videos/77221?ref=new
 - This culture of binge-watching追劇 is actually a culmination of a lot of things. 
 - it's the new streaming ecosystem that has us hooked著迷. 
-- 
 
 ##
 https://tw.voicetube.com/videos/78050?ref=new
