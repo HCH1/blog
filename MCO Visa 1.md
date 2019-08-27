@@ -8,14 +8,16 @@
 
 ## Value Proposition
 Crypto.com provides beautifully crafted MCO Visa approved pre-paid cards for customers:
+
 - Metal card, no annual fee
 - Up to 5% back on ALL Spending
-- spotify & NETFLIX 100% Rebate (Up to $9.99USD and $12.99 USD respectively)
+- ``spotify & NETFLIX`` 100% Rebate (Up to $9.99USD and $12.99 USD respectively)
 - expedia & airbnb 10% Rebate (up to $50 USD/month)
-- LoungeKeyTM Airport Lounge Access (selected cards)
+- ```LoungeKeyTM Airport Lounge Access (selected cards)```
 - Spend overseas at perfect interbank exchange rates
 - Conveniently spend and withdraw the fiat equivalent of their
 - cryptocurrency online and offline at all Visa approved merchants
+
 ![f3](https://github.com/HCH1/blog/blob/master/fig/mco3.JPG)
 
 ## Crypto Earn
@@ -27,6 +29,7 @@ Crypto.com provides beautifully crafted MCO Visa approved pre-paid cards for cus
 
 ## FAQ:
 - [MCO Visa Card](https://help.crypto.com/en/collections/260584-mco-visa-card#mco-visa-card-features)
-![f2](https://github.com/HCH1/blog/blob/master/fig/.png)
+
+![](https://github.com/HCH1/blog/blob/master/fig/.png)
 
 ## End
