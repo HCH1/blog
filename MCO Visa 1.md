@@ -3,10 +3,8 @@
 
 ## intro
 - [MCO Visa wiki](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=MCO+Visa+wiki)
+- [MCO app](https://crypto.com/en/wallet.html)
 - [mco_whitepaper](https://crypto.com/images/mco_whitepaper.pdf)
-https://crypto.com/en/wallet.html
-
-
 
 
 ## FAQ:
