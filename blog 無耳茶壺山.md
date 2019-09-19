@@ -14,18 +14,17 @@
 - [無耳茶壺山 wiki](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=無耳茶壺山+wiki)
 - [無耳茶壺山 美景](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=無耳茶壺山+美景)
 - [My Instagram](https://www.instagram.com/redbox111)
+- [無耳茶壺山步道](https://hiking.biji.co/index.php?q=trail&act=detail&id=400)
+
+- 【黃金博物館】
+
+1.搭乘火車至基隆站或瑞芳站，轉乘基隆客運788至黃金博物館下車。
+
+2.於捷運忠孝復興站1號出口復興南路一段152號前搭乘**基隆客運1062，至金瓜石黃金博物館站下車。
 
 ## timeline
 - Oct-24 Thu：
 > 7am SIN to Bali
-
-> 4pm Bali to 無耳茶壺山
-
-> sleep
-
-## flights
-- [flights sin to bali oct 24](https://www.google.com.sg/flights?hl=zh-TW&authuser=1&lite=0#flt=/m/06t2t.DPS.2019-10-24;c:SGD;e:1;sd:1;t:f;tt:o)
-- [flights bali to sin oct 28](https://www.google.com.tw/flights?lite=0#flt=DPS./m/06t2t.2019-10-28;c:SGD;e:1;sd:1;t:f;tt:o)
 
 ## ref
 - [hallotrekker](http://hallotrekker.com/category/rinjani-trekking-packages/trekking-via-senaru/)
