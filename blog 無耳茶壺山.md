@@ -2,21 +2,16 @@
 ![f1](https://github.com/HCH1/blog/blob/master/fig/twmt1.png)
 
 ## intro
-- [無耳茶壺山 wiki](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=無耳茶壺山+wiki)
+- 無耳茶壺山 
+
+無耳茶壺山位於臺北縣瑞芳鎮東處、金瓜石旁，由於從九份往雙溪的102號公路望去，其山頂的岩峰像是一隻沒有耳朵的茶壺故名無耳茶壺山，另由水湳洞仰望此山，又似一頭欲獵食的猛獅，也可稱作獅子岩
+
+- 登山步道
+
+無耳茶壺山的登山步道從金瓜石金光路開始，勸濟堂後方礦道往上爬，約有300米是石階步道，經過寶獅亭即可到達無耳茶壺山之山頂，瞭望整個海岸線，可東眺太平洋，南望半屏山，草山青翠連綿的山脈，還可以欣賞對面的基隆山(大肚美人山) 以及金水公路的回頭彎、濱海公路的陰陽海，路途約為2個小時，沿途視野寬廣，返程由半平山經燦光寮山續接草山公路。
 
 ## checklist
 - [無耳茶壺山 wiki](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=無耳茶壺山+wiki)
-- [無耳茶壺山 簽證](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=無耳茶壺山+簽證)
-- [無耳茶壺山 klook](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=無耳茶壺山+klook)
-
-- [google flights TPE to 無耳茶壺山](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=google+flights+TPE+to+無耳茶壺山)
-- [twd to idr](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=twd+to+idr)
-- [google flights SIN to 無耳茶壺山](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=google+flights+SIN+to+無耳茶壺山)
-- [sgd to idr](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sgd+to+idr)
-- [無耳茶壺山 天氣](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=無耳茶壺山+天氣)
-- [無耳茶壺山 插頭](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=無耳茶壺山+插頭)
-- [無耳茶壺山 伴手禮](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=無耳茶壺山+伴手禮)
-- [無耳茶壺山 美食](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=無耳茶壺山+美食)
 - [無耳茶壺山 美景](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=無耳茶壺山+美景)
 - [My Instagram](https://www.instagram.com/redbox111)
 
