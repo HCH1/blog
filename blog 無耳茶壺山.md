@@ -1,30 +1,30 @@
 # 2019 trip:
-![f1](https://github.com/HCH1/blog/blob/master/fig/.png)
+![f1](https://github.com/HCH1/blog/blob/master/fig/twmt1.png)
 
 ## intro
-- [lombok wiki](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=lombok+wiki)
+- [無耳茶壺山 wiki](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=無耳茶壺山+wiki)
 
 ## checklist
-- [lombok wiki](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=lombok+wiki)
-- [lombok 簽證](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=lombok+簽證)
-- [lombok klook](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=lombok+klook)
+- [無耳茶壺山 wiki](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=無耳茶壺山+wiki)
+- [無耳茶壺山 簽證](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=無耳茶壺山+簽證)
+- [無耳茶壺山 klook](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=無耳茶壺山+klook)
 
-- [google flights TPE to lombok](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=google+flights+TPE+to+lombok)
+- [google flights TPE to 無耳茶壺山](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=google+flights+TPE+to+無耳茶壺山)
 - [twd to idr](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=twd+to+idr)
-- [google flights SIN to lombok](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=google+flights+SIN+to+lombok)
+- [google flights SIN to 無耳茶壺山](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=google+flights+SIN+to+無耳茶壺山)
 - [sgd to idr](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sgd+to+idr)
-- [lombok 天氣](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=lombok+天氣)
-- [lombok 插頭](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=lombok+插頭)
-- [lombok 伴手禮](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=lombok+伴手禮)
-- [lombok 美食](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=lombok+美食)
-- [lombok 美景](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=lombok+美景)
+- [無耳茶壺山 天氣](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=無耳茶壺山+天氣)
+- [無耳茶壺山 插頭](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=無耳茶壺山+插頭)
+- [無耳茶壺山 伴手禮](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=無耳茶壺山+伴手禮)
+- [無耳茶壺山 美食](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=無耳茶壺山+美食)
+- [無耳茶壺山 美景](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=無耳茶壺山+美景)
 - [My Instagram](https://www.instagram.com/redbox111)
 
 ## timeline
 - Oct-24 Thu：
 > 7am SIN to Bali
 
-> 4pm Bali to Lombok
+> 4pm Bali to 無耳茶壺山
 
 > sleep
 
