@@ -14,8 +14,8 @@
 - [無耳茶壺山 wiki](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=無耳茶壺山+wiki)
 - [無耳茶壺山 美景](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=無耳茶壺山+美景)
 - [My Instagram](https://www.instagram.com/redbox111)
+- [健行筆記](https://hiking.biji.co/index.php?q=trail&part=10&city=17&zip=%E5%85%A8%E9%83%A8&time=%E5%85%A8%E9%83%A8&level=%E5%85%A8%E9%83%A8&type=%E5%85%A8%E9%83%A8&keyword=)
 - [無耳茶壺山步道](https://hiking.biji.co/index.php?q=trail&act=detail&id=400)
-
 
 
 【黃金博物館】
@@ -47,6 +47,8 @@
 劍龍稜
 
 https://www.youtube.com/watch?v=V1D52sGvlEM
+
+https://www.youtube.com/watch?v=nuhHH3bH22k
 
 ## Day 1: 
 - aaa
