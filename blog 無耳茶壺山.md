@@ -43,16 +43,10 @@
 > 7am SIN to Bali
 
 ## ref
-- [hallotrekker](http://hallotrekker.com/category/rinjani-trekking-packages/trekking-via-senaru/)
-- [blog](https://girleatworld.net/mount-rinjani-trekking-guide/)
-- [map](https://www.google.com/maps/d/viewer?mid=1XQ1m6LEJwab41SdqvqqzLl39zOQWI3Uw&ll=-8.419324533174773%2C116.38571026060379&z=12)
-- [baligoldentour](http://www.baligoldentour.com/bali-trekking-mount-batur-tour.php)
 
-## view
-- [KL Putra Mosque](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=KL+Putra+Mosque)
-![f2](https://github.com/HCH1/blog/blob/master/fig/.png)
+劍龍稜
 
-## food
+https://www.youtube.com/watch?v=V1D52sGvlEM
 
 ## Day 1: 
 - aaa
