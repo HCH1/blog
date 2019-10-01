@@ -1,4 +1,4 @@
-# SOP SEO 搜尋引擎優化
+# 2019 SOP SEO 搜尋引擎優化（持續更新）
 ![f1](https://github.com/HCH1/blog/blob/master/fig/.png)
 
 ## intro
