@@ -4,13 +4,25 @@
 ## intro
 - [SEO wiki](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=SEO+wiki)
 
-## checklist
 https://mangools.com/blog/learn-seo/
+
 How search engines work
 Search engines consist of three main ingredients:
-Crawling
-Indexing
-Picking the results
+- Crawling
+- Indexing
+- Picking the results
+
+Some other important ranking factors include (in no particular order):
+
+use of relevant keywords and phrases
+- HTTPS
+- link relevance
+- grammar and spelling
+- topical authority
+- social sharing
+- domain age
+- AMP
+- page layout
 
 
 - [My Instagram](https://www.instagram.com/redbox111)
