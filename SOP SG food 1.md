@@ -1,9 +1,5 @@
-# SG foodie:
-![f1](https://github.com/HCH1/blog/blob/master/fig/sgf1.png)
-
-- [My Instagram](https://www.instagram.com/redbox111)
-# 
-- [food](link)
+## 新加坡 私藏美食 總整理  
+## food
 - [sg Tong Xin Ru Yi 同心如意传统铜火锅](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+Tong+Xin+Ru+Yi+同心如意传统铜火锅)
 - [sg Newton food center](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+Newton+food+center)
 - [sg Yishun 928 laksa](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+Yishun+928+laksa)
@@ -39,13 +35,13 @@
 - [sg White Restaurant @ Jalan Tampang](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+White+Restaurant+@+Jalan+Tampang)
 - [sg Sum's Kitchen and Hong Kong Roasted Meat](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+Sum's+Kitchen+and+Hong+Kong+Roasted+Meat)
 - []()
-- [coffee](link)
+## coffee
 - [sg Baristart Coffee Singapore](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+Baristart+Coffee+Singapore)
 - [sg Walking On Sunshine at Orchard Central](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+Walking+On+Sunshine+at+Orchard+Central)
 - [sg Harvestry](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+Harvestry)
 - [sg Dean & Deluca](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+Dean+&+Deluca)
 - []()
-- [drink](link)
+## drink
 - [sg Chijmes bar](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+Chijmes+bar)
 - [sg SQUE](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+SQUE)
 - [sg Essen](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+Essen)
@@ -54,7 +50,7 @@
 - [sg LeVeL33](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+LeVeL33)
 - [sg FIVE](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+FIVE)
 - []()
-- [durian](link)
+## durian
 - [sg Clementi durian](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+Clementi+durian)
 - [sg Leong Tee Fruit Traders](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+Leong+Tee+Fruit+Traders)
 - [sg Ah Seng Durian](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+Ah+Seng+Durian)
@@ -63,11 +59,4 @@
 - [sg Ah Di Dempsey Durian](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+Ah+Di+Dempsey+Durian)
 - [sg Ah Hung D24 Sultan Durian](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+Ah+Hung+D24+Sultan+Durian)
 
-## drink:
-- aaa
-> aaa
-
-### ref:
-### PROS:
-### CONS:
 ### End
