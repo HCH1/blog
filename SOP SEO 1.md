@@ -25,11 +25,15 @@ use of relevant keywords and phrases
 
 ## The interactions with search engines have evolved over the years. However, the principle remains the same:
 A need for a solution, information, or an answer
+
 Typing the need in form of a query (keyword) into the search engine
-Going through the first results
-Clicking on one or more results (websites)
-Scanning websites for the answer
-Going through more results on the 1st SERP and/or changing the search query, if the answer isn’t found.
+
+- Going through the first results
+- Clicking on one or more results (websites)
+- Scanning websites for the answer
+- Going through more results on the 1st SERP and/or changing the search query, if the answer isn’t found.
+
+
 
 
 
