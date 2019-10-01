@@ -4,6 +4,8 @@
 ## intro
 - [SEO wiki](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=SEO+wiki)
 
+搜尋引擎最佳化（英語：search engine optimization，缩写为SEO），是一種透過了解搜尋引擎的運作規則來調整網站，以及提高目的網站在有關搜尋引擎內排名的方式。由於不少研究發現，搜尋引擎的用戶往往只會留意搜尋結果最前面的幾個條目，所以不少網站都希望透過各種形式來影響搜尋引擎的排序，讓自己的網站可以有優秀的搜尋排名。當中尤以各種依靠廣告維生的網站為甚。
+
 ## https://mangools.com/blog/learn-seo/
 ## How search engines work
 Search engines consist of three main ingredients:
