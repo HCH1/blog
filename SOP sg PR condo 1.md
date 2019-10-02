@@ -35,6 +35,8 @@ Apart from the unit selling price, another factor that will have the greatest be
 If you have no existing home loan:
 
 - LTV is **75% if loan tenure is up to 30 yrs** AND doesn't not extend pass borrower's **age of 65.** This means you need to pay the 25% shortfall in cash and/or CPF Ordinary Account savings.
+> 如貸款年期達30年，而借貸人的年齡不超過65歲，則可貸款75%。這意味著您需要以現金和/或公積金普通帳戶存款支付25%的差額。
+
 - LTV is 55% if loan tenure is greater than 30 yrs OR extends pass borrower's age of 65. This means you need to pay the 45% shortfall in cash and/or CPF Ordinary Account savings.
 
 ## Your Minimum Cash Downpayment
@@ -43,6 +45,8 @@ The number of your existing home loans also impacts your minimum cash downpaymen
 If you have no existing home loan:
 
 - Your minimum cash downpayment is **5% if the loan tenure doesn’t exceed 30 years** and the borrower’s age doesn’t extends past **age 65** during the loan’s maturity.
+> 如貸款年期不超過30年，而借貸人的年齡不超過65歲，則最低現金首付款為5%。
+
 - Your minimum cash downpayment is 10% if the loan tenure exceeds 30 years OR the borrower’s age extends past age 65 during the loan’s maturity.
 
 
