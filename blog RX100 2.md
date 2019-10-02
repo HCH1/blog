@@ -1,4 +1,4 @@
-# 2019 sony RX100 類單 煙火 夜拍 參數 推薦 懶人包
+# 2019 sony RX100 類單 煙火夜拍 參數推薦（懶人包）
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/rx1.png)
 
