@@ -1,4 +1,4 @@
-# soho 數據分析可視化 旅拍導覽 或者技能交換 (soho)(part time)
+# soho 數據分析可視化 旅拍導覽 或者技能交換 (內洽～)
 ![f1](https://github.com/HCH1/blog/blob/master/fig/pt11.png)
 
 ## intro
