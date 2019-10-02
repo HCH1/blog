@@ -5,18 +5,12 @@
 - [propertyguru 好文](https://www.propertyguru.com.sg/property-guides/how-much-do-you-need-to-spend-upfront-when-buying-a-condo-10413)
 
 Basically, this guide will illustrate the upfront cost, including downpayment for condo. As an example, we used the median prices at Whistler Grand, a 716 condominium in West Coast Vale that was launched in November 2018.
-
-以下圖表來說，公寓的兩房單位，平均價位是 八十萬新幣，大約 一千八百萬台幣。
-
+> 以下圖表來說，公寓的兩房單位，平均價位是 八十萬新幣，大約 一千八百萬台幣。
 ![f2](https://github.com/HCH1/blog/blob/master/fig/condo22.png)
-
 
 ## What’s The Initial Condo Cost For Singapore Citizens, PR, Or Foreigners?
 In particular, this guide illustrates the upfront cost, including downpayment for condo, for Singapore Citizens (SC), Permanent Residents (PR) and foreigners intending to buy a condo in Whistler Grand with up to four bedrooms. Just choose which apply to you.
-
-以下會針對PR的相關圖文，來做總結，讓大家有個概念。
-
-關於兩房的公寓，八十三萬，第一波要先準備 **二十七萬**，分別是：
+> 以下會針對PR的相關圖文，來做總結，讓大家有個概念。關於兩房的公寓，八十三萬，第一波要先準備 **二十七萬**，分別是：
 - 額外印花稅 5%
 - 最大貸款 75%
 - 公寓首付 10%
@@ -74,6 +68,7 @@ If you have no existing home loan:
 - 簽了**OTP就去銀行提交正式貸款申請**，每個銀行需要的材料都差不多，主要就是**IC薪水單CPF證明**之類的，看著差不多的銀行都發一遍，最後看哪家給的報價比較好，拿到提供了不簽沒有任何問題的
 - 比較offer呢無非就是就是利率多少的問題了，還沒有TOP的房子不輕易給fixed rate的配套，剩下的可以選擇和放入索引或者sibor掛鉤的，實際上平均下來可能區別不到，只不過sibor的變動更多更快，加息是第一個漲的降息也是第一的跌的，個人認為在不是很穩定的大環境下還是選穩為上
 
+## ref
 - [sg pr buy condo](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+pr+buy+condo)
-- [My Instagram](https://www.instagram.com/redbox111)
+
 ## End
