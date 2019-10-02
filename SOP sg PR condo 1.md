@@ -15,6 +15,8 @@ In particular, this guide illustrates the upfront cost, including downpayment fo
 
 > 以下會針對PR的相關圖文，來做總結，讓大家有個概念。關於兩房的公寓若價位**八十三萬**，第一波大概要先準備 **二十七萬**，約為總價的**33%**，分別是：
 
+> 口訣：三七五買屋ＸＤ
+
 - 印花稅 BSD 4%
 - 額外印花稅 ABSD 5%
 - 公寓首付 20%
