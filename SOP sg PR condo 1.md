@@ -13,19 +13,23 @@ Basically, this guide will illustrate the upfront cost, including downpayment fo
 ## What’s The Initial Condo Cost For Singapore Citizens, PR, Or Foreigners?
 In particular, this guide illustrates the upfront cost, including downpayment for condo, for Singapore Citizens (SC), Permanent Residents (PR) and foreigners intending to buy a condo in Whistler Grand with up to four bedrooms. Just choose which apply to you.
 
-> 以下會針對PR的相關圖文，來做總結，讓大家有個概念。關於兩房的公寓，八十三萬，第一波要先準備 **二十七萬**，分別是：
+> 以下會針對PR的相關圖文，來做總結，讓大家有個概念。關於兩房的公寓若價位**八十三萬**，第一波大概要先準備 **二十七萬**，約為總價的**33%**，分別是：
 
-- 額外印花稅 5%
-- 最大貸款 75%
-- 公寓首付 10%
+- 印花稅 BSD 4%
+- 額外印花稅 ABSD 5%
+- 公寓首付 20%
+- 律師費+裝修/買家具 3000$
+
+- 另外，最大可貸款 LTV 75%
 
 ![f3](https://github.com/HCH1/blog/blob/master/fig/condo33.png)
 
 ## Everyone Needs To Pay Buyer’s Stamp Duty (BSD)
 While the ABSD exempts some categories of home buyers, no one is exempt from paying the Buyer’s Stamp Duty (BSD) whether you’re a Singapore Citizen, PR or foreigner. This is because the documents effecting the transfer of ownership over the property must be stamped to make it official.
+![f5](https://github.com/HCH1/blog/blob/master/fig/condo55.png)
 
 ## New And Former ABSD Rates
-![f3](https://github.com/HCH1/blog/blob/master/fig/condo44.png)
+![f4](https://github.com/HCH1/blog/blob/master/fig/condo44.png)
 
 ## Your Maximum Loan-To-Value (LTV)
 Apart from the unit selling price, another factor that will have the greatest bearing on how much downpayment for condo you need to pay is the Loan-to-Value (LTV), which is based on the number outstanding home loans you have. The particulars are indicated below.
@@ -53,7 +57,7 @@ If you have no existing home loan:
 ## 選擇房子時的一些考慮
 - 預算，如果是PR需要準備大概**35％的錢，25％首付+ 8％印花稅（公民3％）+ 2500左右的律師費+裝修/買家具，貸款可以貸到最多75％**，受限於年齡收入信用記錄等，每個銀行可能有些微差別，貸款總額保守的粗略估計是十二年的年薪，除非有強大的親友團作為支撐，否則這是硬性指標，要對自己誠實
 - 用途，是自住還是投資，自住的話幾口人住，有沒有老人小孩，有沒有車
-- 如果是一個人買單身公寓，不建議買太小的，一方面是住起來不舒服，另一方面是有些銀行不喜歡貸款給450尺以下的房子，但也完全沒有必要買太大，正常一室一廳足夠，**一加一就很寬敞了，550-650尺這樣吧
+- 如果是一個人買單身公寓，不建議買太小的，一方面是住起來不舒服，另一方面是有些銀行不喜歡貸款給450尺以下的房子，但也完全沒有必要買太大，正常一室一廳足夠，**一加一就很寬敞了，550-650尺這樣吧**
 - 如果預算充足，或者對位置要求不高，或者考慮到接下來幾年結婚，可以買兩個臥室的，次臥先作為書房，放一張沙發床備用也可，家裡放空床風水不好
 - 千萬不要聽中介的買一間三室的房子為十年後的三代同堂做準備，因為這樣的房子要么總價極高負擔很重，要么總價略高總面積偏小，七百多尺三室兩廳，每個房間都很擠，嚴重影響入住體驗，要么總價還行卻坐落於偏遠山區
 - 還沒買車的要保證房子交通便利，附近有地鐵或多班公交車去各個方向的，越少走路越好，新加坡好熱的，去公司直達三十分鐘以內的人都是幸福的
