@@ -1,5 +1,5 @@
-# 2019 SOP SEO 搜尋引擎優化（持續更新）
-![f1](https://github.com/HCH1/blog/blob/master/fig/.png)
+# 2019 SOP SEO 搜尋引擎優化（懶人包）
+![f1](https://github.com/HCH1/blog/blob/master/fig/seo$1.png)
 
 ## intro
 - [SEO wiki](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=SEO+wiki)
