@@ -1,4 +1,4 @@
-# 2019 推薦 sony RX100m5a 口袋類單機皇 快 輕 準
+# 2019 推薦 sony RX100m5a 口袋類單機皇 快輕準（懶人包）
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/rx1.png)
 
