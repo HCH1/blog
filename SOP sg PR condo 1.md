@@ -5,12 +5,16 @@
 - [propertyguru 好文](https://www.propertyguru.com.sg/property-guides/how-much-do-you-need-to-spend-upfront-when-buying-a-condo-10413)
 
 Basically, this guide will illustrate the upfront cost, including downpayment for condo. As an example, we used the median prices at Whistler Grand, a 716 condominium in West Coast Vale that was launched in November 2018.
+
 > 以下圖表來說，公寓的兩房單位，平均價位是 八十萬新幣，大約 一千八百萬台幣。
+
 ![f2](https://github.com/HCH1/blog/blob/master/fig/condo22.png)
 
 ## What’s The Initial Condo Cost For Singapore Citizens, PR, Or Foreigners?
 In particular, this guide illustrates the upfront cost, including downpayment for condo, for Singapore Citizens (SC), Permanent Residents (PR) and foreigners intending to buy a condo in Whistler Grand with up to four bedrooms. Just choose which apply to you.
+
 > 以下會針對PR的相關圖文，來做總結，讓大家有個概念。關於兩房的公寓，八十三萬，第一波要先準備 **二十七萬**，分別是：
+
 - 額外印花稅 5%
 - 最大貸款 75%
 - 公寓首付 10%
