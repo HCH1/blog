@@ -1,5 +1,5 @@
 # 2019 新加坡 長居證買公寓 SG PR buy condo（懶人包）
-![f1](https://github.com/HCH1/blog/blob/master/fig/condo1.png)
+![f1](https://github.com/HCH1/blog/blob/master/fig/condo11.png)
 
 ## intro
 - [propertyguru 好文](https://www.propertyguru.com.sg/property-guides/how-much-do-you-need-to-spend-upfront-when-buying-a-condo-10413)
