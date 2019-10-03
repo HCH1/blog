@@ -57,6 +57,16 @@ Fabless 模式，即无晶圆厂生产制造、仅从事集成电路设计的经
 
 ## 英特尔投资 指 Intel Capital Corporation，本公司股东
 
+![f1](https://github.com/HCH1/blog/blob/master/fig/bjw1.PNG)
+
+![f1](https://github.com/HCH1/blog/blob/master/fig/bjw2.PNG)
+
+![f1](https://github.com/HCH1/blog/blob/master/fig/bjw3.PNG)
+
+![f1](https://github.com/HCH1/blog/blob/master/fig/bjw4.PNG)
+
+![f1](https://github.com/HCH1/blog/blob/master/fig/bjw5.PNG)
+
 ## ref
 [乐鑫科技 688018](http://quote.eastmoney.com/concept/SH688018.html?from=data)
 [Shinvest Holding Ltd. (BJW.SI)](https://sg.finance.yahoo.com/quote/BJW.SI/chart/)
