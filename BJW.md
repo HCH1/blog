@@ -27,8 +27,6 @@ Espressif result to be released end Oct. Hope the result will give a big boost t
 
 ## 乐鑫信息科技（上海）股份有限公司
 ## ESPRESSIF SYSTEMS (SHANGHAI) CO., LTD
-市场竞争加剧的风险
-
 公司主要从事**物联网 Wi-Fi MCU 通信芯片及其模组**的研发、设计及销售，面向的下游市场包括智能家居、智能照明、智能支付终端、智能可穿戴设备、传
 感设备及工业控制等物联网领域。近年来，物联网市场发展迅速、方兴未艾，随着市场需求快速增长，如业内竞争对手进一步加大投入或新进入行业的竞争企业
 增加，将使得公司面临市场竞争加剧的风险。
