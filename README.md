@@ -1,5 +1,5 @@
 # Welcome to my blog
-## SOHO數據分析可視化 新加坡旅拍幫拍導覽 (內洽～)
+## SOHO數據分析可視化 新加坡旅拍幫拍導覽 (內洽)
 ![f1](https://github.com/HCH1/blog/blob/master/fig/pt11.png)
 
 ## data lover
