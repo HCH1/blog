@@ -21,40 +21,54 @@ Laksa is one of the ultimate demonstrations of the combination of Chinese and Ma
 
 > 2. Bak Kut Teh
 Literally translated to pork bone tea, bak kut teh is a dish that’s popular throughout Malaysia and Singapore with Chinese origins. Although one would think the pork is cooked in tea, tea is not actually included in the recipe, but according to Wikipedia, it got its name because strong tea is consumed along with the pork soup to wash down the grease.
+- 肉骨茶
+
+![f1](https://github.com/HCH1/blog/blob/master/fig/sgfood3.JPG)
 
 > 3. Hokkien Mee
 Along with Char Kway Teow (coming up soon), Hokkien Mee is one of the most popular fried noodle hawker dishes in Singapore. It’s a dish that has roots in China’s Fujian province (which is where the Hokkien people are originally from), that has now been adopted into Malaysia and Singapore.
+- 福建麵
 
 > 4. Chicken Rice
 Although it’s just a simple combination of boiled chicken, paired with flavorful rice and sauce, this Hainanese influenced dish, ranks as one of the most popular and beloved dishes to eat in Singapore (it’s also extremely popular in Thailand, known as khao man gai).
+- 雞飯
 
 > 5. Char Kway Teow
 When it comes to stir fried noodles in Singapore, one of the ultimate local favorites is char kway teow, a dish of flat wide rice noodles, stir fried with egg, a sauce of dark soy sauce, shrimp paste, a bit of chili, and often some Chinese sausage and blood cockles to finish it off.
+- 炒粿條
 
 > 6. Carrot Cake (Chai Tow Kway)
 Another one of the standard Singapore dishes that you’ll find at just about every hawker food centre throughout the city is chai tow kway, which is very commonly referred to as a carrot cake.
+- 蘿蔔糕
 
 > 7. Wanton Mee
 One of the popular Chinese Cantonese dishes that’s available at just about all hawker centre food courts throughout Singapore is wantan mee, the familiar combination of yellow egg noodles, wanton dumplings, some small boiled vegetables, and often some slices of char siu. Given a choice of noodles, egg noodles are one of my favorites.
+- 雲吞麵
 
 > 8. Fish Bee Hoon
 Yet another popular noodle dish that’s commonly found as a Singapore food is fish bee hoon, fish with noodles.
 Bee hoon is a type of rice noodle, which as I was eating, reminded me specifically of some bowls of noodles I ate when I was in the Guangxi province of China… and only to look them up online, and they are the same version, originally from Guilin, China, and quite popularly served at hawker stalls in Singapore.
+- 魚米粉
 
 > 9. Bak Chor Mee
 Although there are similar versions of the dish served in China and throughout Southeast Asia, according to this article on Yahoo, bak chor mee is a true Singaporean dish. Bak chor mee, meaning minced pork and noodles, usually consists of egg noodles, topped with minced pork, some other pork ingredients, and a sauce made with vinegar, chili, and soy sauce.
+- 肉挫麵
 
 > 10. Oyster omelette (Orh Luak)
 Popular and available throughout much of Asia and Southeast Asia, and also a favorite of mine in Thailand, is an oyster omelette, known in Singapore as orh luak.
+- 蚵煎
 
 > 11. Yong Tau Foo
 Yong tau foo, which literally translates to stuffed bean curd, is a traditional Chinese dish, that’s especially common among Hakka Chinese, who are very well represented throughout Singapore. There are many different kinds of yong tau foo, and I think many vendors have their own mix and style.
+- 釀豆腐
 
 > 12. Roast Meat / Roast Duck
 Different types of roast meat, typically including pork, pork belly, duck, and chicken, are widely available in Singapore at Cantonese style roast meat restaurants. The meat, is all marinated in a variety of different seasonings and roasted until the skin is golden and slightly charred for ultimate tender and juiciness and that amazing smoky flavor.
+- 粿汁
 
 > 13. Peranakan Food
 The word Peranakan refers to a group of people, most originally Hokkien, Hakka, and Teochew, that were born somewhere on the Malay Peninsula and the surrounding islands – within the Straits of Malacca. Peranakan people have a unique culture that blends Chinese, Malay, and even Western influences. There’s no better way to learn about the Peranakan culture than through food, and it’s a thrilling cuisine that’s as diverse and flavorful as their history.
+- 娘惹菜
 
 > 14. Zi Char Meal
 Zi char (also spelled cze char) is the Hokkien Chinese word for cooked food, usually made to order. In less complicated terms, it refers to any Chinese style restaurant that has a big menu of mainly stir fried and deep fried dishes that are prepared and eaten family style.
@@ -67,12 +81,16 @@ Truly a contrasting combination of both textures and flavors, rojak is the ultim
 
 > 17. Satay
 Although originally from Indonesia with influence from India and the Middle East, satay (or sate) is very popular throughout Southeast Asia, and common to find at hawker food centres throughout Singapore.
+- 沙嗲
 
 > 18. Ice Kacang
 It seems that just about every country throughout the world has their own version of a crushed or shaved ice dessert, and in Singapore that treat is called an ice kacang.
 
 > 19. Durian
 Although durian is the only food on this list that needs no cooking preparation and is perfect in its all natural state of being, I had to include it because it’s such an obsession in Singapore, and it can be treated like an entire meal… and if I’m being honest with you, it was an excuse so that I could justify eating durian in Singapore. Luckily, I didn’t have any trouble convincing my wife that we needed to have during in Singapore, her being a lover of the King of Fruits as well.
+- 榴槤
+
+![f1](https://github.com/HCH1/blog/blob/master/fig/sgfood4.JPG)
 
 > 20. Nasi Padang
 Back in 2009, I took my first trip to Sumatra, Indonesia, and I was introduced to Nasi Padang, rice with a selection of different dishes originally from Padang in Sumatra.
