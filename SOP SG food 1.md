@@ -1,4 +1,5 @@
 ## 2019 新加坡 私藏美食大公開 總整理（持續更新）
+![f1](https://github.com/HCH1/blog/blob/master/fig/sgfood1.png)
 ## food
 - [sg Tong Xin Ru Yi 同心如意传统铜火锅](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+Tong+Xin+Ru+Yi+同心如意传统铜火锅)
 - [sg Newton food center](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+Newton+food+center)
