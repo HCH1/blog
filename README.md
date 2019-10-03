@@ -14,7 +14,7 @@ Auto debug app development:
 - [my blog](https://medium.com/@hsiangchihhung)
 
 ## about me
-🙋‍♂soho數據分析可視化 新加坡旅拍幫拍 (內洽～)
+- soho數據分析可視化 新加坡旅拍幫拍 (內洽～)
 
 ##
 - email
