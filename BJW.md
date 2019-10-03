@@ -64,7 +64,7 @@ Fabless 模式，即无晶圆厂生产制造、仅从事集成电路设计的经
 ![f4](https://github.com/HCH1/blog/blob/master/fig/bjw4.png)
 --
 ![f5](https://github.com/HCH1/blog/blob/master/fig/bjw5.png)
-
+--
 ## ref
 [乐鑫科技 688018](http://quote.eastmoney.com/concept/SH688018.html?from=data)
 
