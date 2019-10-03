@@ -1,16 +1,15 @@
 ## 2019 新加坡 私藏美食大公開 總整理（持續更新）
 ![f1](https://github.com/HCH1/blog/blob/master/fig/sgfood1.JPG)
 
-## Get ready for 25 dishes you should try in Singapore (plus a few extras that I had to add in), and where to eat them!
-- [推薦部落格](https://migrationology.com/singapore-food/)
-
-我先列舉出心中前五名特色必吃美食:
-
+## 我先列舉出心中前五名特色必吃美食:
 - 叨沙
 - 麻辣香鍋
 - 榴槤
 - 肉骨茶
 - 辣椒螃蟹
+
+## Get ready for 25 dishes you should try in Singapore (plus a few extras that I had to add in), and where to eat them!
+- [推薦部落格](https://migrationology.com/singapore-food/)
 
 > 1. Laksa
 Laksa is one of the ultimate demonstrations of the combination of Chinese and Malay flavors and ingredients all in a single bowl. Noodles, often rice noodles, make up the foundation and starch of a bowl of laksa, followed by a gravy or curry, some pieces of protein, and often some vegetables and herbs.
