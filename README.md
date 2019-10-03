@@ -1,5 +1,5 @@
 # Welcome to my blog
-## SOHO數據分析可視化 旅拍導覽 (內洽～)
+## SOHO數據分析可視化 新加坡旅拍幫拍導覽 (內洽～)
 ![f1](https://github.com/HCH1/blog/blob/master/fig/pt11.png)
 
 ## data lover
@@ -13,12 +13,8 @@ Auto debug app development:
 ## blogger
 - [my blog](https://medium.com/@hsiangchihhung)
 
-## about me
-- soho數據分析可視化 新加坡旅拍幫拍 (內洽～)
-
-##
-- email
-> theonee730801@gmail.com
+## email
+- theonee730801@gmail.com
 
 ## ref
 ## R語言
