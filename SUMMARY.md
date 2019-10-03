@@ -5,7 +5,7 @@
 * [About this blog](README.md)
 
 ### Your Content
-* [sg PR condo](SOP sg PR condo 1.md)
+* [sg PR condo](SOP%20sg%20PR%20condo%201.md)
 * [RX100 intro](blog RX100 1.md)
 * [RX100 ch2](blog RX100 2.md)
 * [SEO intro](SOP SEO 1.md)
