@@ -2,12 +2,12 @@
 
 ## [blog](http://www.sharejunction.com/sharejunction/listMessage.htm?topicId=19254&searchString=&msgbdName=Shinvest&topicTitle=%3CNo%20Title%3E)
 
-Still quite a distance from S$5.10
+Still quite a distance from **S$5.10**
 
 At current Espressif price of RMB150, the NTA of Shinvest is estimated at S$5.10
 
 - Espressif price - RMB150
-- Number of Espressif shares held by Shinvest - 4.8m
+- Number of Espressif shares held by **Shinvest - 4.8m**
 - Exchange rate say 5.2
 - Shinvest Outstanding Shares - 29.91m
 - Other assets held by Shinvest say S$0.50
@@ -15,7 +15,7 @@ At current Espressif price of RMB150, the NTA of Shinvest is estimated at S$5.10
 Now eager to see the profit guidance to be issued by Shinvest.
 I hope media will catch this hidden gem soon.
 
-Espressif result to be released end Oct. Hope the result will give a big boost to its share price since this is its maiden result after its IPO.
+Espressif result to be released **end Oct**. Hope the result will give a big boost to its share price since this is its maiden result after its IPO.
 
 
 ## Shinvest控股有限公司
