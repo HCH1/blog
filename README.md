@@ -2,16 +2,23 @@
 ## SOHO數據分析可視化 新加坡旅拍幫拍導覽 (內洽)
 ![f1](https://github.com/HCH1/blog/blob/master/fig/pt11.png)
 
-## data lover
+## 數據分析可視化 data lover
 R program for dataframe clean / mining / export / shiny app UI.
 Auto debug app development:
 - [my shinyapp](https://hch1.shinyapps.io/app_preDMC_v5)
 
-## photographer
+![f1](https://github.com/HCH1/blog/blob/master/fig/pt22.png)
+
+## 旅拍幫拍導覽 photographer
 - [my Instagram](https://www.instagram.com/redbox111)
 
-## blogger
+## 搜尋引擎最佳化 SEO & blogger
 - [my blog](https://medium.com/@hsiangchihhung)
+
+![f1](https://github.com/HCH1/blog/blob/master/fig/pt33.png)
+
+搜尋三組字串，讓您的部落格出現在google搜尋第一頁上
+![f1](https://github.com/HCH1/blog/blob/master/fig/pt44.png)
 
 ## email
 - theonee730801@gmail.com
