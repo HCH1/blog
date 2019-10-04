@@ -18,7 +18,7 @@ Auto debug app development:
 ![f1](https://github.com/HCH1/blog/blob/master/fig/pt33.png)
 
 搜尋三組字串，讓您的部落格出現在google搜尋第一頁上
-![f1](https://github.com/HCH1/blog/blob/master/fig/pt44.png)
+![f1](https://github.com/HCH1/blog/blob/master/fig/seo1.png)
 
 ## email
 - theonee730801@gmail.com
