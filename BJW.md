@@ -15,10 +15,7 @@ The Board of Directors (the &ldquo Board&rdquo ) of Shinvest Holding Ltd. (the &
 
 (2) Reference to the Company previous announcement, **Espressif Systems (Shanghai) Pte. Ltd. (&ldquo Espressif Shanghai&rdquo ) is already trading on Shanghai Stock Exchange Star Market** and its share price is well above its IPO debut price. In view of item (1), the fair value of **6% Espressif Shanghai** held by the Company as at 31 August 2019 needs to be adjusted by using the last trading day closing price of the month. Further information of the Group&rsquo s financial performance will be provided when the Group releases its unaudited financial results for FY2019 on or about 24 October 2019. By Order of the Board Teo Teck Leong Managing Director 4 October 2019
 
---
-
-Still quite a distance from **S$5.10**
-
+## Still quite a distance from **S$5.10**
 At current Espressif price of RMB150, the NTA of Shinvest is estimated at S$5.10
 
 - Espressif price - RMB150
