@@ -21,12 +21,20 @@ Laksa is one of the ultimate demonstrations of the combination of Chinese and Ma
 > 2. Bak Kut Teh
 Literally translated to pork bone tea, bak kut teh is a dish that’s popular throughout Malaysia and Singapore with Chinese origins. Although one would think the pork is cooked in tea, tea is not actually included in the recipe, but according to Wikipedia, it got its name because strong tea is consumed along with the pork soup to wash down the grease.
 - 肉骨茶
+- 你沒有讀錯，英文因是福建話台語發音。畢竟新加坡老一輩的華人大多講福建話。新加坡與馬來西亞都愛吃肉骨茶，差別就在於湯頭。新加坡湯底是白湯胡椒湯，馬來西亞是黑湯藥材湯。
+
+補充：隨著肉骨茶在東南亞以至亞洲及世界各地流傳，其烹飪風格亦隨著當時當地的華人而有所影響。 常見的肉骨茶風味可以分為以下三種：
+- 潮州派：顏色較淺，但湯裡用上更多的胡椒，所以有較重的胡椒味。
+- 福建派：顏色較深，因為用上較多豉油（黑醬油）作調味，所以有較重的藥材味。
+- 廣東派：加入中國藥酒，以加強其藥效。
+- 現時在新加坡，潮州派較為盛行，而在馬來西亞則以福建派較為盛行。
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/sgfood3.JPG)
 
 > 3. Hokkien Mee
 Along with Char Kway Teow (coming up soon), Hokkien Mee is one of the most popular fried noodle hawker dishes in Singapore. It’s a dish that has roots in China’s Fujian province (which is where the Hokkien people are originally from), that has now been adopted into Malaysia and Singapore.
 - 福建麵
+- 你沒有讀錯，英文因是福建話台語發音。新加坡有些小販中心早上就在賣這類食食物，不像台式早餐偏愛蛋餅豆漿或者三明治。
 
 > 4. Chicken Rice
 Although it’s just a simple combination of boiled chicken, paired with flavorful rice and sauce, this Hainanese influenced dish, ranks as one of the most popular and beloved dishes to eat in Singapore (it’s also extremely popular in Thailand, known as khao man gai).
@@ -35,10 +43,12 @@ Although it’s just a simple combination of boiled chicken, paired with flavorf
 > 5. Char Kway Teow
 When it comes to stir fried noodles in Singapore, one of the ultimate local favorites is char kway teow, a dish of flat wide rice noodles, stir fried with egg, a sauce of dark soy sauce, shrimp paste, a bit of chili, and often some Chinese sausage and blood cockles to finish it off.
 - 炒粿條
+- 你沒有讀錯，英文因是福建話台語發音。新加坡有些小販中心早上就在賣這類食食物，不像台式早餐偏愛蛋餅豆漿或者三明治。
 
 > 6. Carrot Cake (Chai Tow Kway)
 Another one of the standard Singapore dishes that you’ll find at just about every hawker food centre throughout the city is chai tow kway, which is very commonly referred to as a carrot cake.
 - 蘿蔔糕
+- 新加坡有白根黑兩種作法。黑得比較偏甜。
 
 > 7. Wanton Mee
 One of the popular Chinese Cantonese dishes that’s available at just about all hawker centre food courts throughout Singapore is wantan mee, the familiar combination of yellow egg noodles, wanton dumplings, some small boiled vegetables, and often some slices of char siu. Given a choice of noodles, egg noodles are one of my favorites.
@@ -52,10 +62,12 @@ Bee hoon is a type of rice noodle, which as I was eating, reminded me specifical
 > 9. Bak Chor Mee
 Although there are similar versions of the dish served in China and throughout Southeast Asia, according to this article on Yahoo, bak chor mee is a true Singaporean dish. Bak chor mee, meaning minced pork and noodles, usually consists of egg noodles, topped with minced pork, some other pork ingredients, and a sauce made with vinegar, chili, and soy sauce.
 - 肉挫麵
+- 也是常見的一種小販中心美食，類似台灣的扁麵乾麵再加上豬肝 肉碎 魚丸等等，再淋上醬汁。
 
 > 10. Oyster omelette (Orh Luak)
 Popular and available throughout much of Asia and Southeast Asia, and also a favorite of mine in Thailand, is an oyster omelette, known in Singapore as orh luak.
 - 蚵煎
+- 幾乎是台灣的蚵仔煎，差別在於新加坡的蚵煎 太白粉勾芡較乾，少青菜。
 
 > 11. Yong Tau Foo
 Yong tau foo, which literally translates to stuffed bean curd, is a traditional Chinese dish, that’s especially common among Hakka Chinese, who are very well represented throughout Singapore. There are many different kinds of yong tau foo, and I think many vendors have their own mix and style.
