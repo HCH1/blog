@@ -31,12 +31,19 @@
 
 一行禪師的擒縱機構讓每隔一刻擊鼓，每隔一時辰撞鐘，其本身就是撞鐘的一種。[6][7]不像現代擒縱機構採用懸吊震盪擺臂以停留/釋放這機構里小型旋轉齒輪上的鉤子，中國古代早期的擒縱機構利用重力與水力來達成目的。[8]
 
+## demo
 ## Clockwerk - A 3D Printed, Three-Axis Tourbillon
-
 https://www.thingiverse.com/thing:1624844
 
 https://www.youtube.com/watch?v=zdR57-fh0Fo
 
+## Hawk Eye : a three axis tourbillon project
+https://www.thingiverse.com/thing:2901179
+
+https://www.youtube.com/watch?time_continue=93&v=9-1fbvMbkyw
+
+## Patek Philippe 百達翡翠
+https://www.patek.com/en/company/savoir-faire/attention-to-details
 
 ## 3D列印
 https://www.thingiverse.com/search?q=Tourbillon&dwh=765d99f6d2b5397
