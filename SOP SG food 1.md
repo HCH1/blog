@@ -14,6 +14,9 @@
 > 1. Laksa
 Laksa is one of the ultimate demonstrations of the combination of Chinese and Malay flavors and ingredients all in a single bowl. Noodles, often rice noodles, make up the foundation and starch of a bowl of laksa, followed by a gravy or curry, some pieces of protein, and often some vegetables and herbs.
 - 叨沙
+
+補充：
+
 - 喇沙（馬來語：Laksa）或叻沙是一道起源於南洋的麵食料理，為馬來西亞和新加坡的代表性料理。叻沙有非常多不同的種類，不同族群和地方對於叻沙的做法和味道也有極大差異，一般馬來西亞和新加坡華人所指的叻沙多為咖哩叻沙(Curry Laksa)或亞參叻沙(Asam Laksa)。其中亞參叻沙在2011年被美國有線電視新聞網絡（CNN）旗下的旅遊網站CNNGO，選為全球50大美食中的第7名，而咖哩叻沙則被赫芬頓郵報（The Huffington Post）評選為死前必嘗的世界十大美食之一。
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/sgfood2.JPG)
@@ -72,6 +75,7 @@ Popular and available throughout much of Asia and Southeast Asia, and also a fav
 > 11. Yong Tau Foo
 Yong tau foo, which literally translates to stuffed bean curd, is a traditional Chinese dish, that’s especially common among Hakka Chinese, who are very well represented throughout Singapore. There are many different kinds of yong tau foo, and I think many vendors have their own mix and style.
 - 釀豆腐
+- 類似台灣滷味的概念，很多蔬菜，肉片，豆腐皮等等的菜色讓你夾到籃子裡，然後用湯底川燙，湯底大多有清湯，麻辣或者叨沙。
 
 > 12. Roast Meat / Roast Duck
 Different types of roast meat, typically including pork, pork belly, duck, and chicken, are widely available in Singapore at Cantonese style roast meat restaurants. The meat, is all marinated in a variety of different seasonings and roasted until the skin is golden and slightly charred for ultimate tender and juiciness and that amazing smoky flavor.
@@ -86,6 +90,7 @@ Zi char (also spelled cze char) is the Hokkien Chinese word for cooked food, usu
 
 > 15. Kaya Toast, Coffee, Soft Boiled Egg
 Blending the Malay and Chinese culture, Singapore has a strong traditional social coffee shop culture. Traditionally known as kopitiams, open air coffee shops are a place to have a cup of coffee or tea, a few snacks, and just sit and chat or spend time with friends.
+- 咖椰吐司與半熟蛋，再配上一杯熱咖啡，是新加坡人老一輩的傳統早餐吃法。咖椰吐司味道香濃田雃且有椰香味，有些人滿愛的。
 
 > 16. Rojak
 Truly a contrasting combination of both textures and flavors, rojak is the ultimate concoction for throwing your taste buds into a sweet and salty frenzy. Since rojak literally just means “mixture,” there are all sorts of different types, and in Singapore both Chinese rojak and Indian Rojak are common at food hawker centres.
@@ -93,6 +98,11 @@ Truly a contrasting combination of both textures and flavors, rojak is the ultim
 > 17. Satay
 Although originally from Indonesia with influence from India and the Middle East, satay (or sate) is very popular throughout Southeast Asia, and common to find at hawker food centres throughout Singapore.
 - 沙嗲
+- 類似串燒。主要是醬汁是使用附帶辛辣的花生沾醬，切塊的洋蔥和黃瓜。
+
+補充：
+
+- 沙嗲（印尼語：Sate，馬來語：Satay），又名沙嗲串燒、沙嗲串，是一種東南亞的烤肉串，通常肉以醬汁先醃過再烤[1]。沙嗲的食材可能是切片或切塊的雞肉、羊肉、牛肉、豬肉、魚，其它肉類，或豆腐。沙嗲雖然經常使用竹籤串肉，但比較正統的是以椰子樹葉的梗串肉。沙嗲通常以木材或木炭烤，然後吃時可以再加上各種辛辣的沙嗲醬調味。
 
 > 18. Ice Kacang
 It seems that just about every country throughout the world has their own version of a crushed or shaved ice dessert, and in Singapore that treat is called an ice kacang.
@@ -100,6 +110,7 @@ It seems that just about every country throughout the world has their own versio
 > 19. Durian
 Although durian is the only food on this list that needs no cooking preparation and is perfect in its all natural state of being, I had to include it because it’s such an obsession in Singapore, and it can be treated like an entire meal… and if I’m being honest with you, it was an excuse so that I could justify eating durian in Singapore. Luckily, I didn’t have any trouble convincing my wife that we needed to have during in Singapore, her being a lover of the King of Fruits as well.
 - 榴槤
+- 去新加坡玩或者馬來西亞旅遊，一定要嘗試當地榴蓮。我以前在台灣不吃榴蓮的，冰在冰箱也不吃。後來才知道台灣榴槤大多是泰國品種。後來來到新加坡工作的前三個月，抽空去吃了馬來西亞品種的榴蓮，改變了我對榴槤的看法！現在我非常愛吃榴蓮！現在只要是在產季的那幾個月，一定會揪朋友吃個幾次！。新加坡的榴蓮偏貴，馬來西亞便宜一半至少。然後品種很多，貓山王就是耳熟能響的好品質但是價錢也偏高，一公斤大概多塊新幣，1kg~30sgd$。
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/sgfood4.JPG)
 
@@ -108,6 +119,14 @@ Back in 2009, I took my first trip to Sumatra, Indonesia, and I was introduced t
 
 > 21. Nasi Lemak
 Nasi lemak is one of the most well known Malay dishes, and when I’m in Malaysia, it’s one of the first meals I try to seek out as soon as I arrive. So I was also excited to taste a Singapore version of nasi lemak.
+
+補充：
+
+椰漿飯的馬來文是「nasi lemak」，「nasi」意為飯，lemak本意是油脂，這裡指的是椰漿；就是把米浸泡在椰漿裡後再煮成飯而得名。一般可用普遍鍋子或電飯鍋；有時候也會將打了個結的班蘭葉放入鍋裡一起煮，亦可加入香料如黃薑、香茅以增加椰漿飯的香味。
+
+傳統上，一盤椰漿飯裡要有黃瓜切片、小江魚仔、烤花生、已攪炸過的蕹菜、全熟蛋（水煮蛋或煎蛋）、印度式醃菜與參峇醬（一種由蝦醬與辣椒製成的醬料）。椰漿飯也可以有別的佐料，如雞肉、章魚或烏賊、鳥蚌、印度脆餅、牛肉咖哩（把牛肉燜在椰漿與香料的混和物）或「巴魯」（牛肺）。傳統上，大多數的佐料是熱辣性質的以及清涼解熱的黃瓜。
+
+椰漿飯傳統上是用來當早餐吃的，在清晨開始就在馬來西亞的路邊檔口販賣，現在在菜市檔口或店家都有售賣。通常是以報紙、油紙或香蕉葉包住賣的。無論如何，也有些餐廳把它盛在盤上當午餐或晚餐吃，讓它有機會被認為是一大佳肴。
 
 > 22. Murtabak
 Originally an Arab food, but popular throughout Singapore and influenced by Indian flavors as well, a murtabak is yet another example of a beautiful fusion of cultures through food. Murtabak is essentially a stuffed roti, that can be filled with a choice of different fillings.
