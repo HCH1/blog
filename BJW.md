@@ -3,6 +3,23 @@
 ## [blog](http://www.sharejunction.com/sharejunction/listMessage.htm?topicId=19254&searchString=&msgbdName=Shinvest&topicTitle=%3CNo%20Title%3E)
 
 ## news
+Just sharing.
+
+Espressif major customer is Tuya Smart.
+The sales to Tuya in Year 2018 increased around 5 times as compared to Year 2017.
+Details from Espressif IPO prospectus. 
+
+Tuya Smart  &ndash Tuya Smart is an IoT solution provider for device manufacturers. Their platform enables fast, agile app development, allowing smart device manufacturers to bring their product to market quickly and at competitive prices. Tuya Smart is founded by Jerry Wang, a founding executive of AliYun, Alibaba&rsquo s cloud division, along with a group of veterans from Alibaba, Baidu and Haier Electronics. With extensive knowledge in cloud computing, software development, and hardware and supply chain management, Tuya Smart' s team is enabling manufacturers to produce next-generation smart, connected products. Tuya has raised a total of $200M in funding over 3 Their latest funding was raised on Jul 24, 2018, from a Series C round.
+
+主要客户是Tuya Smart。
+
+2018年对图雅的销售额是2017年的**5倍**左右。
+
+详情来自IPO招股说明书。
+
+**Tuya Smart是为设备制造商提供物联网解决方案**的提供商。他们的平台支持快速、敏捷的应用程序开发，允许智能设备制造商以有竞争力的价格快速将产品推向市场。Tuya Smart是由阿里巴巴云计算部门阿里云(AliYun)的创始高管王杰(Jerry Wang)与一群来自阿里巴巴、百度和海尔电子(Haier Electronics)的资深人士共同创立的。凭借在云计算、软件开发、硬件和供应链管理方面的丰富知识，图雅智能的团队正在帮助制造商生产下一代智能互联产品。图雅已经筹集了**2亿美元的资金，超过了3亿美元。他们最近一次融资是在2018年7月24日，通过C轮融资。**
+
+## news
 Official liao. Just released by company via SGX.
 
 SHINVEST HOLDING LTD. (Incorporated in the Republic of Singapore on 16 December 1989) (Company Registration No. 198905519R)
