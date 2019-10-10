@@ -3,6 +3,23 @@
 ## [blog](http://www.sharejunction.com/sharejunction/listMessage.htm?topicId=19254&searchString=&msgbdName=Shinvest&topicTitle=%3CNo%20Title%3E)
 
 ## news
+MSCI： 科 创 板 符 合 条 件 的 证 券 将 纳 入 MSCI全 球 可 投 资 市 场 指 数 (GIMI)
+
+明 晟 公 司 (MSCI)宣 布 将 从 2019年 11月 起 ， 上 海 科 创 板 符 合 条 件 的 证 券 将 纳 入 MSCI全 球 可 投 资 市 场 指 数 (GIMI)。
+
+科 创 板 正 式 被 纳 入 MSCI指 数 体 系 。
+
+10月 10日 ， 全 球 最 大 的 指 数 公 司 明 晟 公 司 (MSCI)宣 布 ， 将 从 2019年 11月 起 ， 科 创 板 符 合 条 件 的 证 券 将 纳 入 MSCI全 球 可 投 资 市 场 指 数 (GIMI)。
+
+　 　 MSCI方 面 称 ， 具 体 而 言 ， 在 科 创 板 上 市 的 证 券 将 被 纳 入 MSCI中 国 指 数 及 其 衍 生 指 数 ， 前 提 是 这 些 证 券 符 合 MSCI 可 投 资 市 场 方 法 所 规 定 的 必 要 资 格 要 求 ， 包 括 沪 深 港 通 的 资 格 。 此 外 ， 在 科 创 板 上 市 的 证 券 也 将 有 资 格 纳 入 MSCI全 中 国 股 票 指 数 (MSCI China All Shares)和 MSCI中 国 A股 在 岸 指 数 (MSCI China A Onshore Indexes)及 这 些 指 数 的 衍 生 指 数 。
+
+　 　 7月 26日 ， 沪 深 港 三 家 交 易 所 表 示 ， 已 就 科 创 板 A+H公 司 股 票 纳 入 沪 深 港 通 股 票 范 围 安 排 达 成 共 识 。
+
+　 　 根 据 沪 深 港 通 现 行 业 务 规 则 ， A+H股 公 司 股 票 属 于 沪 深 港 通 股 票 范 围 ， 原 则 上 包 括 在 上 交 所 科 创 板 上 市 的 A股 及 其 对 应 的 H股 。 但 由 于 上 交 所 科 创 板 是 一 个 全 新 的 板 块 ， 在 交 易 、 监 管 、 投 资 者 适 当 性 管 理 等 方 面 与 上 交 所 主 板 存 在 差 异 ， 通 过 沪 股 通 参 与 科 创 板 交 易 需 要 进 行 相 应 的 业 务 、 技 术 评 估 及 准 备 工 作 。
+
+　 　 有 鉴 于 此 ， 沪 深 港 交 易 所 经 协 商 决 定 ， A+H股 上 市 公 司 的 A股 为 科 创 板 股 票 的 ， 将 在 沪 港 两 市 相 关 业 务 技 术 准 备 工 作 完 成 后 纳 入 沪 股 通 股 票 ， 具 体 纳 入 时 间 另 行 公 布 ； 而 基 于 对 等 原 则 ， 其 对 应 的 H股 届 时 也 将 同 步 纳 入 沪 深 港 通 下 的 港 股 通 股 票 。
+
+## news
 Just sharing.
 
 Espressif major customer is Tuya Smart.
