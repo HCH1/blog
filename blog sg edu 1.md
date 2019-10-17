@@ -20,8 +20,10 @@ The school year is divided into two semesters. The first begins in the beginning
 Level/Grade Typical age
 
 Preschool
+```
 - Pre-school playgroup	3–4
 - Kindergarten	4–6
+```
 
 Primary school (Children enter P1 upon the year they turn 7)
 - Primary 1	6–7
