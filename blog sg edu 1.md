@@ -54,8 +54,8 @@ After six years of Primary education, students will have to sit for the **nation
 
 - [ref wiki](https://en.wikipedia.org/wiki/Education_in_Singapore)
 
-## 
-- [CreativEdge Learning](https://www.creativelearning.com.sg/about-2/)
+## CreativEdge Learning
+- [website官網](https://www.creativelearning.com.sg/about-2/)
 
 We specialise in the developing and instruction of **English and composition writing programmes for Primary 1 to Primary 6** pupils. 
 
@@ -129,7 +129,8 @@ With the right mindset, your child learns to be a motivated learner who manages 
 ## About Creativedge Learning Pte Ltd
 Creativedge Learning is a boutique learning centre. We specialise in the teaching of English and English composition to students from Primary 1 to Primary 6.
 
-## [Testimonials 家長推薦：Ｄ](https://www.creativelearning.com.sg/testimonials/)
+- [Testimonials家長推薦：Ｄ](https://www.creativelearning.com.sg/testimonials/)
+- [facebook](https://www.facebook.com/creativedgelearning/)
 
 ## how to go?
 5 Tank Road #02-01 Singapore 238061
