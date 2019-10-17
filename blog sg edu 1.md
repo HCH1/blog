@@ -138,7 +138,7 @@ Creativedge Learning is a boutique learning centre. We specialise in the teachin
 5 Tank Road #02-01 Singapore 238061
 
 - [map](https://www.google.com.sg/maps/dir/Newton+MRT+Station/5+Tank+Rd,+%2302-01+CreativEdge+Learning,+Singapore+238061/@1.2966655,103.8277856,14z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x31da19eebf115faf:0x45f1832a3cda505c!2m2!1d103.8380316!2d1.3137871!1m5!1m1!1s0x31da199d6cd2f07b:0x8fb28c32478a8e78!2m2!1d103.842785!2d1.293996!3e3?hl=zh-TW)
-```
+
 ## phone
 69099179
 
@@ -160,5 +160,5 @@ Lunch Break
 
 Sunday
 - Sorry, we're closed
-```
+
 ## End
