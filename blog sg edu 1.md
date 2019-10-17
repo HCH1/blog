@@ -69,6 +69,8 @@ In collaboration with Casco Publishing , we have published another set of compos
 
 For our English and composition-writing programmes, we make the best use of our extensive teaching experience and learning resources to tailor the most beneficial English programme and learning experience for your child.
 
+![f1](https://github.com/HCH1/blog/blob/master/fig/sgedu2.JPG)
+
 我们专门为小一至小六学生发展和教授**英语和作文写作**课程。
 
 十年来，我们在多所小学，例如中华学校、圣安德鲁斯中学、玛利蒙特修院、圣若瑟书院(小学部)及玛利斯斯特拉小学，进行英语及写作训练。
