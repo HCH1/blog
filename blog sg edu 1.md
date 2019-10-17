@@ -55,7 +55,7 @@ After six years of Primary education, students will have to sit for the **nation
 - [ref wiki](https://en.wikipedia.org/wiki/Education_in_Singapore)
 
 ## 
--[CreativEdge Learning](https://www.creativelearning.com.sg/about-2/)
+- [CreativEdge Learning](https://www.creativelearning.com.sg/about-2/)
 
 We specialise in the developing and instruction of **English and composition writing programmes for Primary 1 to Primary 6** pupils. 
 
@@ -127,22 +127,35 @@ With the right mindset, your child learns to be a motivated learner who manages 
 有了正确的心态，你的孩子就会学习成为一个积极的学习者，以积极的态度管理学业
 
 ## 
--[]()
--[]()
--[]()
+- []()
 
 ## About Creativedge Learning Pte Ltd
 Creativedge Learning is a boutique learning centre. We specialise in the teaching of English and English composition to students from Primary 1 to Primary 6.
 
+## - [Testimonials 家長推薦：Ｄ](https://www.creativelearning.com.sg/testimonials/)
+
+
 ## how to go?
 5 Tank Road #02-01 Singapore 238061
 
--[map](https://www.google.com.sg/maps/dir/Newton+MRT+Station/5+Tank+Rd,+%2302-01+CreativEdge+Learning,+Singapore+238061/@1.2966655,103.8277856,14z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x31da19eebf115faf:0x45f1832a3cda505c!2m2!1d103.8380316!2d1.3137871!1m5!1m1!1s0x31da199d6cd2f07b:0x8fb28c32478a8e78!2m2!1d103.842785!2d1.293996!3e3?hl=zh-TW)
+- [map](https://www.google.com.sg/maps/dir/Newton+MRT+Station/5+Tank+Rd,+%2302-01+CreativEdge+Learning,+Singapore+238061/@1.2966655,103.8277856,14z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x31da19eebf115faf:0x45f1832a3cda505c!2m2!1d103.8380316!2d1.3137871!1m5!1m1!1s0x31da199d6cd2f07b:0x8fb28c32478a8e78!2m2!1d103.842785!2d1.293996!3e3?hl=zh-TW)
 
 ## phone
 69099179
 
 ## email
 enquiry@creativelearning.com.sg
+
+## Open Hours
+Monday to Friday
+- 10:00 AM - 6:00 PM
+Lunch Break
+- 1:00 PM - 2:00 PM
+Saturday
+- 10:00 AM - 6:00 PM
+Lunch Break
+- 1:00 PM - 2:00 PM
+Sunday
+- Sorry, we're closed
 
 ## End
