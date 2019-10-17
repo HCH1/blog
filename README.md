@@ -1,10 +1,9 @@
-# Welcome to my blog :D
+# Welcome to my blog :D SOHO數據分析可視化 新加坡旅拍幫拍導覽 (內洽)
 ## about me
 - 📍 Singapore.
 - ©️ Skill: (1) data visualization (2) trip photographer (3) SEO/blog setup
 - 技能: (1) SOHO數據分析可視化 (2) 新加坡旅拍幫拍導覽 (3) 搜尋引擎最佳化/部落格架設
 
-## SOHO數據分析可視化 新加坡旅拍幫拍導覽 (內洽)
 ![f1](https://github.com/HCH1/blog/blob/master/fig/pt11.png)
 
 ## 數據分析可視化 data lover
