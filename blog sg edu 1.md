@@ -126,14 +126,10 @@ With the right mindset, your child learns to be a motivated learner who manages 
 
 有了正确的心态，你的孩子就会学习成为一个积极的学习者，以积极的态度管理学业
 
-## 
-- []()
-
 ## About Creativedge Learning Pte Ltd
 Creativedge Learning is a boutique learning centre. We specialise in the teaching of English and English composition to students from Primary 1 to Primary 6.
 
 ## [Testimonials 家長推薦：Ｄ](https://www.creativelearning.com.sg/testimonials/)
-
 
 ## how to go?
 5 Tank Road #02-01 Singapore 238061
