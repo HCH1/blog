@@ -132,7 +132,7 @@ With the right mindset, your child learns to be a motivated learner who manages 
 ## About Creativedge Learning Pte Ltd
 Creativedge Learning is a boutique learning centre. We specialise in the teaching of English and English composition to students from Primary 1 to Primary 6.
 
-## - [Testimonials 家長推薦：Ｄ](https://www.creativelearning.com.sg/testimonials/)
+## [Testimonials 家長推薦：Ｄ](https://www.creativelearning.com.sg/testimonials/)
 
 
 ## how to go?
@@ -149,12 +149,16 @@ enquiry@creativelearning.com.sg
 ## Open Hours
 Monday to Friday
 - 10:00 AM - 6:00 PM
+
 Lunch Break
 - 1:00 PM - 2:00 PM
+
 Saturday
 - 10:00 AM - 6:00 PM
+
 Lunch Break
 - 1:00 PM - 2:00 PM
+
 Sunday
 - Sorry, we're closed
 
