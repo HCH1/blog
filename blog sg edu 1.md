@@ -17,7 +17,7 @@ The main language of instruction in Singapore is English, which was officially d
 ## School grades
 The school year is divided into two semesters. The first begins in the beginning of January and ends in May; the second begins in July and ends in November.
 
-Level/Grade	| Typical age
+Level/Grade Typical age
 
 Preschool
 - Pre-school playgroup	3–4
@@ -30,6 +30,23 @@ Primary school (Children enter P1 upon the year they turn 7)
 - Primary 4	9–10
 - Primary 5	10–11
 - Primary 6	11–12
+
+## Kindergartens
+Kindergartens in Singapore provide up to three years of pre-school for children ages three to six. The three years are commonly called Nursery, Kindergarten 1 (K1) and Kindergarten 2 (K2), respectively.
+
+Kindergartens provide an environment for children to learn how to interact with others, and to prepare them for formal education at Primary school. Activities include learning language – written and oral – and numbers, development of personal and social skills, games, music, and outdoor play. Children learn two languages, English and their official Mother Tongue (Mandarin, Malay, or Tamil). Many private or church-based kindergartens might not offer Malay or Tamil, so non-Chinese pupils might also learn some Standard Mandarin in these kindergartens.
+
+The kindergartens are run by the private sector, including community foundations, religious bodies, and civic or business groups. There are more than 200 kindergartens registered with the Ministry of Education. Kindergartens are also run by child care centres as well as international schools.
+
+The People's Action Party, which has governed Singapore since 1957, runs over 370 kindergartens through its charitable arm, the PAP Community Foundation.
+
+新加坡的幼儿园为三至六岁的儿童提供长达三年的学前教育。这三年通常分别被称为幼儿园，幼儿园1 (K1)和幼儿园2 (K2)。
+
+幼儿园为孩子们提供了一个学习如何与他人互动的环境，并为他们在小学接受正式教育做准备。活动包括学习语言-书面和口头-和数字，发展个人和社会技能，游戏，音乐，和户外游戏。孩子们学习两种语言，英语和他们的官方母语(普通话、马来语或泰米尔语)。许多私立或教会性质的幼儿园可能不提供马来语或泰米尔语，因此非华人学生也可以在这些幼儿园学习一些标准的普通话。
+
+幼儿园由私营部门管理，包括社区基金会、宗教团体、公民或商业团体。教育部登记的幼儿园有200多所。幼稚园亦由幼儿中心及国际学校管理。
+
+人民行动党自1957年执政以来，通过其慈善机构——人民行动党社区基金会管理着370多所幼儿园。
 
 - [ref wiki](https://en.wikipedia.org/wiki/Education_in_Singapore)
 
