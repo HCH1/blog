@@ -1,5 +1,5 @@
 # 2019 Education in Singapore study (Primary 1-6):
-![f1](https://github.com/HCH1/blog/blob/master/fig/sgedu1.png)
+![f1](https://github.com/HCH1/blog/blob/master/fig/sgedu1.jpg)
 
 ## intro
 Education in Singapore is managed by the Ministry of Education (MOE), which controls the development and administration of state schools receiving taxpayers' funding, but also has an advisory and supervisory role in respect of private schools. For both private and state schools, there are variations in the extent of autonomy in their curriculum, scope of taxpayers' aid and funding, tuition burden on the students, and admission policy.
