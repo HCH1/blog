@@ -55,6 +55,8 @@ After six years of Primary education, students will have to sit for the `nationa
 - [ref wiki](https://en.wikipedia.org/wiki/Education_in_Singapore)
 
 ## One of the best learning center for Primary 1-6 kids in Singapore
+小孩子的教育很重要，推薦幾家新加坡不錯的小學補習班。有別於傳統的填鴨式教育，而更注重在於語言學習與創意激發。
+
 ## CreativEdge Learning
 - [website官網](https://www.creativelearning.com.sg/about-2/)
 
