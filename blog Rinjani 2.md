@@ -44,6 +44,28 @@ Oct-27 Sun：
 - 1-2 pm Lombok to Bali
 - 6-7 pm Bali to SIN
 
+## Bellow are list of items you should carry during the trek programme. All items to be packed in a small backpack no more than 5 kgs.
+- Small headlamp with spare batteries. (Only If You Hike to The Summit)
+- 1 pair champ shoes/trek shoes are good.
+- 1. Toiletries.
+- 2. Personal medications
+- Sun block/lotion, hat/cap, sun glasses.
+- Spray for muscle/balm.
+- Insect repellent.
+- Camera, Handy Cam and batteries (Manual or Digital). 
+- Small towel.
+- 2-4 cotton T-shirts 
+- Long trek pants/wind proof.
+- 1. Windproof Jacket.
+- 2. Warmest jacket
+- 3. Rain coat
+- 2 pcs. of shorts.
+- Trek stick/leaky (optional).
+- Sandals (optional).
+- Binocular (optional).
+- Extra trail snack (we supply fruits, Menu)
+- Garbage Plastic can.
+
 ## flights
 - [flights sin to bali oct 24](https://www.google.com.sg/flights?hl=zh-TW&authuser=1&lite=0#flt=/m/06t2t.DPS.2019-10-24;c:SGD;e:1;sd:1;t:f;tt:o)
 
