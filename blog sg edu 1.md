@@ -1,4 +1,4 @@
-# 2019 Education in Singapore study (Primary 1-6); intro Creativedge Learning (One of the best learning center for Primary 1-6 kids)
+# 2019 Education in Singapore study (Primary 1-6); intro Creativedge Learning (One of the best learning center for Primary 1-6 kids) 新加坡小學的語言教育與創意激發
 ![f1](https://github.com/HCH1/blog/blob/master/fig/sgedu1.JPG)
 
 ## intro
