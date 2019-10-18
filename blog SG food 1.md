@@ -110,7 +110,7 @@ It seems that just about every country throughout the world has their own versio
 > 19. Durian
 Although durian is the only food on this list that needs no cooking preparation and is perfect in its all natural state of being, I had to include it because it’s such an obsession in Singapore, and it can be treated like an entire meal… and if I’m being honest with you, it was an excuse so that I could justify eating durian in Singapore. Luckily, I didn’t have any trouble convincing my wife that we needed to have during in Singapore, her being a lover of the King of Fruits as well.
 - 榴槤
-- 去新加坡玩或者馬來西亞旅遊，一定要嘗試當地榴蓮。我以前在台灣不吃榴蓮的，冰在冰箱也不吃。後來才知道台灣榴槤大多是泰國品種。後來來到新加坡工作的前三個月，抽空去吃了馬來西亞品種的榴蓮，改變了我對榴槤的看法！現在我非常愛吃榴蓮！現在只要是在產季的那幾個月，一定會揪朋友吃個幾次！。新加坡的榴蓮偏貴，馬來西亞便宜一半至少。然後品種很多，貓山王就是耳熟能響的好品質但是價錢也偏高，一公斤大概多塊新幣，1kg~30sgd$。
+- 去新加坡玩或者馬來西亞旅遊，一定要嘗試當地榴蓮。我以前在台灣不吃榴蓮的，冰在冰箱也不吃。後來才知道台灣榴槤大多是泰國品種。後來來到新加坡工作的前三個月，抽空去吃了馬來西亞品種的榴蓮，改變了我對榴槤的看法！現在我非常愛吃榴蓮！現在只要是在產季的那幾個月，一定會揪朋友吃個幾次！。新加坡的榴蓮偏貴，馬來西亞便宜一半至少。然後品種很多，貓山王就是耳熟能響的好品質但是價錢也偏高，一公斤大概三十多塊新幣，1kg~30sgd$。
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/sgfood4.JPG)
 
