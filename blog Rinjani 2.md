@@ -1,4 +1,4 @@
-# Rinjani 2 Days 1 Night to Crater Rim
+# Rinjani 2 Days 1 Night to Crater Rim 印尼火山健行 山湖山秘境打卡推薦(懶人包) 
 ![f2](https://github.com/HCH1/blog/blob/master/fig/rinjani3.png)
 
 ## intro
