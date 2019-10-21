@@ -40,6 +40,7 @@ Oct-25 Fri：
 Oct-26 Sat：
 - 7am - 2pm Rinjani
 - Sendang Gile Waterfall
+- Kaya Spa Airport
 
 Oct-27 Sun：
 - 1-2 pm Lombok to Bali
