@@ -39,9 +39,11 @@ Oct-25 Fri：
 
 Oct-26 Sat：
 - 7am - 2pm Rinjani
+- Sendang Gile Waterfall
 
 Oct-27 Sun：
 - 1-2 pm Lombok to Bali
+- In Balance Spa by Novotel Ngurah Rai Airport Powered By Gaya Spa
 - 6-7 pm Bali to SIN
 
 ## Bellow are list of items you should carry during the trek programme. All items to be packed in a small backpack no more than 5 kgs.
