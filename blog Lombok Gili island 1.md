@@ -41,7 +41,7 @@ If you wanna have some paradise feeling without much tourism on Lombok, you defi
 
 In particular, Gili Kapal was my favorite: the tiniest island I’ve ever visited only consists of sand and was the highlight of my island hopping tour! More about it later…
 ```
-龙目岛东部的“”仍然是一个未被发现的“”，而且是岛上人迹罕至的地方。在这里你还可以找到一些属于龙目岛附近最不为人知的Gili岛:
+龙目岛东部的仍然是一个未被发现的，而且是岛上人迹罕至的地方。在这里你还可以找到一些属于龙目岛附近最不为人知的Gili岛:
 
 Gili Kondo、Gili Bidara、Gili Kapal和Gili Lampu。
 
@@ -51,7 +51,7 @@ Gili Kondo、Gili Bidara、Gili Kapal和Gili Lampu。
 
 特别是当你在寻找有五颜六色的珊瑚(仍然活着)和鱼的浮潜点的时候。
 
-特别是Gili Kapal是我最喜欢的:我去过的最小的岛屿只有沙子，这是我跳岛之旅的亮点!稍后再说……
+特别是Gili Kapal是我最喜欢的:我去过的最小的岛屿只有沙子，这是我跳岛之旅的亮点!
 ```
 ## How to get there
 You can do a tour to the Gili islands in East Lombok perfectly as a day trip, but you should leave very early. The drive from e.g. Senggigi to the small harbor not too far from the Gilis in the east, which is located about 10 kilometers north from the big harbor Labuhan Lombok, takes around ``2 hours```.
@@ -63,7 +63,7 @@ Usually the first stop of this island hopping tour is the ```mangrove island Gil
 ```
 你可以到东龙目岛的吉利群岛进行一次完美的一日游，但你应该早点出发。从Senggigi到离Gilis不远的小港口在东部，
 
-它位于大港Labuhan Lombok以北10公里处，大约需要“2小时”。
+它位于大港Labuhan Lombok以北10公里处，大约需要2小时。
 
 去龙目岛东部的路本身就有两个有趣的景点:一个美丽的全景风景的山脉和火山的林贾尼山和巨大的树木在港口前的森林。
 
