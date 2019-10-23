@@ -36,16 +36,20 @@ A special experience and more time on the beautiful islands offers our 2 days 1 
 
 The ```east of Lombok is still an undiscovered``` and off the beaten track part of the island. Here you can also find some Gili islands that belong to the most unknown around Lombok: Gili Kondo, Gili Bidara, Gili Kapal and Gili Lampu.
 
-East Lombok – the secret Gili Islands
+## East Lombok – the secret Gili Islands
 If you wanna have some paradise feeling without much tourism on Lombok, you definitely should visit these islands. Especially when you’re looking for nice snorkeling spots with colorful corals (that are still alive) and fish.
 
 In particular, Gili Kapal was my favorite: the tiniest island I’ve ever visited only consists of sand and was the highlight of my island hopping tour! More about it later…
 ```
-龙目岛东部的“”仍然是一个未被发现的“”，而且是岛上人迹罕至的地方。在这里你还可以找到一些属于龙目岛附近最不为人知的Gili岛:Gili Kondo、Gili Bidara、Gili Kapal和Gili Lampu。
+龙目岛东部的“”仍然是一个未被发现的“”，而且是岛上人迹罕至的地方。在这里你还可以找到一些属于龙目岛附近最不为人知的Gili岛:
+
+Gili Kondo、Gili Bidara、Gili Kapal和Gili Lampu。
 
 东龙目岛——神秘的吉利群岛
 
-如果你想在龙目岛体验一下天堂般的感觉，而又不想去那里旅游，那你一定要去看看这些岛屿。特别是当你在寻找有五颜六色的珊瑚(仍然活着)和鱼的浮潜点的时候。
+如果你想在龙目岛体验一下天堂般的感觉，而又不想去那里旅游，那你一定要去看看这些岛屿。
+
+特别是当你在寻找有五颜六色的珊瑚(仍然活着)和鱼的浮潜点的时候。
 
 特别是Gili Kapal是我最喜欢的:我去过的最小的岛屿只有沙子，这是我跳岛之旅的亮点!稍后再说……
 ```
@@ -57,7 +61,9 @@ The way to the east of Lombok itself has already 2 interesting sights: a beautif
 ## Gili Lampu (Gili Petagan)
 Usually the first stop of this island hopping tour is the ```mangrove island Gili Petagan```. The island offers almost no beaches but already has the first snorkeling highlights with many corals and fish, including Nemos.
 ```
-你可以到东龙目岛的吉利群岛进行一次完美的一日游，但你应该早点出发。从Senggigi到离Gilis不远的小港口在东部，它位于大港Labuhan Lombok以北10公里处，大约需要“2小时”。
+你可以到东龙目岛的吉利群岛进行一次完美的一日游，但你应该早点出发。从Senggigi到离Gilis不远的小港口在东部，
+
+它位于大港Labuhan Lombok以北10公里处，大约需要“2小时”。
 
 去龙目岛东部的路本身就有两个有趣的景点:一个美丽的全景风景的山脉和火山的林贾尼山和巨大的树木在港口前的森林。
 
@@ -68,9 +74,15 @@ Let’s go to the tiny island Gili Kapal – which is actually only a big sandba
 
 So obviously, it’s best to visit Gili Kapal during low tide. During this time the water is so flat, that you can walk very far in the crystal clear water at the east side and have a view at Sumbawa. The other side is still good for swimming and snorkeling.
 ```
-让我们去小岛Gili Kapal -它实际上只是一个大沙洲，你可以在几秒钟内到达另一端。这就是为什么有时它被称为Gili Gosong(在印度尼西亚“Gosong”的意思是沙洲)。根据涨潮或退潮的情况，这个岛可能很难到达，因为它几乎完全在水下。然后就有了Gili Kosong这个名字。这是一个有趣的印度尼西亚文字游戏，因为“kosong”的意思是空的。
+让我们去小岛Gili Kapal -它实际上只是一个大沙洲，你可以在几秒钟内到达另一端。这就是为什么有时它被称为Gili Gosong
 
-所以很明显，最好在低潮的时候去拜访Gili Kapal。在这段时间里，水是如此的平坦，你可以在东边清澈的水中走很远的距离，在Sumbawa可以看到风景。另一边仍然适合游泳和浮潜。
+(在印度尼西亚“Gosong”的意思是沙洲)。根据涨潮或退潮的情况，这个岛可能很难到达，因为它几乎完全在水下。
+
+然后就有了Gili Kosong这个名字。这是一个有趣的印度尼西亚文字游戏，因为“kosong”的意思是空的。
+
+所以很明显，最好在低潮的时候去拜访Gili Kapal。在这段时间里，水是如此的平坦，你可以在东边清澈的水中走很远的距离，
+
+在Sumbawa可以看到风景。另一边仍然适合游泳和浮潜。
 ```
 I was instantly impressed by this island, even when there’s actually nothing to see. But the water is certainly the cleanest I’ve ever seen on Lombok and the other Gili islands – in a few places you have a South Sea or Maldives feeling!
 
