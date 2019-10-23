@@ -32,6 +32,21 @@ A special experience and more time on the beautiful islands offers our 2 days 1 
 - camping equipment (tent, sleeping bag, mattress)
 - guide
 
+## [blog East Lombok – the secret Gili Islands](https://homeiswhereyourbagis.com/en/gili-islands-east-lombok/)
+
+The east of Lombok is still an undiscovered and off the beaten track part of the island. Here you can also find some Gili islands that belong to the most unknown around Lombok: Gili Kondo, Gili Bidara, Gili Kapal and Gili Lampu.
+
+East Lombok – the secret Gili Islands
+If you wanna have some paradise feeling without much tourism on Lombok, you definitely should visit these islands. Especially when you’re looking for nice snorkeling spots with colorful corals (that are still alive) and fish.
+
+In particular, Gili Kapal was my favorite: the tiniest island I’ve ever visited only consists of sand and was the highlight of my island hopping tour! More about it later…
+
+## How to get there
+You can do a tour to the Gili islands in East Lombok perfectly as a day trip, but you should leave very early. The drive from e.g. Senggigi to the small harbor not too far from the Gilis in the east, which is located about 10 kilometers north from the big harbor Labuhan Lombok, takes around 2 hours.
+
+The way to the east of Lombok itself has already 2 interesting sights: a beautiful panorama view at the mountain scenery and the volcano Mount Rinjani and the Giant Tree Forest before the harbor.
+
+
 ## ref
 - [hallotrekker](http://hallotrekker.com/category/rinjani-trekking-packages/trekking-via-senaru/)
 - [blog](https://girleatworld.net/mount-rinjani-trekking-guide/)
