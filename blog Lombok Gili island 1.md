@@ -1,6 +1,13 @@
-#Secret Gili Kondo Wonderfull Tour – Snorkel, relax and camp at Gili Kondo
+# Secret Gili Kondo Wonderfull Tour – Snorkel, relax and camp at Gili Kondo
+![f1](https://github.com/HCH1/blog/blob/master/fig/.png)
 
-This boat trip leads you to the by tourism still undiscovered east of our island. There you will find four secret gilis of Lombok. Gili Kondo, Gili Lampu, Gili Bidara and Gili Kapal are still a hidden and uninhabited paradise where you find snorkel spots with wonderful corals, a mangrove forest and white sand beaches. One of the highlights of this trip is Gili Kapal. It fascinates as a sandbank within the clear water of the ocean between Lombok and Sumbawa.
+## intro
+- [lombok wiki](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=lombok+wiki)
+- [My Instagram](https://www.instagram.com/redbox111)
+
+
+## This boat trip leads you to the by tourism still undiscovered east of our island. 
+There you will find four secret gilis of Lombok. ```Gili Kondo, Gili Lampu, Gili Bidara and Gili Kapal``` are still a hidden and uninhabited paradise where you find snorkel spots with wonderful corals, a mangrove forest and white sand beaches. One of the highlights of this trip is Gili Kapal. It fascinates as a sandbank within the clear water of the ocean between Lombok and Sumbawa.
 
 ## Tour itinerary:
 After the breakfast in your guesthouse we will bring you by car to the east of Lombok. From there our guide takes you by boat to the four Gili islands. He will show you the best snorkeling spots as well as the best beaches for swimming and relaxing on Gili Bidara and Gili Kondo. You will spend time at Gili Kapal with its dreamlike white sand and drive through Gili Lampu the mangrove island.
@@ -16,4 +23,4 @@ A special experience and more time on the beautiful islands offers our 2 days 1 
 – camping equipment (tent, sleeping bag, mattress)
 – guide
 
-##End
+## End
