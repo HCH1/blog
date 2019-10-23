@@ -1,5 +1,5 @@
 # Secret Gili Kondo Wonderfull Tour – Snorkel, relax and camp at Gili Kondo 印尼龍目島海島遊和浮潛 秘境打卡推薦(懶人包) 
-![f1](https://github.com/HCH1/blog/blog/master/fig/gili1.JPG)
+![f1](https://github.com/HCH1/blog/blob/master/fig/gili1.JPG)
 
 ## intro
 - [lombok wiki](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=lombok+wiki)
