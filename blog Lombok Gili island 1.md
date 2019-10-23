@@ -67,7 +67,7 @@ Usually the first stop of this island hopping tour is the ```mangrove island Gil
 
 去龙目岛东部的路本身就有两个有趣的景点:一个美丽的全景风景的山脉和火山的林贾尼山和巨大的树木在港口前的森林。
 
-通常，这个跳岛之旅的第一站是“红树岛Gili Petagan”。岛上几乎没有海滩，但已经有了第一个浮潜亮点，有许多珊瑚和鱼类，包括Nemos。
+通常，这个跳岛之旅的第一站是“红树岛Gili Petagan”。岛上几乎没有海滩，但已经有了第一个浮潜亮点，有许多珊瑚和鱼类
 ```
 ## Gili Kapal (Gili Gosong)
 Let’s go to the tiny island Gili Kapal – which is actually only a big sandbar where you can reach the other end within a few seconds. This is why sometimes it’s called Gili Gosong (in Indonesian “Gosong” means sandbar). Depending on whether it’s high or low tide, it can happen that the island is hardly accessible because it’s almost completely under water. Then it gets the name Gili Kosong. This is a funny Indonesian wordplay since “kosong” means empty/vacant.
@@ -88,11 +88,67 @@ I was instantly impressed by this island, even when there’s actually nothing t
 
 And if you’re lucky, you can even have the sandbank island completely for yourself. Namely, when there are no other tourists at the moment. A total Robinson Crusoe feeling. Awesome!
 ```
-所以很明显，最好在低潮的时候去拜访Gili Kapal。在这段时间里，水是如此的平坦，你可以在东边清澈的水中走很远的距离，在Sumbawa可以看到风景。另一边仍然适合游泳和浮潜。
+所以很明显，最好在低潮的时候去拜访Gili Kapal。在这段时间里，水是如此的平坦，你可以在东边清澈的水中走很远的距离，
 
-这个岛给我留下了深刻的印象，尽管实际上没什么可看的。但这里的水绝对是我见过的龙目岛和其他吉利群岛上最干净的——在一些地方你会有南海或马尔代夫的感觉!
+在Sumbawa可以看到风景。另一边仍然适合游泳和浮潜。
+
+这个岛给我留下了深刻的印象，尽管实际上没什么可看的。但这里的水绝对是我见过的龙目岛和其他吉利群岛上最干净的
+
+在一些地方你会有南海或马尔代夫的感觉!
 
 如果你幸运的话，你甚至可以完全拥有沙洲岛。也就是说，此时没有其他游客。完全是鲁滨逊·克鲁索的感觉。太棒了!
+```
+## Gili Bidara
+After a relaxed stay on Gili Kapal, the next station was Gili Bidara. It is significantly larger and has a small jetty, which is currently broken and isn’t really good for the nice beach atmosphere. Nevertheless, in front of this pier, there is a wonderful snorkeling spot with many corals and fish. Here I finally saw my first Nemo.
+
+Apart from that, Gili Bidara is uninhabited and very quiet. If you have enough time, you can even take a relaxed walk around the island.
+```
+在Gili Kapal放松地停留后，下一站是Gili Bidara。它明显更大，有一个小码头，目前是破碎的，并不是很好，为良好的海滩气氛。
+
+然而，在这个码头前面，有一个奇妙的浮潜点，有许多珊瑚和鱼。在这里，我终于看到了我的第一个尼莫。
+
+除此之外，Gili Bidara无人居住，非常安静。如果你有足够的时间，你甚至可以在岛上轻松地散步。
+```
+## Gili Kondo
+
+Gili Kondo is the most known and popular Gili island here in the east. You could say it’s something like the Gili Trawangan of East Lombok. Especially locals like to come to Gili Kondo since it’s a popular camping island. At the main beach you can find some places to sit (so-called Berugaks) and also a small shop selling snacks, “Pop Mie” and drinks.
+
+Although there’s not much tourism in East Lombok, the island and its main beach may get quite full. This is because of the many locals that like to come here on weekends or holidays. Hence it’s best to come in the week, when there’s almost nothing going on.
+
+Also, here you can perfectly snorkel and see many corals. Unfortunately, I already saw the first trampled corals. But most of them are still alive and just beautiful. For the sake of the nature, please be careful when you snorkel here.
+```
+近藤Gili Kondo是日本东部最著名、最受欢迎的Gili岛。你可以说它有点像东龙目岛的Gili Trawangan。
+
+特别是当地人喜欢到近藤来，因为它是一个很受欢迎的露营岛。在主海滩你可以找到一些地方坐(所谓的Berugaks)
+
+虽然东龙目岛的旅游业不多，但该岛及其主要海滩可能会客满。这是因为许多当地人喜欢在周末或假期来这里。
+
+因此，最好在一周内来，因为那时几乎没什么事情发生。
+
+此外，在这里你可以完美地潜水，看到许多珊瑚。不幸的是，我已经看到了第一个被践踏的珊瑚。
+
+但他们中的大多数仍然活着，而且非常美丽。为了保护自然，在这里潜水时请小心。
+```
+## Conclusion
+A tour that I can recommend to everybody! Even though the way to the east is very far. Especially the tiny island Gili Kapal is a special highlight, that you won’t find anywhere else on Lombok. But also the other islands are worth to be seen, especially when it comes to snorkeling!
+
+Just as the Gili islands in Sekotong, the southeast of Lombok, these islands here are not to be compared with the 3 famous Gilis Trawangan, Meno and Air. It is even more undeveloped here than on Gili Nanggu for example. There are currently no accommodations on any of the islands and even on the mainland in the east of Lombok the choice is not too big.
+
+You can of course go to the small harbor near the Gili islands by yourself. But keep in mind that the drive is quite long and – even if I would never expect this – in the east of the island there are some towns, where there is much traffic. It’s probably better to go by car than with a scooter from Senggigi or Mataram.
+
+I suggest you to take a driver who knows the way for this kind of tour. I made this tour with Condo Lombok and was very happy. The owner and driver Ramdani works closely with the local boat drivers. So you don’t have to worry about anything. You can also contact him via WhatsApp: +6281904056966. In the boats fit about 15 persons and snorkeling gear is available on board for free.
+```
+我可以向大家推荐的旅行!虽然去东方的路很远。特别是小岛Gili Kapal是龙目岛的一个特别亮点，
+
+你在龙目岛的其他任何地方都找不到。但是其他的岛屿也值得一看，尤其是浮潜的时候!
+
+就像龙目岛东南部塞科通的吉利群岛一样，这里的这些岛屿无法与3个著名的吉利群岛相媲美。这里甚至比吉力南古更不发达。
+
+目前没有任何岛屿上的住宿，甚至在龙目岛东部的大陆，选择也不是太大。
+
+你当然可以自己去吉利群岛附近的那个小港。但是要记住，开车的路程很长，而且——即使我从来没有想到会是这样
+
+在岛的东部有一些城镇，那里的交通很繁忙。从Senggigi或Mataram骑摩托车可能比开车更好。
 ```
 
 ## ref
