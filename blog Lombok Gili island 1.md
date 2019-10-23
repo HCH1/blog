@@ -17,10 +17,10 @@ You can visit the secret islands of East Lombok as a day trip from Senaru and ge
 A special experience and more time on the beautiful islands offers our 2 days 1 night camping package. Stay overnight on Gili Kondo and enjoy the sunset at thebeach. We provide the camping equipment and of course care for your wellness with freshly cooked lunch and dinner as well as breakfast the next morning. Snacks and drinking water are included in the package.You will be back in Senaru in the afternoon of the second day.
 
 ## 2 day 1 night trip:
-– transport from Senaru, Senggigi or Bangsal to the islands and back (car and boat)
-– lunch, dinner, breakfast, snacks, mineral water
-– snorkeling equipment
-– camping equipment (tent, sleeping bag, mattress)
-– guide
+- transport from Senaru, Senggigi or Bangsal to the islands and back (car and boat)
+- lunch, dinner, breakfast, snacks, mineral water
+- snorkeling equipment
+- camping equipment (tent, sleeping bag, mattress)
+- guide
 
 ## End
