@@ -1,5 +1,5 @@
 # 印尼龍目島海島遊和浮潛 秘境打卡推薦(2019懶人包) Secret Gili Kondo Wonderfull Tour – Snorkel, relax and camp
-![f1](https://github.com/HCH1/blog/blob/master/fig/gili1.JPG)
+![f1](https://github.com/HCH1/blog/blob/master/fig/gili1.png)
 
 ## 簡介
 龍目島（印尼語：Pulau Lombok），是小巽他群島中的一個島嶼，屬印度尼西亞西努沙登加拉省管轄，該省首府馬塔蘭亦位於此島西部。該島東隔阿拉斯海峽與松巴哇島相望，西隔龍目海峽與巴厘相望，面積4725平方公里，人口2,403,025（1990年）。
