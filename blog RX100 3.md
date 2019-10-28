@@ -110,5 +110,37 @@ Warm reminder, when the camera is positioned:
 ![f2](https://github.com/HCH1/blog/blob/master/fig/star6.png)
 
 ![f2](https://github.com/HCH1/blog/blob/master/fig/star7.png)
+```
+Where is the Milky Way?
 
+The only thing that seemed to be happening was that everything was available at the time, 
+but I was looking up at the Milky Way, full of black question marks... Later, the local guide 
+pointed out where in the sky, also told me that the moon out as soon as possible to shoot better. 
+(as anyone who likes to photograph the Milky Way knows, when there is a moon in the sky, 
+especially around the full moon, the light pollution created by the moon can seriously affect 
+the observation and photography of the Milky Way, and the extended exposure time can make 
+the picture as bright as day.)
+
+
+In the wild or in the mountains, where there is no light pollution, people with good eyesight 
+can only see a faint and faint track from the stars. Photos or photos of star clusters like 
+those of NASA are postproduced.
+
+Please download app star walk, it will directly detect your location GPS to find the 
+corresponding star map, very convenient!
+
+Star parameter setting is recommended
+
+For photoshop changes, I'm using a simple app called Snapseed, which allows you to get a 
+decent picture of the galaxy with just one button and three tweaks. Unlock the image you want to 
+change with Snapseed, and then,
+
+One button:
+- Tools - > HDR
+
+Three adjustments:
+- filter strenght is stronger
+- luminance brightness a little bit small
+- saturation is a little higher
+```
 ## End
