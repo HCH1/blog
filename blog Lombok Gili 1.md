@@ -15,28 +15,16 @@
 - [lombok wiki](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=lombok+wiki)
 - [My Instagram](https://www.instagram.com/redbox111)
 
-## 如何訂機票？
-- [機票查詢：新加坡飛往龍目島](https://www.google.com.tw/flights?lite=0#flt=SIN.LOP.2019-11-01*LOP.SIN.2019-11-04;c:SGD;e:1;sd:1;t:f)
-- [機票查詢：桃園飛往龍目島](https://www.google.com.tw/flights?lite=0#flt=TPE.LOP.2019-11-01*LOP.TPE.2019-11-04;c:SGD;e:1;sd:1;t:f)
-
-值得一提的是，我們是購買轉機的機票，中間只相差兩小時，時間是剛好夠用的。
-- 新加坡飛往峇厘島
-- 出境領取托運行李
-- 從國際線建築物走到國內線建築物（這是不同建築物，走路要十分鐘至少且沒有冷氣滿熱的，請抬頭注意指標）
-- 領機票放托運行李
-- 峇里島飛往龍目島
-
-範例Oct-24 Thu：
-- 11-2 pm SIN to Bali 
-- 4-5 pm Bali to Lombok
-- 9pm to hotel 
-
 ## 龍目島Lombok在哪？
 龍目島Lombok位在峇里島Bali的右邊，然後林賈尼Rinjani火山在島的北邊，機場在南邊，左邊離島有很多人的潛水勝地西吉利west Gili島，右邊離島有人少的浮淺勝地東吉利east Gili。
 
 - [龍目島Lombok](https://www.google.com.tw/maps/place/Lombok,+West+Nusa+Tenggara,+Indonesia/data=!4m2!3m1!1s0x2dcdb7d23e8cc745:0x446689c4ab50d8c9?sa=X&ved=2ahUKEwjP6JPuxr7lAhXQ7XMBHW7jCqsQ8gEwH3oECA8QBA)
 
-## 推薦龍目島Lombok旅行社
+## 如何訂機票？
+- [機票查詢：新加坡飛往龍目島](https://www.google.com.tw/flights?lite=0#flt=SIN.LOP.2019-11-01*LOP.SIN.2019-11-04;c:SGD;e:1;sd:1;t:f)
+- [機票查詢：桃園飛往龍目島](https://www.google.com.tw/flights?lite=0#flt=TPE.LOP.2019-11-01*LOP.TPE.2019-11-04;c:SGD;e:1;sd:1;t:f)
+
+## 推薦龍目島Lombok旅行社hallo trekker
 此去行程我是跟當地旅行社使用簡訊whatsApp溝通，會選擇這家有兩個原因：
 - 回覆速度快且滿細心（這點比較深得我心）
 - 該旅行社在網站上排名和評價很高#2 of 93 Outdoor Activities in Senaru
@@ -50,25 +38,29 @@
 
 ## 東吉利east Gili海島遊
 以下是旅行社給的行程表，重頭戲就是四座小島：Gili Kondo, Gili Lampu, Gili Bidara and Gili Kapal。會先從龍目島東碼頭Ferry lombok sumbawa搭船出發，大概一小時船程。
-- [龍目島東碼頭Ferry lombok sumbawa](https://www.google.com.tw/maps/place/Ferry+lombok+sumbawa/@-8.4917143,116.6628388,14.16z/data=!4m13!1m7!3m6!1s0x2dcbafbe0ab030ed:0x7d3d2dde7b3de453!2sGili+Kondo!3b1!8m2!3d-8.6466667!4d117.7622222!3m4!1s0x0:0xaf23c0dc04ee50e4!8m2!3d-8.492932!4d116.6764194)
 
-## 這條船帶你到我們島的東部還未被發現的旅遊勝地。
-在那裡你會發現龍目島的四個秘密吉力。Gili Kondo、Gili Lampu、Gili Bidara和Gili Kapal仍然是一個隱藏的、無人居住的天堂，在那裡你可以找到奇妙的珊瑚、紅樹林和白色沙灘。這次旅行的亮點之一是Gili Kapal。它就像龍目島和松巴瓦島之間清澈海水中的沙洲一樣迷人。
+## 龍目島的東部，還未被發現的秘境
+在那裡你會發現龍目島的四個秘境：
+- 吉力康多Gili Kondo
+- 吉利藍布Gili Lampu
+- 吉利比搭拉Gili Bidara
+- 吉利康婆Gili Kapal
 
-## 旅遊行程:
-在您下榻的賓館用過早餐後，我們將開車送您到龍目島東部。從那裡我們的導遊帶你乘船去四個吉利島。他會帶你去最好的浮潛地點，以及最好的海灘游泳和放鬆在Gili Bidara和Gili Kondo。您將花時間在Gili Kapal與它的夢想般的白沙和開車穿過Gili Lampu紅樹林島。
+仍然是一個隱藏的、無人居住的天堂，在那裡你可以找到奇妙的珊瑚、紅樹林和白色沙灘。這次旅行的亮點之一是：吉利康婆Gili Kapal。在非漲潮時段，此小沙島才會從碧綠清澈的海水中顯露出來。
 
-你可以從塞納魯出發，花一天時間遊覽東龍目島的秘密島嶼，晚上再回到那裡。我們將為您提供飲用水，並為您提供午餐和零食。
+## 旅遊行程
+在您下榻的賓館用過早餐後，我們將開車送您到龍目島Lombok東部。從那裡我們的導遊帶你乘船去四個吉利Gili島。他會帶你去最好的浮潛地點，以及最好的海灘游泳和放鬆在吉利比搭拉Gili Bidara和吉力康多Gili Kondo。您將漫步在吉利康婆Gili Kapal，夢想般的白沙，和開船穿過吉利藍布Gili Lampu紅樹林島。
 
-一個特殊的經驗和更多的時間在美麗的島嶼提供我們的2天1夜露營套餐。在近藤島過夜，在海灘上欣賞日落。我們提供露營設備，當然照顧您的健康與新鮮煮熟的午餐和晚餐，以及第二天早上的早餐。包裡包括零食和飲用水。你將在第二天下午回到西納魯。
+你可以從塞納魯Senaru出發，花一天時間遊覽東龍目east Lombok島的秘境島嶼，晚上再回到那裡。我們將為您提供飲用水，並為您提供午餐和零食。
+
+一個特殊的經驗和更多的時間在美麗的島嶼提供我們的2天1夜露營套餐。在吉力康多Gili Kondo過夜，在海灘上欣賞日落。我們提供露營設備，當然照顧您的健康與新鮮煮熟的午餐和晚餐，以及第二天早上的早餐。包裡包括零食和飲用水。你將在第二天下午回到塞納魯Senaru。
 
 ## 二日一夜之旅:
-- 從Senaru，Senggigi或Bangsal到群島的運輸（汽車和船）
+- 從塞納魯Senaru，聖吉吉Senggigi或邦薩而Bangsal到吉利Gili群島的運輸（汽車和船）
 - 午餐，晚餐，早餐，零食，礦泉水
 - 浮潛設備
 - 露營裝備（帳篷，睡袋，床墊）
 - 導遊
-
 ```
 ## This boat trip leads you to the by tourism still undiscovered east of our island. 
 There you will find four secret gilis of Lombok. ```Gili Kondo, Gili Lampu, Gili Bidara and Gili Kapal``` are still a hidden and uninhabited paradise where you find snorkel spots with wonderful corals, a mangrove forest and white sand beaches. One of the highlights of this trip is Gili Kapal. It fascinates as a sandbank within the clear water of the ocean between Lombok and Sumbawa.
@@ -87,11 +79,49 @@ A special experience and more time on the beautiful islands offers our 2 days 1 
 - camping equipment (tent, sleeping bag, mattress)
 - guide
 ```
-## 
+## 龍目島之旅第一天
+- 11-2 pm SIN to Bali 
+- 4-5 pm Bali to Lombok
+- 9pm to hotel 
+
+值得一提的是，我們是購買轉機的機票，中間只相差兩小時，只要不迷路或者班機不延遲抵達，時間是剛好夠用的。
+- 新加坡飛往峇厘島
+- 出境領取托運行李（大概一小時之內）
+- 從國際線建築物走到國內線建築物（這是不同建築物，走路要十分鐘至少且沒有冷氣滿熱的，請抬頭注意指標）
+- 領機票放托運行李
+- 峇里島飛往龍目島
+
+龍目島機場在島的南部，5pm多與旅行社司機碰面後，大約三小時半的車程，開往島的北邊的下榻旅館。我們是選擇Rinjani light house，這家在google評價是四顆星，加上又是旅行社推薦之一，所以選擇這家。此兩層小木屋座落在花園之間，非常清幽。員工服務態度很好，例如：
+- 我出發前一週，有寄信請旅行社幫忙準備一些小驚喜，結果令我很滿意而且用心。（大加分）
+- 因為某些緣故，住宿最後一日，想從二樓改到一樓，經過溝通後員工也很熱心處理，實在溫馨。
+
+- [Rinjani light house](https://www.google.com.tw/maps/place/Rinjani+Lighthouse+Cottages/@-8.3033787,116.4030235,15z/data=!4m2!3m1!1s0x0:0x9e7fb5808644d88?sa=X&ved=2ahUKEwjUmu-ciL_lAhXBRY8KHTi3C4YQ_BIwFHoECAoQCA)
+
+![f1](https://github.com/HCH1/blog/blob/master/fig/gili2.JPG)
+
+![f1](https://github.com/HCH1/blog/blob/master/fig/gili3.JPG)
+
+![f1](https://github.com/HCH1/blog/blob/master/fig/gili4.JPG)
+
+
+## 龍目島之旅第二天（兩天一夜第一日）
+我們跟hallo trekker領隊約8am出發，開車前往東碼頭Ferry lombok sumbawa大概一小時半。同車還有兩位當地夥伴，能歌善舞，為整趟兩天一夜旅程增添不少歡樂。到達碼頭後，還有另外兩位夥伴加入，也是潛水攝影唱歌多才多藝。所以這趟旅程就是這四位夥伴的照顧，包含準備及搬運：餐點，浮潛，露營，導遊，營火。
+
+- [龍目島東碼頭Ferry lombok sumbawa](https://www.google.com.tw/maps/place/Ferry+lombok+sumbawa/@-8.4917143,116.6628388,14.16z/data=!4m13!1m7!3m6!1s0x2dcbafbe0ab030ed:0x7d3d2dde7b3de453!2sGili+Kondo!3b1!8m2!3d-8.6466667!4d117.7622222!3m4!1s0x0:0xaf23c0dc04ee50e4!8m2!3d-8.492932!4d116.6764194)
+
+白天我們在離島吉利康婆Gili Kapal停留，退潮時，此小沙島才從碧綠清澈的海水中顯露出來。走完一圈大概五分鐘，非常迷你。我們一行人也在島上拍了幾張跳躍的團體照之後，前往下一個浮潛景點。
+
+![f1](https://github.com/HCH1/blog/blob/master/fig/gili.JPG)
+
+![f1](https://github.com/HCH1/blog/blob/master/fig/gili.JPG)
+
+![f1](https://github.com/HCH1/blog/blob/master/fig/gili.JPG)
 
 
 
 
+
+## 補充
 ## 部落格推薦
 ## [blog East Lombok – the secret Gili Islands](https://homeiswhereyourbagis.com/en/gili-islands-east-lombok/)
 
