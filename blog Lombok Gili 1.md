@@ -32,9 +32,9 @@
 - 9pm to hotel 
 
 ## 龍目島Lombok在哪？
-- [龍目島Lombok在哪](https://www.google.com.tw/maps/place/Lombok,+West+Nusa+Tenggara,+Indonesia/data=!4m2!3m1!1s0x2dcdb7d23e8cc745:0x446689c4ab50d8c9?sa=X&ved=2ahUKEwjP6JPuxr7lAhXQ7XMBHW7jCqsQ8gEwH3oECA8QBA)
+龍目島Lombok位在峇里島Bali的右邊，然後林賈尼Rinjani火山在島的北邊，機場在南邊，左邊離島有很多人的潛水勝地西吉利west Gili島，右邊離島有人少的浮淺勝地東吉利east Gili。
 
-然後林賈尼Rinjani火山在島的北邊，機場在南邊，左邊離島有人多的潛水勝地西吉利west Gili島，右邊離島有人少的浮淺勝地東吉利east Gili。
+- [龍目島Lombok](https://www.google.com.tw/maps/place/Lombok,+West+Nusa+Tenggara,+Indonesia/data=!4m2!3m1!1s0x2dcdb7d23e8cc745:0x446689c4ab50d8c9?sa=X&ved=2ahUKEwjP6JPuxr7lAhXQ7XMBHW7jCqsQ8gEwH3oECA8QBA)
 
 ## 推薦龍目島Lombok旅行社
 此去行程我是跟當地旅行社使用簡訊whatsApp溝通，會選擇這家有兩個原因：
@@ -42,20 +42,34 @@
 - 該旅行社在網站上排名和評價很高#2 of 93 Outdoor Activities in Senaru
 
 - [hallo trekker官網](http://hallotrekker.com/category/rinjani-trekking-packages/trekking-via-senaru/)
--[#2 of 93 Outdoor Activities in Senaru](https://www.tripadvisor.com.sg/Attraction_Review-g3475390-d8799777-Reviews-Hallo_Trekker_Day_Tours-Senaru_Lombok_West_Nusa_Tenggara.html)
+- [#2 of 93 Outdoor Activities in Senaru](https://www.tripadvisor.com.sg/Attraction_Review-g3475390-d8799777-Reviews-Hallo_Trekker_Day_Tours-Senaru_Lombok_West_Nusa_Tenggara.html)
 
 2019十月有機會去了龍目島Lombok旅遊，本來是要爬火山林賈尼Rinjani，然後去拍攝日出日落和星空。無奈後來出發前一天，當地旅行社說有局部森林大火，為了遊客安全，所以林賈尼國家公園決定關閉一週。所以我們的行程，經由當地旅行社的協調推薦，改成東吉利east Gili海島遊與浮淺，並且加上帳篷夜宿一晚。
 
 整趟兩天一夜2D1N的旅程，有滿多美景以及美好的回憶，需要感謝老天給的天氣如此好，以及山下住宿環境不錯，還有旅行社的用心。在文章後半部我會補充介紹：Ｄ
 
 ## 東吉利east Gili海島遊
-以下是旅行社給的行程表，重頭戲就是四座小島：Gili Kondo, Gili Lampu, Gili Bidara and Gili Kapal。
-
-
-
+以下是旅行社給的行程表，重頭戲就是四座小島：Gili Kondo, Gili Lampu, Gili Bidara and Gili Kapal。會先從龍目島東碼頭Ferry lombok sumbawa搭船出發，大概一小時船程。
 - [龍目島東碼頭Ferry lombok sumbawa](https://www.google.com.tw/maps/place/Ferry+lombok+sumbawa/@-8.4917143,116.6628388,14.16z/data=!4m13!1m7!3m6!1s0x2dcbafbe0ab030ed:0x7d3d2dde7b3de453!2sGili+Kondo!3b1!8m2!3d-8.6466667!4d117.7622222!3m4!1s0x0:0xaf23c0dc04ee50e4!8m2!3d-8.492932!4d116.6764194)
 
+## 這條船帶你到我們島的東部還未被發現的旅遊勝地。
+在那裡你會發現龍目島的四個秘密吉力。Gili Kondo、Gili Lampu、Gili Bidara和Gili Kapal仍然是一個隱藏的、無人居住的天堂，在那裡你可以找到奇妙的珊瑚、紅樹林和白色沙灘。這次旅行的亮點之一是Gili Kapal。它就像龍目島和松巴瓦島之間清澈海水中的沙洲一樣迷人。
 
+## 旅遊行程:
+在您下榻的賓館用過早餐後，我們將開車送您到龍目島東部。從那裡我們的導遊帶你乘船去四個吉利島。他會帶你去最好的浮潛地點，以及最好的海灘游泳和放鬆在Gili Bidara和Gili Kondo。您將花時間在Gili Kapal與它的夢想般的白沙和開車穿過Gili Lampu紅樹林島。
+
+你可以從塞納魯出發，花一天時間遊覽東龍目島的秘密島嶼，晚上再回到那裡。我們將為您提供飲用水，並為您提供午餐和零食。
+
+一個特殊的經驗和更多的時間在美麗的島嶼提供我們的2天1夜露營套餐。在近藤島過夜，在海灘上欣賞日落。我們提供露營設備，當然照顧您的健康與新鮮煮熟的午餐和晚餐，以及第二天早上的早餐。包裡包括零食和飲用水。你將在第二天下午回到西納魯。
+
+## 二日一夜之旅:
+- 從Senaru，Senggigi或Bangsal到群島的運輸（汽車和船）
+- 午餐，晚餐，早餐，零食，礦泉水
+- 浮潛設備
+- 露營裝備（帳篷，睡袋，床墊）
+- 導遊
+
+```
 ## This boat trip leads you to the by tourism still undiscovered east of our island. 
 There you will find four secret gilis of Lombok. ```Gili Kondo, Gili Lampu, Gili Bidara and Gili Kapal``` are still a hidden and uninhabited paradise where you find snorkel spots with wonderful corals, a mangrove forest and white sand beaches. One of the highlights of this trip is Gili Kapal. It fascinates as a sandbank within the clear water of the ocean between Lombok and Sumbawa.
 
@@ -72,14 +86,13 @@ A special experience and more time on the beautiful islands offers our 2 days 1 
 - snorkeling equipment
 - camping equipment (tent, sleeping bag, mattress)
 - guide
-
+```
 ## 
 
 
 
 
-
-
+## 部落格推薦
 ## [blog East Lombok – the secret Gili Islands](https://homeiswhereyourbagis.com/en/gili-islands-east-lombok/)
 
 The ```east of Lombok is still an undiscovered``` and off the beaten track part of the island. Here you can also find some Gili islands that belong to the most unknown around Lombok: Gili Kondo, Gili Bidara, Gili Kapal and Gili Lampu.
