@@ -32,9 +32,9 @@
 ```
 # How to photograph stars?
 ## Introduction
-In October, I had the opportunity to travel to Lombok island, where I was supposed to climb the mountain Rinjani, 
+In October, I had the opportunity to travel to Lombok, where I was supposed to climb the mountain Rinjani, 
 and take photos of sunrise, sunset and stars. However, the day before the trip, the local tourist agency 
-said there was a partial forest fire, so the linjani national park was closed for a week for tourists' safety. 
+said there was a forest fire, so the Rinjani national park was closed for a week for safety concerned. 
 So our itinerary, coordinated and recommended by the local travel agency, was changed to an island tour 
 and a shallow trip to east Gili, plus a night in a tent.
 
@@ -78,7 +78,7 @@ First talk summary, close for a long time, big eyes, photosensitive, see far:
 
 Warm reminder, when the camera is positioned:
 - top right turntable, Manual Exposure mode
-- select the Fn (Function) button at the bottom right of the screen so that you can see all the adjustable items
+- select the Fn (Function) button at the bottom right of the screen so that you can see all the icons
 - manual focal length, to adjust the lens outer ring
 ```
 
@@ -91,13 +91,15 @@ Warm reminder, when the camera is positioned:
 
 ## 星空參數設定推薦
 
-關於改圖ps，我這邊教學用一個簡單的app Snapseed，只要一個按鈕三個調整，就能得到一張滿優質的銀河圖了！
-用Snapseed開啟要改的圖片，然後，一個按鈕：
+關於改圖ps，我這邊教學用一個簡單的app Snapseed，只要一個按鈕三個調整，就能得到一張滿優質的銀河圖了！用Snapseed開啟要改的圖片，然後，
+
+一個按鈕：
 - tools > HDR
+
 三個調整：
-濾鏡強度filter strenght 大一點
-亮度brightness 小一點
-飽和度saturation 大一點
+- 濾鏡強度filter strenght 大一點
+- 亮度brightness 小一點
+- 飽和度saturation 大一點
 
 以下就是參數教學和調整前後的照片，給您參考：
 
