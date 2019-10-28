@@ -134,7 +134,7 @@ For photoshop, I'm using a cool app called Snapseed, which allows you to get a d
 with just one button and three tweaks. Unlock the image you want to change with Snapseed, and then,
 
 One button:
-- Tools - > HDR
+- Tools > HDR
 
 Three adjustments:
 - high filter strength
