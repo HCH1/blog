@@ -97,7 +97,7 @@ Warm reminder, when the camera is positioned:
 - tools > HDR
 
 三個調整：
-- 濾鏡強度filter strenght 大一點
+- 濾鏡強度filter strength 大一點
 - 亮度brightness 小一點
 - 飽和度saturation 大一點
 
@@ -139,7 +139,7 @@ One button:
 - Tools - > HDR
 
 Three adjustments:
-- filter strenght is stronger
+- filter strength is stronger
 - luminance brightness a little bit small
 - saturation is a little higher
 ```
