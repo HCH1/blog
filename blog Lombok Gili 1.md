@@ -116,7 +116,7 @@
 
 
 
-```
+
 ## 東吉利east Gili兩天一夜海島遊 by hallo trekker
 以下是旅行社給的行程表，重頭戲就是四座小島：Gili Kondo, Gili Lampu, Gili Bidara and Gili Kapal。會先從龍目島東碼頭Ferry lombok sumbawa搭船出發，大概一小時船程。
 
