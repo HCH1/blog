@@ -30,7 +30,7 @@
 
 那我們來開始教學吧：Ｄ
 ```
-# How to photograph stars?
+# How to photograph milky way?
 ## Introduction
 In October, I had the opportunity to travel to Lombok, where I was supposed to climb the mountain Rinjani, 
 and take photos of sunrise, sunset and stars. However, the day before the trip, the local tourist agency 
@@ -38,18 +38,19 @@ said there was a forest fire, so the Rinjani national park was closed for a week
 So our itinerary, coordinated and recommended by the local travel agency, was changed to an island tour 
 and a shallow trip to east Gili, plus a night in a tent.
 
-Therefore, the teaching and parameter recommendation of the initial shooting of the following starry sky are 
-based on the above time features: D
+Therefore, the teaching and parameter recommendation are based on: 
 - SONY RX100m5a
 - east Gili Kondo beach at 8 p.m
 - end of October 2019
+
+Let's go!
 ```
 ## 星空初拍教學
 先講總結，收光久，眼睛大，感光中，看得遠：
 - 曝光秒數25秒
 - 光圈F1.8
 - 感光度ISO 800
-- 手動焦距MF 無限遠（調整鏡頭外環）
+- 手動焦距MF 無限遠
 - 延遲拍攝兩秒（因為通常不會加購遙控快門線，用到場合也不多）
 - 使用三腳架
 
@@ -67,27 +68,27 @@ based on the above time features: D
 - [使用手冊](https://www.sony.com.tw/electronics/support/res/manuals/4742/56d332b44c7cdb443b8c109ee77d08d0/47427448M.pdf)
 - [使用手冊英文](https://www.sony.com.sg/electronics/support/res/manuals/4742/4bde30778e0e222206a35ba1885eb619/47427441M.pdf)
 ```
-Star shooting teaching and parameter setting recommendation
-First talk summary, close for a long time, big eyes, photosensitive, see far:
-- exposure seconds 25 seconds
+Milky way shooting teaching and parameter setting recommendation
+Quick summary:
+- exposure 25 seconds
 - aperture F1.8
 - ISO 800
-- manual focal length MF infinite (adjust lens outer ring)
+- manual focus MF infinity
 - delay shooting by 2 seconds (because remote shutter release is not usually purchased and rarely used)
 - use a tripod
 
 Warm reminder, when the camera is positioned:
 - top right turntable, Manual Exposure mode
 - select the Fn (Function) button at the bottom right of the screen so that you can see all the icons
-- manual focal length, to adjust the lens outer ring
+- manual focal length, to adjust the outer ring
 ```
 
 ## 星空銀河在哪裡？
-還有一件滿好像的事情是，時地物都俱備，但我抬頭仰望星空，何處是銀河milky way，盡是滿頭黑人問號...後來當地導遊秒指出在天空哪處，還叮嚀我，月亮出來前趕快拍攝比較好。（喜歡拍攝銀河的朋友們都知道，當天空中有月亮時，尤其是在滿月左右，月光形成的光污染會對觀測和拍攝銀河造成嚴重影響，延長曝光時間拍出來的照片亮如白晝）
+還有一件滿好笑的事情是，當晚時地物都俱備了，但我抬頭仰望星空，何處是銀河milky way，盡是滿頭黑人問號...後來當地導遊秒指出在天空哪處，還叮嚀我，月亮出來前趕快拍攝比較好。（喜歡拍攝銀河的朋友們都知道，當天空中有月亮時，尤其是在滿月左右，月光形成的光污染會對觀測和拍攝銀河造成嚴重影響，延長曝光時間拍出來的照片亮如白晝）
 
 在沒有光害的野外或高山，視力較好的人也只能從星空看到很模糊且淡淡的一條軌跡，照片或者NASA那種星團照片，都是有後製的，這篇教學後半段也會教您如何懶人調整ps星空照片。
 
-請下載app star walk，會直接偵測你所在方位GPS去找到兑應的星空圖，很方便！
+請下載app star walk，會直接偵測你所在方位GPS去找到相對應的星空圖，很方便！
 
 ## 星空參數設定推薦
 
@@ -97,9 +98,9 @@ Warm reminder, when the camera is positioned:
 - tools > HDR
 
 三個調整：
-- 濾鏡強度filter strength 大一點
-- 亮度brightness 小一點
-- 飽和度saturation 大一點
+- 濾鏡強度filter strength 大
+- 亮度brightness 小
+- 飽和度saturation 大
 
 以下就是參數教學和調整前後的照片，給您參考：
 
@@ -113,34 +114,30 @@ Warm reminder, when the camera is positioned:
 ```
 Where is the Milky Way?
 
-The only thing that seemed to be happening was that everything was available at the time, 
-but I was looking up at the Milky Way, full of black question marks... Later, the local guide 
-pointed out where in the sky, also told me that the moon out as soon as possible to shoot better. 
-(as anyone who likes to photograph the Milky Way knows, when there is a moon in the sky, 
-especially around the full moon, the light pollution created by the moon can seriously affect 
-the observation and photography of the Milky Way, and the extended exposure time can make 
-the picture as bright as day.)
+Another funny thing was that when things were all set up that night, but I looked up at the Milky Way, 
+where the Milky Way? full of black question marks... Later, the local guide pointed out where in the sky, 
+also told me that the moon out as soon as possible to shoot better. 
+(as anyone who likes to photograph the Milky Way knows, when there is a moon in the sky, especially 
+around the full moon, the light pollution created by the moon can seriously affect the observation and 
+photography of the Milky Way, and the extended exposure time can make the picture as bright as day.)
 
+In the wild or in the mountains, where there is no light pollution, people with good eyesight can only 
+see a faint and faint track from the stars. 
+Photos or photos of star clusters like those of NASA are postproduced.
 
-In the wild or in the mountains, where there is no light pollution, people with good eyesight 
-can only see a faint and faint track from the stars. Photos or photos of star clusters like 
-those of NASA are postproduced.
-
-Please download app star walk, it will directly detect your location GPS to find the 
-corresponding star map, very convenient!
+Please download app star walk, it will directly detect your location GPS to find the corresponding sky map!
 
 Star parameter setting is recommended
 
-For photoshop changes, I'm using a simple app called Snapseed, which allows you to get a 
-decent picture of the galaxy with just one button and three tweaks. Unlock the image you want to 
-change with Snapseed, and then,
+For photoshop, I'm using a cool app called Snapseed, which allows you to get a decent picture of the galaxy 
+with just one button and three tweaks. Unlock the image you want to change with Snapseed, and then,
 
 One button:
 - Tools - > HDR
 
 Three adjustments:
-- filter strength is stronger
-- luminance brightness a little bit small
-- saturation is a little higher
+- high filter strength
+- small luminance brightness
+- saturation is large
 ```
 ## End
