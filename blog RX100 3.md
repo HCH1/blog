@@ -1,4 +1,4 @@
-# sony RX100m5a最強口袋類單 星空初拍教學和參數設定推薦（懶人包）
+# sony RX100m5a最強口袋類單 星空初拍教學和參數設定推薦（2019懶人包）
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/star0.jpg)
 
@@ -16,8 +16,8 @@
 - [sony RX100m5a compare](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sony+RX100m5a+compare)
 
 若看完以上的攻略，依舊燃起興趣的話，我先前有發幾篇介紹教學文和懶人包：Ｄ
-- []()
-- []()
+- [推薦 sony RX100m5a 口袋類單機皇 快輕準（2019懶人包）](https://medium.com/@sean101/2019-推薦-sony-rx100m5a-口袋類單機皇-快-輕-準-88aad4bafc5f)
+- [sony RX100 類單 煙火夜拍 參數推薦（2019懶人包）](https://medium.com/@sean101/2019-sony-rx100-%E9%A1%9E%E5%96%AE-%E7%85%99%E7%81%AB-%E5%A4%9C%E6%8B%8D-%E5%8F%83%E6%95%B8-%E6%8E%A8%E8%96%A6-%E6%87%B6%E4%BA%BA%E5%8C%85-1e8c2fe739de)
 
 ## 如何拍攝星空？
 ## 前言
