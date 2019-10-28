@@ -150,6 +150,15 @@ You will be back in Senaru in the afternoon of the second day.
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/gili.jpg)
 
+## 龍目島之旅第四天
+
+
+![f1](https://github.com/HCH1/blog/blob/master/fig/gili.jpg)
+
+![f1](https://github.com/HCH1/blog/blob/master/fig/gili.jpg)
+
+![f1](https://github.com/HCH1/blog/blob/master/fig/gili.jpg)
+
 
 ## 補充
 ## 部落格推薦
