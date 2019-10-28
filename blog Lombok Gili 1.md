@@ -63,14 +63,29 @@
 - 導遊
 ```
 ## This boat trip leads you to the by tourism still undiscovered east of our island. 
-There you will find four secret gilis of Lombok. ```Gili Kondo, Gili Lampu, Gili Bidara and Gili Kapal``` are still a hidden and uninhabited paradise where you find snorkel spots with wonderful corals, a mangrove forest and white sand beaches. One of the highlights of this trip is Gili Kapal. It fascinates as a sandbank within the clear water of the ocean between Lombok and Sumbawa.
+There you will find four secret gilis of Lombok. Gili Kondo, Gili Lampu, Gili Bidara and 
+Gili Kapal are still a hidden and uninhabited paradise where you find snorkel spots with 
+wonderful corals, a mangrove forest and white sand beaches. 
+One of the highlights of this trip is Gili Kapal. 
+It fascinates as a sandbank within the clear water of the ocean between Lombok and Sumbawa.
 
 ## Tour itinerary:
-After the breakfast in your guesthouse we will bring you by car to the east of Lombok. From there our guide takes you by boat to the four Gili islands. He will show you the best snorkeling spots as well as the best beaches for swimming and relaxing on Gili Bidara and Gili Kondo. You will spend time at Gili Kapal with its dreamlike white sand and drive through Gili Lampu the mangrove island.
+After the breakfast in your guesthouse we will bring you by car to the east of Lombok. 
+From there our guide takes you by boat to the four Gili islands. 
+He will show you the best snorkeling spots as well as the best beaches for swimming and 
+relaxing on Gili Bidara and Gili Kondo. 
+You will spend time at Gili Kapal with its dreamlike white sand and drive through 
+Gili Lampu the mangrove island.
 
-You can visit the secret islands of East Lombok as a day trip from Senaru and get back there in the evening. We will provide drinking water and serve your lunch as well as snacks during your day trip.
+You can visit the secret islands of East Lombok as a day trip from Senaru and 
+get back there in the evening. We will provide drinking water and serve your lunch 
+as well as snacks during your day trip.
 
-A special experience and more time on the beautiful islands offers our 2 days 1 night camping package. Stay overnight on Gili Kondo and enjoy the sunset at thebeach. We provide the camping equipment and of course care for your wellness with freshly cooked lunch and dinner as well as breakfast the next morning. Snacks and drinking water are included in the package.You will be back in Senaru in the afternoon of the second day.
+A special experience and more time on the beautiful islands offers our 2 days 1 night camping package. 
+Stay overnight on Gili Kondo and enjoy the sunset at thebeach. We provide the camping equipment 
+and of course care for your wellness with freshly cooked lunch and 
+dinner as well as breakfast the next morning. Snacks and drinking water are included in the package.
+You will be back in Senaru in the afternoon of the second day.
 
 ## 2 day 1 night trip:
 - transport from Senaru, Senggigi or Bangsal to the islands and back (car and boat)
@@ -97,12 +112,11 @@ A special experience and more time on the beautiful islands offers our 2 days 1 
 
 - [Rinjani light house](https://www.google.com.tw/maps/place/Rinjani+Lighthouse+Cottages/@-8.3033787,116.4030235,15z/data=!4m2!3m1!1s0x0:0x9e7fb5808644d88?sa=X&ved=2ahUKEwjUmu-ciL_lAhXBRY8KHTi3C4YQ_BIwFHoECAoQCA)
 
-![f1](https://github.com/HCH1/blog/blob/master/fig/gili2.JPG)
+![f1](https://github.com/HCH1/blog/blob/master/fig/gili2.jpg)
 
-![f1](https://github.com/HCH1/blog/blob/master/fig/gili3.JPG)
+![f1](https://github.com/HCH1/blog/blob/master/fig/gili3.jpg)
 
-![f1](https://github.com/HCH1/blog/blob/master/fig/gili4.JPG)
-
+![f1](https://github.com/HCH1/blog/blob/master/fig/gili4.jpg)
 
 ## 龍目島之旅第二天（兩天一夜第一日）
 我們跟hallo trekker領隊約8am出發，開車前往東碼頭Ferry lombok sumbawa大概一小時半。同車還有兩位當地夥伴，能歌善舞，為整趟兩天一夜旅程增添不少歡樂。到達碼頭後，還有另外兩位夥伴加入，也是潛水攝影唱歌多才多藝。所以這趟旅程就是這四位夥伴的照顧，包含準備及搬運：餐點，浮潛，露營，導遊，營火。
