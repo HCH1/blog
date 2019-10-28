@@ -32,9 +32,14 @@
 ```
 # How to photograph stars?
 ## Introduction
-In October, I had the opportunity to travel to Lombok island, where I was supposed to climb the mountain Rinjani, and take photos of sunrise, sunset and stars. However, the day before the trip, the local tourist agency said there was a partial forest fire, so the linjani national park was closed for a week for tourists' safety. So our itinerary, coordinated and recommended by the local travel agency, was changed to an island tour and a shallow trip to east Gili, plus a night in a tent.
+In October, I had the opportunity to travel to Lombok island, where I was supposed to climb the mountain Rinjani, 
+and take photos of sunrise, sunset and stars. However, the day before the trip, the local tourist agency 
+said there was a partial forest fire, so the linjani national park was closed for a week for tourists' safety. 
+So our itinerary, coordinated and recommended by the local travel agency, was changed to an island tour 
+and a shallow trip to east Gili, plus a night in a tent.
 
-Therefore, the teaching and parameter recommendation of the initial shooting of the following starry sky are based on the above time features: D
+Therefore, the teaching and parameter recommendation of the initial shooting of the following starry sky are 
+based on the above time features: D
 - SONY RX100m5a
 - east Gili Kondo beach at 8 p.m
 - end of October 2019
@@ -96,12 +101,12 @@ Warm reminder, when the camera is positioned:
 
 以下就是參數教學和調整前後的照片，給您參考：
 
-![f2](https://github.com/HCH1/blog/blob/master/fig/star4.jpg)
+![f2](https://github.com/HCH1/blog/blob/master/fig/star4.png)
 
-![f2](https://github.com/HCH1/blog/blob/master/fig/star5.jpg)
+![f2](https://github.com/HCH1/blog/blob/master/fig/star5.png)
 
-![f2](https://github.com/HCH1/blog/blob/master/fig/star6.jpg)
+![f2](https://github.com/HCH1/blog/blob/master/fig/star6.png)
 
-![f2](https://github.com/HCH1/blog/blob/master/fig/star7.jpg)
+![f2](https://github.com/HCH1/blog/blob/master/fig/star7.png)
 
 ## End
