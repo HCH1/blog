@@ -46,12 +46,12 @@
 
 2019十月有機會去了龍目島Lombok旅遊，本來是要爬火山林賈尼Rinjani，然後去拍攝日出日落和星空。無奈後來出發前一天，當地旅行社說有局部森林大火，為了遊客安全，所以林賈尼國家公園決定關閉一週。所以我們的行程，經由當地旅行社的協調推薦，改成東吉利east Gili海島遊與浮淺，並且加上帳篷夜宿一晚。
 
-在文章後半部我會在介紹此旅行社貼心的地方，為這趟旅程劃下美好的回憶：Ｄ
+整趟兩天一夜2D1N的旅程，有滿多美景以及美好的回憶，需要感謝老天給的天氣如此好，以及山下住宿環境不錯，還有旅行社的用心。在文章後半部我會補充介紹：Ｄ
 
 ## 東吉利east Gili海島遊
-以下是旅行社給的行程表，重頭戲就是四座小島：Gili Kondo, Gili Lampu, Gili Bidara and Gili Kapal
+以下是旅行社給的行程表，重頭戲就是四座小島：Gili Kondo, Gili Lampu, Gili Bidara and Gili Kapal。
 
-Gili Kondo, Gili Lampu, Gili Bidara and Gili Kapal
+
 
 - [龍目島東碼頭Ferry lombok sumbawa](https://www.google.com.tw/maps/place/Ferry+lombok+sumbawa/@-8.4917143,116.6628388,14.16z/data=!4m13!1m7!3m6!1s0x2dcbafbe0ab030ed:0x7d3d2dde7b3de453!2sGili+Kondo!3b1!8m2!3d-8.6466667!4d117.7622222!3m4!1s0x0:0xaf23c0dc04ee50e4!8m2!3d-8.492932!4d116.6764194)
 
