@@ -125,14 +125,30 @@ You will be back in Senaru in the afternoon of the second day.
 
 白天我們在離島吉利康婆Gili Kapal停留，退潮時，此小沙島才從碧綠清澈的海水中顯露出來。走完一圈大概五分鐘，非常迷你。我們一行人也在島上拍了幾張跳躍的團體照之後，前往下一個浮潛景點。
 
-![f1](https://github.com/HCH1/blog/blob/master/fig/gili.JPG)
+![f1](https://github.com/HCH1/blog/blob/master/fig/gili.jpg)
 
-![f1](https://github.com/HCH1/blog/blob/master/fig/gili.JPG)
+![f1](https://github.com/HCH1/blog/blob/master/fig/gili.jpg)
 
-![f1](https://github.com/HCH1/blog/blob/master/fig/gili.JPG)
+![f1](https://github.com/HCH1/blog/blob/master/fig/gili.jpg)
 
+因為在離島，幾乎沒有光害，所以晚上六點日落之後，天色就變暗很快，抬頭很容易看到滿天星空。大約晚上七點。四位夥伴為我們搭建的營火，並且為在火爐邊開心地唱歌加上吉他伴奏，我們很喜歡他們彈奏演唱的印尼當地歌曲，
 
+## 龍目島之旅第三天（兩天一夜第二日）
 
+紅樹林之旅
+
+浮潛
+
+搭船回港口
+搭車回旅館
+
+下午瀑布之旅
+
+![f1](https://github.com/HCH1/blog/blob/master/fig/gili.jpg)
+
+![f1](https://github.com/HCH1/blog/blob/master/fig/gili.jpg)
+
+![f1](https://github.com/HCH1/blog/blob/master/fig/gili.jpg)
 
 
 ## 補充
