@@ -1,6 +1,6 @@
 # sony RX100m5a最強口袋類單 星空初拍教學和參數設定推薦（懶人包）
 
-![f1](https://github.com/HCH1/blog/blob/master/fig/star0.png)
+![f1](https://github.com/HCH1/blog/blob/master/fig/star0.jpg)
 
 ## 簡介
 索尼 Cyber-shot DSC-RX100（簡稱RX100）是由索尼於2012年6月發布的緊湊型不可換鏡頭數位相機，特色為在緊湊的空間內設計配置了1英寸規格傳感器與高表現的鏡頭，上市初7萬円/$650定價一度被認為難以接受，隨後RX100在各類評測中的優異表現則證明物有所值。RX100在發布後獲得了業界與市場認可，其於2012年入選時代雜誌評出的年度50佳發明(50 ‘best inventions’ of 2012)。
@@ -96,12 +96,12 @@ Warm reminder, when the camera is positioned:
 
 以下就是參數教學和調整前後的照片，給您參考：
 
-![f2](https://github.com/HCH1/blog/blob/master/fig/star5.png)
+![f2](https://github.com/HCH1/blog/blob/master/fig/star4.jpg)
 
-![f2](https://github.com/HCH1/blog/blob/master/fig/star6.png)
+![f2](https://github.com/HCH1/blog/blob/master/fig/star5.jpg)
 
-![f2](https://github.com/HCH1/blog/blob/master/fig/star7.png)
+![f2](https://github.com/HCH1/blog/blob/master/fig/star6.jpg)
 
-![f2](https://github.com/HCH1/blog/blob/master/fig/star8.png)
+![f2](https://github.com/HCH1/blog/blob/master/fig/star7.jpg)
 
 ## End
