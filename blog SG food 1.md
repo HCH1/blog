@@ -47,6 +47,8 @@ Literally translated to pork bone tea, bak kut teh is a dish that’s popular th
 
 ## 辣椒螃蟹
 辣椒蟹，新加坡著名菜色，將泥蟹或蛙蟹混以番茄及辣椒製成的醬汁一起爆炒，儘管叫做辣椒蟹，它其實並非特別辛辣。此菜色於2011年被美國有線新聞網旗下網站CNN Go評定為全球50大最美味菜色的第35位。辣椒螃蟹最早Cher Yam tian女士在1950年發明。早期的辣椒螃蟹僅僅是用番茄醬爆炒。後來發現放入了辣椒醬之後味道更好。現在的辣椒螃蟹的辣椒醬不再使用普通販賣的辣椒醬，而是餐廳各自有獨特的辣椒醬配方，從而做出符合自己餐廳的大眾口味。同時也替代使用口味和肉質更加豐富的斯里蘭卡蟹來代替原本的泥蟹。
+
+![f1](https://github.com/HCH1/blog/blob/master/fig/sgfood4.JPG)
 ```
 23. Chili Crab / Black Pepper Crab
 Often referred to as one of the national dishes of Singapore, chili crab is one of the most beloved special family dishes in Singapore, and it’s among the most famous things to eat in the city when you’re visiting as well.
