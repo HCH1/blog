@@ -39,9 +39,9 @@ Lombok is somewhat similar in size and density, and shares some cultural heritag
 Where is Lombok?
 Lombok is at the right of Bali, then Rinjani volcano is at the north of the island, the airport is at the south, on the left side has a lot of people diving in west Gili island, and on the right side has a few people snorkeling in east Gili island.
 
-I Recommend Lombok travel agency - hallo trekker
+I recommend Lombok travel agency - hallo trekker
 For this trip, I communicated with the local travel agency via whatsApp, and I chose this travel agency for two reasons:
-- quick and careful (I love it)
+- efficiency and careful
 - the travel agency ranked #2 of 93 Outdoor Activities in Senaru highly on its website
 ```
 ## 出發前小趣談
@@ -90,7 +90,7 @@ Rinjani light house, Lombok hotel
 Lombok airport is in the south of the island. After meeting the travel agency driver at 5pm, it is about three and a half hours' drive to the hotel in the north of the island. 
 
 We choose Rinjani light house, which is rated as four stars by Google and recommended by travel agency. Therefore. The two levels wood house is located in the garden, very quiet. Employee service attitude is good, for example:
-- A week before my departure, I sent a letter to the travel agency asking for help in preparing some surprises. The result was very satisfactory and thoughtful. (I love it)
+- A week before my departure, I sent a letter to the travel agency asking for help in preparing some surprises. The result was very satisfactory and thoughtful.
 - because of some reasons, I want to change from the second floor to the first floor on the last day of accommodation. After communication, the staff is also helpful.
 ```
 兩層小木屋座落在花園之間
