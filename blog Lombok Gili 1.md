@@ -11,7 +11,11 @@
 龍目國際機場（IATA代碼：LOP；ICAO代碼：WADL）：在2011年12月1日啟用，為島上唯一有定期航班的機場，位於本島的中央偏南方。
 
 林賈尼Rinjani火山：為本島最高的山峰，也是印尼第二高的火山，位於本島的北方。
+```
+Lombok is an island in West Nusa Tenggara province, Indonesia. It forms part of the chain of the Lesser Sunda Islands, with the Lombok Strait separating it from Bali to the west and the Alas Strait between it and Sumbawa to the east. It is roughly circular, with a "tail" (Sekotong Peninsula) to the southwest, about 70 kilometres (43 miles) across and a total area of about 4,514 square kilometres (1,743 square miles). The provincial capital and largest city on the island is Mataram.
 
+Lombok is somewhat similar in size and density, and shares some cultural heritage with the neighboring island of Bali to the west. However, it is administratively part of West Nusa Tenggara, along with the larger and more sparsely populated island of Sumbawa to the east. Lombok is surrounded by a number of smaller islands locally called Gili.
+```
 - [lombok wiki](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=lombok+wiki)
 - [My Instagram](https://www.instagram.com/redbox111)
 
@@ -125,6 +129,9 @@
 散步環島吉力康多Gili Kondo
 ![f1](https://github.com/HCH1/blog/blob/master/fig/gili12.jpg)
 
+與四位夥伴的團體照
+![f1](https://github.com/HCH1/blog/blob/master/fig/gili12a.jpg)
+
 夥伴們也搞笑的演出泰坦尼克Titanic橋段。吉利藍布Gili Lampu紅樹林之旅
 ![f1](https://github.com/HCH1/blog/blob/master/fig/gili13.jpg)
 
@@ -148,31 +155,6 @@
 
 ## 補充資料(可省略)
 ## hallo trekker所提供的東吉利east Gili兩天一夜海島遊
-以下是旅行社給的行程表，重頭戲就是四座小島：Gili Kondo, Gili Lampu, Gili Bidara and Gili Kapal。會先從龍目島東碼頭Ferry lombok sumbawa搭船出發，大概一小時船程。
-
-## 龍目島的東部，還未被發現的秘境
-在那裡你會發現龍目島的四個秘境：
-- 吉力康多Gili Kondo
-- 吉利藍布Gili Lampu
-- 吉利比搭拉Gili Bidara
-- 吉利康婆Gili Kapal
-
-仍然是一個隱藏的、無人居住的天堂，在那裡你可以找到奇妙的珊瑚、紅樹林和白色沙灘。這次旅行的亮點之一是：吉利康婆Gili Kapal。在非漲潮時段，此小沙島才會從碧綠清澈的海水中顯露出來。
-
-## 旅遊行程
-在您下榻的賓館用過早餐後，我們將開車送您到龍目島Lombok東部。從那裡我們的導遊帶你乘船去四個吉利Gili島。他會帶你去最好的浮潛地點，以及最好的海灘游泳和放鬆在吉利比搭拉Gili Bidara和吉力康多Gili Kondo。您將漫步在吉利康婆Gili Kapal，夢想般的白沙，和開船穿過吉利藍布Gili Lampu紅樹林島。
-
-你可以從塞納魯Senaru出發，花一天時間遊覽東龍目east Lombok島的秘境島嶼，晚上再回到那裡。我們將為您提供飲用水，並為您提供午餐和零食。
-
-一個特殊的經驗和更多的時間在美麗的島嶼提供我們的2天1夜露營套餐。在吉力康多Gili Kondo過夜，在海灘上欣賞日落。我們提供露營設備，當然照顧您的健康與新鮮煮熟的午餐和晚餐，以及第二天早上的早餐。包裡包括零食和飲用水。你將在第二天下午回到塞納魯Senaru。
-
-## 二日一夜之旅:
-- 從塞納魯Senaru，聖吉吉Senggigi或邦薩而Bangsal到吉利Gili群島的運輸（汽車和船）
-- 午餐，晚餐，早餐，零食，礦泉水
-- 浮潛設備
-- 露營裝備（帳篷，睡袋，床墊）
-- 導遊
-```
 ## This boat trip leads you to the by tourism still undiscovered east of our island. 
 There you will find four secret gilis of Lombok. Gili Kondo, Gili Lampu, Gili Bidara and 
 Gili Kapal are still a hidden and uninhabited paradise where you find snorkel spots with 
@@ -204,6 +186,31 @@ You will be back in Senaru in the afternoon of the second day.
 - snorkeling equipment
 - camping equipment (tent, sleeping bag, mattress)
 - guide
+```
+以下是旅行社給的行程表，重頭戲就是四座小島：Gili Kondo, Gili Lampu, Gili Bidara and Gili Kapal。會先從龍目島東碼頭Ferry lombok sumbawa搭船出發，大概一小時船程。
+
+## 龍目島的東部，還未被發現的秘境
+在那裡你會發現龍目島的四個秘境：
+- 吉力康多Gili Kondo
+- 吉利藍布Gili Lampu
+- 吉利比搭拉Gili Bidara
+- 吉利康婆Gili Kapal
+
+仍然是一個隱藏的、無人居住的天堂，在那裡你可以找到奇妙的珊瑚、紅樹林和白色沙灘。這次旅行的亮點之一是：吉利康婆Gili Kapal。在非漲潮時段，此小沙島才會從碧綠清澈的海水中顯露出來。
+
+## 旅遊行程
+在您下榻的賓館用過早餐後，我們將開車送您到龍目島Lombok東部。從那裡我們的導遊帶你乘船去四個吉利Gili島。他會帶你去最好的浮潛地點，以及最好的海灘游泳和放鬆在吉利比搭拉Gili Bidara和吉力康多Gili Kondo。您將漫步在吉利康婆Gili Kapal，夢想般的白沙，和開船穿過吉利藍布Gili Lampu紅樹林島。
+
+你可以從塞納魯Senaru出發，花一天時間遊覽東龍目east Lombok島的秘境島嶼，晚上再回到那裡。我們將為您提供飲用水，並為您提供午餐和零食。
+
+一個特殊的經驗和更多的時間在美麗的島嶼提供我們的2天1夜露營套餐。在吉力康多Gili Kondo過夜，在海灘上欣賞日落。我們提供露營設備，當然照顧您的健康與新鮮煮熟的午餐和晚餐，以及第二天早上的早餐。包裡包括零食和飲用水。你將在第二天下午回到塞納魯Senaru。
+
+## 二日一夜之旅:
+- 從塞納魯Senaru，聖吉吉Senggigi或邦薩而Bangsal到吉利Gili群島的運輸（汽車和船）
+- 午餐，晚餐，早餐，零食，礦泉水
+- 浮潛設備
+- 露營裝備（帳篷，睡袋，床墊）
+- 導遊
 ```
 ## 補充資料(可省略)
 ## 部落格推薦
@@ -325,12 +332,4 @@ I suggest you to take a driver who knows the way for this kind of tour. I made t
 
 在岛的东部有一些城镇，那里的交通很繁忙。从Senggigi或Mataram骑摩托车可能比开车更好。
 ```
-
-## ref
-- [hallotrekker](http://hallotrekker.com/category/rinjani-trekking-packages/trekking-via-senaru/)
-- [blog](https://girleatworld.net/mount-rinjani-trekking-guide/)
-- [map](https://www.google.com/maps/d/viewer?mid=1XQ1m6LEJwab41SdqvqqzLl39zOQWI3Uw&ll=-8.419324533174773%2C116.38571026060379&z=12)
-- [baligoldentour](http://www.baligoldentour.com/bali-trekking-mount-batur-tour.php)
-- [blog2](https://girleatworld.net/mount-batur-bali-sunrise-trek/)
-
 ## End
