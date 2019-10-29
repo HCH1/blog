@@ -64,7 +64,7 @@
 ![f1](https://github.com/HCH1/blog/blob/master/fig/gili4.jpg)
 
 ## 龍目島之旅第二天（兩天一夜第一日）
-- 8-10pm 前往龍目島東碼頭Ferry lombok sumbawa
+- 8-10am 前往龍目島東碼頭Ferry lombok sumbawa
 - [龍目島東碼頭Ferry lombok sumbawa](https://www.google.com.tw/maps/place/Ferry+lombok+sumbawa/@-8.4917143,116.6628388,14.16z/data=!4m13!1m7!3m6!1s0x2dcbafbe0ab030ed:0x7d3d2dde7b3de453!2sGili+Kondo!3b1!8m2!3d-8.6466667!4d117.7622222!3m4!1s0x0:0xaf23c0dc04ee50e4!8m2!3d-8.492932!4d116.6764194)
 - 11pm 吉利康婆Gili Kapal 
 - 1pm 吉力康多Gili Kondo午餐晚餐浮潛宿營
@@ -77,29 +77,31 @@
 
 東吉利海島遊客很少，所以除了海水清澈之外，海底特別多且有五顏六色的珊瑚(仍然活著)和魚。運氣很好我用gopro HERO5拍到了小丑魚nemo還有綠色紫色黃色交錯的珊瑚。潛水夥伴也很貼心的一對一引導，並且途中還拿出吐司去位於吸引魚群，讓遊客好拍照。
 
-與夥伴們沙洲上跳躍留影
-![f1](https://github.com/HCH1/blog/blob/master/fig/gili.jpg)
+與夥伴們在沙洲上跳躍留影
+![f1](https://github.com/HCH1/blog/blob/master/fig/gili5.jpg)
 
 五顏六色的珊瑚
-![f1](https://github.com/HCH1/blog/blob/master/fig/gili.jpg)
+![f1](https://github.com/HCH1/blog/blob/master/fig/gili6.jpg)
 
 小丑魚nemo
-![f1](https://github.com/HCH1/blog/blob/master/fig/gili.jpg)
+![f1](https://github.com/HCH1/blog/blob/master/fig/gili7.jpg)
 
-因為在離島，幾乎沒有光害，所以晚上六點日落之後，天色就變暗很快，抬頭很容易看到滿天星空。大約晚上七點。四位夥伴為我們搭建的營火，並且為在火爐邊開心地唱歌加上吉他伴奏，我們很喜歡他們彈奏演唱的印尼當地歌曲，
+因為在離島，幾乎沒有光害，所以晚上六點日落之後，天色就變暗很快，抬頭很容易看到滿天星空。
+
+大約晚上七點。四位夥伴為我們搭建的營火，並且為在火爐邊開心地唱歌加上吉他伴奏，一開始聽著西洋歌曲的伴奏，聽了幾首之後，我們主動提想聽看看印尼當地歌曲，夥伴們喜出望外，更加賣力演出手足舞蹈，家鄉的歌曲實在是拉近人心的妙方。
 
 看日落
-![f1](https://github.com/HCH1/blog/blob/master/fig/gili.jpg)
+![f1](https://github.com/HCH1/blog/blob/master/fig/gili8.jpg)
 
 彈吉他
-![f1](https://github.com/HCH1/blog/blob/master/fig/gili.jpg)
+![f1](https://github.com/HCH1/blog/blob/master/fig/gili9.jpg)
 
 賞星
-![f1](https://github.com/HCH1/blog/blob/master/fig/gili.jpg)
+![f1](https://github.com/HCH1/blog/blob/master/fig/gili10.jpg)
 
 ## 龍目島之旅第三天（兩天一夜第二日）
 - 5am 看日出
-- 6am 漫步環島
+- 6am 散步環島吉力康多Gili Kondo
 - 7am 吉利藍布Gili Lampu紅樹林之旅
 - 8am 浮淺
 - 10am 回到東碼頭
@@ -107,42 +109,45 @@
 - 3pm 瀑布Sendang Gile Waterfall健走
 - [Sendang Gile Waterfall](https://www.google.com.sg/maps/place/Sendang+Gile+Waterfall/@-8.3037526,116.4041359,16.65z/data=!4m15!1m9!3m8!1s0x0:0x9e7fb5808644d88!2sRinjani+Lighthouse+Cottages!5m2!4m1!1i2!8m2!3d-8.3033787!4d116.4030235!3m4!1s0x2dcdd4c7ecd72779:0x2d37f38d3a6185e!8m2!3d-8.3063132!4d116.4077921?hl=zh-TW)
 
+日出大概是早上六點，但是建議要在太陽出來之前來欣賞雲彩的變化，實屬難忘。
 
+我也推薦散步環島吉力康多Gili Kondo，走完一圈大概半小時多。島嶼雖小，但是每一個面向都有不同的海景和遠景，例如沙灘配遠山，岩礁岸配芒草樹林，實在是一大視覺衝擊和饗宴。
 
-紅樹林之旅
+早上夥伴們也會幫您準備早餐和水果。在享用完早餐，收拾背包和帳篷後，便前往了吉利藍布Gili Lampu紅樹林之旅。河道兩旁茂密的紅樹林，搭配遠山的飄渺，實為難得美景，途中夥伴們也搞笑的演出泰坦尼克Titanic橋段。
 
-浮潛
+之後會再前往第三個浮淺地點，也會嘗試引導你練習自由淺水（不穿救生衣潛入水底）。海底也是很多五顏六色的珊瑚(仍然活著)和魚。此浮淺結束後，便前往東碼頭回家了。
 
-搭船回港口
-搭車回旅館
+下午還有最後一個行程，瀑布Sendang Gile Waterfall健走，離下榻旅館不遠走路十分鐘。由一位夥伴帶領我們，整段瀑布健走大概半小時，階梯有點多，智慧手錶記錄大概爬梯二十多層樓。算是汗流浹背最多的一個行程，建議攜帶一條毛巾。沿途會看到猴子，但是不算兇猛，不會去搶你的袋子和背包。
 
 看日出
-![f1](https://github.com/HCH1/blog/blob/master/fig/gili.jpg)
+![f1](https://github.com/HCH1/blog/blob/master/fig/gili11.jpg)
 
-漫步環島
-![f1](https://github.com/HCH1/blog/blob/master/fig/gili.jpg)
+散步環島吉力康多Gili Kondo
+![f1](https://github.com/HCH1/blog/blob/master/fig/gili12.jpg)
 
-吉利藍布Gili Lampu紅樹林之旅
-![f1](https://github.com/HCH1/blog/blob/master/fig/gili.jpg)
+夥伴們也搞笑的演出泰坦尼克Titanic橋段。吉利藍布Gili Lampu紅樹林之旅
+![f1](https://github.com/HCH1/blog/blob/master/fig/gili13.jpg)
 
 瀑布Sendang Gile Waterfall健走
-![f1](https://github.com/HCH1/blog/blob/master/fig/gili.jpg)
+![f1](https://github.com/HCH1/blog/blob/master/fig/gili14.jpg)
 
 ## 龍目島之旅第四天
 - 8-11am 出發去龍目機場
-- 2-3pm 龍目飛往島峇里島Lombok to Bali
+- 2-3pm 龍目飛往峇里島Lombok to Bali
 - 4pm 按摩Kaya Spa Airport
 - [Kaya Spa Airport](https://www.google.com.sg/maps/place/Kaya+Spa+Airport/@-8.7396799,115.1675624,16z/data=!4m8!1m2!2m1!1sbali+kaya+spa!3m4!1s0x0:0xf944a78eb294fb3c!8m2!3d-8.7431038!4d115.1660715?hl=zh-TW)
-- 6-9pm 巴里島飛往新加坡Bali to SIN
+- 6-9pm 峇里島飛往新加坡Bali to SIN
 
-最後推薦一下巴里島機場的按摩Kaya Spa Airport，腳底小腿30min加上肩頸背部30min，總共75K印尼盾，價格不貴，環境和按摩品質也不錯的。為整趟旅程劃下完美的句點:D
+最後推薦一下峇里島機場的按摩Kaya Spa Airport，腳底小腿30min加上肩頸背部30min，總共75K印尼盾，價格不貴，環境和按摩品質也不錯的。為整趟旅程劃下完美的句點：Ｄ
 
-巴里島機場的日落
-![f1](https://github.com/HCH1/blog/blob/master/fig/gili.jpg)
+在峇里島機場看到小型的巴龍舞
+![f1](https://github.com/HCH1/blog/blob/master/fig/gili15.jpg)
 
+峇里島機場的日落
+![f1](https://github.com/HCH1/blog/blob/master/fig/gili16.jpg)
 
 ## 補充資料(可省略)
-## 東吉利east Gili兩天一夜海島遊 by hallo trekker
+## hallo trekker所提供的東吉利east Gili兩天一夜海島遊
 以下是旅行社給的行程表，重頭戲就是四座小島：Gili Kondo, Gili Lampu, Gili Bidara and Gili Kapal。會先從龍目島東碼頭Ferry lombok sumbawa搭船出發，大概一小時船程。
 
 ## 龍目島的東部，還未被發現的秘境
