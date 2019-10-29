@@ -31,7 +31,7 @@ Lombok is somewhat similar in size and density, and shares some cultural heritag
 ## 推薦龍目島Lombok旅行社hallo trekker
 此去行程我是跟當地旅行社使用簡訊whatsApp溝通，會選擇這家有兩個原因：
 - 回覆速度快且細心（深得我心）
-- 該旅行社在網站上排名和評價很高#2 of 93 Outdoor Activities in Senaru
+- 同行的當地夥伴們，風趣且專業，吉他助興，協助拍照，照顧我們在宿營和浮潛的安全
 
 - [hallo trekker官網](http://hallotrekker.com/category/rinjani-trekking-packages/trekking-via-senaru/)
 - [#2 of 93 Outdoor Activities in Senaru](https://www.tripadvisor.com.sg/Attraction_Review-g3475390-d8799777-Reviews-Hallo_Trekker_Day_Tours-Senaru_Lombok_West_Nusa_Tenggara.html)
@@ -42,6 +42,7 @@ Lombok is at the right of Bali, then Rinjani volcano is at the north of the isla
 I recommend Lombok travel agency - hallo trekker
 For this trip, I communicated with the local travel agency via whatsApp, and I chose this travel agency for two reasons:
 - efficiency and careful
+- the staffs/local friends are funny and professional, play guitar, help photography, take care our camping and snorkeling safety.
 - the travel agency ranked #2 of 93 Outdoor Activities in Senaru highly on its website
 ```
 ## 出發前小趣談
@@ -81,7 +82,7 @@ It is worth mentioning that we buy the transfer flight tickets, only two hours b
 
 龍目島機場在島的南部，5pm多與旅行社司機碰面後，大約三小時半的車程，開往島的北邊的下榻旅館。
 
-我們是選擇Rinjani light house，這家在google評價是四顆星，加上又是旅行社推薦之一，所以選擇這家。此兩層小木屋座落在花園之間，非常清幽。員工服務態度很好，例如：
+我們是選擇Rinjani light house，這家在google評價是四顆星，加上又是旅行社推薦之一，所以選擇這家。此兩層小木屋座落在花園之間，不吵。員工服務態度很好，例如：
 - 我出發前一週，有寄信請旅行社幫忙準備一些小驚喜，結果令我很滿意而且用心。（深得我心）
 - 因為某些緣故，住宿最後一日，想從二樓改到一樓，經過溝通後員工也很熱心處理，實在溫馨。
 ```
@@ -89,7 +90,7 @@ Rinjani light house, Lombok hotel
 
 Lombok airport is in the south of the island. After meeting the travel agency driver at 5pm, it is about three and a half hours' drive to the hotel in the north of the island. 
 
-We choose Rinjani light house, which is rated as four stars by Google and recommended by travel agency. Therefore. The two levels wood house is located in the garden, very quiet. Employee service attitude is good, for example:
+We choose Rinjani light house, which is rated as four stars by Google and recommended by travel agency. Therefore. The two levels wood house is located in the garden, not noisy. Employee service attitude is good, for example:
 - A week before my departure, I sent a letter to the travel agency asking for help in preparing some surprises. The result was very satisfactory and thoughtful.
 - because of some reasons, I want to change from the second floor to the first floor on the last day of accommodation. After communication, the staff is also helpful.
 ```
