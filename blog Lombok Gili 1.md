@@ -79,13 +79,17 @@ It is worth mentioning that we buy the transfer flight tickets, only two hours b
 ### 推薦龍目島Lombok旅館Rinjani light house
 - [Rinjani light house](https://www.google.com.tw/maps/place/Rinjani+Lighthouse+Cottages/@-8.3033787,116.4030235,15z/data=!4m2!3m1!1s0x0:0x9e7fb5808644d88?sa=X&ved=2ahUKEwjUmu-ciL_lAhXBRY8KHTi3C4YQ_BIwFHoECAoQCA)
 
-龍目島機場在島的南部，5pm多與旅行社司機碰面後，大約三小時半的車程，開往島的北邊的下榻旅館。我們是選擇Rinjani light house，這家在google評價是四顆星，加上又是旅行社推薦之一，所以選擇這家。此兩層小木屋座落在花園之間，非常清幽。員工服務態度很好，例如：
+龍目島機場在島的南部，5pm多與旅行社司機碰面後，大約三小時半的車程，開往島的北邊的下榻旅館。
+
+我們是選擇Rinjani light house，這家在google評價是四顆星，加上又是旅行社推薦之一，所以選擇這家。此兩層小木屋座落在花園之間，非常清幽。員工服務態度很好，例如：
 - 我出發前一週，有寄信請旅行社幫忙準備一些小驚喜，結果令我很滿意而且用心。（深得我心）
 - 因為某些緣故，住宿最後一日，想從二樓改到一樓，經過溝通後員工也很熱心處理，實在溫馨。
 ```
-Rinjani light house, Lombok hotel, Lombok
+Rinjani light house, Lombok hotel
 
-Lombok airport is in the south of the island. After meeting the travel agency driver at 5pm, it is about three and a half hours' drive to the hotel in the north of the island. We choose Rinjani light house, which is rated as four stars by Google and recommended by travel agency. Therefore. The two levels wood house is located in the garden, very quiet. Employee service attitude is good, for example:
+Lombok airport is in the south of the island. After meeting the travel agency driver at 5pm, it is about three and a half hours' drive to the hotel in the north of the island. 
+
+We choose Rinjani light house, which is rated as four stars by Google and recommended by travel agency. Therefore. The two levels wood house is located in the garden, very quiet. Employee service attitude is good, for example:
 - A week before my departure, I sent a letter to the travel agency asking for help in preparing some surprises. The result was very satisfactory and thoughtful. (I love it)
 - because of some reasons, I want to change from the second floor to the first floor on the last day of accommodation. After communication, the staff is also helpful.
 ```
