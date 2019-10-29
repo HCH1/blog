@@ -1,4 +1,4 @@
-# 2019 新加坡 私藏美食大公開總整理（持續更新）the best yummy food in Singapore
+# 新加坡私藏美食大公開總整理（2019持續更新）the best yummy food in Singapore
 ![f1](https://github.com/HCH1/blog/blob/master/fig/sgfood1.JPG)
 
 ## 我先列舉出心中前五名特色必吃美食:
@@ -9,9 +9,7 @@
 - 辣椒螃蟹
 
 ## Get ready for 25 dishes you should try in Singapore (plus a few extras that I had to add in), and where to eat them!
-- [推薦部落格](https://migrationology.com/singapore-food/)
-
-> 1. Laksa
+## 1. Laksa
 Laksa is one of the ultimate demonstrations of the combination of Chinese and Malay flavors and ingredients all in a single bowl. Noodles, often rice noodles, make up the foundation and starch of a bowl of laksa, followed by a gravy or curry, some pieces of protein, and often some vegetables and herbs.
 - 叨沙
 
@@ -21,7 +19,7 @@ Laksa is one of the ultimate demonstrations of the combination of Chinese and Ma
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/sgfood2.JPG)
 
-> 2. Bak Kut Teh
+## 2. Bak Kut Teh
 Literally translated to pork bone tea, bak kut teh is a dish that’s popular throughout Malaysia and Singapore with Chinese origins. Although one would think the pork is cooked in tea, tea is not actually included in the recipe, but according to Wikipedia, it got its name because strong tea is consumed along with the pork soup to wash down the grease.
 - 肉骨茶
 - 你沒有讀錯，英文因是福建話台語發音。畢竟新加坡老一輩的華人大多講福建話。新加坡與馬來西亞都愛吃肉骨茶，差別就在於湯頭。新加坡湯底是白湯胡椒湯，馬來西亞是黑湯藥材湯。
@@ -140,6 +138,7 @@ Known for being served at open air bbq restaurants and food stalls in Singapore 
 > 25. Fish Head Curry
 As you probably know by now, I’m a huge food lover, and while I enjoyed eating everything on this list of Singapore food, there are a couple dishes that top all the rest (for me), one of them being fish head curry.
 
+## [推薦部落格](https://migrationology.com/singapore-food/)
 ## 懶人包連結
 ## food
 - [sg Tong Xin Ru Yi 同心如意传统铜火锅](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+Tong+Xin+Ru+Yi+同心如意传统铜火锅)
