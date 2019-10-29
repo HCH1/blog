@@ -35,11 +35,19 @@ Lombok is somewhat similar in size and density, and shares some cultural heritag
 
 - [hallo trekker官網](http://hallotrekker.com/category/rinjani-trekking-packages/trekking-via-senaru/)
 - [#2 of 93 Outdoor Activities in Senaru](https://www.tripadvisor.com.sg/Attraction_Review-g3475390-d8799777-Reviews-Hallo_Trekker_Day_Tours-Senaru_Lombok_West_Nusa_Tenggara.html)
+```
+Where is Lombok?
+Lombok is at the right of Bali, then Rinjani volcano is at the north of the island, the airport is at the south, on the left side has a lot of people diving in west Gili island, and on the right side has a few people snorkeling in east Gili island.
 
+I Recommend Lombok travel agency - hallo trekker
+For this trip, I communicated with the local travel agency via whatsApp, and I chose this travel agency for two reasons:
+- quick and careful (I love it)
+- the travel agency ranked #2 of 93 Outdoor Activities in Senaru highly on its website
+```
 ## 出發前小趣談
 2019十月有機會去了龍目島Lombok旅遊，本來是要爬火山林賈尼Rinjani，然後去拍攝日出日落和星空。無奈後來出發前一天，當地旅行社說有局部森林大火，為了遊客安全，所以林賈尼國家公園決定關閉一週。所以我們的行程，經由當地旅行社的協調推薦，改成東吉利east Gili海島遊與浮淺，並且加上帳篷夜宿一晚。
 
-整趟兩天一夜2D1N的旅程，有滿多美景以及美好的回憶，需要感謝老天給的天氣如此好，以及山下住宿環境不錯，還有旅行社的用心。在文章後半部我會補充介紹：Ｄ
+整趟兩天一夜2D1N的旅程，有滿多美景以及美好的回憶，需要感謝老天給的天氣如此好，以及山下住宿環境不錯，還有旅行社的用心：Ｄ
 
 ## 龍目島之旅第一天
 - 11-2pm 新加坡飛往峇厘島SIN to Bali 
@@ -50,14 +58,37 @@ Lombok is somewhat similar in size and density, and shares some cultural heritag
 - 出境領取托運行李（大概四十分鐘）
 - 從國際線建築物走到國內線建築物（走路至少十分鐘。不同建築物，路上沒有冷氣且滿悶熱的，請抬頭注意指標）
 - 領機票放托運行李（起飛前一小時還可放行李）
+```
+Funny thing before departure
 
+In October 2019, I had the opportunity to travel to Lombok island, where I was supposed to climb the mountain Rinjani, and then take photos of sunrise, sunset and stars. However, the day before the trip, the local tourist agency said there was a partial forest fire, so the Rinjani national park was closed for a week for tourists' safety. So our itinerary, coordinated and recommended by the local travel agency, was changed to an island tour and snorkeling trip to east Gili, plus a night in a tent.
+
+The whole trip for two days and one night is full of beautiful scenery and beautiful memories. We need to thank god for the weather, the accommodation environment at the hotel, and the nice plan of the travel agency : D
+
+Day 1 of my trip to lombok
+- 11-2pm Singapore to Bali
+- 4-5pm Bali to Lombok
+- 9pm arrive at Rinjani light house
+
+It is worth mentioning that we buy the transfer flight tickets, only two hours between transfer flights. As long as we do not get lost or the flight is not delayed, the time is just enough.
+
+- collect the luggage (about 40 minutes)
+- walk from the international line to the domestic line (walk for at least 10 minutes. For different buildings, please look up and pay attention to the indicators.
+- collect ticket and checked luggage (luggage can be put in one hour before departure)
+```
 ### 推薦龍目島Lombok旅館Rinjani light house
 - [Rinjani light house](https://www.google.com.tw/maps/place/Rinjani+Lighthouse+Cottages/@-8.3033787,116.4030235,15z/data=!4m2!3m1!1s0x0:0x9e7fb5808644d88?sa=X&ved=2ahUKEwjUmu-ciL_lAhXBRY8KHTi3C4YQ_BIwFHoECAoQCA)
 
 龍目島機場在島的南部，5pm多與旅行社司機碰面後，大約三小時半的車程，開往島的北邊的下榻旅館。我們是選擇Rinjani light house，這家在google評價是四顆星，加上又是旅行社推薦之一，所以選擇這家。此兩層小木屋座落在花園之間，非常清幽。員工服務態度很好，例如：
 - 我出發前一週，有寄信請旅行社幫忙準備一些小驚喜，結果令我很滿意而且用心。（深得我心）
 - 因為某些緣故，住宿最後一日，想從二樓改到一樓，經過溝通後員工也很熱心處理，實在溫馨。
+```
+Rinjani light house, Lombok hotel, Lombok
 
+Lombok airport is in the south of the island. After meeting the travel agency driver at 5pm, it is about three and a half hours' drive to the hotel in the north of the island. We choose Rinjani light house, which is rated as four stars by Google and recommended by travel agency. Therefore. The two levels wood house is located in the garden, very quiet. Employee service attitude is good, for example:
+- A week before my departure, I sent a letter to the travel agency asking for help in preparing some surprises. The result was very satisfactory and thoughtful. (I love it)
+- because of some reasons, I want to change from the second floor to the first floor on the last day of accommodation. After communication, the staff is also helpful.
+```
 兩層小木屋座落在花園之間
 ![f1](https://github.com/HCH1/blog/blob/master/fig/gili2.jpg)
 
@@ -80,7 +111,20 @@ Lombok is somewhat similar in size and density, and shares some cultural heritag
 白天我們在離島吉利康婆Gili Kapal停留，退潮時，此小沙島才從碧綠清澈的海水中顯露出來。走完一圈大概五分鐘，非常迷你。我們一行人也在島上拍了幾張跳躍的團體照之後，前往下一個浮潛景點。
 
 東吉利海島遊客很少，所以除了海水清澈之外，海底特別多且有五顏六色的珊瑚(仍然活著)和魚。運氣很好我用gopro HERO5拍到了小丑魚nemo還有綠色紫色黃色交錯的珊瑚。潛水夥伴也很貼心的一對一引導，並且途中還拿出吐司去位於吸引魚群，讓遊客好拍照。
+```
+Day 2 (2 days and 1 night)
+- 8-10am to Ferry lombok sumbawa
+- 11pm Gili Kapal
+- 1pm Gili Kondo lunch dinner snorkeling camp
+- 6pm sunset
+- 7pm campfire, talk to the stars, play guitar
 
+We left about 8am with our team leader and drove to Ferry lombok sumbawa, east pier, for about 1.5 hours. Also accompanied by two local friends who sang and danced well, adding to the fun of the 2D1N trip. After arriving at the dock, there are two other local friends joined, also good at diving, photography and singing. Thx for my four local friends about the preparation and carrying: meals, snorkeling, camping, guides, campfires.
+
+During the day we stopped at the outlying island of Gili Kapal, and at low tide the small sandy island appear from the clear sea. It takes about five minutes to walk around all the island, very mini. We also took a few jumping group photos on the island before heading to the next snorkeling spot.
+
+There are few tourists to east Gili, so apart from the clear water, the seafloor is especially rich in colorful coral (still alive) and fish. With luck I was able to photograph the clownfish nemo with gopro HERO5 and the green purple yellow interlace coral. Local friends also provide one-on-one guidance and take out toast to attract shoals of fish so visitors can take pictures.
+```
 與夥伴們在沙洲上跳躍留影
 ![f1](https://github.com/HCH1/blog/blob/master/fig/gili5.jpg)
 
@@ -93,7 +137,11 @@ Lombok is somewhat similar in size and density, and shares some cultural heritag
 因為在離島，幾乎沒有光害，所以晚上六點日落之後，天色就變暗很快，抬頭很容易看到滿天星空。
 
 大約晚上七點。四位夥伴為我們搭建的營火，並且為在火爐邊開心地唱歌加上吉他伴奏，一開始聽著西洋歌曲的伴奏，聽了幾首之後，我們主動提想聽看看印尼當地歌曲，夥伴們喜出望外，更加賣力演出手足舞蹈，家鄉的歌曲實在是拉近人心的妙方。
+```
+Since there is almost no light pollution on the outlying islands, the sky becomes dark very quickly after 6pm sunset, and it is easy to see the sky full of stars when you look up.
 
+About 7pm. Four local friends for us to build a campfire, and as happy as in a stove, singing with guitar, listen to western songs accompanied at the beginning, after listening to a few, we take the initiative to want to hear and see Indonesia local songs, local friends was very happy, dance and performance hometown songs.
+```
 看日落
 ![f1](https://github.com/HCH1/blog/blob/master/fig/gili8.jpg)
 
@@ -122,7 +170,26 @@ Lombok is somewhat similar in size and density, and shares some cultural heritag
 之後會再前往第三個浮淺地點，也會嘗試引導你練習自由淺水（不穿救生衣潛入水底）。海底也是很多五顏六色的珊瑚(仍然活著)和魚。此浮淺結束後，便前往東碼頭回家了。
 
 下午還有最後一個行程，瀑布Sendang Gile Waterfall健走，離下榻旅館不遠走路十分鐘。由一位夥伴帶領我們，整段瀑布健走大概半小時，階梯有點多，智慧手錶記錄大概爬梯二十多層樓。算是汗流浹背最多的一個行程，建議攜帶一條毛巾。沿途會看到猴子，但是不算兇猛，不會去搶你的袋子和背包。
+```
+Day 3 (2 days and 1 night)
+- 5am sunrise
+- 6am walk around the island of Gili Kondo
+- 7am Gili Lampu mangrove forest tour
+- 8 am snorkelling
+- 10am back to east pier
+- 12pm back to hotel
+- 3pm Sendang Gile Waterfall walking
 
+Sunrise is around 6 a.m., but it's a better to see the colorful sky change before the sun comes out.
+
+I also recommend a walk around the island called Gili Kondo, which takes about half an hour to complete. Although the island is small, each face has a different view and perspective, such as the beach with distant mountains, the rocky shore with miscanthus trees, is a big visual impact and feast.
+
+In the morning, local friends will also help you prepare breakfast and fruit. After having breakfast, packing up backpack and tent, we went to Gili Lampu mangrove forest. The thick mangrove trees on both sides of the river, are really beautiful.
+
+Then head to a third snorkelling spot and try to guide you into free diving (diving underwater without a life jacket). The bottom is also full of colorful coral (still alive) and fish. After this snorkelling end, we went to the east pier and drive to back to hotel.
+
+There's one last guide tour in the afternoon, Sendang Gile Waterfall, a 10-minute walk from the hotel. Led by a local friend, we walked the whole waterfall for about half an hour. There were a lot of stairs, and the smart watch recorded about 20 floors. One of the most sweaty trips, suggest to bring a towel. Monkeys will be seen along the way, but they are nice and not grab your bag and backpack.
+```
 看日出
 ![f1](https://github.com/HCH1/blog/blob/master/fig/gili11.jpg)
 
@@ -146,7 +213,15 @@ Lombok is somewhat similar in size and density, and shares some cultural heritag
 - 6-9pm 峇里島飛往新加坡Bali to SIN
 
 最後推薦一下峇里島機場的按摩Kaya Spa Airport，腳底小腿30min加上肩頸背部30min，總共75K印尼盾，價格不貴，環境和按摩品質也不錯的。為整趟旅程劃下完美的句點：Ｄ
+```
+Day 4 of my trip to lombok
+- 8-11am departure for longmu airport
+- 2-3pm dragon head to Lombok to Bali
+- 4pm massage at Kaya Spa Airport
+- 6-9pm Bali to SIN
 
+Finally, I would like to recommend the massage of Kaya Spa Airport at Bali Airport. It takes 30 minutes for feet/legs, 30 min for shoulder, neck and back. The total amount is 75K rupiah. A perfect ending to the whole trip: D
+```
 在峇里島機場看到小型的巴龍舞
 ![f1](https://github.com/HCH1/blog/blob/master/fig/gili15.jpg)
 
