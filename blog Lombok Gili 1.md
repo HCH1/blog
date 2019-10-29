@@ -26,7 +26,7 @@
 
 ## 推薦龍目島Lombok旅行社hallo trekker
 此去行程我是跟當地旅行社使用簡訊whatsApp溝通，會選擇這家有兩個原因：
-- 回覆速度快且滿細心（這點比較深得我心）
+- 回覆速度快且細心（深得我心）
 - 該旅行社在網站上排名和評價很高#2 of 93 Outdoor Activities in Senaru
 
 - [hallo trekker官網](http://hallotrekker.com/category/rinjani-trekking-packages/trekking-via-senaru/)
@@ -47,11 +47,12 @@
 - 從國際線建築物走到國內線建築物（走路至少十分鐘。不同建築物，路上沒有冷氣且滿悶熱的，請抬頭注意指標）
 - 領機票放托運行李（起飛前一小時還可放行李）
 
-龍目島機場在島的南部，5pm多與旅行社司機碰面後，大約三小時半的車程，開往島的北邊的下榻旅館。我們是選擇Rinjani light house，這家在google評價是四顆星，加上又是旅行社推薦之一，所以選擇這家。此兩層小木屋座落在花園之間，非常清幽。員工服務態度很好，例如：
-- 我出發前一週，有寄信請旅行社幫忙準備一些小驚喜，結果令我很滿意而且用心。（大加分）
-- 因為某些緣故，住宿最後一日，想從二樓改到一樓，經過溝通後員工也很熱心處理，實在溫馨。
-
+### 推薦龍目島Lombok旅館Rinjani light house
 - [Rinjani light house](https://www.google.com.tw/maps/place/Rinjani+Lighthouse+Cottages/@-8.3033787,116.4030235,15z/data=!4m2!3m1!1s0x0:0x9e7fb5808644d88?sa=X&ved=2ahUKEwjUmu-ciL_lAhXBRY8KHTi3C4YQ_BIwFHoECAoQCA)
+
+龍目島機場在島的南部，5pm多與旅行社司機碰面後，大約三小時半的車程，開往島的北邊的下榻旅館。我們是選擇Rinjani light house，這家在google評價是四顆星，加上又是旅行社推薦之一，所以選擇這家。此兩層小木屋座落在花園之間，非常清幽。員工服務態度很好，例如：
+- 我出發前一週，有寄信請旅行社幫忙準備一些小驚喜，結果令我很滿意而且用心。（深得我心）
+- 因為某些緣故，住宿最後一日，想從二樓改到一樓，經過溝通後員工也很熱心處理，實在溫馨。
 
 兩層小木屋座落在花園之間
 ![f1](https://github.com/HCH1/blog/blob/master/fig/gili2.jpg)
