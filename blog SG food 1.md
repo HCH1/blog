@@ -8,20 +8,29 @@
 - 肉骨茶
 - 辣椒螃蟹
 
-## Get ready for 25 dishes you should try in Singapore (plus a few extras that I had to add in), and where to eat them!
-## 1. Laksa
-Laksa is one of the ultimate demonstrations of the combination of Chinese and Malay flavors and ingredients all in a single bowl. Noodles, often rice noodles, make up the foundation and starch of a bowl of laksa, followed by a gravy or curry, some pieces of protein, and often some vegetables and herbs.
-- 叨沙
-
-補充：
-
-- 喇沙（馬來語：Laksa）或叻沙是一道起源於南洋的麵食料理，為馬來西亞和新加坡的代表性料理。叻沙有非常多不同的種類，不同族群和地方對於叻沙的做法和味道也有極大差異，一般馬來西亞和新加坡華人所指的叻沙多為咖哩叻沙(Curry Laksa)或亞參叻沙(Asam Laksa)。其中亞參叻沙在2011年被美國有線電視新聞網絡（CNN）旗下的旅遊網站CNNGO，選為全球50大美食中的第7名，而咖哩叻沙則被赫芬頓郵報（The Huffington Post）評選為死前必嘗的世界十大美食之一。
+## 叨沙
+（馬來語：Laksa）或叻沙是一道起源於南洋的麵食料理，為馬來西亞和新加坡的代表性料理。叻沙有非常多不同的種類，不同族群和地方對於叻沙的做法和味道也有極大差異，一般馬來西亞和新加坡華人所指的叻沙多為咖哩叻沙(Curry Laksa)或亞參叻沙(Asam Laksa)。其中亞參叻沙在2011年被美國有線電視新聞網絡（CNN）旗下的旅遊網站CNNGO，選為全球50大美食中的第7名，而咖哩叻沙則被赫芬頓郵報（The Huffington Post）評選為死前必嘗的世界十大美食之一。
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/sgfood2.JPG)
+```
+1. Laksa
+Laksa is one of the ultimate demonstrations of the combination of Chinese and Malay flavors and ingredients all in a single bowl. Noodles, often rice noodles, make up the foundation and starch of a bowl of laksa, followed by a gravy or curry, some pieces of protein, and often some vegetables and herbs.
+```
+## 麻辣香鍋
+麻辣香鍋是一道麻辣菜，其中含有葷菜和素菜，味型兼具鹹味和辣味。麻辣香鍋的大致製作流程是：在鍋中加入所需菜品後，再通過以麻辣為主味型的調料炒成。出國前撒上白芝麻與香菜點綴，亦有炒制過程中加入花生碎增香的做法。在餐廳中，麻辣香鍋可以經過顧客自主選菜之後由廚師加工炒成。
 
-## 2. Bak Kut Teh
-Literally translated to pork bone tea, bak kut teh is a dish that’s popular throughout Malaysia and Singapore with Chinese origins. Although one would think the pork is cooked in tea, tea is not actually included in the recipe, but according to Wikipedia, it got its name because strong tea is consumed along with the pork soup to wash down the grease.
-- 肉骨茶
+![f1](https://github.com/HCH1/blog/blob/master/fig/sgfood2b.png)
+
+## 榴槤
+去新加坡玩或者馬來西亞旅遊，一定要嘗試當地榴蓮。我以前在台灣不吃榴蓮的，冰在冰箱也不吃。後來才知道台灣榴槤大多是泰國品種。後來來到新加坡工作的前三個月，抽空去吃了馬來西亞品種的榴蓮，改變了我對榴槤的看法！現在我非常愛吃榴蓮！現在只要是在產季的那幾個月，一定會揪朋友吃個幾次！。新加坡的榴蓮偏貴，馬來西亞便宜一半至少。然後品種很多，貓山王就是耳熟能響的好品質但是價錢也偏高，一公斤大概三十多塊新幣，1kg ~ 30$。
+
+![f1](https://github.com/HCH1/blog/blob/master/fig/sgfood4.JPG)
+```
+19. Durian
+Although durian is the only food on this list that needs no cooking preparation and is perfect in its all natural state of being, I had to include it because it’s such an obsession in Singapore, and it can be treated like an entire meal… and if I’m being honest with you, it was an excuse so that I could justify eating durian in Singapore. Luckily, I didn’t have any trouble convincing my wife that we needed to have during in Singapore, her being a lover of the King of Fruits as well.
+```
+
+## 肉骨茶
 - 你沒有讀錯，英文因是福建話台語發音。畢竟新加坡老一輩的華人大多講福建話。新加坡與馬來西亞都愛吃肉骨茶，差別就在於湯頭。新加坡湯底是白湯胡椒湯，馬來西亞是黑湯藥材湯。
 
 補充：隨著肉骨茶在東南亞以至亞洲及世界各地流傳，其烹飪風格亦隨著當時當地的華人而有所影響。 常見的肉骨茶風味可以分為以下三種：
@@ -31,15 +40,30 @@ Literally translated to pork bone tea, bak kut teh is a dish that’s popular th
 - 現時在新加坡，潮州派較為盛行，而在馬來西亞則以福建派較為盛行。
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/sgfood3.JPG)
+```
+## 2. Bak Kut Teh
+Literally translated to pork bone tea, bak kut teh is a dish that’s popular throughout Malaysia and Singapore with Chinese origins. Although one would think the pork is cooked in tea, tea is not actually included in the recipe, but according to Wikipedia, it got its name because strong tea is consumed along with the pork soup to wash down the grease.
+```
 
-> 3. Hokkien Mee
+## 辣椒螃蟹
+辣椒蟹，新加坡著名菜色，將泥蟹或蛙蟹混以番茄及辣椒製成的醬汁一起爆炒，儘管叫做辣椒蟹，它其實並非特別辛辣。此菜色於2011年被美國有線新聞網旗下網站CNN Go評定為全球50大最美味菜色的第35位。辣椒螃蟹最早Cher Yam tian女士在1950年發明。早期的辣椒螃蟹僅僅是用番茄醬爆炒。後來發現放入了辣椒醬之後味道更好。現在的辣椒螃蟹的辣椒醬不再使用普通販賣的辣椒醬，而是餐廳各自有獨特的辣椒醬配方，從而做出符合自己餐廳的大眾口味。同時也替代使用口味和肉質更加豐富的斯里蘭卡蟹來代替原本的泥蟹。
+```
+23. Chili Crab / Black Pepper Crab
+Often referred to as one of the national dishes of Singapore, chili crab is one of the most beloved special family dishes in Singapore, and it’s among the most famous things to eat in the city when you’re visiting as well.
+```
+
+## 福建麵
+你沒有讀錯，英文因是福建話台語發音。新加坡有些小販中心早上就在賣這類食食物，不像台式早餐偏愛蛋餅豆漿或者三明治。
+```
+3. Hokkien Mee
 Along with Char Kway Teow (coming up soon), Hokkien Mee is one of the most popular fried noodle hawker dishes in Singapore. It’s a dish that has roots in China’s Fujian province (which is where the Hokkien people are originally from), that has now been adopted into Malaysia and Singapore.
-- 福建麵
-- 你沒有讀錯，英文因是福建話台語發音。新加坡有些小販中心早上就在賣這類食食物，不像台式早餐偏愛蛋餅豆漿或者三明治。
+```
 
-> 4. Chicken Rice
+## 雞飯
+```
+4. Chicken Rice
 Although it’s just a simple combination of boiled chicken, paired with flavorful rice and sauce, this Hainanese influenced dish, ranks as one of the most popular and beloved dishes to eat in Singapore (it’s also extremely popular in Thailand, known as khao man gai).
-- 雞飯
+```
 
 > 5. Char Kway Teow
 When it comes to stir fried noodles in Singapore, one of the ultimate local favorites is char kway teow, a dish of flat wide rice noodles, stir fried with egg, a sauce of dark soy sauce, shrimp paste, a bit of chili, and often some Chinese sausage and blood cockles to finish it off.
@@ -105,12 +129,6 @@ Although originally from Indonesia with influence from India and the Middle East
 > 18. Ice Kacang
 It seems that just about every country throughout the world has their own version of a crushed or shaved ice dessert, and in Singapore that treat is called an ice kacang.
 
-> 19. Durian
-Although durian is the only food on this list that needs no cooking preparation and is perfect in its all natural state of being, I had to include it because it’s such an obsession in Singapore, and it can be treated like an entire meal… and if I’m being honest with you, it was an excuse so that I could justify eating durian in Singapore. Luckily, I didn’t have any trouble convincing my wife that we needed to have during in Singapore, her being a lover of the King of Fruits as well.
-- 榴槤
-- 去新加坡玩或者馬來西亞旅遊，一定要嘗試當地榴蓮。我以前在台灣不吃榴蓮的，冰在冰箱也不吃。後來才知道台灣榴槤大多是泰國品種。後來來到新加坡工作的前三個月，抽空去吃了馬來西亞品種的榴蓮，改變了我對榴槤的看法！現在我非常愛吃榴蓮！現在只要是在產季的那幾個月，一定會揪朋友吃個幾次！。新加坡的榴蓮偏貴，馬來西亞便宜一半至少。然後品種很多，貓山王就是耳熟能響的好品質但是價錢也偏高，一公斤大概三十多塊新幣，1kg~30sgd$。
-
-![f1](https://github.com/HCH1/blog/blob/master/fig/sgfood4.JPG)
 
 > 20. Nasi Padang
 Back in 2009, I took my first trip to Sumatra, Indonesia, and I was introduced to Nasi Padang, rice with a selection of different dishes originally from Padang in Sumatra.
@@ -129,15 +147,13 @@ Nasi lemak is one of the most well known Malay dishes, and when I’m in Malaysi
 > 22. Murtabak
 Originally an Arab food, but popular throughout Singapore and influenced by Indian flavors as well, a murtabak is yet another example of a beautiful fusion of cultures through food. Murtabak is essentially a stuffed roti, that can be filled with a choice of different fillings.
 
-> 23. Chili Crab / Black Pepper Crab
-Often referred to as one of the national dishes of Singapore, chili crab is one of the most beloved special family dishes in Singapore, and it’s among the most famous things to eat in the city when you’re visiting as well.
-
 > 24. Sambal Stingray
 Known for being served at open air bbq restaurants and food stalls in Singapore is sambal stingray. The stingray is cut into steak sizes pieces, marinated in a sambal sauce made from chilies, shallots, cane sugar, sometimes tamarind, and calamansi juice. The stingray is then wrapped in a banana leaf and grilled over, nowadays a hot griddle, while remaining in the banana leaf.
 
 > 25. Fish Head Curry
 As you probably know by now, I’m a huge food lover, and while I enjoyed eating everything on this list of Singapore food, there are a couple dishes that top all the rest (for me), one of them being fish head curry.
 
+## Get ready for 25 dishes you should try in Singapore (plus a few extras that I had to add in), and where to eat them!
 ## [推薦部落格](https://migrationology.com/singapore-food/)
 ## 懶人包連結
 ## food
