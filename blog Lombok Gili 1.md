@@ -38,16 +38,14 @@
 整趟兩天一夜2D1N的旅程，有滿多美景以及美好的回憶，需要感謝老天給的天氣如此好，以及山下住宿環境不錯，還有旅行社的用心。在文章後半部我會補充介紹：Ｄ
 
 ## 龍目島之旅第一天
-- 11-2 pm SIN to Bali 
-- 4-5 pm Bali to Lombok
-- 9pm to hotel 
+- 11-2pm 新加坡飛往峇厘島SIN to Bali 
+- 4-5pm 峇里島飛往龍目島Bali to Lombok
+- 9pm 到達旅館Rinjani light house
 
 值得一提的是，我們是購買轉機的機票，中間只相差兩小時，只要不迷路或者班機不延遲抵達，時間是剛好夠用的。
-- 新加坡飛往峇厘島
-- 出境領取托運行李（大概一小時之內）
-- 從國際線建築物走到國內線建築物（這是不同建築物，走路要十分鐘至少且沒有冷氣滿熱的，請抬頭注意指標）
-- 領機票放托運行李
-- 峇里島飛往龍目島
+- 出境領取托運行李（大概四十分鐘）
+- 從國際線建築物走到國內線建築物（走路至少十分鐘。不同建築物，路上沒有冷氣且滿悶熱的，請抬頭注意指標）
+- 領機票放托運行李（起飛前一小時還可放行李）
 
 龍目島機場在島的南部，5pm多與旅行社司機碰面後，大約三小時半的車程，開往島的北邊的下榻旅館。我們是選擇Rinjani light house，這家在google評價是四顆星，加上又是旅行社推薦之一，所以選擇這家。此兩層小木屋座落在花園之間，非常清幽。員工服務態度很好，例如：
 - 我出發前一週，有寄信請旅行社幫忙準備一些小驚喜，結果令我很滿意而且用心。（大加分）
@@ -55,32 +53,60 @@
 
 - [Rinjani light house](https://www.google.com.tw/maps/place/Rinjani+Lighthouse+Cottages/@-8.3033787,116.4030235,15z/data=!4m2!3m1!1s0x0:0x9e7fb5808644d88?sa=X&ved=2ahUKEwjUmu-ciL_lAhXBRY8KHTi3C4YQ_BIwFHoECAoQCA)
 
+兩層小木屋座落在花園之間
 ![f1](https://github.com/HCH1/blog/blob/master/fig/gili2.jpg)
 
+與店狗嬉戲
 ![f1](https://github.com/HCH1/blog/blob/master/fig/gili3.jpg)
 
+早餐好吃
 ![f1](https://github.com/HCH1/blog/blob/master/fig/gili4.jpg)
 
 ## 龍目島之旅第二天（兩天一夜第一日）
-我們跟hallo trekker領隊約8am出發，開車前往東碼頭Ferry lombok sumbawa大概一小時半。同車還有兩位當地夥伴，能歌善舞，為整趟兩天一夜旅程增添不少歡樂。到達碼頭後，還有另外兩位夥伴加入，也是潛水攝影唱歌多才多藝。所以這趟旅程就是這四位夥伴的照顧，包含準備及搬運：餐點，浮潛，露營，導遊，營火。
-
+- 8-10pm 前往龍目島東碼頭Ferry lombok sumbawa
 - [龍目島東碼頭Ferry lombok sumbawa](https://www.google.com.tw/maps/place/Ferry+lombok+sumbawa/@-8.4917143,116.6628388,14.16z/data=!4m13!1m7!3m6!1s0x2dcbafbe0ab030ed:0x7d3d2dde7b3de453!2sGili+Kondo!3b1!8m2!3d-8.6466667!4d117.7622222!3m4!1s0x0:0xaf23c0dc04ee50e4!8m2!3d-8.492932!4d116.6764194)
+- 11pm 吉利康婆Gili Kapal 
+- 1pm 吉力康多Gili Kondo午餐晚餐浮潛宿營
+- 6pm 看日落
+- 7pm 營火，談天賞星，彈吉他
+ 
+我們跟領隊約8am出發，開車前往東碼頭Ferry lombok sumbawa大概一小時半。同車還有兩位當地夥伴，能歌善舞，為整趟兩天一夜旅程增添不少歡樂。到達碼頭後，還有另外兩位夥伴加入，也是潛水攝影唱歌多才多藝。所以這趟旅程就是這四位夥伴的照顧，包含準備及搬運：餐點，浮潛，露營，導遊，營火。
 
 白天我們在離島吉利康婆Gili Kapal停留，退潮時，此小沙島才從碧綠清澈的海水中顯露出來。走完一圈大概五分鐘，非常迷你。我們一行人也在島上拍了幾張跳躍的團體照之後，前往下一個浮潛景點。
 
-
-
 東吉利海島遊客很少，所以除了海水清澈之外，海底特別多且有五顏六色的珊瑚(仍然活著)和魚。運氣很好我用gopro HERO5拍到了小丑魚nemo還有綠色紫色黃色交錯的珊瑚。潛水夥伴也很貼心的一對一引導，並且途中還拿出吐司去位於吸引魚群，讓遊客好拍照。
 
+與夥伴們沙洲上跳躍留影
 ![f1](https://github.com/HCH1/blog/blob/master/fig/gili.jpg)
 
+五顏六色的珊瑚
 ![f1](https://github.com/HCH1/blog/blob/master/fig/gili.jpg)
 
+小丑魚nemo
 ![f1](https://github.com/HCH1/blog/blob/master/fig/gili.jpg)
 
 因為在離島，幾乎沒有光害，所以晚上六點日落之後，天色就變暗很快，抬頭很容易看到滿天星空。大約晚上七點。四位夥伴為我們搭建的營火，並且為在火爐邊開心地唱歌加上吉他伴奏，我們很喜歡他們彈奏演唱的印尼當地歌曲，
 
+看日落
+![f1](https://github.com/HCH1/blog/blob/master/fig/gili.jpg)
+
+彈吉他
+![f1](https://github.com/HCH1/blog/blob/master/fig/gili.jpg)
+
+賞星
+![f1](https://github.com/HCH1/blog/blob/master/fig/gili.jpg)
+
 ## 龍目島之旅第三天（兩天一夜第二日）
+- 5am 看日出
+- 6am 漫步環島
+- 7am 吉利藍布Gili Lampu紅樹林之旅
+- 8am 浮淺
+- 10am 回到東碼頭
+- 12pm 回旅館
+- 3pm 瀑布Sendang Gile Waterfall健走
+- [Sendang Gile Waterfall](https://www.google.com.sg/maps/place/Sendang+Gile+Waterfall/@-8.3037526,116.4041359,16.65z/data=!4m15!1m9!3m8!1s0x0:0x9e7fb5808644d88!2sRinjani+Lighthouse+Cottages!5m2!4m1!1i2!8m2!3d-8.3033787!4d116.4030235!3m4!1s0x2dcdd4c7ecd72779:0x2d37f38d3a6185e!8m2!3d-8.3063132!4d116.4077921?hl=zh-TW)
+
+
 
 紅樹林之旅
 
@@ -89,34 +115,32 @@
 搭船回港口
 搭車回旅館
 
-下午瀑布之旅
-
+看日出
 ![f1](https://github.com/HCH1/blog/blob/master/fig/gili.jpg)
 
+漫步環島
 ![f1](https://github.com/HCH1/blog/blob/master/fig/gili.jpg)
 
+吉利藍布Gili Lampu紅樹林之旅
+![f1](https://github.com/HCH1/blog/blob/master/fig/gili.jpg)
+
+瀑布Sendang Gile Waterfall健走
 ![f1](https://github.com/HCH1/blog/blob/master/fig/gili.jpg)
 
 ## 龍目島之旅第四天
+- 8-11am 出發去龍目機場
+- 2-3pm 龍目飛往島峇里島Lombok to Bali
+- 4pm 按摩Kaya Spa Airport
+- [Kaya Spa Airport](https://www.google.com.sg/maps/place/Kaya+Spa+Airport/@-8.7396799,115.1675624,16z/data=!4m8!1m2!2m1!1sbali+kaya+spa!3m4!1s0x0:0xf944a78eb294fb3c!8m2!3d-8.7431038!4d115.1660715?hl=zh-TW)
+- 6-9pm 巴里島飛往新加坡Bali to SIN
 
+最後推薦一下巴里島機場的按摩Kaya Spa Airport，腳底小腿30min加上肩頸背部30min，總共75K印尼盾，價格不貴，環境和按摩品質也不錯的。為整趟旅程劃下完美的句點:D
 
+巴里島機場的日落
 ![f1](https://github.com/HCH1/blog/blob/master/fig/gili.jpg)
 
-![f1](https://github.com/HCH1/blog/blob/master/fig/gili.jpg)
 
-![f1](https://github.com/HCH1/blog/blob/master/fig/gili.jpg)
-
-
-
-
-
-
-
-
-
-
-
-
+## 補充資料(可省略)
 ## 東吉利east Gili兩天一夜海島遊 by hallo trekker
 以下是旅行社給的行程表，重頭戲就是四座小島：Gili Kondo, Gili Lampu, Gili Bidara and Gili Kapal。會先從龍目島東碼頭Ferry lombok sumbawa搭船出發，大概一小時船程。
 
@@ -175,7 +199,7 @@ You will be back in Senaru in the afternoon of the second day.
 - camping equipment (tent, sleeping bag, mattress)
 - guide
 ```
-## 補充
+## 補充資料(可省略)
 ## 部落格推薦
 ## [blog East Lombok – the secret Gili Islands](https://homeiswhereyourbagis.com/en/gili-islands-east-lombok/)
 
