@@ -16,6 +16,8 @@ Lombok is an island in West Nusa Tenggara province, Indonesia. It forms part of 
 
 Lombok is somewhat similar in size and density, and shares some cultural heritage with the neighboring island of Bali to the west. However, it is administratively part of West Nusa Tenggara, along with the larger and more sparsely populated island of Sumbawa to the east. Lombok is surrounded by a number of smaller islands locally called Gili.
 ```
+## [圖文好讀版](https://link.medium.com/ka8fT8rib1)
+
 ## 龍目島Lombok在哪？
 龍目島Lombok位在峇里島Bali的右邊，然後林賈尼Rinjani火山在島的北邊，機場在南邊，左邊離島有很多人的潛水勝地西吉利west Gili島，右邊離島有人少的浮淺勝地東吉利east Gili。
 - [龍目島Lombok在哪？](https://www.google.com.tw/maps/place/Lombok,+West+Nusa+Tenggara,+Indonesia/data=!4m2!3m1!1s0x2dcdb7d23e8cc745:0x446689c4ab50d8c9?sa=X&ved=2ahUKEwjj5JT7jMPlAhVIX30KHakbCZQQ8gEwFXoECA4QBA)
