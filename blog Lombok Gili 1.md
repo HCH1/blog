@@ -1,7 +1,7 @@
 # 印尼龍目Lombok島東吉利Gili海島遊浮潛宿營 秘境打卡推薦(2019懶人包) Secret Gili Kondo Wonderfull Tour – Snorkel, relax and camp
 ![f1](https://github.com/HCH1/blog/blob/master/fig/gili1.png)
 
-## 簡介
+## 簡介(節錄維基百科)
 龍目島（印尼語：Pulau Lombok），是小巽他群島中的一個島嶼，屬印度尼西亞西努沙登加拉省管轄，該省首府馬塔蘭亦位於此島西部。該島東隔阿拉斯海峽與松巴哇島相望，西隔龍目海峽與巴厘相望，面積4725平方公里，人口2,403,025（1990年）。
 
 島北部有林賈尼Rinjani火山，海拔3726米，為全島最高峰；中部為低地，南部是石灰岩高原；有熱帶林木。
