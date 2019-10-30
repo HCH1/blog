@@ -51,109 +51,55 @@
 ## End
 
 
-## 福建麵
+## 福建麵Hokkien Mee
 你沒有讀錯，英文因是福建話台語發音。新加坡有些小販中心早上就在賣這類食食物，不像台式早餐偏愛蛋餅豆漿或者三明治。
-```
-3. Hokkien Mee
-Along with Char Kway Teow (coming up soon), Hokkien Mee is one of the most popular fried noodle hawker dishes in Singapore. It’s a dish that has roots in China’s Fujian province (which is where the Hokkien people are originally from), that has now been adopted into Malaysia and Singapore.
-```
 
-## 雞飯
-```
-4. Chicken Rice
-Although it’s just a simple combination of boiled chicken, paired with flavorful rice and sauce, this Hainanese influenced dish, ranks as one of the most popular and beloved dishes to eat in Singapore (it’s also extremely popular in Thailand, known as khao man gai).
-```
+## 雞飯Chicken Rice
 
-> 5. Char Kway Teow
-When it comes to stir fried noodles in Singapore, one of the ultimate local favorites is char kway teow, a dish of flat wide rice noodles, stir fried with egg, a sauce of dark soy sauce, shrimp paste, a bit of chili, and often some Chinese sausage and blood cockles to finish it off.
-- 炒粿條
-- 你沒有讀錯，英文因是福建話台語發音。新加坡有些小販中心早上就在賣這類食食物，不像台式早餐偏愛蛋餅豆漿或者三明治。
+## 炒粿條Char Kway Teow
+你沒有讀錯，英文因是福建話台語發音。新加坡有些小販中心早上就在賣這類食食物，不像台式早餐偏愛蛋餅豆漿或者三明治。
 
-> 6. Carrot Cake (Chai Tow Kway)
-Another one of the standard Singapore dishes that you’ll find at just about every hawker food centre throughout the city is chai tow kway, which is very commonly referred to as a carrot cake.
-- 蘿蔔糕
-- 新加坡有白根黑兩種作法。黑得比較偏甜。
+## 蘿蔔糕Carrot Cake (Chai Tow Kway)
+新加坡有白根黑兩種作法。黑得比較偏甜。
 
-> 7. Wanton Mee
-One of the popular Chinese Cantonese dishes that’s available at just about all hawker centre food courts throughout Singapore is wantan mee, the familiar combination of yellow egg noodles, wanton dumplings, some small boiled vegetables, and often some slices of char siu. Given a choice of noodles, egg noodles are one of my favorites.
-- 雲吞麵
+## 雲吞麵Wanton Mee
 
-> 8. Fish Bee Hoon
-Yet another popular noodle dish that’s commonly found as a Singapore food is fish bee hoon, fish with noodles.
-Bee hoon is a type of rice noodle, which as I was eating, reminded me specifically of some bowls of noodles I ate when I was in the Guangxi province of China… and only to look them up online, and they are the same version, originally from Guilin, China, and quite popularly served at hawker stalls in Singapore.
-- 魚米粉
+## 魚米粉Fish Bee Hoon
 
-> 9. Bak Chor Mee
-Although there are similar versions of the dish served in China and throughout Southeast Asia, according to this article on Yahoo, bak chor mee is a true Singaporean dish. Bak chor mee, meaning minced pork and noodles, usually consists of egg noodles, topped with minced pork, some other pork ingredients, and a sauce made with vinegar, chili, and soy sauce.
-- 肉挫麵
-- 也是常見的一種小販中心美食，類似台灣的扁麵乾麵再加上豬肝 肉碎 魚丸等等，再淋上醬汁。
+## 肉挫麵Bak Chor Mee
+也是常見的一種小販中心美食，類似台灣的扁麵乾麵再加上豬肝 肉碎 魚丸等等，再淋上醬汁。
 
-> 10. Oyster omelette (Orh Luak)
-Popular and available throughout much of Asia and Southeast Asia, and also a favorite of mine in Thailand, is an oyster omelette, known in Singapore as orh luak.
-- 蚵煎
-- 幾乎是台灣的蚵仔煎，差別在於新加坡的蚵煎 太白粉勾芡較乾，少青菜。
+## 蚵煎Oyster omelette (Orh Luak)
+幾乎是台灣的蚵仔煎，差別在於新加坡的蚵煎 太白粉勾芡較乾，少青菜。
 
-> 11. Yong Tau Foo
-Yong tau foo, which literally translates to stuffed bean curd, is a traditional Chinese dish, that’s especially common among Hakka Chinese, who are very well represented throughout Singapore. There are many different kinds of yong tau foo, and I think many vendors have their own mix and style.
-- 釀豆腐
-- 類似台灣滷味的概念，很多蔬菜，肉片，豆腐皮等等的菜色讓你夾到籃子裡，然後用湯底川燙，湯底大多有清湯，麻辣或者叨沙。
+## 釀豆腐Yong Tau Foo
+類似台灣滷味的概念，很多蔬菜，肉片，豆腐皮等等的菜色讓你夾到籃子裡，然後用湯底川燙，湯底大多有清湯，麻辣或者叨沙。
 
-> 12. Roast Meat / Roast Duck
-Different types of roast meat, typically including pork, pork belly, duck, and chicken, are widely available in Singapore at Cantonese style roast meat restaurants. The meat, is all marinated in a variety of different seasonings and roasted until the skin is golden and slightly charred for ultimate tender and juiciness and that amazing smoky flavor.
-- 粿汁
-
-> 13. Peranakan Food
-The word Peranakan refers to a group of people, most originally Hokkien, Hakka, and Teochew, that were born somewhere on the Malay Peninsula and the surrounding islands – within the Straits of Malacca. Peranakan people have a unique culture that blends Chinese, Malay, and even Western influences. There’s no better way to learn about the Peranakan culture than through food, and it’s a thrilling cuisine that’s as diverse and flavorful as their history.
-- 娘惹菜
-
-> 14. Zi Char Meal
-Zi char (also spelled cze char) is the Hokkien Chinese word for cooked food, usually made to order. In less complicated terms, it refers to any Chinese style restaurant that has a big menu of mainly stir fried and deep fried dishes that are prepared and eaten family style.
-
-> 15. Kaya Toast, Coffee, Soft Boiled Egg
-Blending the Malay and Chinese culture, Singapore has a strong traditional social coffee shop culture. Traditionally known as kopitiams, open air coffee shops are a place to have a cup of coffee or tea, a few snacks, and just sit and chat or spend time with friends.
-- 咖椰吐司與半熟蛋，再配上一杯熱咖啡，是新加坡人老一輩的傳統早餐吃法。咖椰吐司味道香濃田雃且有椰香味，有些人滿愛的。
-
-> 16. Rojak
-Truly a contrasting combination of both textures and flavors, rojak is the ultimate concoction for throwing your taste buds into a sweet and salty frenzy. Since rojak literally just means “mixture,” there are all sorts of different types, and in Singapore both Chinese rojak and Indian Rojak are common at food hawker centres.
-
-> 17. Satay
-Although originally from Indonesia with influence from India and the Middle East, satay (or sate) is very popular throughout Southeast Asia, and common to find at hawker food centres throughout Singapore.
-- 沙嗲
-- 類似串燒。主要是醬汁是使用附帶辛辣的花生沾醬，切塊的洋蔥和黃瓜。
-
-補充：
-
-- 沙嗲（印尼語：Sate，馬來語：Satay），又名沙嗲串燒、沙嗲串，是一種東南亞的烤肉串，通常肉以醬汁先醃過再烤[1]。沙嗲的食材可能是切片或切塊的雞肉、羊肉、牛肉、豬肉、魚，其它肉類，或豆腐。沙嗲雖然經常使用竹籤串肉，但比較正統的是以椰子樹葉的梗串肉。沙嗲通常以木材或木炭烤，然後吃時可以再加上各種辛辣的沙嗲醬調味。
-
-> 18. Ice Kacang
-It seems that just about every country throughout the world has their own version of a crushed or shaved ice dessert, and in Singapore that treat is called an ice kacang.
+## 粿汁Roast Meat / Roast Duck
 
 
-> 20. Nasi Padang
-Back in 2009, I took my first trip to Sumatra, Indonesia, and I was introduced to Nasi Padang, rice with a selection of different dishes originally from Padang in Sumatra.
+## 娘惹菜Peranakan Food
 
-> 21. Nasi Lemak
-Nasi lemak is one of the most well known Malay dishes, and when I’m in Malaysia, it’s one of the first meals I try to seek out as soon as I arrive. So I was also excited to taste a Singapore version of nasi lemak.
+## 咖椰吐司Kaya Toast, Coffee, Soft Boiled Egg
+咖椰吐司與半熟蛋，再配上一杯熱咖啡，是新加坡人老一輩的傳統早餐吃法。咖椰吐司味道香濃田雃且有椰香味，有些人滿愛的。
 
-補充：
+## Rojak
 
-椰漿飯的馬來文是「nasi lemak」，「nasi」意為飯，lemak本意是油脂，這裡指的是椰漿；就是把米浸泡在椰漿裡後再煮成飯而得名。一般可用普遍鍋子或電飯鍋；有時候也會將打了個結的班蘭葉放入鍋裡一起煮，亦可加入香料如黃薑、香茅以增加椰漿飯的香味。
+## 沙嗲Satay
+類似串燒。主要是醬汁是使用附帶辛辣的花生沾醬，切塊的洋蔥和黃瓜。
 
-傳統上，一盤椰漿飯裡要有黃瓜切片、小江魚仔、烤花生、已攪炸過的蕹菜、全熟蛋（水煮蛋或煎蛋）、印度式醃菜與參峇醬（一種由蝦醬與辣椒製成的醬料）。椰漿飯也可以有別的佐料，如雞肉、章魚或烏賊、鳥蚌、印度脆餅、牛肉咖哩（把牛肉燜在椰漿與香料的混和物）或「巴魯」（牛肺）。傳統上，大多數的佐料是熱辣性質的以及清涼解熱的黃瓜。
+## Ice Kacang
 
-椰漿飯傳統上是用來當早餐吃的，在清晨開始就在馬來西亞的路邊檔口販賣，現在在菜市檔口或店家都有售賣。通常是以報紙、油紙或香蕉葉包住賣的。無論如何，也有些餐廳把它盛在盤上當午餐或晚餐吃，讓它有機會被認為是一大佳肴。
+## Nasi Padang
 
-> 22. Murtabak
-Originally an Arab food, but popular throughout Singapore and influenced by Indian flavors as well, a murtabak is yet another example of a beautiful fusion of cultures through food. Murtabak is essentially a stuffed roti, that can be filled with a choice of different fillings.
+## 椰漿飯Nasi Lemak
 
-> 24. Sambal Stingray
-Known for being served at open air bbq restaurants and food stalls in Singapore is sambal stingray. The stingray is cut into steak sizes pieces, marinated in a sambal sauce made from chilies, shallots, cane sugar, sometimes tamarind, and calamansi juice. The stingray is then wrapped in a banana leaf and grilled over, nowadays a hot griddle, while remaining in the banana leaf.
+## Murtabak
 
-> 25. Fish Head Curry
-As you probably know by now, I’m a huge food lover, and while I enjoyed eating everything on this list of Singapore food, there are a couple dishes that top all the rest (for me), one of them being fish head curry.
+## Sambal Stingray
 
-## Get ready for 25 dishes you should try in Singapore (plus a few extras that I had to add in), and where to eat them!
-## [推薦部落格](https://migrationology.com/singapore-food/)
+## 咖哩魚頭Fish Head Curry
+
 ## 懶人包連結
 ## food
 - [sg Tong Xin Ru Yi 同心如意传统铜火锅](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+Tong+Xin+Ru+Yi+同心如意传统铜火锅)
