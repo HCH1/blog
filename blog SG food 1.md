@@ -12,10 +12,7 @@
 新加坡的叨沙，，我推薦這家結霜橋叻沙，這家給的蛤比較生，若是不喜愛的人請事先說。然後辣椒很辣請小心。價錢便宜大概五塊新幣以內。不過馬來西亞人會笑說是其實是咖哩湯頭，然後檳城的叨沙味道又是更不同，比較偏向於湯和酸香味。
 - [結霜橋叻沙 Sungei Road Laksa](https://www.google.com.sg/maps/place/%E7%B5%90%E9%9C%9C%E6%A9%8B%E5%8F%BB%E6%B2%99/@1.3026478,103.8565928,16.3z/data=!4m5!3m4!1s0x0:0xa5cebae2c25210ed!8m2!3d1.3067471!4d103.8578639?hl=zh-TW)
 ![f1](https://github.com/HCH1/blog/blob/master/fig/sgfood2.JPG)
-```
-1. Laksa
-Laksa is one of the ultimate demonstrations of the combination of Chinese and Malay flavors and ingredients all in a single bowl. Noodles, often rice noodles, make up the foundation and starch of a bowl of laksa, followed by a gravy or curry, some pieces of protein, and often some vegetables and herbs.
-```
+
 ## 麻辣香鍋
 華人愛吃和熟悉的火鍋，是屬於湯鍋。而新加坡的麻辣香鍋，是屬於乾鍋，類似台灣滷味的概念，很多蔬菜，肉片，豆腐皮等等的菜色讓你夾到籃子裡，然後用大火加辛香辣快炒。我推薦這家日日紅麻辣香鍋，靠近牛車水MRT，周末用餐時段會大牌長龍，價位石塊以內可以吃很撐很飽。
 - [日日紅麻辣香鍋 Ri Ri Hong Mala Xiang Guo](https://www.google.com.sg/maps/place/%E6%97%A5%E6%97%A5%E7%B4%85%E9%BA%BB%E8%BE%A3%E9%A6%99%E9%8D%8B+Ri+Ri+Hong+Mala+Xiang+Guo/@1.2850751,103.8403601,17z/data=!3m1!4b1!4m5!3m4!1s0x31da197483996b13:0xd60d1a35e8a93174!8m2!3d1.2850751!4d103.8425488?hl=zh-TW)
@@ -27,19 +24,11 @@ Laksa is one of the ultimate demonstrations of the combination of Chinese and Ma
 我推薦這家龍池Leong Tee，靠近東海岸，雖然遠離MRT，所以不會有遊客人擠人，有座位可以做，品質也不錯。
 - [Leong Tee Fruit Traders](https://www.google.com.sg/maps/place/Leong+Tee+Fruit+Traders/@1.3072859,103.8902894,15.13z/data=!4m5!3m4!1s0x31da186b6c10f443:0xd34f7ffea229e257!8m2!3d1.3059587!4d103.8958919?hl=zh-TW)
 ![f1](https://github.com/HCH1/blog/blob/master/fig/sgfood4.JPG)
-```
-19. Durian
-Although durian is the only food on this list that needs no cooking preparation and is perfect in its all natural state of being, I had to include it because it’s such an obsession in Singapore, and it can be treated like an entire meal… and if I’m being honest with you, it was an excuse so that I could justify eating durian in Singapore. Luckily, I didn’t have any trouble convincing my wife that we needed to have during in Singapore, her being a lover of the King of Fruits as well.
-```
 
 ## 肉骨茶
 - 你沒有讀錯，英文因是福建話台語發音。畢竟新加坡老一輩的華人大多講福建話。新加坡與馬來西亞都愛吃肉骨茶，差別就在於湯頭。新加坡湯底是白湯胡椒湯，馬來西亞是黑湯藥材湯。基本上我也推薦松發這家，總是大排長龍，尤其是克發碼頭那兩家。湯頭可以續加，吃飽之後還可散步克拉碼頭。
 - [松發Song Fa Bak Kut Teh](https://www.google.com.sg/maps/place/%E6%9D%BE%E7%99%BC/@1.2870295,103.8456016,17z/data=!4m12!1m6!3m5!1s0x31da19ba15986721:0xf4518bf58f477787!2z5p2-55m86IKJ6aqo6Iy2!8m2!3d1.2853026!4d103.8446897!3m4!1s0x31da190a80c3583f:0xc7bd17dac49c70f5!8m2!3d1.2890099!4d103.847698?hl=zh-TW)
 ![f1](https://github.com/HCH1/blog/blob/master/fig/sgfood3.JPG)
-```
-## 2. Bak Kut Teh
-Literally translated to pork bone tea, bak kut teh is a dish that’s popular throughout Malaysia and Singapore with Chinese origins. Although one would think the pork is cooked in tea, tea is not actually included in the recipe, but according to Wikipedia, it got its name because strong tea is consumed along with the pork soup to wash down the grease.
-```
 
 ## 辣椒螃蟹
 此道料理大概是最貴的但是又是最有名的，吃下來一人大概平均五十塊新幣。這類料理的螃蟹是使用大螯的斯里蘭卡蟹，秤斤計價，基本上在新加坡吃海鮮就是貴。
@@ -48,10 +37,7 @@ Literally translated to pork bone tea, bak kut teh is a dish that’s popular th
 我推薦龍海鮮Mellben這家。靠近Tanjong Pagar MRT。
 - [Mellben Signature](https://www.google.com.sg/maps/place/Mellben+Signature/@1.2770306,103.8406923,17z/data=!3m1!4b1!4m5!3m4!1s0x31da196ce44276cf:0x7b594c2219ee3e4b!8m2!3d1.2770306!4d103.842881?authuser=1)
 ![f1](https://github.com/HCH1/blog/blob/master/fig/sgfood5.png)
-```
-23. Chili Crab / Black Pepper Crab
-Often referred to as one of the national dishes of Singapore, chili crab is one of the most beloved special family dishes in Singapore, and it’s among the most famous things to eat in the city when you’re visiting as well.
-```
+
 ## End
 
 
