@@ -48,13 +48,38 @@
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/sgfood5.png)
 
-## End
+## 其他好吃的料理
+## 印度料理
+新加坡的印度料理琳瑯滿目，加上又有MRT叫做小印度，想體驗印度市集，藝術壁畫或者美食一定會到這站。搜尋旅遊美食網站，最常找到就是武吉士bugis附近的ZamZam，說實在那家的印度抓餅Murtabak真的好吃，搭配拉茶也是十塊錢有找。但我要推薦的這家也是有獲得米其林獎項，叫做Muthu's Curry。最重要的是餐廳寬大乾淨衛生，有冷氣。在新加坡吃辛辣料理，實在建議要找有冷氣的店家。這家價位偏高，平均一人二十塊以內。
 
+- [Muthu's Curry](https://www.google.com/maps/place/Muthu's+Curry/@1.30802,103.8484633,17z/data=!4m12!1m6!3m5!1s0x31da19c755a93671:0xafa05ed0141c4fd3!2sJaggi%E2%80%99s+Northern+Indian+Cuisine!8m2!3d1.30802!4d103.850652!3m4!1s0x31da19c71f708091:0xcb1c05d04cdfa80f!8m2!3d1.3099458!4d103.8521712)
 
+## 泰國料理
+我推薦這家連鎖店Nakhon Kitchen，連結只是其中一家請找自己最方便的店家。這家用餐時段也是大排長龍，至少半小時，價位二十塊錢以內。
+推薦菜色：
+- 斑蘭葉雞，用斑蘭葉包住雞肉，然後炸和煮，形狀像肉粽
+- 金錢魚餅或蝦餅，泰國菜沒有月亮蝦餅喔！道地的炸魚餅是做成橢圓形類似金錢形狀
+- 綠咖哩，香味十足好下飯
+- 東炎Tom yum，酸辣湯底，裡面會放海鮮。有去過曼谷旅遊過的應該都吃過這道料理
+
+- [Nakhon Kitchen](https://www.google.com/maps/place/Nakhon+Kitchen/@1.3277015,103.9229529,15.21z/data=!4m8!1m2!2m1!1sNakhon+Kitchen!3m4!1s0x0:0x5fa6bb814bafb2c8!8m2!3d1.328422!4d103.935146)
+
+## 麵故事
+這家隱身在廈門街小販中心一樓Amoy Street Food Centre，我推薦麵故事A Noodle Story，也是大排長龍，至少半小時，價位十塊錢以內。這家也是有獲得米其林獎項，細麵有嚼勁，上面的配料有餛飩，肉片，溫泉蛋和炸蝦，呈上給客人之前會用心擺盤。這家目前也是當地人或者在附近工作的人會去吃，遊客較少。溫馨提醒週日關門喔。
+
+- [A Noodle Story](https://www.google.com.tw/maps/place/A+Noodle+Story/@1.2793453,103.8443663,17z/data=!3m1!4b1!4m5!3m4!1s0x31da19129bf396d5:0x47d0011a94d95999!8m2!3d1.2793453!4d103.846555)
+
+## 肉挫麵Bak Chor Mee
+也是常見的一種小販中心美食，類似台灣的扁麵乾麵再加上豬肝，肉碎，魚丸等等，再淋上醬汁。最有名的莫過於得過米其林獎項的大華肉挫麵。但是這家總是大排長龍，至少一小時起跳。而整體而言我覺得不值得排如此久，加上距離MRT走路至少十分鐘，所以直不直得拜訪就見仁見智囉。
+
+-[Hill Street Tai Hwa Pork Noodle](https://www.google.com.tw/maps/place/Hill+Street+Tai+Hwa+Pork+Noodle/@1.3047938,103.8617006,18.43z/data=!4m5!3m4!1s0x31da19b42ad981b9:0x99e64da5de0603b8!8m2!3d1.3051687!4d103.8624897)
+
+## 其他有名的小吃或料理，心中沒特別喜愛所以沒有列出推薦店家。但是有興趣的吃貨們還是可以去吃吃看分享給大家喔：Ｄ
 ## 福建麵Hokkien Mee
 你沒有讀錯，英文因是福建話台語發音。新加坡有些小販中心早上就在賣這類食食物，不像台式早餐偏愛蛋餅豆漿或者三明治。
 
 ## 雞飯Chicken Rice
+最有名的應該就是中國城麥示威Maxwell小販中心的天天海南雞飯吧，大排長龍，至少一小時，價位二十塊錢以內。
 
 ## 炒粿條Char Kway Teow
 你沒有讀錯，英文因是福建話台語發音。新加坡有些小販中心早上就在賣這類食食物，不像台式早餐偏愛蛋餅豆漿或者三明治。
@@ -66,9 +91,6 @@
 
 ## 魚米粉Fish Bee Hoon
 
-## 肉挫麵Bak Chor Mee
-也是常見的一種小販中心美食，類似台灣的扁麵乾麵再加上豬肝 肉碎 魚丸等等，再淋上醬汁。
-
 ## 蚵煎Oyster omelette (Orh Luak)
 幾乎是台灣的蚵仔煎，差別在於新加坡的蚵煎 太白粉勾芡較乾，少青菜。
 
@@ -77,28 +99,24 @@
 
 ## 粿汁Roast Meat / Roast Duck
 
-
 ## 娘惹菜Peranakan Food
 
 ## 咖椰吐司Kaya Toast, Coffee, Soft Boiled Egg
 咖椰吐司與半熟蛋，再配上一杯熱咖啡，是新加坡人老一輩的傳統早餐吃法。咖椰吐司味道香濃田雃且有椰香味，有些人滿愛的。
 
-## Rojak
+## 囉喏Rojak
 
 ## 沙嗲Satay
 類似串燒。主要是醬汁是使用附帶辛辣的花生沾醬，切塊的洋蔥和黃瓜。
 
-## Ice Kacang
-
-## Nasi Padang
-
 ## 椰漿飯Nasi Lemak
 
-## Murtabak
-
-## Sambal Stingray
-
 ## 咖哩魚頭Fish Head Curry
+
+## End
+
+
+
 
 ## 懶人包連結
 ## food
