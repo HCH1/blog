@@ -16,13 +16,10 @@ Lombok is an island in West Nusa Tenggara province, Indonesia. It forms part of 
 
 Lombok is somewhat similar in size and density, and shares some cultural heritage with the neighboring island of Bali to the west. However, it is administratively part of West Nusa Tenggara, along with the larger and more sparsely populated island of Sumbawa to the east. Lombok is surrounded by a number of smaller islands locally called Gili.
 ```
-- [lombok wiki](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=lombok+wiki)
-- [My Instagram](https://www.instagram.com/redbox111)
-
 ## 龍目島Lombok在哪？
 龍目島Lombok位在峇里島Bali的右邊，然後林賈尼Rinjani火山在島的北邊，機場在南邊，左邊離島有很多人的潛水勝地西吉利west Gili島，右邊離島有人少的浮淺勝地東吉利east Gili。
-
-- [龍目島Lombok](https://www.google.com.tw/maps/place/Lombok,+West+Nusa+Tenggara,+Indonesia/data=!4m2!3m1!1s0x2dcdb7d23e8cc745:0x446689c4ab50d8c9?sa=X&ved=2ahUKEwjP6JPuxr7lAhXQ7XMBHW7jCqsQ8gEwH3oECA8QBA)
+- [龍目島Lombok在哪？](https://www.google.com.tw/maps/place/Lombok,+West+Nusa+Tenggara,+Indonesia/data=!4m2!3m1!1s0x2dcdb7d23e8cc745:0x446689c4ab50d8c9?sa=X&ved=2ahUKEwjj5JT7jMPlAhVIX30KHakbCZQQ8gEwFXoECA4QBA)
+- [My Instagram](https://www.instagram.com/redbox111)
 
 ## 如何訂機票？
 - [機票查詢：新加坡飛往龍目島](https://www.google.com.tw/flights?lite=0#flt=SIN.LOP.2019-11-01*LOP.SIN.2019-11-04;c:SGD;e:1;sd:1;t:f)
@@ -32,7 +29,6 @@ Lombok is somewhat similar in size and density, and shares some cultural heritag
 此去行程我是跟當地旅行社使用簡訊whatsApp溝通，會選擇這家有兩個原因：
 - 回覆速度快且細心（深得我心）
 - 同行的當地夥伴們，風趣且專業，吉他助興，協助拍照，照顧我們在宿營和浮潛的安全
-
 - [hallo trekker官網](http://hallotrekker.com/category/rinjani-trekking-packages/trekking-via-senaru/)
 - [#2 of 93 Outdoor Activities in Senaru](https://www.tripadvisor.com.sg/Attraction_Review-g3475390-d8799777-Reviews-Hallo_Trekker_Day_Tours-Senaru_Lombok_West_Nusa_Tenggara.html)
 ```
@@ -77,7 +73,7 @@ It is worth mentioning that we buy the transfer flight tickets, only two hours b
 - walk from the international line to the domestic line (walk for at least 10 minutes. For different buildings, please look up and pay attention to the indicators.
 - collect ticket and checked luggage (luggage can be put in one hour before departure)
 ```
-### 推薦龍目島Lombok旅館Rinjani light house
+## 推薦龍目島Lombok旅館Rinjani light house
 - [Rinjani light house](https://www.google.com.tw/maps/place/Rinjani+Lighthouse+Cottages/@-8.3033787,116.4030235,15z/data=!4m2!3m1!1s0x0:0x9e7fb5808644d88?sa=X&ved=2ahUKEwjUmu-ciL_lAhXBRY8KHTi3C4YQ_BIwFHoECAoQCA)
 
 龍目島機場在島的南部，5pm多與旅行社司機碰面後，大約三小時半的車程，開往島的北邊的下榻旅館。
@@ -111,7 +107,7 @@ We choose Rinjani light house, which is rated as four stars by Google and recomm
 - 6pm 看日落
 - 7pm 營火，談天賞星，彈吉他
  
-我們跟領隊約8am出發，開車前往東碼頭Ferry lombok sumbawa大概一小時半。同車還有兩位當地夥伴，能歌善舞，為整趟兩天一夜旅程增添不少歡樂。到達碼頭後，還有另外兩位夥伴加入，也是潛水攝影唱歌多才多藝。所以這趟旅程就是這四位夥伴的照顧，包含準備及搬運：餐點，浮潛，露營，導遊，營火。
+我們跟領隊約好8am出發，開車前往東碼頭Ferry lombok sumbawa大概一小時半。同車還有兩位當地夥伴，能歌善舞，為整趟兩天一夜旅程增添不少歡樂。到達碼頭後，還有另外兩位夥伴加入，也是潛水攝影唱歌多才多藝。所以這趟旅程就是這四位夥伴的照顧，包含準備及搬運：餐點，浮潛，露營，導遊，營火。
 
 白天我們在離島吉利康婆Gili Kapal停留，退潮時，此小沙島才從碧綠清澈的海水中顯露出來。走完一圈大概五分鐘，非常迷你。我們一行人也在島上拍了幾張跳躍的團體照之後，前往下一個浮潛景點。
 
@@ -128,7 +124,7 @@ We left about 8am with our team leader and drove to Ferry lombok sumbawa, east p
 
 During the day we stopped at the outlying island of Gili Kapal, and at low tide the small sandy island appear from the clear sea. It takes about five minutes to walk around all the island, very mini. We also took a few jumping group photos on the island before heading to the next snorkeling spot.
 
-There are few tourists to east Gili, so apart from the clear water, the seafloor is especially rich in colorful coral (still alive) and fish. With luck I was able to photograph the clownfish nemo with gopro HERO5 and the green purple yellow interlace coral. Local friends also provide one-on-one guidance and take out toast to attract shoals of fish so visitors can take pictures.
+There are few tourists to east Gili, so apart from the clear water, the seafloor is especially rich in colorful coral (still alive) and fish. With luck I was able to photograph the clownfish nemo with gopro HERO5 and the green purple yellow coral. Local friends also provide one-on-one guidance and take out toast to attract shoals of fish so visitors can take pictures.
 ```
 與夥伴們在沙洲上跳躍留影
 ![f1](https://github.com/HCH1/blog/blob/master/fig/gili5.jpg)
