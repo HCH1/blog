@@ -9,21 +9,23 @@
 - 辣椒螃蟹
 
 ## 叨沙
-（馬來語：Laksa）或叻沙是一道起源於南洋的麵食料理，為馬來西亞和新加坡的代表性料理。叻沙有非常多不同的種類，不同族群和地方對於叻沙的做法和味道也有極大差異，一般馬來西亞和新加坡華人所指的叻沙多為咖哩叻沙(Curry Laksa)或亞參叻沙(Asam Laksa)。其中亞參叻沙在2011年被美國有線電視新聞網絡（CNN）旗下的旅遊網站CNNGO，選為全球50大美食中的第7名，而咖哩叻沙則被赫芬頓郵報（The Huffington Post）評選為死前必嘗的世界十大美食之一。
-
+新加坡的叨沙，，我推薦這家結霜橋叻沙，這家給的蛤比較生，若是不喜愛的人請事先說。然後辣椒很辣請小心。價錢便宜大概五塊新幣以內。不過馬來西亞人會笑說是其實是咖哩湯頭，然後檳城的叨沙味道又是更不同，比較偏向於湯和酸香味。
+- [結霜橋叻沙 Sungei Road Laksa](https://www.google.com.sg/maps/place/%E7%B5%90%E9%9C%9C%E6%A9%8B%E5%8F%BB%E6%B2%99/@1.3026478,103.8565928,16.3z/data=!4m5!3m4!1s0x0:0xa5cebae2c25210ed!8m2!3d1.3067471!4d103.8578639?hl=zh-TW)
 ![f1](https://github.com/HCH1/blog/blob/master/fig/sgfood2.JPG)
 ```
 1. Laksa
 Laksa is one of the ultimate demonstrations of the combination of Chinese and Malay flavors and ingredients all in a single bowl. Noodles, often rice noodles, make up the foundation and starch of a bowl of laksa, followed by a gravy or curry, some pieces of protein, and often some vegetables and herbs.
 ```
 ## 麻辣香鍋
-麻辣香鍋是一道麻辣菜，其中含有葷菜和素菜，味型兼具鹹味和辣味。麻辣香鍋的大致製作流程是：在鍋中加入所需菜品後，再通過以麻辣為主味型的調料炒成。出國前撒上白芝麻與香菜點綴，亦有炒制過程中加入花生碎增香的做法。在餐廳中，麻辣香鍋可以經過顧客自主選菜之後由廚師加工炒成。
-
+華人愛吃和熟悉的火鍋，是屬於湯鍋。而新加坡的麻辣香鍋，是屬於乾鍋，類似台灣滷味的概念，很多蔬菜，肉片，豆腐皮等等的菜色讓你夾到籃子裡，然後用大火加辛香辣快炒。我推薦這家日日紅麻辣香鍋，靠近牛車水MRT，周末用餐時段會大牌長龍，價位石塊以內可以吃很撐很飽。
+- [日日紅麻辣香鍋 Ri Ri Hong Mala Xiang Guo](https://www.google.com.sg/maps/place/%E6%97%A5%E6%97%A5%E7%B4%85%E9%BA%BB%E8%BE%A3%E9%A6%99%E9%8D%8B+Ri+Ri+Hong+Mala+Xiang+Guo/@1.2850751,103.8403601,17z/data=!3m1!4b1!4m5!3m4!1s0x31da197483996b13:0xd60d1a35e8a93174!8m2!3d1.2850751!4d103.8425488?hl=zh-TW)
 ![f1](https://github.com/HCH1/blog/blob/master/fig/sgfood2b.png)
 
 ## 榴槤
-去新加坡玩或者馬來西亞旅遊，一定要嘗試當地榴蓮。我以前在台灣不吃榴蓮的，冰在冰箱也不吃。後來才知道台灣榴槤大多是泰國品種。後來來到新加坡工作的前三個月，抽空去吃了馬來西亞品種的榴蓮，改變了我對榴槤的看法！現在我非常愛吃榴蓮！現在只要是在產季的那幾個月，一定會揪朋友吃個幾次！。新加坡的榴蓮偏貴，馬來西亞便宜一半至少。然後品種很多，貓山王就是耳熟能響的好品質但是價錢也偏高，一公斤大概三十多塊新幣，1kg ~ 30$。
+去新加坡玩或者馬來西亞旅遊，一定要嘗試當地榴蓮。我以前在台灣不吃榴蓮的，冰在冰箱也不吃。後來才知道台灣榴槤大多是泰國品種。後來來到新加坡工作的前三個月，抽空去吃了馬來西亞品種的榴蓮，改變了我對榴槤的看法！現在我非常愛吃榴蓮！現在只要是在產季的那幾個月，一定會揪朋友吃個幾次！。新加坡的榴蓮偏貴，馬來西亞便宜一半至少。然後品種很多，貓山王就是耳熟能響的好品質但是價錢也偏高，一公斤大概三十多塊新幣。
 
+我推薦這家龍池Leong Tee，靠近東海岸，雖然遠離MRT，所以不會有遊客人擠人，有座位可以做，品質也不錯。
+- [Leong Tee Fruit Traders](https://www.google.com.sg/maps/place/Leong+Tee+Fruit+Traders/@1.3072859,103.8902894,15.13z/data=!4m5!3m4!1s0x31da186b6c10f443:0xd34f7ffea229e257!8m2!3d1.3059587!4d103.8958919?hl=zh-TW)
 ![f1](https://github.com/HCH1/blog/blob/master/fig/sgfood4.JPG)
 ```
 19. Durian
@@ -31,14 +33,8 @@ Although durian is the only food on this list that needs no cooking preparation 
 ```
 
 ## 肉骨茶
-- 你沒有讀錯，英文因是福建話台語發音。畢竟新加坡老一輩的華人大多講福建話。新加坡與馬來西亞都愛吃肉骨茶，差別就在於湯頭。新加坡湯底是白湯胡椒湯，馬來西亞是黑湯藥材湯。
-
-補充：隨著肉骨茶在東南亞以至亞洲及世界各地流傳，其烹飪風格亦隨著當時當地的華人而有所影響。 常見的肉骨茶風味可以分為以下三種：
-- 潮州派：顏色較淺，但湯裡用上更多的胡椒，所以有較重的胡椒味。
-- 福建派：顏色較深，因為用上較多豉油（黑醬油）作調味，所以有較重的藥材味。
-- 廣東派：加入中國藥酒，以加強其藥效。
-- 現時在新加坡，潮州派較為盛行，而在馬來西亞則以福建派較為盛行。
-
+- 你沒有讀錯，英文因是福建話台語發音。畢竟新加坡老一輩的華人大多講福建話。新加坡與馬來西亞都愛吃肉骨茶，差別就在於湯頭。新加坡湯底是白湯胡椒湯，馬來西亞是黑湯藥材湯。基本上我也推薦松發這家，總是大排長龍，尤其是克發碼頭那兩家。湯頭可以續加，吃飽之後還可散步克拉碼頭。
+- [松發Song Fa Bak Kut Teh](https://www.google.com.sg/maps/place/%E6%9D%BE%E7%99%BC/@1.2870295,103.8456016,17z/data=!4m12!1m6!3m5!1s0x31da19ba15986721:0xf4518bf58f477787!2z5p2-55m86IKJ6aqo6Iy2!8m2!3d1.2853026!4d103.8446897!3m4!1s0x31da190a80c3583f:0xc7bd17dac49c70f5!8m2!3d1.2890099!4d103.847698?hl=zh-TW)
 ![f1](https://github.com/HCH1/blog/blob/master/fig/sgfood3.JPG)
 ```
 ## 2. Bak Kut Teh
@@ -46,13 +42,18 @@ Literally translated to pork bone tea, bak kut teh is a dish that’s popular th
 ```
 
 ## 辣椒螃蟹
-辣椒蟹，新加坡著名菜色，將泥蟹或蛙蟹混以番茄及辣椒製成的醬汁一起爆炒，儘管叫做辣椒蟹，它其實並非特別辛辣。此菜色於2011年被美國有線新聞網旗下網站CNN Go評定為全球50大最美味菜色的第35位。辣椒螃蟹最早Cher Yam tian女士在1950年發明。早期的辣椒螃蟹僅僅是用番茄醬爆炒。後來發現放入了辣椒醬之後味道更好。現在的辣椒螃蟹的辣椒醬不再使用普通販賣的辣椒醬，而是餐廳各自有獨特的辣椒醬配方，從而做出符合自己餐廳的大眾口味。同時也替代使用口味和肉質更加豐富的斯里蘭卡蟹來代替原本的泥蟹。
+此道料理大概是最貴的但是又是最有名的，吃下來一人大概平均五十塊新幣。這類料理的螃蟹是使用大螯的斯里蘭卡蟹，秤斤計價，基本上在新加坡吃海鮮就是貴。
 
+辣椒螃蟹並不辣，反而比較接近甜辣醬的滋味。道地的吃法是會再加點一盤炸的小饅頭，然後沾辣椒螃蟹盤中的醬搭配吃。若你是喜愛辣味，要點黑胡椒。
+我推薦龍海鮮Mellben這家。靠近Tanjong Pagar MRT。
+- [Mellben Signature](https://www.google.com.sg/maps/place/Mellben+Signature/@1.2770306,103.8406923,17z/data=!3m1!4b1!4m5!3m4!1s0x31da196ce44276cf:0x7b594c2219ee3e4b!8m2!3d1.2770306!4d103.842881?authuser=1)
 ![f1](https://github.com/HCH1/blog/blob/master/fig/sgfood5.png)
 ```
 23. Chili Crab / Black Pepper Crab
 Often referred to as one of the national dishes of Singapore, chili crab is one of the most beloved special family dishes in Singapore, and it’s among the most famous things to eat in the city when you’re visiting as well.
 ```
+## End
+
 
 ## 福建麵
 你沒有讀錯，英文因是福建話台語發音。新加坡有些小販中心早上就在賣這類食食物，不像台式早餐偏愛蛋餅豆漿或者三明治。
