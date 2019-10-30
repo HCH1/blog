@@ -8,7 +8,7 @@
 - 肉骨茶
 - 辣椒螃蟹
 
-[圖文好讀版](https://link.medium.com/p6oO4Ucqb1)
+## [圖文好讀版](https://link.medium.com/p6oO4Ucqb1)
 
 ## 叨沙
 新加坡的叨沙，，我推薦這家結霜橋叻沙，這家給的蛤比較生，若是不喜愛的人請事先說。然後辣椒很辣請小心。價錢便宜大概五塊新幣以內。不過馬來西亞人會笑說是其實是咖哩湯頭，然後檳城的叨沙味道又是更不同，比較偏向於湯和酸香味。
@@ -57,8 +57,8 @@
 - [Muthu's Curry](https://www.google.com/maps/place/Muthu's+Curry/@1.30802,103.8484633,17z/data=!4m12!1m6!3m5!1s0x31da19c755a93671:0xafa05ed0141c4fd3!2sJaggi%E2%80%99s+Northern+Indian+Cuisine!8m2!3d1.30802!4d103.850652!3m4!1s0x31da19c71f708091:0xcb1c05d04cdfa80f!8m2!3d1.3099458!4d103.8521712)
 
 ## 泰國料理
-我推薦這家連鎖店Nakhon Kitchen，連結只是其中一家請找自己最方便的店家。這家用餐時段也是大排長龍，至少半小時，價位二十塊錢以內。
-推薦菜色：
+我推薦這家連鎖店Nakhon Kitchen，連結只是其中一家請找自己最方便的店家。這家用餐時段也是大排長龍，至少半小時，價位二十塊錢以內。推薦菜色：
+
 - 斑蘭葉雞，用斑蘭葉包住雞肉，然後炸和煮，形狀像肉粽
 - 金錢魚餅或蝦餅，泰國菜沒有月亮蝦餅喔！道地的炸魚餅是做成橢圓形類似金錢形狀
 - 綠咖哩，香味十足好下飯
@@ -74,7 +74,7 @@
 ## 肉挫麵Bak Chor Mee
 也是常見的一種小販中心美食，類似台灣的扁麵乾麵再加上豬肝，肉碎，魚丸等等，再淋上醬汁。最有名的莫過於得過米其林獎項的大華肉挫麵。但是這家總是大排長龍，至少一小時起跳。而整體而言我覺得不值得排如此久，加上距離MRT走路至少十分鐘，所以直不直得拜訪就見仁見智囉。
 
--[Hill Street Tai Hwa Pork Noodle](https://www.google.com.tw/maps/place/Hill+Street+Tai+Hwa+Pork+Noodle/@1.3047938,103.8617006,18.43z/data=!4m5!3m4!1s0x31da19b42ad981b9:0x99e64da5de0603b8!8m2!3d1.3051687!4d103.8624897)
+- [Hill Street Tai Hwa Pork Noodle](https://www.google.com.tw/maps/place/Hill+Street+Tai+Hwa+Pork+Noodle/@1.3047938,103.8617006,18.43z/data=!4m5!3m4!1s0x31da19b42ad981b9:0x99e64da5de0603b8!8m2!3d1.3051687!4d103.8624897)
 
 ## 其他有名的小吃或料理，心中沒特別喜愛所以沒有列出推薦店家。但是有興趣的吃貨們還是可以去吃吃看分享給大家喔：Ｄ
 ## 福建麵Hokkien Mee
