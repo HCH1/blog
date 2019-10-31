@@ -1,9 +1,9 @@
-# Welcome to my blog，SOHO數據分析可視化，新加坡旅拍幫拍導覽 (內洽)
+# Welcome to my blog! 3組關鍵字搜尋引擎最佳化/部落格架設，數據分析可視化，自由職業者freelancer(內洽)
 
 ## 關於我about me
 - 📍 Singapore.
-- ©️ Skill: (1) data visualization (2) trip photographer (3) SEO/blog setup
-- 技能: (1) SOHO數據分析可視化 (2) 新加坡旅拍幫拍導覽 (3) 搜尋引擎最佳化/部落格架設
+- ©️ Skill: SEO/blog setup; data visualization; trip photographer 
+- 技能: 3組關鍵字搜尋引擎最佳化/部落格架設，數據分析可視化; 新加坡旅拍幫拍導覽 
 
 ## 數據分析可視化data lover
 R program for dataframe clean / mining / export / shiny app UI.
