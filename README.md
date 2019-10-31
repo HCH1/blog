@@ -1,9 +1,9 @@
-# Welcome to my blog! 3組關鍵字搜尋引擎最佳化/部落格架設，數據分析可視化，自由職業者freelancer(內洽)
+# Welcome to my blog! 3組關鍵字搜尋引擎最佳化，部落格blog架設，數據分析可視化，自由職業者freelancer(內洽)
 
 ## 關於我about me
 - 📍 Singapore.
 - ©️ Skill: SEO/blog setup; data visualization; trip photographer 
-- ©️ 技能: 3組關鍵字搜尋引擎最佳化/部落格架設，數據分析可視化; 新加坡旅拍幫拍導覽 
+- ©️ 技能: 3組關鍵字搜尋引擎最佳化，部落格blog架設，數據分析可視化，新加坡旅拍幫拍導覽 
 
 ## 數據分析可視化data lover
 R program for dataframe clean / mining / export / shiny app UI.
