@@ -1,7 +1,7 @@
-# 新加坡私藏美食大公開總整理（2019持續更新）the best yummy food in Singapore
+# 新加坡私藏美食推薦與總整理（2019持續更新）the best yummy food in Singapore
 ![f1](https://github.com/HCH1/blog/blob/master/fig/sgfood1.JPG)
 
-## 我先列舉出心中前五名特色必吃美食（有些可能不是新加坡原創，但美食無國界啦，美味就好：）
+## 我先列舉出心中前五名特色美食（有些可能不是新加坡原創，沒吃過歡迎嘗試但別一昧否定，美食無國界啦，美味就好：）
 - 叨沙
 - 麻辣香鍋
 - 榴槤
