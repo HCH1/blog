@@ -21,7 +21,12 @@ Auto debug app development:
 ![f4](https://github.com/HCH1/blog/blob/master/fig/pt44.png)
 
 - 搜尋三組字串，讓您的部落格出現在google搜尋第一頁上
-![f4](https://github.com/HCH1/blog/blob/master/fig/seo1.png)
+
+龍目 浮潛; lombok 浮潛
+![f4](https://github.com/HCH1/blog/blob/master/fig/seo1b.JPG)
+
+sony rx100 推薦
+![f4](https://github.com/HCH1/blog/blob/master/fig/seo1c.JPG)
 
 ## 旅拍幫拍導覽 photographer
 - [my Instagram](https://www.instagram.com/redbox111)
