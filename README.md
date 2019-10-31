@@ -14,13 +14,22 @@ Auto debug app development:
 
 ## 搜尋引擎最佳化SEO & blogger
 ### 搜尋三組字串，讓您的部落格出現在google搜尋第一頁上
-### 龍目 浮潛; lombok 浮潛
+```
+Search for three sets of strings to make your blog appear on the first page of Google search
+```
+### 龍目 浮潛
+```
+lombok snorkeling
+```
 ![f4](https://github.com/HCH1/blog/blob/master/fig/seo1b.JPG)
 
 ### sony rx100 推薦
+```
+SONY rx100 recommended
+```
 ![f4](https://github.com/HCH1/blog/blob/master/fig/seo1c.JPG)
 
-### R program認證
+### R program certification
 ![f2](https://github.com/HCH1/blog/blob/master/fig/pt22.png)
 
 ![f4](https://github.com/HCH1/blog/blob/master/fig/pt44.png)
@@ -28,7 +37,7 @@ Auto debug app development:
 ### google analytics certification 
 ![f3](https://github.com/HCH1/blog/blob/master/fig/pt33.png)
 
-## 旅拍幫拍導覽 photographer
+## 旅拍幫拍導覽trip photographer
 - [my Instagram](https://www.instagram.com/redbox111)
 
 ## ref
