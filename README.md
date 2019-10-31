@@ -4,8 +4,6 @@
 - ©️ Skill: (1) data visualization (2) trip photographer (3) SEO/blog setup
 - 技能: (1) SOHO數據分析可視化 (2) 新加坡旅拍幫拍導覽 (3) 搜尋引擎最佳化/部落格架設
 
-![f1](https://github.com/HCH1/blog/blob/master/fig/pt11.png)
-
 ## 數據分析可視化 data lover
 R program for dataframe clean / mining / export / shiny app UI.
 Auto debug app development:
@@ -15,17 +13,18 @@ Auto debug app development:
 
 ## 搜尋引擎最佳化 SEO & blogger
 - [my blog](https://medium.com/@hsiangchihhung)
-- google analytics certification 
+
+### google analytics certification 
 ![f3](https://github.com/HCH1/blog/blob/master/fig/pt33.png)
 
 ![f4](https://github.com/HCH1/blog/blob/master/fig/pt44.png)
 
-- 搜尋三組字串，讓您的部落格出現在google搜尋第一頁上
+## 搜尋三組字串，讓您的部落格出現在google搜尋第一頁上
 
-龍目 浮潛; lombok 浮潛
+### 龍目 浮潛; lombok 浮潛
 ![f4](https://github.com/HCH1/blog/blob/master/fig/seo1b.JPG)
 
-sony rx100 推薦
+### sony rx100 推薦
 ![f4](https://github.com/HCH1/blog/blob/master/fig/seo1c.JPG)
 
 ## 旅拍幫拍導覽 photographer
