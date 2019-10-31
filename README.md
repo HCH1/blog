@@ -9,32 +9,28 @@
 R program for dataframe clean / mining / export / shiny app UI.
 Auto debug app development:
 - [my shinyapp](https://hch1.shinyapps.io/app_preDMC_v5)
-
-### R program認證
-![f2](https://github.com/HCH1/blog/blob/master/fig/pt22.png)
+- theonee730801@gmail.com
 
 ## 搜尋引擎最佳化SEO & blogger
 - [my blog](https://medium.com/@hsiangchihhung)
 
-### google analytics certification 
-![f3](https://github.com/HCH1/blog/blob/master/fig/pt33.png)
-
-### R program認證
-![f4](https://github.com/HCH1/blog/blob/master/fig/pt44.png)
-
 ## 搜尋三組字串，讓您的部落格出現在google搜尋第一頁上
-
 ### 龍目 浮潛; lombok 浮潛
 ![f4](https://github.com/HCH1/blog/blob/master/fig/seo1b.JPG)
 
 ### sony rx100 推薦
 ![f4](https://github.com/HCH1/blog/blob/master/fig/seo1c.JPG)
 
+### R program認證
+![f2](https://github.com/HCH1/blog/blob/master/fig/pt22.png)
+
+![f4](https://github.com/HCH1/blog/blob/master/fig/pt44.png)
+
+### google analytics certification 
+![f3](https://github.com/HCH1/blog/blob/master/fig/pt33.png)
+
 ## 旅拍幫拍導覽 photographer
 - [my Instagram](https://www.instagram.com/redbox111)
-
-## email
-- theonee730801@gmail.com
 
 ## ref
 ## R語言(節錄維基百科)
