@@ -2,15 +2,9 @@
 ![f1](https://github.com/HCH1/blog/blob/master/fig/gili1.png)
 
 ## 簡介(節錄維基百科)
-龍目島（印尼語：Pulau Lombok），是小巽他群島中的一個島嶼，屬印度尼西亞西努沙登加拉省管轄，該省首府馬塔蘭亦位於此島西部。該島東隔阿拉斯海峽與松巴哇島相望，西隔龍目海峽與巴厘相望，面積4725平方公里，人口2,403,025（1990年）。
+龍目島（印尼語：Pulau Lombok），是小巽他群島中的一個島嶼，屬印度尼西亞西努沙登加拉省管轄，該省首府馬塔蘭亦位於此島西部。該島東隔阿拉斯海峽與松巴哇島相望，西隔龍目海峽與巴厘相望，面積4725平方公里，人口2,403,025（1990年）。島北部有林賈尼Rinjani火山，海拔3726米，為全島最高峰；中部為低地，南部是石灰岩高原；有熱帶林木。該島古時屬於巴厘島印度教王國統治，1891年，當地居民在荷蘭支持下反抗巴厘統治者，1894年併入荷屬東印度。
 
-島北部有林賈尼Rinjani火山，海拔3726米，為全島最高峰；中部為低地，南部是石灰岩高原；有熱帶林木。
-
-該島古時屬於巴厘島印度教王國統治，1891年，當地居民在荷蘭支持下反抗巴厘統治者，1894年併入荷屬東印度。
-
-龍目國際機場（IATA代碼：LOP；ICAO代碼：WADL）：在2011年12月1日啟用，為島上唯一有定期航班的機場，位於本島的中央偏南方。
-
-林賈尼Rinjani火山：為本島最高的山峰，也是印尼第二高的火山，位於本島的北方。
+龍目國際機場（IATA代碼：LOP；ICAO代碼：WADL）：在2011年12月1日啟用，為島上唯一有定期航班的機場，位於本島的中央偏南方。林賈尼Rinjani火山：為本島最高的山峰，也是印尼第二高的火山，位於本島的北方。
 ```
 Lombok is an island in West Nusa Tenggara province, Indonesia. It forms part of the chain of the Lesser Sunda Islands, with the Lombok Strait separating it from Bali to the west and the Alas Strait between it and Sumbawa to the east. It is roughly circular, with a "tail" (Sekotong Peninsula) to the southwest, about 70 kilometres (43 miles) across and a total area of about 4,514 square kilometres (1,743 square miles). The provincial capital and largest city on the island is Mataram.
 
