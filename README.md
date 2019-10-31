@@ -1,24 +1,25 @@
-# Welcome to my blog :D SOHO數據分析可視化 新加坡旅拍幫拍導覽 (內洽)
-## about me
+# Welcome to my blog，SOHO數據分析可視化，新加坡旅拍幫拍導覽 (內洽)
+
+## 關於我about me
 - 📍 Singapore.
 - ©️ Skill: (1) data visualization (2) trip photographer (3) SEO/blog setup
 - 技能: (1) SOHO數據分析可視化 (2) 新加坡旅拍幫拍導覽 (3) 搜尋引擎最佳化/部落格架設
 
-## 數據分析可視化 data lover
+## 數據分析可視化data lover
 R program for dataframe clean / mining / export / shiny app UI.
 Auto debug app development:
 - [my shinyapp](https://hch1.shinyapps.io/app_preDMC_v5)
 
-### R program 認證
+### R program認證
 ![f2](https://github.com/HCH1/blog/blob/master/fig/pt22.png)
 
-## 搜尋引擎最佳化 SEO & blogger
+## 搜尋引擎最佳化SEO & blogger
 - [my blog](https://medium.com/@hsiangchihhung)
 
 ### google analytics certification 
 ![f3](https://github.com/HCH1/blog/blob/master/fig/pt33.png)
 
-### R program 認證
+### R program認證
 ![f4](https://github.com/HCH1/blog/blob/master/fig/pt44.png)
 
 ## 搜尋三組字串，讓您的部落格出現在google搜尋第一頁上
