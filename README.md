@@ -9,12 +9,11 @@
 R program for dataframe clean / mining / export / shiny app UI.
 Auto debug app development:
 - [my shinyapp](https://hch1.shinyapps.io/app_preDMC_v5)
+- [my blog](https://medium.com/@sean101/soho-%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90%E5%8F%AF%E8%A6%96%E5%8C%96-%E6%97%85%E6%8B%8D%E5%B9%AB%E6%8B%8D%E5%B0%8E%E8%A6%BD-%E5%85%A7%E6%B4%BD-3698189fcb54)
 - theonee730801@gmail.com
 
 ## 搜尋引擎最佳化SEO & blogger
-- [my blog](https://medium.com/@hsiangchihhung)
-
-## 搜尋三組字串，讓您的部落格出現在google搜尋第一頁上
+### 搜尋三組字串，讓您的部落格出現在google搜尋第一頁上
 ### 龍目 浮潛; lombok 浮潛
 ![f4](https://github.com/HCH1/blog/blob/master/fig/seo1b.JPG)
 
