@@ -2,24 +2,30 @@
 ![f1](https://github.com/HCH1/blog/blob/master/fig/gili1.png)
 
 ## 簡介(節錄維基百科)
-龍目島（印尼語：Pulau Lombok），是小巽他群島中的一個島嶼，屬印度尼西亞西努沙登加拉省管轄，該省首府馬塔蘭亦位於此島西部。該島東隔阿拉斯海峽與松巴哇島相望，西隔龍目海峽與巴厘相望，面積4725平方公里，人口2,403,025（1990年）。島北部有林賈尼Rinjani火山，海拔3726米，為全島最高峰；中部為低地，南部是石灰岩高原；有熱帶林木。該島古時屬於巴厘島印度教王國統治，1891年，當地居民在荷蘭支持下反抗巴厘統治者，1894年併入荷屬東印度。
+龍目島（印尼語：Pulau Lombok），是小巽他群島中的一個島嶼，屬印度尼西亞西努沙登加拉省管轄，島北部有林賈尼Rinjani火山，海拔3726米，為全島最高峰；中部為低地，南部是石灰岩高原；有熱帶林木。該島古時屬於巴厘島印度教王國統治，1891年，當地居民在荷蘭支持下反抗巴厘統治者，1894年併入荷屬東印度。
 
 龍目國際機場（IATA代碼：LOP；ICAO代碼：WADL）：在2011年12月1日啟用，為島上唯一有定期航班的機場，位於本島的中央偏南方。林賈尼Rinjani火山：為本島最高的山峰，也是印尼第二高的火山，位於本島的北方。
 ```
-Lombok is an island in West Nusa Tenggara province, Indonesia. It forms part of the chain of the Lesser Sunda Islands, with the Lombok Strait separating it from Bali to the west and the Alas Strait between it and Sumbawa to the east. It is roughly circular, with a "tail" (Sekotong Peninsula) to the southwest, about 70 kilometres (43 miles) across and a total area of about 4,514 square kilometres (1,743 square miles). The provincial capital and largest city on the island is Mataram.
+Lombok is an island in West Nusa Tenggara province, Indonesia. It forms part of the chain of the Lesser Sunda Islands, with the Lombok Strait separating it from Bali to the west and the Alas Strait between it and Sumbawa to the east. 
+It is roughly circular, with a "tail" (Sekotong Peninsula) to the southwest, about 70 kilometres (43 miles) across and a total area of about 4,514 square kilometres (1,743 square miles). The provincial capital and largest city on the island is Mataram.
 
-Lombok is somewhat similar in size and density, and shares some cultural heritage with the neighboring island of Bali to the west. However, it is administratively part of West Nusa Tenggara, along with the larger and more sparsely populated island of Sumbawa to the east. Lombok is surrounded by a number of smaller islands locally called Gili.
+Lombok is somewhat similar in size and density, and shares some cultural heritage with the neighboring island of Bali to the west. However, it is administratively part of West Nusa Tenggara, 
+along with the larger and more sparsely populated island of Sumbawa to the east. Lombok is surrounded by a number of smaller islands locally called Gili.
 ```
 ## [圖文好讀版](https://link.medium.com/ka8fT8rib1)
 
-## 龍目島Lombok在哪？
+## [龍目島Lombok在哪？](https://www.google.com.tw/maps/place/Lombok,+West+Nusa+Tenggara,+Indonesia/data=!4m2!3m1!1s0x2dcdb7d23e8cc745:0x446689c4ab50d8c9?sa=X&ved=2ahUKEwjj5JT7jMPlAhVIX30KHakbCZQQ8gEwFXoECA4QBA)
 龍目島Lombok位在峇里島Bali的右邊，然後林賈尼Rinjani火山在島的北邊，機場在南邊，左邊離島有很多人的潛水勝地西吉利west Gili島，右邊離島有人少的浮淺勝地東吉利east Gili。
-- [龍目島Lombok在哪？](https://www.google.com.tw/maps/place/Lombok,+West+Nusa+Tenggara,+Indonesia/data=!4m2!3m1!1s0x2dcdb7d23e8cc745:0x446689c4ab50d8c9?sa=X&ved=2ahUKEwjj5JT7jMPlAhVIX30KHakbCZQQ8gEwFXoECA4QBA)
-- [My Instagram](https://www.instagram.com/redbox111)
 
 ## 如何訂機票？
 - [機票查詢：新加坡飛往龍目島](https://www.google.com.tw/flights?lite=0#flt=SIN.LOP.2019-11-01*LOP.SIN.2019-11-04;c:SGD;e:1;sd:1;t:f)
 - [機票查詢：桃園飛往龍目島](https://www.google.com.tw/flights?lite=0#flt=TPE.LOP.2019-11-01*LOP.TPE.2019-11-04;c:SGD;e:1;sd:1;t:f)
+
+## 出發前小趣談
+2019十月有機會去了龍目島Lombok旅遊，本來是要爬火山林賈尼Rinjani，然後去拍攝日出日落和星空。無奈後來出發前一天，當地旅行社說有局部森林大火，為了遊客安全，所以林賈尼國家公園決定關閉一週。所以我們的行程，經由當地旅行社的協調推薦，改成東吉利east Gili海島遊與浮淺，並且加上帳篷夜宿一晚。
+
+整趟兩天一夜2D1N的旅程，有滿多美景以及美好的回憶，需要感謝老天給的天氣如此好，以及山下住宿環境不錯，還有旅行社的用心：Ｄ
+- [My Instagram](https://www.instagram.com/redbox111)
 
 ## 推薦龍目島Lombok旅行社hallo trekker
 此去行程我是跟當地旅行社使用簡訊whatsApp溝通，會選擇這家有兩個原因：
@@ -37,10 +43,21 @@ For this trip, I communicated with the local travel agency via whatsApp, and I c
 - the staffs/local friends are funny and professional, play guitar, help photography, take care our camping and snorkeling safety.
 - the travel agency ranked #2 of 93 Outdoor Activities in Senaru highly on its website
 ```
-## 出發前小趣談
-2019十月有機會去了龍目島Lombok旅遊，本來是要爬火山林賈尼Rinjani，然後去拍攝日出日落和星空。無奈後來出發前一天，當地旅行社說有局部森林大火，為了遊客安全，所以林賈尼國家公園決定關閉一週。所以我們的行程，經由當地旅行社的協調推薦，改成東吉利east Gili海島遊與浮淺，並且加上帳篷夜宿一晚。
+## 推薦龍目島Lombok旅館Rinjani light house
+- [Rinjani light house](https://www.google.com.tw/maps/place/Rinjani+Lighthouse+Cottages/@-8.3033787,116.4030235,15z/data=!4m2!3m1!1s0x0:0x9e7fb5808644d88?sa=X&ved=2ahUKEwjUmu-ciL_lAhXBRY8KHTi3C4YQ_BIwFHoECAoQCA)
 
-整趟兩天一夜2D1N的旅程，有滿多美景以及美好的回憶，需要感謝老天給的天氣如此好，以及山下住宿環境不錯，還有旅行社的用心：Ｄ
+我們是選擇Rinjani light house，這家在google評價是四顆星，加上又是旅行社推薦之一，所以選擇這家。此兩層小木屋座落在花園之間，不吵。員工服務態度很好，例如：
+- 我出發前一週，有寄信請旅行社幫忙準備一些小驚喜，結果令我很滿意而且用心。（深得我心）
+- 因為某些緣故，住宿最後一日，想從二樓改到一樓，經過溝通後員工也很熱心處理，實在溫馨。
+```
+Rinjani light house, Lombok hotel
+
+Lombok airport is in the south of the island. After meeting the travel agency driver at 5pm, it is about three and a half hours' drive to the hotel in the north of the island. 
+
+We choose Rinjani light house, which is rated as four stars by Google and recommended by travel agency. Therefore. The two levels wood house is located in the garden, not noisy. Employee service attitude is good, for example:
+- A week before my departure, I sent a letter to the travel agency asking for help in preparing some surprises. The result was very satisfactory and thoughtful.
+- because of some reasons, I want to change from the second floor to the first floor on the last day of accommodation. After communication, the staff is also helpful.
+```
 
 ## 龍目島之旅第一天
 - 11-2pm 新加坡飛往峇厘島SIN to Bali 
@@ -51,6 +68,8 @@ For this trip, I communicated with the local travel agency via whatsApp, and I c
 - 出境領取托運行李（大概四十分鐘）
 - 從國際線建築物走到國內線建築物（走路至少十分鐘。不同建築物，路上沒有冷氣且滿悶熱的，請抬頭注意指標）
 - 領機票放托運行李（起飛前一小時還可放行李）
+
+龍目島機場在島的南部，5pm多與旅行社司機碰面後，大約三小時半的車程，開往島的北邊的下榻旅館。
 ```
 Funny thing before departure
 
@@ -68,23 +87,6 @@ It is worth mentioning that we buy the transfer flight tickets, only two hours b
 - collect the luggage (about 40 minutes)
 - walk from the international line to the domestic line (walk for at least 10 minutes. For different buildings, please look up and pay attention to the indicators.
 - collect ticket and checked luggage (luggage can be put in one hour before departure)
-```
-## 推薦龍目島Lombok旅館Rinjani light house
-- [Rinjani light house](https://www.google.com.tw/maps/place/Rinjani+Lighthouse+Cottages/@-8.3033787,116.4030235,15z/data=!4m2!3m1!1s0x0:0x9e7fb5808644d88?sa=X&ved=2ahUKEwjUmu-ciL_lAhXBRY8KHTi3C4YQ_BIwFHoECAoQCA)
-
-龍目島機場在島的南部，5pm多與旅行社司機碰面後，大約三小時半的車程，開往島的北邊的下榻旅館。
-
-我們是選擇Rinjani light house，這家在google評價是四顆星，加上又是旅行社推薦之一，所以選擇這家。此兩層小木屋座落在花園之間，不吵。員工服務態度很好，例如：
-- 我出發前一週，有寄信請旅行社幫忙準備一些小驚喜，結果令我很滿意而且用心。（深得我心）
-- 因為某些緣故，住宿最後一日，想從二樓改到一樓，經過溝通後員工也很熱心處理，實在溫馨。
-```
-Rinjani light house, Lombok hotel
-
-Lombok airport is in the south of the island. After meeting the travel agency driver at 5pm, it is about three and a half hours' drive to the hotel in the north of the island. 
-
-We choose Rinjani light house, which is rated as four stars by Google and recommended by travel agency. Therefore. The two levels wood house is located in the garden, not noisy. Employee service attitude is good, for example:
-- A week before my departure, I sent a letter to the travel agency asking for help in preparing some surprises. The result was very satisfactory and thoughtful.
-- because of some reasons, I want to change from the second floor to the first floor on the last day of accommodation. After communication, the staff is also helpful.
 ```
 兩層小木屋座落在花園之間
 ![f1](https://github.com/HCH1/blog/blob/master/fig/gili2.jpg)
