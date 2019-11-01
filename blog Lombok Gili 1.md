@@ -1,10 +1,8 @@
-# 印尼龍目島Lombok島東吉利Gili海島遊浮潛宿營，秘境打卡推薦(2019懶人包) Secret Gili Kondo Wonderful Tour – Snorkel, relax and camp
+# 印尼龍目島Lombok東吉利Gili海島遊浮潛宿營，秘境打卡推薦(2019懶人包) Secret Gili Kondo Wonderful Tour – Snorkel, relax and camp
 ![f1](https://github.com/HCH1/blog/blob/master/fig/gili1.png)
 
 ## 簡介(節錄維基百科)
-龍目島（印尼語：Pulau Lombok），是小巽他群島中的一個島嶼，屬印度尼西亞西努沙登加拉省管轄，島北部有林賈尼Rinjani火山，海拔3726米，為全島最高峰；中部為低地，南部是石灰岩高原；有熱帶林木。該島古時屬於巴厘島印度教王國統治，1891年，當地居民在荷蘭支持下反抗巴厘統治者，1894年併入荷屬東印度。
-
-龍目國際機場（IATA代碼：LOP；ICAO代碼：WADL）：在2011年12月1日啟用，為島上唯一有定期航班的機場，位於本島的中央偏南方。林賈尼Rinjani火山：為本島最高的山峰，也是印尼第二高的火山，位於本島的北方。
+龍目島（印尼語：Pulau Lombok），是小巽他群島中的一個島嶼，屬印度尼西亞西努沙登加拉省管轄，島北部有林賈尼Rinjani火山，海拔3726米，為全島最高峰；中部為低地，南部是石灰岩高原；有熱帶林木。龍目國際機場（IATA代碼：LOP；ICAO代碼：WADL）：在2011年12月1日啟用，為島上唯一有定期航班的機場，位於本島的中央偏南方。林賈尼Rinjani火山：為本島最高的山峰，也是印尼第二高的火山，位於本島的北方。
 ```
 Lombok is an island in West Nusa Tenggara province, Indonesia. It forms part of the chain of the Lesser Sunda Islands, with the Lombok Strait separating it from Bali to the west and the Alas Strait between it and Sumbawa to the east. 
 It is roughly circular, with a "tail" (Sekotong Peninsula) to the southwest, about 70 kilometres (43 miles) across and a total area of about 4,514 square kilometres (1,743 square miles). The provincial capital and largest city on the island is Mataram.
@@ -27,7 +25,7 @@ along with the larger and more sparsely populated island of Sumbawa to the east.
 整趟兩天一夜2D1N的旅程，有滿多美景以及美好的回憶，需要感謝老天給的天氣如此好，以及山下住宿環境不錯，還有旅行社的用心：Ｄ
 - [My Instagram](https://www.instagram.com/redbox111)
 
-## 推薦龍目島Lombok旅行社hallo trekker
+### 推薦龍目島Lombok旅行社hallo trekker
 此去行程我是跟當地旅行社使用簡訊whatsApp溝通，會選擇這家有兩個原因：
 - 回覆速度快且細心（深得我心）
 - 同行的當地夥伴們，風趣且專業，吉他助興，協助拍照，照顧我們在宿營和浮潛的安全
@@ -43,7 +41,7 @@ For this trip, I communicated with the local travel agency via whatsApp, and I c
 - the staffs/local friends are funny and professional, play guitar, help photography, take care our camping and snorkeling safety.
 - the travel agency ranked #2 of 93 Outdoor Activities in Senaru highly on its website
 ```
-## 推薦龍目島Lombok旅館Rinjani light house
+### 推薦龍目島Lombok旅館Rinjani light house
 - [Rinjani light house](https://www.google.com.tw/maps/place/Rinjani+Lighthouse+Cottages/@-8.3033787,116.4030235,15z/data=!4m2!3m1!1s0x0:0x9e7fb5808644d88?sa=X&ved=2ahUKEwjUmu-ciL_lAhXBRY8KHTi3C4YQ_BIwFHoECAoQCA)
 
 我們是選擇Rinjani light house，這家在google評價是四顆星，加上又是旅行社推薦之一，所以選擇這家。此兩層小木屋座落在花園之間，不吵。員工服務態度很好，例如：
