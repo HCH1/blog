@@ -73,9 +73,12 @@ We choose Rinjani light house, which is rated as four stars by Google and recomm
 ```
 Funny thing before departure
 
-In October 2019, I had the opportunity to travel to Lombok island, where I was supposed to climb the mountain Rinjani, and then take photos of sunrise, sunset and stars. However, the day before the trip, the local tourist agency said there was a partial forest fire, so the Rinjani national park was closed for a week for tourists' safety. So our itinerary, coordinated and recommended by the local travel agency, was changed to an island tour and snorkeling trip to east Gili, plus a night in a tent.
+In October 2019, I had the opportunity to travel to Lombok island, where I was supposed to climb the mountain Rinjani, and then take photos of sunrise, sunset and stars. 
+However, the day before the trip, the local tourist agency said there was a partial forest fire, so the Rinjani national park was closed for a week for tourists' safety. 
+So our itinerary, coordinated and recommended by the local travel agency, was changed to an island tour and snorkeling trip to east Gili, plus a night in a tent.
 
-The whole trip for two days and one night is full of beautiful scenery and beautiful memories. We need to thank god for the weather, the accommodation environment at the hotel, and the nice plan of the travel agency : D
+The whole trip for two days and one night is full of beautiful scenery and beautiful memories. 
+We need to thank god for the weather, the accommodation environment at the hotel, and the nice plan of the travel agency : D
 
 Day 1 of my trip to lombok
 - 11-2pm Singapore to Bali
@@ -118,11 +121,14 @@ Day 2 (2 days and 1 night)
 - 6pm sunset
 - 7pm campfire, talk to the stars, play guitar
 
-We left about 8am with our team leader and drove to Ferry lombok sumbawa, east pier, for about 1.5 hours. Also accompanied by two local friends who sang and danced well, adding to the fun of the 2D1N trip. After arriving at the dock, there are two other local friends joined, also good at diving, photography and singing. Thx for my four local friends about the preparation and carrying: meals, snorkeling, camping, guides, campfires.
+We left about 8am with our team leader and drove to Ferry lombok sumbawa, east pier, for about 1.5 hours. Also accompanied by two local friends who sang and danced well, adding to the fun of the 2D1N trip. 
+After arriving at the dock, there are two other local friends joined, also good at diving, photography and singing. Thx for my four local friends about the preparation and carrying: meals, snorkeling, camping, guides, campfires.
 
-During the day we stopped at the outlying island of Gili Kapal, and at low tide the small sandy island appear from the clear sea. It takes about five minutes to walk around all the island, very mini. We also took a few jumping group photos on the island before heading to the next snorkeling spot.
+During the day we stopped at the outlying island of Gili Kapal, and at low tide the small sandy island appear from the clear sea. It takes about five minutes to walk around all the island, very mini.
+We also took a few jumping group photos on the island before heading to the next snorkeling spot.
 
-There are few tourists to east Gili, so apart from the clear water, the seafloor is especially rich in colorful coral (still alive) and fish. With luck I was able to photograph the clownfish nemo with gopro HERO5 and the green purple yellow coral. Local friends also provide one-on-one guidance and take out toast to attract shoals of fish so visitors can take pictures.
+There are few tourists to east Gili, so apart from the clear water, the seafloor is especially rich in colorful coral (still alive) and fish. With luck I was able to photograph the clownfish nemo with gopro HERO5 and the green purple yellow coral. 
+Local friends also provide one-on-one guidance and take out toast to attract shoals of fish so visitors can take pictures.
 ```
 與夥伴們在沙洲上跳躍留影
 ![f1](https://github.com/HCH1/blog/blob/master/fig/gili5.jpg)
@@ -139,7 +145,8 @@ There are few tourists to east Gili, so apart from the clear water, the seafloor
 ```
 Since there is almost no light pollution on the outlying islands, the sky becomes dark very quickly after 6pm sunset, and it is easy to see the sky full of stars when you look up.
 
-About 7pm. Four local friends for us to build a campfire, and as happy as in a stove, singing with guitar, listen to western songs accompanied at the beginning, after listening to a few, we take the initiative to want to hear and see Indonesia local songs, local friends was very happy, dance and performance hometown songs.
+About 7pm. Four local friends for us to build a campfire, and as happy as in a stove, singing with guitar, listen to western songs accompanied at the beginning, after listening to a few, 
+we take the initiative to want to hear and see Indonesia local songs, local friends was very happy, dance and performance hometown songs.
 ```
 看日落
 ![f1](https://github.com/HCH1/blog/blob/master/fig/gili8.jpg)
@@ -181,13 +188,17 @@ Day 3 (2 days and 1 night)
 
 Sunrise is around 6 a.m., but it's a better to see the colorful sky change before the sun comes out.
 
-I also recommend a walk around the island called Gili Kondo, which takes about half an hour to complete. Although the island is small, each face has a different view and perspective, such as the beach with distant mountains, the rocky shore with miscanthus trees, is a big visual impact and feast.
+I also recommend a walk around the island called Gili Kondo, which takes about half an hour to complete. Although the island is small, each face has a different view and perspective, 
+such as the beach with distant mountains, the rocky shore with miscanthus trees, is a big visual impact and feast.
 
-In the morning, local friends will also help you prepare breakfast and fruit. After having breakfast, packing up backpack and tent, we went to Gili Lampu mangrove forest. The thick mangrove trees on both sides of the river, are really beautiful.
+In the morning, local friends will also help you prepare breakfast and fruit. After having breakfast, packing up backpack and tent, we went to Gili Lampu mangrove forest. 
+The thick mangrove trees on both sides of the river, are really beautiful.
 
-Then head to a third snorkelling spot and try to guide you into free diving (diving underwater without a life jacket). The bottom is also full of colorful coral (still alive) and fish. After this snorkelling end, we went to the east pier and drive to back to hotel.
+Then head to a third snorkelling spot and try to guide you into free diving (diving underwater without a life jacket). The bottom is also full of colorful coral (still alive) and fish. 
+After this snorkelling end, we went to the east pier and drive to back to hotel.
 
-There's one last guide tour in the afternoon, Sendang Gile Waterfall, a 10-minute walk from the hotel. Led by a local friend, we walked the whole waterfall for about half an hour. There were a lot of stairs, and the smart watch recorded about 20 floors. One of the most sweaty trips, suggest to bring a towel. Monkeys will be seen along the way, but they are nice and not grab your bag and backpack.
+There's one last guide tour in the afternoon, Sendang Gile Waterfall, a 10-minute walk from the hotel. Led by a local friend, we walked the whole waterfall for about half an hour. 
+There were a lot of stairs, and the smart watch recorded about 20 floors. One of the most sweaty trips, suggest to bring a towel. Monkeys will be seen along the way, but they are nice and not grab your bag and backpack.
 ```
 看日出
 ![f1](https://github.com/HCH1/blog/blob/master/fig/gili11.jpg)
@@ -219,7 +230,8 @@ Day 4 of my trip to lombok
 - 4pm massage at Kaya Spa Airport
 - 6-9pm Bali to SIN
 
-Finally, I would like to recommend the massage of Kaya Spa Airport at Bali Airport. It takes 30 minutes for feet/legs, 30 min for shoulder, neck and back. The total amount is 75K rupiah. A perfect ending to the whole trip: D
+Finally, I would like to recommend the massage of Kaya Spa Airport at Bali Airport. It takes 30 minutes for feet/legs, 30 min for shoulder, neck and back. 
+The total amount is 75K rupiah. A perfect ending to the whole trip: D
 ```
 在峇里島機場看到小型的巴龍舞
 ![f1](https://github.com/HCH1/blog/blob/master/fig/gili15.jpg)
