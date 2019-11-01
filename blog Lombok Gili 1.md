@@ -25,11 +25,10 @@ along with the larger and more sparsely populated island of Sumbawa to the east.
 整趟兩天一夜2D1N的旅程，有滿多美景以及美好的回憶，需要感謝老天給的天氣如此好，以及山下住宿環境不錯，還有旅行社的用心：Ｄ
 - [My Instagram](https://www.instagram.com/redbox111)
 
-### 推薦龍目島Lombok旅行社hallo trekker
+### 推薦龍目島Lombok旅行社[hallo trekker](http://hallotrekker.com/category/rinjani-trekking-packages/trekking-via-senaru/)
 此去行程我是跟當地旅行社使用簡訊whatsApp溝通，會選擇這家有兩個原因：
 - 回覆速度快且細心（深得我心）
 - 同行的當地夥伴們，風趣且專業，吉他助興，協助拍照，照顧我們在宿營和浮潛的安全
-- [hallo trekker官網](http://hallotrekker.com/category/rinjani-trekking-packages/trekking-via-senaru/)
 - [#2 of 93 Outdoor Activities in Senaru](https://www.tripadvisor.com.sg/Attraction_Review-g3475390-d8799777-Reviews-Hallo_Trekker_Day_Tours-Senaru_Lombok_West_Nusa_Tenggara.html)
 ```
 Where is Lombok?
@@ -41,9 +40,7 @@ For this trip, I communicated with the local travel agency via whatsApp, and I c
 - the staffs/local friends are funny and professional, play guitar, help photography, take care our camping and snorkeling safety.
 - the travel agency ranked #2 of 93 Outdoor Activities in Senaru highly on its website
 ```
-### 推薦龍目島Lombok旅館Rinjani light house
-- [Rinjani light house](https://www.google.com.tw/maps/place/Rinjani+Lighthouse+Cottages/@-8.3033787,116.4030235,15z/data=!4m2!3m1!1s0x0:0x9e7fb5808644d88?sa=X&ved=2ahUKEwjUmu-ciL_lAhXBRY8KHTi3C4YQ_BIwFHoECAoQCA)
-
+### 推薦龍目島Lombok旅館[Rinjani light house](https://www.google.com.tw/maps/place/Rinjani+Lighthouse+Cottages/@-8.3033787,116.4030235,15z/data=!4m2!3m1!1s0x0:0x9e7fb5808644d88?sa=X&ved=2ahUKEwjUmu-ciL_lAhXBRY8KHTi3C4YQ_BIwFHoECAoQCA)
 我們是選擇Rinjani light house，這家在google評價是四顆星，加上又是旅行社推薦之一，所以選擇這家。此兩層小木屋座落在花園之間，不吵。員工服務態度很好，例如：
 - 我出發前一週，有寄信請旅行社幫忙準備一些小驚喜，結果令我很滿意而且用心。（深得我心）
 - 因為某些緣故，住宿最後一日，想從二樓改到一樓，經過溝通後員工也很熱心處理，實在溫馨。
