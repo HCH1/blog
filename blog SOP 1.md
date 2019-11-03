@@ -1,10 +1,11 @@
-# 2019 aaa:
+#  秘境打卡推薦(2019懶人包) instagram worthy
 ![f1](https://github.com/HCH1/blog/blob/master/fig/.png)
 
-## intro
+## 簡介(節錄維基百科) intro (ref wiki)
 - [lombok wiki](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=lombok+wiki)
 - [My Instagram](https://www.instagram.com/redbox111)
 
+## [圖文好讀版](https://link.medium.com/ka8fT8rib1)
 
 https://markdown-it.github.io/
 ---
