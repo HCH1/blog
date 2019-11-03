@@ -15,10 +15,6 @@ along with the larger and more sparsely populated island of Sumbawa to the east.
 ## [龍目島Lombok在哪？](https://www.google.com.tw/maps/place/Lombok,+West+Nusa+Tenggara,+Indonesia/data=!4m2!3m1!1s0x2dcdb7d23e8cc745:0x446689c4ab50d8c9?sa=X&ved=2ahUKEwjj5JT7jMPlAhVIX30KHakbCZQQ8gEwFXoECA4QBA)
 龍目島Lombok位在峇里島Bali的右邊，然後林賈尼Rinjani火山在島的北邊，機場在南邊，左邊離島有很多人的潛水勝地西吉利west Gili島，右邊離島有人少的浮淺勝地東吉利east Gili。
 
-## 如何訂機票？
-- [機票查詢：新加坡飛往龍目島](https://www.google.com.tw/flights?lite=0#flt=SIN.LOP.2019-11-01*LOP.SIN.2019-11-04;c:SGD;e:1;sd:1;t:f)
-- [機票查詢：桃園飛往龍目島](https://www.google.com.tw/flights?lite=0#flt=TPE.LOP.2019-11-01*LOP.TPE.2019-11-04;c:SGD;e:1;sd:1;t:f)
-
 ### 推薦龍目島Lombok旅行社[hallo trekker](http://hallotrekker.com/category/rinjani-trekking-packages/trekking-via-senaru/)
 此去行程我是跟當地旅行社使用簡訊whatsApp溝通，會選擇這家有兩個原因：
 - 回覆速度快且細心（深得我心）
@@ -234,6 +230,10 @@ The total amount is 75K rupiah. A perfect ending to the whole trip: D
 ![f1](https://github.com/HCH1/blog/blob/master/fig/gili16.jpg)
 
 ## 補充資料(可省略)
+## 如何訂機票？
+- [機票查詢：新加坡飛往龍目島](https://www.google.com.tw/flights?lite=0#flt=SIN.LOP.2019-11-01*LOP.SIN.2019-11-04;c:SGD;e:1;sd:1;t:f)
+- [機票查詢：桃園飛往龍目島](https://www.google.com.tw/flights?lite=0#flt=TPE.LOP.2019-11-01*LOP.TPE.2019-11-04;c:SGD;e:1;sd:1;t:f)
+
 ## hallo trekker所提供的東吉利east Gili兩天一夜海島遊
 ## This boat trip leads you to the by tourism still undiscovered east of our island. 
 There you will find four secret gilis of Lombok. Gili Kondo, Gili Lampu, Gili Bidara and 
