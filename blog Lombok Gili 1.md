@@ -1,4 +1,4 @@
-# 印尼龍目島Lombok東吉利Gili海島遊浮潛宿營，秘境打卡推薦(2019懶人包) Secret Gili Kondo Wonderful Tour – Snorkel, relax and camp
+# 印尼龍目Lombok東吉利Gili海島遊浮潛宿營，秘境打卡推薦(2019懶人包) Secret Gili Kondo Wonderful Tour – Snorkel, relax and camp
 ![f1](https://github.com/HCH1/blog/blob/master/fig/gili1.png)
 
 ## 簡介(節錄維基百科)
