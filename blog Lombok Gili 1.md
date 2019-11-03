@@ -19,12 +19,6 @@ along with the larger and more sparsely populated island of Sumbawa to the east.
 - [機票查詢：新加坡飛往龍目島](https://www.google.com.tw/flights?lite=0#flt=SIN.LOP.2019-11-01*LOP.SIN.2019-11-04;c:SGD;e:1;sd:1;t:f)
 - [機票查詢：桃園飛往龍目島](https://www.google.com.tw/flights?lite=0#flt=TPE.LOP.2019-11-01*LOP.TPE.2019-11-04;c:SGD;e:1;sd:1;t:f)
 
-## 出發前小趣談
-2019十月有機會去了龍目島Lombok旅遊，本來是要爬火山林賈尼Rinjani，然後去拍攝日出日落和星空。無奈後來出發前一天，當地旅行社說有局部森林大火，為了遊客安全，所以林賈尼國家公園決定關閉一週。所以我們的行程，經由當地旅行社的協調推薦，改成東吉利east Gili海島遊與浮淺，並且加上帳篷夜宿一晚。
-
-整趟兩天一夜2D1N的旅程，有滿多美景以及美好的回憶，需要感謝老天給的天氣如此好，以及山下住宿環境不錯，還有旅行社的用心：Ｄ
-- [My Instagram](https://www.instagram.com/redbox111)
-
 ### 推薦龍目島Lombok旅行社[hallo trekker](http://hallotrekker.com/category/rinjani-trekking-packages/trekking-via-senaru/)
 此去行程我是跟當地旅行社使用簡訊whatsApp溝通，會選擇這家有兩個原因：
 - 回覆速度快且細心（深得我心）
@@ -53,6 +47,11 @@ We choose Rinjani light house, which is rated as four stars by Google and recomm
 - A week before my departure, I sent a letter to the travel agency asking for help in preparing some surprises. The result was very satisfactory and thoughtful.
 - because of some reasons, I want to change from the second floor to the first floor on the last day of accommodation. After communication, the staff is also helpful.
 ```
+## 出發前小趣談
+2019十月有機會去了龍目島Lombok旅遊，本來是要爬火山林賈尼Rinjani，然後去拍攝日出日落和星空。無奈後來出發前一天，當地旅行社說有局部森林大火，為了遊客安全，所以林賈尼國家公園決定關閉一週。所以我們的行程，經由當地旅行社的協調推薦，改成東吉利east Gili海島遊與浮淺，並且加上帳篷夜宿一晚。
+
+整趟兩天一夜2D1N的旅程，有滿多美景以及美好的回憶，需要感謝老天給的天氣如此好，以及山下住宿環境不錯，還有旅行社的用心：Ｄ
+- [My Instagram](https://www.instagram.com/redbox111)
 
 ## 龍目島之旅第一天
 - 11-2pm 新加坡飛往峇厘島SIN to Bali 
