@@ -17,15 +17,15 @@ Auto debug app development:
 ```
 Search for three sets of strings to make your blog appear on the first page of Google search
 ```
-### 龍目 浮潛
+### 當我搜尋：龍目 浮潛
 ```
-lombok snorkeling
+When I search: lombok snorkeling
 ```
 ![f4](https://github.com/HCH1/blog/blob/master/fig/seo1b.JPG)
 
-### sony rx100 推薦
+### 當我搜尋：sony rx100 推薦
 ```
-SONY rx100 recommended
+When I search: SONY rx100 recommended
 ```
 ![f4](https://github.com/HCH1/blog/blob/master/fig/seo1c.JPG)
 
