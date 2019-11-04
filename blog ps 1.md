@@ -1,4 +1,4 @@
-# 照片修圖推薦與分享 青橙系列(2019懶人包) PS, Teal and Orange
+# 修圖參數推薦與軟體snapseed教學 青橙系列(2019懶人包) PS by snapseed; Teal and Orange
 ![f1](https://github.com/HCH1/blog/blob/master/fig/ps1.png)
 
 ## 前言
@@ -8,7 +8,6 @@
 ## [圖文好讀版](https://link.medium.com/ka8fT8rib1)
 
 ## 令人傾城的青橙色調！
-
 
 https://zhuanlan.zhihu.com/p/56985415
 Matthias大神的画面色彩特点：高明度、低饱和度，看起来非常的清新淡雅
