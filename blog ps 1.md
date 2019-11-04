@@ -2,12 +2,20 @@
 ![f1](https://github.com/HCH1/blog/blob/master/fig/ps1.png)
 
 ## 前言
-前陣子我迷上了一組照片的色調，在夜景以及科幻感都很適用，這種神奇的色調我稱作：會令人傾城的青橙色調！
+前陣子我迷上了一組照片的色調，在夜景以及科幻感都很適用，暗暗的橙色和藍綠色，會聯想起繁華夜景例如：澀谷或香港街頭。若以電影電玩舉例來說，類似艾莉塔：戰鬥天使或太空戰士那種感覺。明亮一點場景，例如：海灘與海洋之類的。這種色調我稱作：令人傾城的青橙色調！
 
 ## [My Instagram](https://www.instagram.com/redbox111)
 ## [圖文好讀版](https://link.medium.com/ka8fT8rib1)
 
 ## 令人傾城的青橙色調！
+
+## Cyberpunk
+（節錄維基百科）
+https://zh.wikipedia.org/wiki/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B
+賽博龐克（英語：Cyberpunk，又譯作「電馭叛客」）是「模控學」（Cybernetics）與「龐克」（Punk）的結合詞，以資訊技術作為主題的科幻故事分支之一。其背景大都建立於「高等科技與低端生活的結合」（combination of lowlife and high tech），通常擁有先進的科學技術，再以一定程度崩壞的社會結構做對比；其情節經常關於，社會秩序受到政府或財團或祕密組織的高度控制，而角色利用其中的漏洞做出了某種突破
+
+
+
 
 https://zhuanlan.zhihu.com/p/56985415
 Matthias大神的画面色彩特点：高明度、低饱和度，看起来非常的清新淡雅
