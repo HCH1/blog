@@ -117,7 +117,7 @@ After arriving at the dock, there are two other local friends joined, also good 
 During the day we stopped at the outlying island of Gili Kapal, and at low tide the small sandy island appear from the clear sea. It takes about five minutes to walk around all the island, very mini.
 We also took a few jumping group photos on the island before heading to the next snorkeling spot.
 
-There are few tourists to east Gili, so apart from the clear water, the seafloor is especially rich in colorful coral (still alive) and fish. With luck I was able to photograph the clownfish nemo with gopro HERO5 and the green purple yellow coral. 
+There are few tourists in east Gili, so the sea is clear, can easy see many colorful coral (still alive) and fish. With luck I was able to photograph the clownfish nemo with gopro HERO5 and the green purple yellow coral. 
 Local friends also provide one-on-one guidance and take out toast to attract shoals of fish so visitors can take pictures.
 ```
 與夥伴們在沙洲上跳躍留影
