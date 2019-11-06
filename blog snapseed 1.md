@@ -59,10 +59,6 @@ Warmth: Add a warm orange or cool blue color cast to your image.
 ```
 ![f1](https://github.com/HCH1/blog/blob/master/fig/app3.jpg)
 
-![f1](https://github.com/HCH1/blog/blob/master/fig/app4.jpg)
-
-![f1](https://github.com/HCH1/blog/blob/master/fig/app5.jpg)
-
 
 
 
