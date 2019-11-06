@@ -7,6 +7,7 @@ Snapseed 是 Nik Software 開發的一款全面而又專業的移動圖像處理
 Nik Software 隨後被谷歌收購，在 2012 年發布安卓版，並放棄桌面版。
 
 ## [圖文好讀版](https://link.medium.com/ka8fT8rib1)
+
 ## [My Instagram](https://www.instagram.com/redbox111)
 
 ## 前言
@@ -17,28 +18,34 @@ Nik Software 隨後被谷歌收購，在 2012 年發布安卓版，並放棄桌�
 snapseed也是我用最多又快速的，有些功能甚至我覺得比lightroom好用。加上比較少玩家在討論此款軟體，故寫下此篇希望引起大家的興趣！
 
 ## 來這裡下載
-[snapseed app ios](https://apps.apple.com/sg/app/snapseed/id439438619)
-[snapseed app android](https://play.google.com/store/apps/details?id=com.niksoftware.snapseed&hl=en_SG)
+- [snapseed app ios](https://apps.apple.com/sg/app/snapseed/id439438619)
+- [snapseed app android](https://play.google.com/store/apps/details?id=com.niksoftware.snapseed&hl=en_SG)
 
 ## 萬事起頭難 先選取一張美照
 - 打開app
 - 左上角有打開open
 - 從你的手機打開open from device
 
-![f1](https://github.com/HCH1/blog/blob/master/fig/app2.png)
+![f1](https://github.com/HCH1/blog/blob/master/fig/app2.jpg)
 
 ## 底欄位介紹
 - 左到右依序是：樣式looks，工具tool，輸出export
 - 今天會先介紹一樣修圖功能：工具>調整影像tune image
 - 點選調整影像主按鈕
 - 總共七個的功能可調整：
-1. 亮度brightness：整張圖片一起調亮或調暗。
-2. 對比度contrast：提高或降低圖片的整體對比度。
-3. 飽和度saturation：添加或消除圖片中的色彩鮮明度。
-4. 環境ambiance：對比度扭曲，調整整張圖片的光平衡。
-5. 高光gighlights：僅調暗或調亮圖片中的高光部分。
-6. 陰影shadows：僅調暗或調亮圖片中的陰影部分。
-7. 溫暖warmth：向整張圖片中添加暖色或冷色色偏。
+1. 亮度brightness：整張圖片，一起調亮或調暗。
+2. 對比度contrast：提高或降低圖片中，亮與暗的對比。
+3. 飽和度saturation：調整色彩的鮮明度。
+4. 環境ambiance：同時調整色彩的飽和與對比。
+5. 高光gighlights：調暗或調亮圖片中的高光部分。
+6. 陰影shadows：調暗或調亮圖片中的陰影部分。
+7. 溫暖warmth：調整成暖橘色或冷藍色。
+
+再進行修圖色彩調整之前，我建議先把圖片喬正和剪裁。這些功能手機的預設照片軟體都可以使用。
+
+
+
+
 ```
 Here’s how the Tune Image tools affect color and exposure in your photo:
 
@@ -50,11 +57,11 @@ Shadows: Darken or lighten only the shadows (dark areas) in your image.
 Highlights: Darken or lighten only the highlights (bright areas) in your photo.
 Warmth: Add a warm orange or cool blue color cast to your image.
 ```
-![f1](https://github.com/HCH1/blog/blob/master/fig/app3.png)
+![f1](https://github.com/HCH1/blog/blob/master/fig/app3.jpg)
 
-![f1](https://github.com/HCH1/blog/blob/master/fig/app4.png)
+![f1](https://github.com/HCH1/blog/blob/master/fig/app4.jpg)
 
-![f1](https://github.com/HCH1/blog/blob/master/fig/app5.png)
+![f1](https://github.com/HCH1/blog/blob/master/fig/app5.jpg)
 
 
 
