@@ -21,7 +21,7 @@ snapseed也是我用最多又快速的，有些功能甚至我覺得比lightroom
 - [snapseed app ios](https://apps.apple.com/sg/app/snapseed/id439438619)
 - [snapseed app android](https://play.google.com/store/apps/details?id=com.niksoftware.snapseed&hl=en_SG)
 
-## 萬事起頭難。先選取一張美照，先喬正與剪裁
+## 萬事起頭難。選取一張美照，先喬正與剪裁
 再進行修圖色彩調整之前，我建議先把圖片"喬正和剪裁"。這些功能手機的預設照片軟體都可以使用。
 - 喬正：舉例來說，若照片背景有海洋或者建築物，可以盡量把這些水平線對齊。或許當你用iphone編輯照片的時候，你會發現會自動稍微旋轉圖片，內建演算法幫你調整水平，讓你的照片看起來會比較舒服。
 - 剪裁：盡量把你的人物或主體，若是照片分成九宮格的話，盡量往中間那格的邊界靠過去，這樣畫面比較不會過於鬆散或壅擠。
@@ -45,14 +45,16 @@ snapseed也是我用最多又快速的，有些功能甚至我覺得比lightroom
 6. 陰影shadows：調暗或調亮圖片中的陰影部分。
 7. 溫暖warmth：調整成暖橘色或冷藍色。
 
+
 建議以下功能，玩家都嘗試單向大膽調整，就可知道明顯差異！若要制式化的說明使用時間，經驗大致如下：
-4. 環境ambiance：若拍攝風景，要讓色彩更突出，可大膽往右拉！
-2. 對比度contrast：一些紋理會更凸顯出來！例如：樹林，紋路，建築物，等等。
-5. 高光highlights：例如白天的天空常偏亮，則可用此調整往左，只讓天空亮度降下來，不要太出風頭搶走主體！
-6. 陰影shadows：例如拍攝背光照片，要讓背光的人物或主體顯現明亮，可往右拉！
-3. 飽和度saturation：讓色彩更突出更明顯，但若照片中有人物，盡量避免此調整。因為人物膚色會過於橘紅不自然。
+
+1. 環境ambiance：若拍攝風景，要讓色彩更突出，可大膽往右拉！
+1. 對比度contrast：一些紋理會更凸顯出來！例如：樹林，紋路，建築物，等等。
+1. 高光highlights：例如白天的天空常偏亮，則可用此調整往左，只讓天空亮度降下來，不要太出風頭搶走主體！
+1. 陰影shadows：例如拍攝背光照片，要讓背光的人物或主體顯現明亮，可往右拉！
+1. 飽和度saturation：讓色彩更突出更明顯，但若照片中有人物，盡量避免此調整。因為人物膚色會過於橘紅不自然。
 1. 亮度brightness：通常最後用，整理偏暗讓色彩有沈重厚實感！
-7. 溫暖warmth：不建議使用。可在其他主按鈕：白平衡white balance來調整更好。
+1. 溫暖warmth：不建議使用。可在其他主按鈕：白平衡white balance來調整更好。
 ```
 Here’s how the Tune Image tools affect color and exposure in your photo:
 Brightness: Darken or brighten the entire image.
