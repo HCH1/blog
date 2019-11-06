@@ -27,8 +27,8 @@ snapseed也是我用最多又快速的，有些功能甚至我覺得比lightroom
 - 剪裁：盡量把你的人物或主體，若是照片分成九宮格的話，盡量往中間那格的邊界靠過去，這樣畫面比較不會過於鬆散或壅擠。
 
 ## 打開app
-- 左上角有打開open
-- 從你的手機打開open from device
+- 左上角按open
+- 從你的手機打開open from device就可選照片
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/app2.jpg)
 
