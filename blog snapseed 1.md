@@ -34,8 +34,8 @@ snapseed也是我用最多又快速的，有些功能甚至我覺得比lightroom
 
 ## 底欄位介紹
 - 左到右依序是：樣式looks，工具tool，輸出export
-- 今天會先介紹一樣修圖功能：工具>調整影像tune image
-- 點選調整影像主按鈕
+- 今天會先介紹一樣修圖功能：工具tool>調整影像tune image
+- 點選調整影像tune image主按鈕
 - 總共七個的功能可調整：
 1. 亮度brightness：整張圖片，一起調亮或調暗。
 2. 對比度contrast：提高或降低圖片中，亮與暗的對比。
