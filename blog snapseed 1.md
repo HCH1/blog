@@ -66,7 +66,7 @@ Shadows: Darken or lighten only the shadows (dark areas) in your image.
 Highlights: Darken or lighten only the highlights (bright areas) in your photo.
 Warmth: Add a warm orange or cool blue color cast to your image.
 ```
-![f1](https://github.com/HCH1/blog/blob/master/fig/app3.jpg)
+![f1](https://github.com/HCH1/blog/blob/master/fig/app3a.jpg)
 
 ## 如何查看修圖的歷史？
 此軟體還有一個功能，就是查看修改歷史，在右上角左邊第一個按鈕（方塊和箭頭圖案），點選後下面跑出視窗，再點選查看編輯view edit，
@@ -83,15 +83,11 @@ Warmth: Add a warm orange or cool blue color cast to your image.
 ## 如何存檔？
 主畫面右下角有輸出export，點選後，選取存成副本save as copy，這樣就不會更改到原圖了！而且這張新圖，以後若是在用snapseed叫出來，還是可查看修改歷史！非常方便！
 
-![f1](https://github.com/HCH1/blog/blob/master/fig/app4.jpg)
+![f1](https://github.com/HCH1/blog/blob/master/fig/app4a.jpg)
 
-![f1](https://github.com/HCH1/blog/blob/master/fig/app5.jpg)
+![f1](https://github.com/HCH1/blog/blob/master/fig/app5a.jpg)
 
 ## 總結
-雖然只是介紹一個功能：調整影像tune image，但是對於新手來說也需要五分鐘去摸熟和了解。若大家還有興趣，下次我再分享其他超好用的功能！
-
-## 複習
-環 對 光 陰 飽 亮
-A C H S S B
+雖然只是介紹一個功能：調整影像tune image，但是對於新手來說也需要五分鐘去摸熟和了解。若大家還有興趣，下次我再分享其他超好用的功能！讓你學會基本修圖概念並且得心應手！
 
 ## End
