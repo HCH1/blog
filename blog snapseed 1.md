@@ -1,4 +1,4 @@
-# 修圖軟體snapseed推薦與教學(2019懶人包) snapseed one of the best photo filter app!
+# 3分鐘學修圖軟體snapseed推薦與教學(2019連載) One of the best photo filter app!
 ![f1](https://github.com/HCH1/blog/blob/master/fig/app1.png)
 
 ## 簡介(節錄維基百科) intro (ref wiki)
@@ -13,18 +13,18 @@ Nik Software 隨後被谷歌收購，在 2012 年發布安卓版，並放棄桌�
 ## 前言
 喜歡拍照的玩家，到後來應該都會開始接觸到修圖軟體，例如鼎鼎大名的photoshop or lightroom等等。
 
-現在大多數的拍照玩家，有一半以上都是用手機拍照修圖打卡，所以能夠在手機上運行的修圖軟體是最方便的，這篇文章會針對一款免費的修圖軟體snapseed來進行教學。
+其實現在大多數的拍照玩家，有一半以上都是用手機拍照修圖打卡，所以能夠在手機上運行的修圖軟體是最方便的，這篇文章會針對一款免費的手機版本修圖軟體snapseed來進行教學。
 
-snapseed也是我用最多又快速的，有些功能甚至我覺得比lightroom好用。加上比較少玩家在討論此款軟體，故寫下此篇希望引起大家的興趣！
+snapseed也是我用最多又快速且功能多又免費，有些功能甚至我覺得比lightroom好用。加上比較少玩家在討論此款軟體，故寫下此篇希望引起大家的興趣！
 
 ## 來這裡下載
 - [snapseed app ios](https://apps.apple.com/sg/app/snapseed/id439438619)
 - [snapseed app android](https://play.google.com/store/apps/details?id=com.niksoftware.snapseed&hl=en_SG)
 
-## 萬事起頭難。選取一張美照，先喬正與剪裁
+## 萬事起頭難。選取一張美照，務必請先"喬正與放大剪裁"
 再進行修圖色彩調整之前，我建議先把圖片"喬正和剪裁"。這些功能手機的預設照片軟體都可以使用。
 - 喬正：舉例來說，若照片背景有海洋或者建築物，可以盡量把這些水平線對齊。或許當你用iphone編輯照片的時候，你會發現會自動稍微旋轉圖片，內建演算法幫你調整水平，讓你的照片看起來會比較舒服。
-- 剪裁：盡量把你的人物或主體，若是照片分成九宮格的話，盡量往中間那格的邊界靠過去，這樣畫面比較不會過於鬆散或壅擠。
+- 放大剪裁：盡量把你的人物或主體，若是照片分成九宮格的話，盡量往中間那格的邊界靠過去，這樣畫面比較不會過於鬆散或壅擠。我不建議剪裁因為照片就會完全移除被裁掉部分，若事後要再反悔就比較難復原。
 
 ## 打開app
 - 左上角按open
@@ -46,14 +46,14 @@ snapseed也是我用最多又快速的，有些功能甚至我覺得比lightroom
 7. 溫暖warmth：調整成暖橘色或冷藍色。
 
 
-建議以下功能，玩家都嘗試單向大膽調整，就可知道明顯差異！若要制式化的說明使用時間，經驗大致如下：
+建議以下功能，玩家都可逐一嘗試，大膽調整，就可知道明顯差異！若要制式化的說明使用時機與經驗，大致如下：
 
-1. 環境ambiance：若拍攝風景，要讓色彩更突出，可大膽往右拉！
-1. 對比度contrast：一些紋理會更凸顯出來！例如：樹林，紋路，建築物，等等。
-1. 高光highlights：例如白天的天空常偏亮，則可用此調整往左，只讓天空亮度降下來，不要太出風頭搶走主體！
-1. 陰影shadows：例如拍攝背光照片，要讓背光的人物或主體顯現明亮，可往右拉！
-1. 飽和度saturation：讓色彩更突出更明顯，但若照片中有人物，盡量避免此調整。因為人物膚色會過於橘紅不自然。
-1. 亮度brightness：通常最後用，整理偏暗讓色彩有沈重厚實感！
+1. 環境ambiance：若你有風景照片，此功能會讓色彩更突出！
+1. 對比度contrast：若你有樹林，紋路，建築物照片，此功能會讓紋理更凸顯！
+1. 高光highlights：若你有白天的照片，天空常偏亮，此功能會只讓天空亮度降下來，不要太出風頭搶走主體！
+1. 陰影shadows：若你有背光照片，此功能會讓背光的人物或主體更凸顯！
+1. 飽和度saturation：若你有風景照片不包含人物，此功能會讓色彩更突出更明顯！(照片中有人物，盡量避免此調整。因為人物膚色會過於橘紅不自然)
+1. 亮度brightness：通常最後用，整體偏暗讓色彩有沈重厚實感！
 1. 溫暖warmth：不建議使用。可在其他主按鈕：白平衡white balance來調整更好。
 ```
 Here’s how the Tune Image tools affect color and exposure in your photo:
@@ -67,258 +67,10 @@ Warmth: Add a warm orange or cool blue color cast to your image.
 ```
 ![f1](https://github.com/HCH1/blog/blob/master/fig/app3.jpg)
 
+## 修圖的歷史紀錄查看
 
 
-
-
-
-
-https://markdown-it.github.io/
----
-__Advertisement :)__
-
-- __[pica](https://nodeca.github.io/pica/demo/)__ - high quality and fast image
-  resize in browser.
-- __[babelfish](https://github.com/nodeca/babelfish/)__ - developer friendly
-  i18n with plurals support and easy syntax.
-
-You will like those projects!
-
----
-
-# h1 Heading 8-)
-## h2 Heading
-### h3 Heading
-#### h4 Heading
-##### h5 Heading
-###### h6 Heading
-
-
-## Horizontal Rules
-
-___
-
----
-
-***
-
-
-## Typographic replacements
-
-Enable typographer option to see result.
-
-(c) (C) (r) (R) (tm) (TM) (p) (P) +-
-
-test.. test... test..... test?..... test!....
-
-!!!!!! ???? ,,  -- ---
-
-"Smartypants, double quotes" and 'single quotes'
-
-
-## Emphasis
-
-**This is bold text**
-
-__This is bold text__
-
-*This is italic text*
-
-_This is italic text_
-
-~~Strikethrough~~
-
-
-## Blockquotes
-
-
-> Blockquotes can also be nested...
->> ...by using additional greater-than signs right next to each other...
-> > > ...or with spaces between arrows.
-
-
-## Lists
-
-Unordered
-
-+ Create a list by starting a line with `+`, `-`, or `*`
-+ Sub-lists are made by indenting 2 spaces:
-  - Marker character change forces new list start:
-    * Ac tristique libero volutpat at
-    + Facilisis in pretium nisl aliquet
-    - Nulla volutpat aliquam velit
-+ Very easy!
-
-Ordered
-
-1. Lorem ipsum dolor sit amet
-2. Consectetur adipiscing elit
-3. Integer molestie lorem at massa
-
-
-1. You can use sequential numbers...
-1. ...or keep all the numbers as `1.`
-
-Start numbering with offset:
-
-57. foo
-1. bar
-
-
-## Code
-
-Inline `code`
-
-Indented code
-
-    // Some comments
-    line 1 of code
-    line 2 of code
-    line 3 of code
-
-
-Block code "fences"
-
-```
-Sample text here...
-```
-
-Syntax highlighting
-
-``` js
-var foo = function (bar) {
-  return bar++;
-};
-
-console.log(foo(5));
-```
-
-## Tables
-
-| Option | Description |
-| ------ | ----------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
-
-Right aligned columns
-
-| Option | Description |
-| ------:| -----------:|
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
-
-
-## Links
-
-[link text](http://dev.nodeca.com)
-
-[link with title](http://nodeca.github.io/pica/demo/ "title text!")
-
-Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
-
-
-## Images
-
-![Minion](https://octodex.github.com/images/minion.png)
-![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
-
-Like links, Images also have a footnote style syntax
-
-![Alt text][id]
-
-With a reference later in the document defining the URL location:
-
-[id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
-
-
-## Plugins
-
-The killer feature of `markdown-it` is very effective support of
-[syntax plugins](https://www.npmjs.org/browse/keyword/markdown-it-plugin).
-
-
-### [Emojies](https://github.com/markdown-it/markdown-it-emoji)
-
-> Classic markup: :wink: :crush: :cry: :tear: :laughing: :yum:
->
-> Shortcuts (emoticons): :-) :-( 8-) ;)
-
-see [how to change output](https://github.com/markdown-it/markdown-it-emoji#change-output) with twemoji.
-
-
-### [Subscript](https://github.com/markdown-it/markdown-it-sub) / [Superscript](https://github.com/markdown-it/markdown-it-sup)
-
-- 19^th^
-- H~2~O
-
-
-### [\<ins>](https://github.com/markdown-it/markdown-it-ins)
-
-++Inserted text++
-
-
-### [\<mark>](https://github.com/markdown-it/markdown-it-mark)
-
-==Marked text==
-
-
-### [Footnotes](https://github.com/markdown-it/markdown-it-footnote)
-
-Footnote 1 link[^first].
-
-Footnote 2 link[^second].
-
-Inline footnote^[Text of inline footnote] definition.
-
-Duplicated footnote reference[^second].
-
-[^first]: Footnote **can have markup**
-
-    and multiple paragraphs.
-
-[^second]: Footnote text.
-
-
-### [Definition lists](https://github.com/markdown-it/markdown-it-deflist)
-
-Term 1
-
-:   Definition 1
-with lazy continuation.
-
-Term 2 with *inline markup*
-
-:   Definition 2
-
-        { some code, part of Definition 2 }
-
-    Third paragraph of definition 2.
-
-_Compact style:_
-
-Term 1
-  ~ Definition 1
-
-Term 2
-  ~ Definition 2a
-  ~ Definition 2b
-
-
-### [Abbreviations](https://github.com/markdown-it/markdown-it-abbr)
-
-This is HTML abbreviation example.
-
-It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
-
-*[HTML]: Hyper Text Markup Language
-
-### [Custom containers](https://github.com/markdown-it/markdown-it-container)
-
-::: warning
-*here be dragons*
-:::
+## 修圖後的存檔
 
 
 ## End
