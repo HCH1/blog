@@ -1,4 +1,4 @@
-# 3分鐘學會修圖軟體snapseed之功能:調整圖片。推薦與教學(2019連載) One of the best photo filter app!
+# 5分鐘學會修圖軟體snapseed之功能:調整圖片。推薦與教學(2019連載) One of the best photo filter app!
 ![f1](https://github.com/HCH1/blog/blob/master/fig/app1.png)
 
 ## 簡介(節錄維基百科) intro (ref wiki)
@@ -69,6 +69,10 @@ Warmth: Add a warm orange or cool blue color cast to your image.
 
 ## 修圖的歷史紀錄查看
 
+
+![f1](https://github.com/HCH1/blog/blob/master/fig/app4.jpg)
+
+![f1](https://github.com/HCH1/blog/blob/master/fig/app5.jpg)
 
 ## 修圖後的存檔
 
