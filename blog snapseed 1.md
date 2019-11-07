@@ -68,14 +68,16 @@ Warmth: Add a warm orange or cool blue color cast to your image.
 ![f1](https://github.com/HCH1/blog/blob/master/fig/app3.jpg)
 
 ## 修圖的歷史紀錄查看
+此軟體還有一個功能，就是查看修改歷史，在右上角左邊第一個按鈕（方塊和箭頭圖案），點選後下面跑出視窗，再點選查看編輯view edit，
+
+畫面就會跳到照片，右下角有長條視窗，告訴你每一個功能的疊加，你可以一個一個點看看趕圖的變化。然後每一個動作，都可刪除，或者在繼續修改。
+
+## 修圖後的存檔
 
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/app4.jpg)
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/app5.jpg)
-
-## 修圖後的存檔
-
 
 ## 複習
 環 對 光 陰 飽 亮
