@@ -1,4 +1,4 @@
-# 3分鐘學修圖軟體snapseed推薦與教學(2019連載) One of the best photo filter app!
+# 3分鐘學會修圖軟體snapseed之功能:調整圖片。推薦與教學(2019連載) One of the best photo filter app!
 ![f1](https://github.com/HCH1/blog/blob/master/fig/app1.png)
 
 ## 簡介(節錄維基百科) intro (ref wiki)
@@ -6,7 +6,7 @@ Snapseed 是 Nik Software 開發的一款全面而又專業的移動圖像處理
 2015 年被電腦雜誌 PC Magazine 評為百佳安卓應用之一。Snapseed 也被認為Android App 里10個最佳的App 之一。
 Nik Software 隨後被谷歌收購，在 2012 年發布安卓版，並放棄桌面版。
 
-## [圖文好讀版](https://link.medium.com/ka8fT8rib1)
+## [圖文好讀版](https://medium.com/@sean101/3%E5%88%86%E9%90%98%E5%AD%B8%E4%BF%AE%E5%9C%96%E8%BB%9F%E9%AB%94snapseed%E6%8E%A8%E8%96%A6%E8%88%87%E6%95%99%E5%AD%B8-2019%E9%80%A3%E8%BC%89-one-of-the-best-photo-filter-app-81fd8e48e99c)
 
 ## [My Instagram](https://www.instagram.com/redbox111)
 
@@ -48,11 +48,11 @@ snapseed也是我用最多又快速且功能多又免費，有些功能甚至我
 
 建議以下功能，玩家都可逐一嘗試，大膽調整，就可知道明顯差異！若要制式化的說明使用時機與經驗，大致如下：
 
-1. 環境ambiance：若你有風景照片，此功能會讓色彩更突出！
+1. 環境ambiance：若你有風景照片且不包含人物，此功能會讓色彩更突出！
 1. 對比度contrast：若你有樹林，紋路，建築物照片，此功能會讓紋理更凸顯！
 1. 高光highlights：若你有白天的照片，天空常偏亮，此功能會只讓天空亮度降下來，不要太出風頭搶走主體！
 1. 陰影shadows：若你有背光照片，此功能會讓背光的人物或主體更凸顯！
-1. 飽和度saturation：若你有風景照片不包含人物，此功能會讓色彩更突出更明顯！(照片中有人物，盡量避免此調整。因為人物膚色會過於橘紅不自然)
+1. 飽和度saturation：若你有風景照片但包有人物，此功能會讓色彩更突出更明顯！(照片中有人物，盡量避免此調整。因為人物膚色會過於橘紅不自然)
 1. 亮度brightness：通常最後用，整體偏暗讓色彩有沈重厚實感！
 1. 溫暖warmth：不建議使用。可在其他主按鈕：白平衡white balance來調整更好。
 ```
@@ -72,5 +72,9 @@ Warmth: Add a warm orange or cool blue color cast to your image.
 
 ## 修圖後的存檔
 
+
+## 複習
+環 對 光 陰 飽 亮
+A C H S S B
 
 ## End
