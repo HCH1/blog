@@ -109,6 +109,7 @@
 - [Burnt Ends](https://www.google.com.sg/maps/place/Burnt+Ends/@1.280543,103.8396507,17z/data=!3m1!4b1!4m5!3m4!1s0x31da197262439f2d:0xb324b3b59b409d43!8m2!3d1.280543!4d103.8418394?hl=zh-TW)
 - [Bincho at Hua Bee](https://www.google.com.sg/maps/place/Bincho+at+Hua+Bee/@1.2835652,103.8303642,16z/data=!4m12!1m6!3m5!1s0x31da197a3316fa15:0x3a9c50dba42eda3d!2sBincho+at+Hua+Bee!8m2!3d1.2835802!4d103.8303848!3m4!1s0x31da197a3316fa15:0x3a9c50dba42eda3d!8m2!3d1.2835802!4d103.8303848?hl=zh-TW)
 - [MeatSmith Telok Ayer](https://www.google.com.sg/maps/place/MeatSmith+Telok+Ayer/@1.2927915,103.8411938,15z/data=!4m8!1m2!2m1!1sMEAT+SMITH!3m4!1s0x31da190d79a3e0d9:0x8f2cdf6994f50760!8m2!3d1.2801244!4d103.8474774?hl=zh-TW)
+- [MeatSmith菜單](https://meatsmithsingapore.oddle.me/en_SG/)
 
 ## food
 - [sg Tong Xin Ru Yi 同心如意传统铜火锅](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sg+Tong+Xin+Ru+Yi+同心如意传统铜火锅)
