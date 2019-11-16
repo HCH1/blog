@@ -56,6 +56,18 @@ snapseed也是我用最多又快速且功能多又免費，有些功能甚至我
 1. 溫暖warmth：不建議使用。可在其他主按鈕：白平衡white balance來調整更好。
 
 小技巧：在修圖的頁面上，若食指長按圖片不放，會暫時變成原圖，讓你有個圖片修圖前後對照！
+
+```
+Tap to automatically adjust the tonality of an image. For more precise adjustments, swipe vertically on the image to access the edit menu. Once an option has been selected, swipe horizontally to enhance. The menu includes:
+Brightness: Darken or lighten the entire image.
+Contrast: Increase or decrease the overall contrast of the image.
+Saturation: Add or remove vibrancy to the colors in the image.
+Ambiance: A twist on contrast, adjust the balance of light in the entire image.
+Shadows: Darken or lighten only the shadows in the image.
+Highlights: Darken or lighten only the highlights in the image.
+Warmth: Add a warm or cool color cast to the entire image.
+```
+
 ```
 Here’s how the Tune Image tools affect color and exposure in your photo:
 Brightness: Darken or brighten the entire image.
