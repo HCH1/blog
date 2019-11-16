@@ -17,7 +17,7 @@ snapseed也是我用最多又快速且功能多又免費，有些功能甚至我
 - [snapseed app android](https://play.google.com/store/apps/details?id=com.niksoftware.snapseed&hl=en_SG)
 
 
-![f1](https://github.com/HCH1/blog/blob/master/fig/app2.jpg)
+![f1](https://github.com/HCH1/blog/blob/master/fig/app21.jpg)
 
 ## 細節details使用時機
 若你的照片，有樹木有山景，你想要讓樹木的紋路或山巒的脈絡，給凸顯出來，就可使用此功能！
