@@ -29,7 +29,24 @@ If you have initiated your claim before July 1, 2017, or after 18 months of the 
 ```
 
 ## 2. Preview Claim
+电子签名和预览您的索赔
 
+本人谨此声明，本索偿表格所提供的资料均属真确无讹，所提供的所有证明文件均为正本或未经更改的副本。在支付该索赔时，我将根据《特拉华州法典》的规定，赔偿并使特拉华州及其官员和雇员免受因向索赔人支付所述财产而产生的任何损害、索赔或任何类型的损失。本人明白及同意使用电子文件及通讯。本人明白以电子方式在签署线上签名与以手写方式在纸上签署具有同等法律效力。c . Ch。12。
+
+```
+Electronic Signature & Preview Your Claim
+
+Under penalty of perjury, I certify that the information provided on this claim form is true, and all supporting documentation presented is either original or true unaltered copies of the original documents. Upon payment of this claim, I will indemnify and hold harmless the State of Delaware, its Officers and Employees, from any damages, claims, or losses of any kind resulting in payment of the described property to the claimant under the provisions of the Delaware Code. I understand and consent to the use of electronic documents and communication. I understand that affixing my name electronically on the signature line has the same legal effect as a handwritten signature on a paper document, pursuant to 6 Del. C. Ch. 12A.
+```
 
 ## 3. Claim Summary
+You have completed the FIRST STEP in reclaiming your property.
+
+Your claim is not yet complete! Please go to our How To page for additional instructions. A claim form, along with further instructions, should be sent to you at theonee730801@gmail.com within 24 hours. Please see the details below for more information regarding your claim(s).
+
+https://unclaimedproperty.delaware.gov/app/claim/how-to-search
+
+
+
+
 
