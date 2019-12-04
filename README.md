@@ -11,21 +11,20 @@ Auto debug app development:
 - [my shinyapp](https://hch1.shinyapps.io/app_preDMC_v5)
 - [my blog](https://medium.com/@sean101/soho-%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90%E5%8F%AF%E8%A6%96%E5%8C%96-%E6%97%85%E6%8B%8D%E5%B9%AB%E6%8B%8D%E5%B0%8E%E8%A6%BD-%E5%85%A7%E6%B4%BD-3698189fcb54)
 - theonee730801@gmail.com
+- [my Instagram](https://www.instagram.com/redbox111)
 
 ## 搜尋引擎最佳化SEO & blogger
 ### 搜尋三組字串，讓您的部落格出現在google搜尋第一頁上
 ```
 Search for three sets of strings to make your blog appear on the first page of Google search
 ```
-### 當我搜尋：
-[龍目 浮潛 推薦](https://www.google.com.sg/search?hl=zh-TW&authuser=1&sxsrf=ACYBGNTTD9tLbN4u_HkM0owBEo8yOTMasg%3A1575424661536&ei=lRLnXauxIOPA3LUPv5OzgAs&q=%E9%BE%8D%E7%9B%AE+%E6%B5%AE%E6%BD%9B%E3%80%80%E6%8E%A8%E8%96%A6&oq=%E9%BE%8D%E7%9B%AE+%E6%B5%AE%E6%BD%9B%E3%80%80%E6%8E%A8%E8%96%A6&gs_l=psy-ab.3...6578.7465..7773...0.0..1.163.773.10j1......0....1..gws-wiz.......35i39j0i30j33i160.keob0b49bww&ved=0ahUKEwjrz8ia8prmAhVjILcAHb_JDLAQ4dUDCAs&uact=5)
+### 當我搜尋：[龍目 浮潛 推薦](https://www.google.com.sg/search?hl=zh-TW&authuser=1&sxsrf=ACYBGNTTD9tLbN4u_HkM0owBEo8yOTMasg%3A1575424661536&ei=lRLnXauxIOPA3LUPv5OzgAs&q=%E9%BE%8D%E7%9B%AE+%E6%B5%AE%E6%BD%9B%E3%80%80%E6%8E%A8%E8%96%A6&oq=%E9%BE%8D%E7%9B%AE+%E6%B5%AE%E6%BD%9B%E3%80%80%E6%8E%A8%E8%96%A6&gs_l=psy-ab.3...6578.7465..7773...0.0..1.163.773.10j1......0....1..gws-wiz.......35i39j0i30j33i160.keob0b49bww&ved=0ahUKEwjrz8ia8prmAhVjILcAHb_JDLAQ4dUDCAs&uact=5)
 ```
 When I search: lombok snorkeling
 ```
 ![f4](https://github.com/HCH1/blog/blob/master/fig/seo1b.JPG)
 
-### 當我搜尋：
-[sony rx100 推薦](https://www.google.com.sg/search?hl=zh-TW&authuser=1&sxsrf=ACYBGNRzbNl0TyABtsHvo7GyH8kn9AR9rw%3A1575424670486&ei=nhLnXc-oHbfXz7sPmreUiAQ&q=sony+rx100+%E6%8E%A8%E8%96%A6&oq=sony+rx100+%E6%8E%A8%E8%96%A6&gs_l=psy-ab.3..0j0i8i30l2.22455.363730..364244...3.0..0.116.479.5j2......0....1j2..gws-wiz.......35i39.Cr5uKr_1Zbk&ved=0ahUKEwjP7-qe8prmAhW363MBHZobBUEQ4dUDCAs&uact=5)
+### 當我搜尋：[sony rx100 推薦](https://www.google.com.sg/search?hl=zh-TW&authuser=1&sxsrf=ACYBGNRzbNl0TyABtsHvo7GyH8kn9AR9rw%3A1575424670486&ei=nhLnXc-oHbfXz7sPmreUiAQ&q=sony+rx100+%E6%8E%A8%E8%96%A6&oq=sony+rx100+%E6%8E%A8%E8%96%A6&gs_l=psy-ab.3..0j0i8i30l2.22455.363730..364244...3.0..0.116.479.5j2......0....1j2..gws-wiz.......35i39.Cr5uKr_1Zbk&ved=0ahUKEwjP7-qe8prmAhW363MBHZobBUEQ4dUDCAs&uact=5)
 ```
 When I search: SONY rx100 recommended
 ```
@@ -38,9 +37,6 @@ When I search: SONY rx100 recommended
 
 ### google analytics certification 
 ![f3](https://github.com/HCH1/blog/blob/master/fig/pt33.png)
-
-## 旅拍幫拍導覽trip photographer
-- [my Instagram](https://www.instagram.com/redbox111)
 
 ## ref
 ## R語言(節錄維基百科)
