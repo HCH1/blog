@@ -18,8 +18,7 @@
 我再決定買機械表之前，在批踢踢ptt爬文做了功課，也在carousell Lazada and chrono24，還有手錶品牌官網比較了價錢有了概念，
 也去烏節路上跑了五家手錶店至少，最後選定了靠近city hall市政政府站的一家，在地四十年手錶店，期間與店員對話舒服以及價錢比其他家優惠，故在此店刷卡購買。
 
-## 我推薦的手錶店家在這！
-(Prestige Time)[https://www.google.com.tw/maps/place/Prestige+Time/@1.2965447,103.8516729,17z/data=!3m1!4b1!4m5!3m4!1s0x31da19a5049da53d:0xcd03d3e4e03ea9c8!8m2!3d1.2965447!4d103.8538616?hl=en]
+## 我推薦的手錶店家在這！ (Prestige Time)[https://www.google.com.tw/maps/place/Prestige+Time/@1.2965447,103.8516729,17z/data=!3m1!4b1!4m5!3m4!1s0x31da19a5049da53d:0xcd03d3e4e03ea9c8!8m2!3d1.2965447!4d103.8538616?hl=en]
 
 這家靠近city hall mrt，出捷運站走過兩個紅綠燈，沿著北橋路North Bridge Rd往東北走，沿途會經過讚美廣場Chijmes，手錶店位於百勝樓Bras Basah Complex大樓的一樓。
 備註：百勝樓是新加坡要買華人商品會去的一個不錯的商場，例如要買中文書，這裡也是最大家書店。
