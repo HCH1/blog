@@ -16,18 +16,9 @@ Auto debug app development:
 ## 搜尋引擎最佳化SEO & blogger
 ### 搜尋三組字串，讓您的部落格出現在google搜尋第一頁上！增加您產品的點略率與曝光度！
 ### 成功案例：
-```
-Search for three sets of strings to make your blog appear on the first page of Google search
-```
 ### 當我搜尋：[龍目 浮潛 推薦](https://www.google.com.sg/search?hl=zh-TW&authuser=1&sxsrf=ACYBGNTTD9tLbN4u_HkM0owBEo8yOTMasg%3A1575424661536&ei=lRLnXauxIOPA3LUPv5OzgAs&q=%E9%BE%8D%E7%9B%AE+%E6%B5%AE%E6%BD%9B%E3%80%80%E6%8E%A8%E8%96%A6&oq=%E9%BE%8D%E7%9B%AE+%E6%B5%AE%E6%BD%9B%E3%80%80%E6%8E%A8%E8%96%A6&gs_l=psy-ab.3...6578.7465..7773...0.0..1.163.773.10j1......0....1..gws-wiz.......35i39j0i30j33i160.keob0b49bww&ved=0ahUKEwjrz8ia8prmAhVjILcAHb_JDLAQ4dUDCAs&uact=5)
-```
-When I search: lombok snorkeling
-```
 
 ### 當我搜尋：[sony rx100 推薦](https://www.google.com.sg/search?hl=zh-TW&authuser=1&sxsrf=ACYBGNRzbNl0TyABtsHvo7GyH8kn9AR9rw%3A1575424670486&ei=nhLnXc-oHbfXz7sPmreUiAQ&q=sony+rx100+%E6%8E%A8%E8%96%A6&oq=sony+rx100+%E6%8E%A8%E8%96%A6&gs_l=psy-ab.3..0j0i8i30l2.22455.363730..364244...3.0..0.116.479.5j2......0....1j2..gws-wiz.......35i39.Cr5uKr_1Zbk&ved=0ahUKEwjP7-qe8prmAhW363MBHZobBUEQ4dUDCAs&uact=5)
-```
-When I search: SONY rx100 recommended
-```
 
 ### 當我搜尋：[修圖軟體 推薦 教學](https://www.google.com.tw/search?sxsrf=ACYBGNQUM7-2sqcGUZGQ8rWTX9_uLZs_MQ%3A1575622739590&source=hp&ei=UxjqXe7rIMHIyAOm7LDAAg&q=%E4%BF%AE%E5%9C%96%E8%BB%9F%E9%AB%94+%E6%8E%A8%E8%96%A6+%E6%95%99%E5%AD%B8&oq=%E4%BF%AE%E5%9C%96%E8%BB%9F%E9%AB%94+%E6%8E%A8%E8%96%A6+%E6%95%99%E5%AD%B8&gs_l=psy-ab.3...1355.9484..10009...8.0..1.105.2283.35j2......0....1..gws-wiz.....10..0i131j0j0i10j35i362i39j0i30j0i5i30j35i39j0i12j33i160j0i12i30j0i12i5i30j0i8i30.qH8OCXxcYDo&ved=0ahUKEwiu4cKN1KDmAhVBJHIKHSY2DCgQ4dUDCAY&uact=5)
 
