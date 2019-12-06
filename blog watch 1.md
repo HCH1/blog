@@ -1,4 +1,4 @@
-# 3分鐘了解新加坡哪裡買手錶最划算！推薦在地四十年手錶店(2019連載) One of the best watch store in Singapore!
+# 3分鐘弄懂新加坡哪裡買手錶最划算！在地四十年手錶店推薦(2019連載) One of the best watch store in Singapore!
 ![f1](https://github.com/HCH1/blog/blob/master/fig/app1.png)
 
 ## [圖文好讀版](https://medium.com/@sean101/3%E5%88%86%E9%90%98%E5%AD%B8%E4%BF%AE%E5%9C%96%E8%BB%9F%E9%AB%94snapseed%E6%8E%A8%E8%96%A6%E8%88%87%E6%95%99%E5%AD%B8-2019%E9%80%A3%E8%BC%89-one-of-the-best-photo-filter-app-81fd8e48e99c)
@@ -15,8 +15,8 @@
 關於第一點，市面上手錶店眾多。基本上在官網和上網找資料做足功課鎖定型號後，就要去手錶店看實體商品了，若能試戴手錶更好。
 但是好的手錶店，或讓人有種，入門而不敢進去的感覺，除了業務的服務態度談吐讓你感到舒服之外，再來就試談價錢折扣了。
 
-我再決定買機械表之前，在批踢踢ptt爬文做了功課，在carousell and Lazada and chrono24還有各個手錶品牌官網比較了價錢，
-烏節路上跑了五家手錶店至少，最後選定了靠近city hall市政政府站的一家，在地四十年手錶店，並且刷卡購買。
+我再決定買機械表之前，在批踢踢ptt爬文做了功課，也在carousell Lazada and chrono24，還有手錶品牌官網比較了價錢有了概念，
+也去烏節路上跑了五家手錶店至少，最後選定了靠近city hall市政政府站的一家，在地四十年手錶店，並且刷卡購買。
 
 在台灣買手錶有些好店推薦，若是鄉民有機會來新加坡旅遊，有空也可來我推薦的這家，主要是對話舒服以及價錢優惠。故介紹給大家，看看是否能找到心儀的手錶！
 
