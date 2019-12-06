@@ -14,7 +14,8 @@ Auto debug app development:
 - [my Instagram](https://www.instagram.com/redbox111)
 
 ## 搜尋引擎最佳化SEO & blogger
-### 搜尋三組字串，讓您的部落格出現在google搜尋第一頁上
+### 搜尋三組字串，讓您的部落格出現在google搜尋第一頁上！增加您產品的點略率與曝光度！
+### 成功案例：
 ```
 Search for three sets of strings to make your blog appear on the first page of Google search
 ```
@@ -22,13 +23,17 @@ Search for three sets of strings to make your blog appear on the first page of G
 ```
 When I search: lombok snorkeling
 ```
-![f4](https://github.com/HCH1/blog/blob/master/fig/seo1b.JPG)
 
 ### 當我搜尋：[sony rx100 推薦](https://www.google.com.sg/search?hl=zh-TW&authuser=1&sxsrf=ACYBGNRzbNl0TyABtsHvo7GyH8kn9AR9rw%3A1575424670486&ei=nhLnXc-oHbfXz7sPmreUiAQ&q=sony+rx100+%E6%8E%A8%E8%96%A6&oq=sony+rx100+%E6%8E%A8%E8%96%A6&gs_l=psy-ab.3..0j0i8i30l2.22455.363730..364244...3.0..0.116.479.5j2......0....1j2..gws-wiz.......35i39.Cr5uKr_1Zbk&ved=0ahUKEwjP7-qe8prmAhW363MBHZobBUEQ4dUDCAs&uact=5)
 ```
 When I search: SONY rx100 recommended
 ```
-![f4](https://github.com/HCH1/blog/blob/master/fig/seo1c.JPG)
+
+### 當我搜尋：[修圖軟體 推薦 教學](https://www.google.com.tw/search?sxsrf=ACYBGNQUM7-2sqcGUZGQ8rWTX9_uLZs_MQ%3A1575622739590&source=hp&ei=UxjqXe7rIMHIyAOm7LDAAg&q=%E4%BF%AE%E5%9C%96%E8%BB%9F%E9%AB%94+%E6%8E%A8%E8%96%A6+%E6%95%99%E5%AD%B8&oq=%E4%BF%AE%E5%9C%96%E8%BB%9F%E9%AB%94+%E6%8E%A8%E8%96%A6+%E6%95%99%E5%AD%B8&gs_l=psy-ab.3...1355.9484..10009...8.0..1.105.2283.35j2......0....1..gws-wiz.....10..0i131j0j0i10j35i362i39j0i30j0i5i30j35i39j0i12j33i160j0i12i30j0i12i5i30j0i8i30.qH8OCXxcYDo&ved=0ahUKEwiu4cKN1KDmAhVBJHIKHSY2DCgQ4dUDCAY&uact=5)
+
+### 當我搜尋：[台北 健行 陽明山](https://www.google.com.tw/search?sxsrf=ACYBGNRE3HIVG_dith-3k-Utnmg4BvU_tA%3A1575623049162&ei=iRnqXc6vCYb69QOr3IDABQ&q=%E5%8F%B0%E5%8C%97+%E5%81%A5%E8%A1%8C+%E9%99%BD%E6%98%8E%E5%B1%B1&oq=%E5%8F%B0%E5%8C%97+%E5%81%A5%E8%A1%8C+%E9%99%BD%E6%98%8E%E5%B1%B1&gs_l=psy-ab.3...20942.22528..22803...0.0..1.132.1077.13j2......0....1..gws-wiz.......35i39j0i12j0j33i160.MGfH0v3GXaU&ved=0ahUKEwiOmJSh1aDmAhUGfX0KHSsuAFgQ4dUDCAs&uact=5)
+
+### 當我搜尋：[普吉島 秘境 推薦](https://www.google.com.tw/search?sxsrf=ACYBGNRY73lwB-C6sbNYu-w6jtQut1EA1Q%3A1575623188440&ei=FBrqXda_Gs-S9QOJ5aqIDw&q=%E6%99%AE%E5%90%89%E5%B3%B6+%E7%A7%98%E5%A2%83+%E6%8E%A8%E8%96%A6&oq=%E6%99%AE%E5%90%89%E5%B3%B6+%E7%A7%98%E5%A2%83+%E6%8E%A8%E8%96%A6&gs_l=psy-ab.3...1462.1462..1860...0.0..0.85.184.3......0....1..gws-wiz.......35i39.kxHHkglp0Ds&ved=0ahUKEwjWmcnj1aDmAhVPSX0KHYmyCvEQ4dUDCAs&uact=5)
 
 ### R program certification
 ![f2](https://github.com/HCH1/blog/blob/master/fig/pt22.png)
