@@ -1,5 +1,5 @@
 # 新加坡代購特定商品，2020一月初採購，Jan-23/24 Thu回台年前統一寄出：Ｄ 
-![f1](https://github.com/HCH1/blog/blob/master/fig/helpbuy1.png)
+![f1](https://github.com/HCH1/blog/blob/master/fig/helpbuy0.png)
 
 ## 幫代購新加坡以下商品！送禮自用兩相宜。過年犒賞自己：Ｄ
 
@@ -15,7 +15,7 @@
 
 
 ### [charles & keith高CP值皮件小CK](https://www.charleskeith.com/sg/bags)
-![f1](https://github.com/HCH1/blog/blob/master/fig/helpbuy3.png)
+![f1](https://github.com/HCH1/blog/blob/master/fig/helpbuy4.png)
 
 太有名了所以不多作介紹。
 
@@ -51,7 +51,7 @@
 - 大紙箱-長*寬*高=40cm*30cm*20cm，售價15元
 
 ### 範例：
-![f1](https://github.com/HCH1/blog/blob/master/fig/helpbuy4.png)
+![f1](https://github.com/HCH1/blog/blob/master/fig/helpbuy1.png)
 
 
 ## 買家最關心的費用計算：Ｄ
