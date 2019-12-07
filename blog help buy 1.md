@@ -28,7 +28,7 @@
 ### [chomel高貴不貴飾品女孩新寵](https://www.chomel.com.sg/collections/cubic-zirconia/Necklace)
 ![f1](https://github.com/HCH1/blog/blob/master/fig/helpbuy3.png)
 
-今年突然火紅的評價飾品，我家附近走路五分鐘的百貨公司內部就有一家，可以馬上幫您看貨挑選：Ｄ
+今年突然火紅的平價飾品，飾品界的小CK，造型設計不錯做工精細，我家附近走路五分鐘的百貨公司內部就有一家，可以馬上幫您看貨挑選：Ｄ
 
 銷售前三名項鍊大概如下：
 
@@ -58,14 +58,15 @@
 買家需要給付的費用有：
 1. 商品以官網價格為主。
 1. 費用計算以google當日匯率為主。範例：[google 1 sgd to twd](https://www.google.com.tw/search?sxsrf=ACYBGNRQEwJLFLaDdQr5TF_a-Kd0BWP8Hw%3A1575734290975&ei=EszrXZGNO9C9rQGPu6jQCQ&q=google+1+sgd+to+twd&oq=google+1+sgd+to+twd&gs_l=psy-ab.3...2531.2531..2962...0.2..0.51.51.1......0....1..gws-wiz.......0i71.PVthof6c_74&ved=0ahUKEwiR3rHV86PmAhXQXisKHY8dCpoQ4dUDCAs&uact=5)
-1. 代購費，一組商品200台幣。
+1. 代購費：chomel 100$/款式，Hegen or 小CK 200$/款式。
 1. 全家店到店郵寄費和包裹費用，統一算成85台幣。
 
+
 #### 範例：
-1. A客戶購買50$新幣奶瓶組，共買兩組：[HEGEN PCTO™ 240ML/8OZ FEEDING BOTTLE PPSU, 2-PACK](https://www.hegen.com/shop/feeding-bottle/hegen-pcto-240ml8oz-feeding-bottle-2-pack-ppsu)
-1. 商品換算成台幣，小數點無條件捨去，2,237 NT$：[100 sgd to twd](https://www.google.com.tw/search?sxsrf=ACYBGNTu4MXmfDTvatJir9ndbmm2ocd-Gw%3A1575735079000&ei=Js_rXZfPPIGv9QPjl5a4DQ&q=100+sgd+to+twd&oq=100+sgd+to+twd&gs_l=psy-ab.3..0j0i5i30j0i8i30l2.570.1592..1825...0.1..0.74.140.2......0....1..gws-wiz.......0i71j0i8i67.Aw-8fU1Hi4Y&ved=0ahUKEwiX-pLN9qPmAhWBV30KHeOLBdcQ4dUDCAs&uact=5)
+1. A客戶購買50$新幣Hegen奶瓶組，共買兩組，所以總計100$新幣：[HEGEN PCTO™ 240ML/8OZ FEEDING BOTTLE PPSU, 2-PACK](https://www.hegen.com/shop/feeding-bottle/hegen-pcto-240ml8oz-feeding-bottle-2-pack-ppsu)
+1. 100$新幣換算成台幣，小數點無條件捨去（您優勢），2,237 NT$：[100 sgd to twd](https://www.google.com.tw/search?sxsrf=ACYBGNTu4MXmfDTvatJir9ndbmm2ocd-Gw%3A1575735079000&ei=Js_rXZfPPIGv9QPjl5a4DQ&q=100+sgd+to+twd&oq=100+sgd+to+twd&gs_l=psy-ab.3..0j0i5i30j0i8i30l2.570.1592..1825...0.1..0.74.140.2......0....1..gws-wiz.......0i71j0i8i67.Aw-8fU1Hi4Y&ved=0ahUKEwiX-pLN9qPmAhWBV30KHeOLBdcQ4dUDCAs&uact=5)
 1. 代購費：200+200
-1. 全家店到店：85+85
+1. 全家店到店：85+85（寄件60包裹15，後面有註解以客為尊方案）
 所以此交易：2237+200+200++85+85=2807$
 
 #### 或許你會問
