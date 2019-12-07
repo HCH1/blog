@@ -37,7 +37,7 @@
 - [玫瑰珍珠](https://www.chomel.com.sg/collections/cubic-zirconia/products/simulated-pearl-and-cubic-zirconia-long-necklace-1)
 
 備註：
-1. 因為行李箱不大，只收兩五位顧客：Ｄ
+1. 因為行李箱不大，只收五位顧客：Ｄ
 1. 只幫代購項鍊或者耳環。
 
 
@@ -62,7 +62,7 @@
 1. 全家店到店郵寄費和包裹費用，統一算成85台幣。
 
 #### 範例：
-1. A客戶購買50$新幣奶瓶組，共買兩組：[HEGEN PCTO™ 240ML/8OZ FEEDING BOTTLE PPSU, 2-PACK](HEGEN PCTO™ 240ML/8OZ FEEDING BOTTLE PPSU, 2-PACK)
+1. A客戶購買50$新幣奶瓶組，共買兩組：[HEGEN PCTO™ 240ML/8OZ FEEDING BOTTLE PPSU, 2-PACK](https://www.hegen.com/shop/feeding-bottle/hegen-pcto-240ml8oz-feeding-bottle-2-pack-ppsu)
 1. 商品換算成台幣，小數點無條件捨去，2,237 NT$：[100 sgd to twd](https://www.google.com.tw/search?sxsrf=ACYBGNTu4MXmfDTvatJir9ndbmm2ocd-Gw%3A1575735079000&ei=Js_rXZfPPIGv9QPjl5a4DQ&q=100+sgd+to+twd&oq=100+sgd+to+twd&gs_l=psy-ab.3..0j0i5i30j0i8i30l2.570.1592..1825...0.1..0.74.140.2......0....1..gws-wiz.......0i71j0i8i67.Aw-8fU1Hi4Y&ved=0ahUKEwiX-pLN9qPmAhWBV30KHeOLBdcQ4dUDCAs&uact=5)
 1. 代購費：200+200
 1. 全家店到店：85+85
