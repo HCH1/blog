@@ -28,23 +28,30 @@
 1. 浪琴Longines
 1. 雷达RADO
 1. 萬國IWC
-1. 蕭邦Chopard
-1. 歐米伽OMEGA
-1. 帝舵Tudor
-1. 泰格Tag Heuer
 1. 勞力士Rolex
+1. 歐米伽OMEGA
+1. 泰格Tag Heuer
+1. 帝舵Tudor
+1. 蕭邦Chopard
 1. 積家JAEGER-LECOULTRE
 
-#### 浪琴Longines的飛翼沙漏（時光飛逝，似天使之翼一閃而過，勸君珍惜）商標，是迄今為止最早的仍然有效的商標。
+#### 浪琴Longines，商標為飛翼沙漏（時光飛逝，似天使之翼一閃而過，勸君珍惜），是迄今為止最早的仍然有效的商標。
 ![f1](https://github.com/HCH1/blog/blob/master/fig/watch24.png)
 
+### 雷达RADO手錶，曾10次摘下红点奖桂冠！第一个探索陶瓷材质的腕表品牌。“永不磨损”是经典的广告语。
+![f1](https://github.com/HCH1/blog/blob/master/fig/watch241.png)
 
 #### 萬國葡7 IWC Portugieser 7，第一：延續了1930年代起葡萄牙商人所定製手表的大尺寸和簡單乾淨的盤面設計，第二：7天動力儲存顯示與機芯。
 ![f1](https://github.com/HCH1/blog/blob/master/fig/watch25.png)
 
-
-#### 勞力士，黑水鬼，綠水鬼。潛水等級，自製可靠機芯，不銹鋼打磨的錶殼和錶帶，天文台認證。
+#### 勞力士Rolex，黑水鬼，綠水鬼。潛水等級，自製可靠機芯，不銹鋼打磨的錶殼和錶帶，天文台認證。
 ![f1](https://github.com/HCH1/blog/blob/master/fig/watch26.png)
+
+### 歐米伽OMEGA，“Ω”是第二十四個希臘字母，亦是最後一個希臘字母。它像徵著事物的伊始與終極，第一與最後。代表了"完美、極致、卓越、成就"的非凡品質。
+![f1](https://github.com/HCH1/blog/blob/master/fig/watch242.png)
+
+### 泰格Tag Heuer，1916年，打造出了世界上最早的運動計時秒錶；1920年，被奧運會選為官方計時器；1962年，由於出色的性能，被美國宇航員帶上太空，成為首個上太空的瑞表品牌
+![f1](https://github.com/HCH1/blog/blob/master/fig/watch243.png)
 
 
 ### 收藏或傳家等級，百萬元
