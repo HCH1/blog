@@ -51,7 +51,7 @@
 1. 百達翡麗Patek Philippe（標語：你從未擁有一塊百達翡麗，你只是為下一代暫為保管而已。You never actually own a Patek Philippe. You merely look after it for the next generation...）
 1. 江詩丹頓Vacheron Constantin
 
-#### 標語：你從未擁有一塊百達翡麗，你只是為下一代暫為保管而已。You never actually own a Patek Philippe. You merely look after it for the next generation...）
+#### 你從未擁有一塊百達翡麗，你只是為下一代暫為保管而已。You never actually own a Patek Philippe. You merely look after it for the next generation...）
 ![f1](https://github.com/HCH1/blog/blob/master/fig/watch27.png)
 
 
