@@ -1,4 +1,4 @@
-# 3分鐘弄懂手錶品牌家族！機械錶有趣在哪？心得與整理推薦(2019) Introduction of watch brand! Love mechanical watch!
+# 3分鐘弄懂手錶品牌分類！心得與整理推薦(2019) Introduction of watch brand! Love mechanical watch!
 ![f1](https://github.com/HCH1/blog/blob/master/fig/watch21.png)
 
 ## [圖文好讀版]()
@@ -35,20 +35,15 @@
 1. 勞力士Rolex
 1. 積家JAEGER-LECOULTRE
 
-#### 補充經典款：
-
-浪琴Longines的飛翼沙漏（時光飛逝，似天使之翼一閃而過，勸君珍惜）商標，是迄今為止最早的仍然有效的商標。
-
+#### 浪琴Longines的飛翼沙漏（時光飛逝，似天使之翼一閃而過，勸君珍惜）商標，是迄今為止最早的仍然有效的商標。
 ![f1](https://github.com/HCH1/blog/blob/master/fig/watch24.png)
 
 
-萬國葡7 IWC Portugieser 7，第一：延續了1930年代起葡萄牙商人所定製手表的大尺寸和簡單乾淨的盤面設計，第二：7天動力儲存顯示與機芯。
-
+#### 萬國葡7 IWC Portugieser 7，第一：延續了1930年代起葡萄牙商人所定製手表的大尺寸和簡單乾淨的盤面設計，第二：7天動力儲存顯示與機芯。
 ![f1](https://github.com/HCH1/blog/blob/master/fig/watch25.png)
 
 
-勞力士，黑水鬼，綠水鬼。潛水等級，自製可靠機芯，不銹鋼打磨的錶殼和錶帶，天文台認證。
-
+#### 勞力士，黑水鬼，綠水鬼。潛水等級，自製可靠機芯，不銹鋼打磨的錶殼和錶帶，天文台認證。
 ![f1](https://github.com/HCH1/blog/blob/master/fig/watch26.png)
 
 
@@ -56,8 +51,7 @@
 1. 百達翡麗Patek Philippe（標語：你從未擁有一塊百達翡麗，你只是為下一代暫為保管而已。You never actually own a Patek Philippe. You merely look after it for the next generation...）
 1. 江詩丹頓Vacheron Constantin
 
-標語：你從未擁有一塊百達翡麗，你只是為下一代暫為保管而已。You never actually own a Patek Philippe. You merely look after it for the next generation...）
-
+#### 標語：你從未擁有一塊百達翡麗，你只是為下一代暫為保管而已。You never actually own a Patek Philippe. You merely look after it for the next generation...）
 ![f1](https://github.com/HCH1/blog/blob/master/fig/watch27.png)
 
 
