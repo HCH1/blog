@@ -18,21 +18,21 @@
 講到手錶，被廣告效應影響最深就是勞力士Rolex品牌，再來就是大眾認為好的手錶基本上是瑞士，再來美國或日本製造。以下依照價位低到高，簡單分三類。
 
 ### 入門等級，耐用，萬元
-卡西歐Casio
-精工SEIKO
-星辰Citizen
-東方雙獅ORIENT
-漢米爾頓Hamilton 
+1. 卡西歐Casio
+1. 精工SEIKO
+1. 星辰Citizen
+1. 東方雙獅ORIENT
+1. 漢米爾頓Hamilton 
 
-### 著迷等級，十萬元
-浪琴Longines
-雷达RADO
-萬國IWC
-蕭邦Chopard
-歐米伽OMEGA
-帝舵Tudor
-泰格Tag Heuer
-勞力士Rolex
+### 玩家等級，十萬元
+1. 浪琴Longines
+1. 雷达RADO
+1. 萬國IWC
+1. 蕭邦Chopard
+1. 歐米伽OMEGA
+1. 帝舵Tudor
+1. 泰格Tag Heuer
+1. 勞力士Rolex
 
 ### 收藏或傳家等級，百萬元
 1. 百達翡麗Patek Philippe
