@@ -62,7 +62,7 @@
 
 
 ### 趣談：李嘉常戴着星辰Citizen手錶
-![f1](https://github.com/HCH1/blog/blob/master/fig/watch29.png)
+![f1](https://github.com/HCH1/blog/blob/master/fig/watch28.png)
 
 高檔手錶的價位可能比跑程還貴，但還是老話一句，買得爽，看得爽，天天帶，都是好錶。
 香港知名富豪李嘉誠，2013接受彭博Bloomberg訪問，女記者發現李嘉誠戴着的是日本品牌星辰Citizen手錶，非常驚訝，李嘉誠也立即賣廣告般大讚該手錶的設計與價值。
