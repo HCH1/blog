@@ -30,7 +30,7 @@
 - 百勝樓是新加坡要買華人商品會去的一個不錯的商場，例如要買中文書，這裡也是最大家書店。
 - 北橋路上很多名勝古蹟，尤其是西方教堂很值得拍照打卡。我也很推薦遊客能進去讚美廣場走走。
 
-![f1](https://github.com/HCH1/blog/blob/master/fig/watch2.jpg)
+![f1](https://github.com/HCH1/blog/blob/master/fig/watch2.png)
 
 ## 若是你要買高價位手錶
 新加坡烏節路上最多奢華商品，烏節站Orchard往賽美色站Somerset MRT，沿途很多名貴手錶店。像是：
