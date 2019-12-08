@@ -47,8 +47,6 @@
 1. [google form請填寫基本訊息：Ｄ](https://docs.google.com/forms/d/e/1FAIpQLSen2EU8UAV1az6cxFU3o_8dmL2B2JJyuRmERtOzXKJy_5O8dA/viewform?usp=pp_url)
 1. 一般寄件：本島服務價格: 60元
 1. [全家包裹規範](https://www.famiport.com.tw/Web_Famiport/page/service_caption.aspx?MN=5&CN=1141)
-- 店到店包材販售:
-- 大紙箱-長*寬*高=40cm*30cm*20cm，售價15元
 
 ### 範例：
 ![f1](https://github.com/HCH1/blog/blob/master/fig/helpbuy1.png)
@@ -59,18 +57,17 @@
 
 ## 買家最關心的費用計算：Ｄ
 買家需要給付的費用有：
-1. 商品以官網價格為主。費用計算以google當日匯率為主。範例：[google 1 sgd to twd](https://www.google.com.tw/search?sxsrf=ACYBGNRQEwJLFLaDdQr5TF_a-Kd0BWP8Hw%3A1575734290975&ei=EszrXZGNO9C9rQGPu6jQCQ&q=google+1+sgd+to+twd&oq=google+1+sgd+to+twd&gs_l=psy-ab.3...2531.2531..2962...0.2..0.51.51.1......0....1..gws-wiz.......0i71.PVthof6c_74&ved=0ahUKEwiR3rHV86PmAhXQXisKHY8dCpoQ4dUDCAs&uact=5)
-1. 代購費：chomel 100$/款式，Hegen or 小CK 200$/款式。
-1. 全家店到店郵寄費和包裹費用，統一算成85$。
+1. 商品以官網價格為主。匯率23。代購費用10%
+1. 全家店到店郵寄費和包裹費用，統一算成65$。若實際紙箱太大，多的費用我吸收。
 1. 我收到需求單當日晚上會去看貨，若確定有貨會跟您說。並且您也可接受先匯款我再購買。
 1. 可接受LINE聯繫。
 
 #### 範例：
 1. A客戶購買50$新幣Hegen奶瓶組，共買兩組，所以總計100$新幣：[HEGEN PCTO™ 240ML/8OZ FEEDING BOTTLE PPSU, 2-PACK](https://www.hegen.com/shop/feeding-bottle/hegen-pcto-240ml8oz-feeding-bottle-2-pack-ppsu)
-1. 100$新幣換算成台幣，小數點無條件捨去（您優勢），2,237 NT$：[100 sgd to twd](https://www.google.com.tw/search?sxsrf=ACYBGNTu4MXmfDTvatJir9ndbmm2ocd-Gw%3A1575735079000&ei=Js_rXZfPPIGv9QPjl5a4DQ&q=100+sgd+to+twd&oq=100+sgd+to+twd&gs_l=psy-ab.3..0j0i5i30j0i8i30l2.570.1592..1825...0.1..0.74.140.2......0....1..gws-wiz.......0i71j0i8i67.Aw-8fU1Hi4Y&ved=0ahUKEwiX-pLN9qPmAhWBV30KHeOLBdcQ4dUDCAs&uact=5)
-1. 代購費：200+200
-1. 全家店到店：85+85（寄件60包裹15，後面有註解以客為尊方案）
-所以此交易：2237+200+200++85+85=2807$
+1. 100$新幣等於2300$台幣
+1. 代購費：230$
+1. 全家店到店：65+65因為兩組（後面有註解以客為尊方案）
+所以此交易：2300+230+65+65=2660$
 
 #### 或許你會問
 若客戶購買像是項鍊那種，盒子應該不大，可否塞在一起成一個小箱子？那這樣可否省包裹費用？
