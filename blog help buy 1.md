@@ -40,6 +40,8 @@
 1. 因為行李箱不大，只收兩位顧客：Ｄ
 1. 只幫代購項鍊或者耳環。
 
+![f1](https://github.com/HCH1/blog/blob/master/fig/helpbuy31.png)
+
 
 
 ## 郵寄方式只限：全家店到店
