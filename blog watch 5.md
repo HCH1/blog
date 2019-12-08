@@ -1,4 +1,4 @@
-# 3分鐘弄懂手錶 浪琴Longines！心得與整理推薦(2019) Introduction of RADO watch!
+# 3分鐘弄懂手錶 浪琴Longines！心得與整理推薦(2019) Introduction of Longines watch!
 ![f1](https://github.com/HCH1/blog/blob/master/fig/watch51a.png)
 
 ## [圖文好讀版]()
