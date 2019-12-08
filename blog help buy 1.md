@@ -26,7 +26,7 @@
 
 
 ### [chomel高貴不貴飾品女孩新寵](https://www.chomel.com.sg/collections/cubic-zirconia/Necklace)
-![f1](https://github.com/HCH1/blog/blob/master/fig/helpbuy31.png)
+![f1](https://github.com/HCH1/blog/blob/master/fig/helpbuy31.jpg)
 
 今年突然火紅的平價飾品，飾品界的小CK，造型設計不錯做工精細，我家附近走路五分鐘的百貨公司內部就有一家，可以馬上幫您看貨挑選：Ｄ
 
