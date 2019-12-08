@@ -44,7 +44,7 @@
 
 ## 郵寄方式只限：全家店到店
 1. [請給我 你家附近全家門市編號查詢](https://www.famiport.com.tw/Web_Famiport/page/ShopQuery.aspx)
-1. google form填寫基本訊息：Ｄ
+1. [google form填寫基本訊息：Ｄ](https://docs.google.com/forms/d/e/1FAIpQLSen2EU8UAV1az6cxFU3o_8dmL2B2JJyuRmERtOzXKJy_5O8dA/viewform?usp=pp_url)
 1. 一般寄件：本島服務價格: 60元
 1. [全家包裹規範](https://www.famiport.com.tw/Web_Famiport/page/service_caption.aspx?MN=5&CN=1141)
 - 店到店包材販售:
