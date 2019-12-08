@@ -62,8 +62,9 @@
 1. 商品以官網價格為主。
 1. 費用計算以google當日匯率為主。範例：[google 1 sgd to twd](https://www.google.com.tw/search?sxsrf=ACYBGNRQEwJLFLaDdQr5TF_a-Kd0BWP8Hw%3A1575734290975&ei=EszrXZGNO9C9rQGPu6jQCQ&q=google+1+sgd+to+twd&oq=google+1+sgd+to+twd&gs_l=psy-ab.3...2531.2531..2962...0.2..0.51.51.1......0....1..gws-wiz.......0i71.PVthof6c_74&ved=0ahUKEwiR3rHV86PmAhXQXisKHY8dCpoQ4dUDCAs&uact=5)
 1. 代購費：chomel 100$/款式，Hegen or 小CK 200$/款式。
-1. 全家店到店郵寄費和包裹費用，統一算成85台幣。
+1. 全家店到店郵寄費和包裹費用，統一算成85$。
 1. 我收到需求單當日晚上會去看貨，若確定有貨會跟您說。並且您也可接受先匯款我再購買。
+1. 可接受LINE聯繫。
 
 #### 範例：
 1. A客戶購買50$新幣Hegen奶瓶組，共買兩組，所以總計100$新幣：[HEGEN PCTO™ 240ML/8OZ FEEDING BOTTLE PPSU, 2-PACK](https://www.hegen.com/shop/feeding-bottle/hegen-pcto-240ml8oz-feeding-bottle-2-pack-ppsu)
@@ -76,6 +77,7 @@
 若客戶購買像是項鍊那種，盒子應該不大，可否塞在一起成一個小箱子？那這樣可否省包裹費用？
 回答：以客為尊，我會盡量幫你買小盒或塞成一盒，然後費用退還一律放在包裹裡用夾鏈袋收好。
 
+郵寄當天我會即時拍照傳給您讓您安心也保障雙方：Ｄ
 
 ## 備註
 [全家寄件須知](https://www.famiport.com.tw/Web_Famiport/page/service_caption.aspx?MN=5&CN=1141)
@@ -86,8 +88,6 @@
 - 憑寄件編號可隨時查詢貨件狀態，立即『查詢貨況』
 - 未取退回領取: 貨件送達取件店舖七日內無人領取，將退回原寄件店舖，完成寄件後恕不接受提前退回
 
-
 ## 總結（若喜歡請按讚加分享：）
-
 
 ## End
