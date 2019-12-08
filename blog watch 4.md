@@ -1,5 +1,5 @@
 # 3分鐘弄懂手錶 雷達RADO！心得與整理推薦(2019) Introduction of RADO watch!
-![f1](https://github.com/HCH1/blog/blob/master/fig/watch40.png)
+![f1](https://github.com/HCH1/blog/blob/master/fig/watch41c.png)
 
 ## [圖文好讀版]()
 ## [My Instagram](https://www.instagram.com/redbox111)
