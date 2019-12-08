@@ -1,5 +1,5 @@
-# 3分鐘弄懂手錶，漢米爾頓Hamilton！心得與整理推薦(2019) Introduction of Hamilton watch!
-![f1](https://github.com/HCH1/blog/blob/master/fig/watch31.png)
+# 3分鐘弄懂手錶 漢米爾頓Hamilton！心得與整理推薦(2019) Introduction of Hamilton watch!
+![f1](https://github.com/HCH1/blog/blob/master/fig/watch33a.png)
 
 ## [圖文好讀版]()
 ## [My Instagram](https://www.instagram.com/redbox111)
@@ -18,8 +18,9 @@
 漢密爾頓鐘錶公司(前稱咸美頓)1892年成立於美國賓夕法尼亞州的蘭卡斯特的一間手錶製造鐘錶公司，目前總部設在瑞士比爾
 ，由收購蘭卡斯特鐘錶公司（Lancaster Watch Company）而成立。於1969年結束在美國製造。通過一系列的兼併和收購，
 漢密爾頓鐘錶公司成為一個多元化的企業集團，但隨後被整合到斯沃琪集團。目前，該品牌是世界上最大的手錶製造商和營銷商-斯沃琪集團
-旗下20多個手錶品牌中之一。
+旗下20多個手錶品牌中之一。使用ETA機芯。
 
+## 漢米爾頓Hamilton簡介（節錄自知乎）
 在品牌創立的一百多年代歷史中，漢米爾頓不斷書寫和創造著傳奇與輝煌。 19世紀末，漢米爾頓的首款系列懷錶Broadway（百老匯）限量版，
 以無與倫比的精確度和可靠性，為一度嚴重的鐵路事故劃上了句號，並開創了其作為卓越計時器的歷程；
 在20世紀20年代，漢米爾頓成為了卓有威望的美國軍隊的軍錶供應商；1928年推出的Yankee腕錶，確立了漢米爾頓引領美國腕錶時尚的領導地位；
@@ -38,6 +39,11 @@
 ### 自由精神
 ![f1](https://github.com/HCH1/blog/blob/master/fig/watch33c.png)
 
+### 爵士
+![f1](https://github.com/HCH1/blog/blob/master/fig/watch33d.png)
+
+### 卡其
+![f1](https://github.com/HCH1/blog/blob/master/fig/watch33e.png)
 
 ## ETA是啥？
 ETA是隸屬於斯沃琪swatch集團旗下一家專門負責生產機芯的工廠，目前為止全球最大的鐘錶製造商。旗下的ETA是目前世界最大的空白機芯製造以及供應商。
