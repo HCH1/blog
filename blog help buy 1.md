@@ -59,8 +59,7 @@
 
 ## 買家最關心的費用計算：Ｄ
 買家需要給付的費用有：
-1. 商品以官網價格為主。
-1. 費用計算以google當日匯率為主。範例：[google 1 sgd to twd](https://www.google.com.tw/search?sxsrf=ACYBGNRQEwJLFLaDdQr5TF_a-Kd0BWP8Hw%3A1575734290975&ei=EszrXZGNO9C9rQGPu6jQCQ&q=google+1+sgd+to+twd&oq=google+1+sgd+to+twd&gs_l=psy-ab.3...2531.2531..2962...0.2..0.51.51.1......0....1..gws-wiz.......0i71.PVthof6c_74&ved=0ahUKEwiR3rHV86PmAhXQXisKHY8dCpoQ4dUDCAs&uact=5)
+1. 商品以官網價格為主。費用計算以google當日匯率為主。範例：[google 1 sgd to twd](https://www.google.com.tw/search?sxsrf=ACYBGNRQEwJLFLaDdQr5TF_a-Kd0BWP8Hw%3A1575734290975&ei=EszrXZGNO9C9rQGPu6jQCQ&q=google+1+sgd+to+twd&oq=google+1+sgd+to+twd&gs_l=psy-ab.3...2531.2531..2962...0.2..0.51.51.1......0....1..gws-wiz.......0i71.PVthof6c_74&ved=0ahUKEwiR3rHV86PmAhXQXisKHY8dCpoQ4dUDCAs&uact=5)
 1. 代購費：chomel 100$/款式，Hegen or 小CK 200$/款式。
 1. 全家店到店郵寄費和包裹費用，統一算成85$。
 1. 我收到需求單當日晚上會去看貨，若確定有貨會跟您說。並且您也可接受先匯款我再購買。
