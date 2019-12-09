@@ -1,7 +1,7 @@
 # 3分鐘弄懂新加坡哪裡買手錶最划算？！在地四十年手錶店推薦(2019) One of the best watch store in Singapore!
 ![f1](https://github.com/HCH1/blog/blob/master/fig/watch1.png)
 
-## [圖文好讀版](https://medium.com/@sean101/3%E5%88%86%E9%90%98%E5%AD%B8%E4%BF%AE%E5%9C%96%E8%BB%9F%E9%AB%94snapseed%E6%8E%A8%E8%96%A6%E8%88%87%E6%95%99%E5%AD%B8-2019%E9%80%A3%E8%BC%89-one-of-the-best-photo-filter-app-81fd8e48e99c)
+## [圖文好讀版](https://link.medium.com/TcwxJySxh2)
 
 ## [My Instagram](https://www.instagram.com/redbox111)
 
