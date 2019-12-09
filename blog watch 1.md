@@ -40,9 +40,10 @@
 1. 以及對面的百麗宮Paragon
 
 ## 手錶美照分享
-![f1](https://github.com/HCH1/blog/blob/master/fig/watch3.jpg)
+![f1](https://github.com/HCH1/blog/blob/master/fig/watch3b.jpg)
 
-![f1](https://github.com/HCH1/blog/blob/master/fig/watch4.jpg)
+![f1](https://github.com/HCH1/blog/blob/master/fig/watch3c.jpg)
+
 
 ## 總結（若喜歡請按讚加分享：）
 在台灣買手錶有些好店推薦，若是鄉民有機會來新加坡旅遊，有空也可來我推薦的這家，主要是對話舒服以及價錢優惠。故介紹給大家，看看是否能找到心儀的手錶！
