@@ -24,6 +24,8 @@
 
 ## 我推薦的在地四十年手錶店 在這！ [Prestige Time](https://www.google.com.tw/maps/place/Prestige+Time/@1.2965447,103.8516729,17z/data=!3m1!4b1!4m5!3m4!1s0x31da19a5049da53d:0xcd03d3e4e03ea9c8!8m2!3d1.2965447!4d103.8538616?hl=en)
 
+（可說是HUNG推薦的 若聊得來 價格好說；）
+
 這家靠近city hall mrt，出捷運站走過兩個紅綠燈，沿著北橋路North Bridge Rd往東北走，沿途會經過讚美廣場Chijmes，手錶店位於百勝樓Bras Basah Complex大樓的一樓。
 
 備註：
