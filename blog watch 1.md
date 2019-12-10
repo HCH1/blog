@@ -41,8 +41,9 @@
 1. 義安城Ngee Ann City高島屋Takashimaya
 1. 以及對面的百麗宮Paragon
 
+## 漢米爾頓Hamilton 爵士開心系列
 ## [手錶實拍(加打光)](https://www.youtube.com/watch?v=pf2Q00kGIw8)
-## 手錶美照分享
+## 手錶實照
 ![f1](https://github.com/HCH1/blog/blob/master/fig/watch3b.jpg)
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/watch3c.jpg)
