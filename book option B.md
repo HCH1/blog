@@ -111,7 +111,7 @@
 
 All that can not kill you will eventually make you stronger.
 
-2、濕透的衣裳，終究會幹。可以遺忘的，都不再重要。
+2、濕透的衣裳，終究會乾。可以遺忘的，都不再重要。
 
 The drenched clothes will eventually dry. All that can be forgotten is no longer important.
 
