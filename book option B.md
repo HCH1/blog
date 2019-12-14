@@ -63,6 +63,9 @@
 1. 看到新的可能性：這個句點 也是下一個起點
 
 尼采 有一句描述 個人力量：凡不能毀滅我的 必將令我更堅強。
+``` 
+那不能殺死我的，使我更堅強。Was mich nicht umbringt, macht mich stärker.《偶像的黄昏》
+```
 
 泰德希＆卡洪 曾說：我比我原本以為得更脆弱 但也比自己想像中更堅強。
 
@@ -101,5 +104,223 @@
 ### ch10 再度愛與歡笑
 
 ## 總結（若喜歡請按讚加分享：）
+
+## 備註：
+### 弗里德里希·威廉·尼采（Friedrich Wilhelm Nietzsche，1844年10月15日—1900年8月25日），德國哲学家、思想家。
+1、但凡不能殺死你的，最終都會使你更強大。
+
+All that can not kill you will eventually make you stronger.
+
+2、濕透的衣裳，終究會幹。可以遺忘的，都不再重要。
+
+The drenched clothes will eventually dry. All that can be forgotten is no longer important.
+
+3、我的靈魂平靜而明亮，宛若清晨的群山。
+
+My soul is calm and bright, like the hills of the morning.
+
+4、為了使愛成為可能，上帝必須是人。
+
+In order to make love possible, God must be man.
+
+5、你們一本正經，我萬事遊戲。
+
+You are serious, I play all the games.
+
+6、笑意味著幸災樂禍，不過伴隨著良心。
+
+Laughter means gloat, but with conscience.
+
+7、造就偉人的，不是高尚感情的強度，而是高尚感情的持續時間。
+
+It is not the strength of the noble feelings, but the duration of the noble feelings that makes great men.
+
+8、窺視深淵者，必為深淵所窺視。
+
+A peep of the abyss will be peeped by the abyss.
+
+9、那些不能殺死我們的，使我們更強大。
+
+Those that can't kill us make us more powerful.
+
+10、在認識一切事物之後，人才能認識自己，因為事物僅僅是人的界限。
+
+After knowing all things, people can know themselves, because things are only the boundaries of human beings.
+
+11、閉上你喋喋不休的嘴，去行動吧，這才是你贏得信賴的捷徑。
+
+Close your mouth and act, that's the shortcut to your trust.
+
+12、一切都在虛偽價值和空洞言辭的禁錮中！
+
+Everything is in the imprisoned value of hypocrisy and empty words!
+
+13、人是一根繩索，駕於超人與禽獸之間。
+
+Man is a rope, between Superman and beast.
+
+14、壞脾氣的消失，可以準確地反映智慧的增長。
+
+The disappearance of a bad temper can accurately reflect the growth of wisdom.
+
+15、有思想的人接觸新人都會先聊些膚淺的動西。
+
+People with thought will talk to new people first.
+
+16、我們飛得越高，在哪些飛不起來的人眼中就越渺小。
+
+The higher we fly, the less we see in the eyes of those who can't fly.
+
+17、好人之所以弱小，是因為他們沒有強大到變惡的程度。
+
+The reason why good people are weak is because they are not strong enough to be evil.
+
+18、愛擁有一種慾望，渴望將人盡可能提高。
+
+Love has a desire to raise people as much as possible.
+
+19、縱慾並非源於快樂，而是源於苦悶。
+
+Lust is not due to happiness, but from depression.
+
+20、高處並不可怕，可怕的是陡峭的斜坡。
+
+The height is not terrible, and the terrible is the steep slope.
+
+21、最大的惡乃包含在最大的善之中，而這就是創造性的善。
+
+The greatest evil is included in the greatest goodness, and this is the creative good.
+
+22、人可以控制行為，卻不能約束感情，因為感情是變化無常的。
+
+The person can control the behavior, but can not restrain the emotion, because the emotion is changeable.
+
+23、我是太陽，因為我只想給予，不想獲得，所以我有無限的能量。
+
+I am the sun, because I just want to give, do not want to get, so I have infinite energy.
+
+24、太陽啊！如果沒有你所照耀的人們，你的榮耀又在哪裡呢？
+
+The sun! Where is your glory if you don't have the people you are shining on?
+
+25、一向最為禁制的總是真理。
+
+The truth is always the most forbidden.
+
+26、成熟不過是個性被磨去了棱角，變得世故而圓滑了。
+
+But mature personality is rubbed off the edges and corners, become sophisticated and smooth.
+
+27、打從半高處看，這世界最美好。
+
+From half high, the world is the best.
+
+28、寧可去追求虛無，也不能無所追求。
+
+It is better to pursue nihilism than to pursue.
+
+29、一切決定性的東西都是從對抗中產生的。
+
+All decisive things are produced from confrontation.
+
+30、我不願向人問路，我寧願問道路本身，親自試試。
+
+I don't want to ask people for directions. I would rather ask the road itself and try it myself.
+
+31、愛的太深，會失去榮耀和價值。
+
+Love is too deep to lose glory and value.
+
+32、每一個不曾起舞的日子都是對生命的辜負。
+
+Every day that never dances is a life betrayal.
+
+33、只要不殺死我們的困難都會使我們更堅強。
+
+As long as we do not kill us all the difficulties will make us stronger.
+
+34、對待生命，你不妨大膽一點，因為我們始終要失去它。
+
+To treat life, you might as well be bold, because we have to lose it all the time.
+
+35、只有經歷過地獄磨難的人才有建造天堂的力量。
+
+Only those who have gone through hell have the power to build heaven.
+
+36、成功的人往往是了解自己的特質並加以利用。
+
+Successful people are often aware of their own traits and use them.
+
+37、人是必須要被超越的東西。
+
+Man is something that must be surpassed.
+
+38、用藝術的眼光看知識，用生活的眼光看藝術。
+
+See the knowledge with the eye of art, look at the art with the eye of life.
+
+39、堅信比謊言更是真理的敵人。
+
+Believe that a lie is the enemy of truth.
+
+40、那求之於外的人往往很容易迷失自己。
+
+The people who ask for it are often easy to lose themselves.
+
+41、當我們對擁有的東西產生厭倦的同時，我們也對自身產生厭倦。
+
+When we are tired of what we have, we are also tired of ourselves.
+
+42、對他人是快樂的人，對自己是睿智的人。
+
+A man who is happy to others, a wise man to himself.
+
+43、我們擁有藝術，所以不會被真相擊垮。
+
+We have art, so we won't be crushed by the truth.
+
+44、一切榮耀、尊敬、智慧、感謝、讚美和力量歸於我們的上帝，永永遠遠！
+
+All glory, respect, wisdom, gratitude, praise and strength are to our God for ever and ever!
+
+45、在高傲負傷之處，會長出一種比高傲更佳的東西。
+
+In the haughty wounds, there will be something better than arrogance.
+
+46、唯有戲子才能喚起群眾巨大的興奮。
+
+The only actor to arouse the masses great excitement.
+
+47、一段不幸的婚姻不是缺乏愛，而是缺乏友誼。
+
+An unfortunate marriage is not a lack of love, but a lack of friendship.
+
+48、縱使人生是一場悲劇，我們也要快樂的將它演完。
+
+Even if the life is a tragedy, we will be happy to finish it.
+
+49、沒有一貫的作自我蔑視，又怎能不斷的做自我欣賞呢？
+
+Without a consistent self contempt, how can I continue to enjoy self - appreciation?
+
+50、他們把水攪混，以使其看上去更深。
+
+The water they wish to make it look deeper.
+
+51、我的弟兄們：我不勸你們愛鄰人，我要勸你們愛最遙遠的未來人。
+
+My brothers: I do not advise you to love the neighbours, and I urge you to love the farthest people of the future.
+
+52、白晝的光，如何能夠了解夜晚黑暗的深度呢？
+
+How can the light of the daylight be able to understand the dark depth of the night?
+
+53、人生是彩虹之路，是走的高於自己的路。
+
+Life is the road of rainbow, the way to walk higher than oneself.
+
+54、白晝之光，豈知夜色之深。
+
+The light of the day knows the depth of the night.
 
 ## End
