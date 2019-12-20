@@ -38,7 +38,8 @@
 1. 因為行李箱不大，只收兩位顧客：Ｄ
 1. 只幫代購項鍊或者耳環。
 
-## 代購第一步：[google form請填寫收件者與商品訊息：Ｄ](https://docs.google.com/forms/d/e/1FAIpQLSen2EU8UAV1az6cxFU3o_8dmL2B2JJyuRmERtOzXKJy_5O8dA/viewform?usp=pp_url)
+## 代購第一步：[google form請填寫收件者與商品訊息：Ｄ](https://docs.google.com/forms/d/e/1FAIpQLSen2EU8UAV1az6cxFU3o_8dmL2B2JJyuRmERtOzXKJy_5O8dA/viewform)
+
 ## 郵寄方式只限：全家店到店
 1. [請給您家附近全家門市編號查詢](https://www.famiport.com.tw/Web_Famiport/page/ShopQuery.aspx)
 1. 一般寄件：本島服務價格: 60元
