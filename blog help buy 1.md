@@ -49,7 +49,7 @@
 ![f1](https://github.com/HCH1/blog/blob/master/fig/helpbuy1.png)
 
 ## 代購成功案例：Ｄ
-![f1](https://github.com/HCH1/blog/blob/master/fig/helpbuy5.png)
+![f1](https://github.com/HCH1/blog/blob/master/fig/helpbuy5b.png)
 
 
 ## 買家最關心的費用計算：Ｄ
