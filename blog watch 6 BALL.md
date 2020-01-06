@@ -30,7 +30,6 @@ Webb C. BALL所創立的系統是首個獲得廣泛接受和稱許的成功鐵�
 他為製造耐用，精準的計時器建立了一套嚴格的設計原則，比如抗磁性，5個方向上的可靠性，等時性，能量儲藏，上鍊方式，同時還包括對手錶可靠性的定期記錄。
 
 ### 今天，瑞士天文台認證標準（COSC）還是基於波爾的標準。
-#### 備註
 #### 口訣：五方三度七檢
 它是一個能夠檢測出手錶精準度的第三方機構，獲得C.O.S.C.認證的手錶基本上來說每日走時誤差能確保控制在-4～+6秒的範圍內，整個檢測過程是以機芯為對象，施測的時間則會有15天（不包含需經過識別、分類與上鍊等手續的最初工作日），期間機芯會經過三種溫度（8℃、38℃與23℃）、五種方位（錶冠朝左、朝上、朝下以及面盤朝下和朝上）以及七項檢測標準的關卡，在滿足所有條件的的前提下，一枚機芯才能正式獲得C.O.S.C.的認證。
 
@@ -40,14 +39,14 @@ Webb C. BALL所創立的系統是首個獲得廣泛接受和稱許的成功鐵�
 
 ## 首先是從[波爾錶BALL官網](https://www.ballwatch.com/global/)先點選你要的語言。
 然後就會進入到
-###[首頁 中文](https://www.ballwatch.com/global/zh-hant/home.html)
+### [首頁 中文](https://www.ballwatch.com/global/zh-hant/home.html)
 
-###[線上選購](https://www.ballwatch.com/global/zh-hant/collections.html
+### [線上選購](https://www.ballwatch.com/global/zh-hant/collections.html
 首頁上方點選>線上選購。
 第一次接觸到波爾錶的官網，老實說有價錢和系列很難查詢有點混亂，波爾錶的官網會分成：正在銷售的，和預購的。
 然後價錢是用其他網站查，最後我也跑了幾家實體店面，花了滿多的時間才弄懂波爾錶。這篇會快速總結心得，讓您省時省力！
 
-[gnomonwatches](https://www.gnomonwatches.com/collections/ball-watch-co)
+### [gnomonwatches](https://www.gnomonwatches.com/collections/ball-watch-co)
 我是用這個網站來看大概價錢，推薦給大家，而且圖片整理也很好！
 不過是用美金定價。然後我跑到新加坡唯一家實體gnomonwatches店面去問價錢，發現該網站給的價位，跟實體店面打折後的相比差不多。
 
