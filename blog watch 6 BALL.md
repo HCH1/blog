@@ -1,5 +1,5 @@
 # 3分鐘弄懂手錶 波爾錶BALL！心得與整理推薦(2020) Introduction of BALL watch!
-![f1](https://github.com/HCH1/blog/blob/master/fig/watch61a.JPG)
+![f1](https://github.com/HCH1/blog/blob/master/fig/watch61a.png)
 
 #### [圖文好讀版]()
 #### [My Instagram](https://www.instagram.com/redbox111)
