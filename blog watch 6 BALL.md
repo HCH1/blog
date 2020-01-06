@@ -61,15 +61,17 @@ Webb C. BALL所創立的系統是首個獲得廣泛接受和稱許的成功鐵�
 1. Conductor
 1. Roadmaster
 
+
+### [技術](https://www.ballwatch.com/global/zh-hant/technology.html)
+你也可以快速知道此品牌的特色與專長。此篇後段會做整理。看過之後，原來波爾的一些專利技術令人驚豔難忘，除了大家朗朗上口的夜光技術，
+還有一些防磁防震阿也是很有魅力！
+
 ![f1](https://github.com/HCH1/blog/blob/master/fig/watch62a.JPG)
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/watch62b.JPG)
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/watch62c.JPG)
 
-### [技術](https://www.ballwatch.com/global/zh-hant/technology.html)
-你也可以快速知道此品牌的特色與專長。此篇後段會做整理。看過之後，原來波爾的一些專利技術令人驚豔難忘，除了大家朗朗上口的夜光技術，
-還有一些防磁防震阿也是很有魅力！
 ### 最亮耐撞抗磁防水又準
 1. 夜間讀時起革命
 1. 自家製造天文台認證機芯
