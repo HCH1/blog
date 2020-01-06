@@ -1,5 +1,5 @@
 # 3分鐘弄懂手錶 波爾錶BALL！心得與整理推薦(2020) Introduction of BALL watch!
-![f1](https://github.com/HCH1/blog/blob/master/fig/watch61a.jpg)
+![f1](https://github.com/HCH1/blog/blob/master/fig/watch61a.JPG)
 
 #### [圖文好讀版]()
 #### [My Instagram](https://www.instagram.com/redbox111)
@@ -61,11 +61,11 @@ Webb C. BALL所創立的系統是首個獲得廣泛接受和稱許的成功鐵�
 1. Conductor
 1. Roadmaster
 
-![f1](https://github.com/HCH1/blog/blob/master/fig/watch62a.jpg)
+![f1](https://github.com/HCH1/blog/blob/master/fig/watch62a.JPG)
 
-![f1](https://github.com/HCH1/blog/blob/master/fig/watch62b.jpg)
+![f1](https://github.com/HCH1/blog/blob/master/fig/watch62b.JPG)
 
-![f1](https://github.com/HCH1/blog/blob/master/fig/watch62c.jpg)
+![f1](https://github.com/HCH1/blog/blob/master/fig/watch62c.JPG)
 
 ### [技術](https://www.ballwatch.com/global/zh-hant/technology.html)
 你也可以快速知道此品牌的特色與專長。此篇後段會做整理。看過之後，原來波爾的一些專利技術令人驚豔難忘，除了大家朗朗上口的夜光技術，
