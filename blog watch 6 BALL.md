@@ -41,7 +41,7 @@ Webb C. BALL所創立的系統是首個獲得廣泛接受和稱許的成功鐵�
 然後就會進入到
 ### [首頁 中文](https://www.ballwatch.com/global/zh-hant/home.html)
 
-### [線上選購](https://www.ballwatch.com/global/zh-hant/collections.html
+### [線上選購](https://www.ballwatch.com/global/zh-hant/collections.html)
 首頁上方點選>線上選購。
 第一次接觸到波爾錶的官網，老實說有價錢和系列很難查詢有點混亂，波爾錶的官網會分成：正在銷售的，和預購的。
 然後價錢是用其他網站查，最後我也跑了幾家實體店面，花了滿多的時間才弄懂波爾錶。這篇會快速總結心得，讓您省時省力！
@@ -50,18 +50,18 @@ Webb C. BALL所創立的系統是首個獲得廣泛接受和稱許的成功鐵�
 我是用這個網站來看大概價錢，推薦給大家，而且圖片整理也很好！
 不過是用美金定價。然後我跑到新加坡唯一家實體gnomonwatches店面去問價錢，發現該網站給的價位，跟實體店面打折後的相比差不多。
 
-這裡給大家一個換算方式：
+這裡給大家一個換算方式，然後有需要的再自行換算台幣 就差不多有個概念了：Ｄ
 ### USD x 1.32 x 1.07 = SGD
-然後有需要的再自行換算台幣 就差不多有個概念了：Ｄ
+
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/watch61b.png)
 
-例如這隻月相表：1480 usd。所以
+例如這隻月相錶，該網站寫1480 usd。所以：
 [1480 x 1.32 x 1.07](https://www.google.com.tw/search?sxsrf=ACYBGNSOUwG-yvE8vvknXZYyjNfkRFPm9w%3A1578308920484&ei=OBUTXuiYHbbjz7sPrvCxoAo&q=1480+x+1.32+x+1.07&oq=1480+x+1.32+x+1.07&gs_l=psy-ab.3...7569.7839..8004...0.0..0.55.231.5......0....1..gws-wiz.......35i39.8Is8brdM0lQ&ved=0ahUKEwjolLT06u7mAhW28XMBHS54DKQQ4dUDCAs&uact=5) 
 = 2090 sgd 
 ~ [46580 twd](https://www.google.com.tw/search?sxsrf=ACYBGNQXPqFmmKQO5yyGrL-ok2GoS2yoOw%3A1578308929267&ei=QRUTXtvvD5zB3LUP0PWpuAI&q=2090+sgd+to+twd&oq=2090+sgd+to+twd&gs_l=psy-ab.3..0i22i30.22484.24221..24378...2.0..0.89.589.10......0....2j1..gws-wiz.......35i39j33i22i29i30._HBdUnjJHfM&ved=0ahUKEwiblMz46u7mAhWcILcAHdB6CicQ4dUDCAs&uact=5)
 
-### [系列](https://www.ballwatch.com/global/zh-hant/collections.html
+### [系列](https://www.ballwatch.com/global/zh-hant/collections.html)
 首頁上方點選>手錶系列。
 有八組的類別，這樣搜尋起來很省力。像是筆者偏好Engineer M和Fireman的設計感：Ｄ
 1. Engineer II
