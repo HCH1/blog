@@ -1,8 +1,8 @@
 # 3分鐘弄懂手錶 波爾錶BALL！心得與整理推薦(2020) Introduction of BALL watch!
 ![f1](https://github.com/HCH1/blog/blob/master/fig/watch61a.png)
 
-## [圖文好讀版]()
-## [My Instagram](https://www.instagram.com/redbox111)
+#### [圖文好讀版]()
+#### [My Instagram](https://www.instagram.com/redbox111)
 
 ## 前言
 大部分的人都曾買過手錶，送禮自用兩相宜的好物。手錶品牌眾多，價錢也是從幾百塊到幾萬塊都有。當然很多因素都會影響到價錢，例如：品牌效應，複雜功能，材質，限量等等。
