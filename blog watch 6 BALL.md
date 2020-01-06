@@ -50,7 +50,7 @@ Webb C. BALL所創立的系統是首個獲得廣泛接受和稱許的成功鐵�
 [線上選購](https://www.ballwatch.com/global/zh-hant/collections.html
 
 
-然後[系列](https://www.ballwatch.com/global/zh-hant/collections.html
+### [系列](https://www.ballwatch.com/global/zh-hant/collections.html
 有八組的類別。像是筆者偏好Engineer M，這樣搜尋起來很省力：
 1. Engineer II
 1. Engineer M
@@ -61,10 +61,16 @@ Webb C. BALL所創立的系統是首個獲得廣泛接受和稱許的成功鐵�
 1. Conductor
 1. Roadmaster
 
-然後[技術](https://www.ballwatch.com/global/zh-hant/technology.html)
+![f1](https://github.com/HCH1/blog/blob/master/fig/watch62a.png)
+
+![f1](https://github.com/HCH1/blog/blob/master/fig/watch62b.png)
+
+![f1](https://github.com/HCH1/blog/blob/master/fig/watch62c.png)
+
+### [技術](https://www.ballwatch.com/global/zh-hant/technology.html)
 你也可以快速知道此品牌的特色與專長。此篇後段會做整理。看過之後，原來波爾的一些專利技術令人驚豔難忘，除了大家朗朗上口的夜光技術，
 還有一些防磁防震阿也是很有魅力！
-
+### 最亮耐撞抗磁防水又準
 1. 夜間讀時起革命
 1. 自家製造天文台認證機芯
 1. 904L 精鋼
@@ -83,12 +89,10 @@ Webb C. BALL所創立的系統是首個獲得廣泛接受和稱許的成功鐵�
 1. 防水性能
 1. 錶冠保護系統
 
-## 技術特色
-
 
 ## 熱門款推薦
 ### 名匠
-![f1](https://github.com/HCH1/blog/blob/master/fig/watch61a.png)
+![f1](https://github.com/HCH1/blog/blob/master/fig/watch63a.png)
 
 
 
