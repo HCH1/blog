@@ -38,8 +38,7 @@ Webb C. BALL所創立的系統是首個獲得廣泛接受和稱許的成功鐵�
 ### 美國有句俗語，叫做“on the ball”（機靈，留心，勤奮，有見識），據說是來自波爾的手錶標準和它帶來的準確性的好名聲。
 
 ## 首先是從[波爾錶BALL官網](https://www.ballwatch.com/global/)先點選你要的語言。
-然後就會進入到
-### [首頁 中文](https://www.ballwatch.com/global/zh-hant/home.html)
+然後就會進入到[首頁 中文](https://www.ballwatch.com/global/zh-hant/home.html)
 
 ### [線上選購](https://www.ballwatch.com/global/zh-hant/collections.html)
 首頁上方點選>線上選購。
