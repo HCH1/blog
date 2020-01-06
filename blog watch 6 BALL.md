@@ -54,6 +54,12 @@ Webb C. BALL所創立的系統是首個獲得廣泛接受和稱許的成功鐵�
 ### USD x 1.32 x 1.07 = SGD
 然後有需要的再自行換算台幣 就差不多有個概念了：Ｄ
 
+![f1](https://github.com/HCH1/blog/blob/master/fig/watch61b.png)
+例如這隻月相表：1480 usd。
+所以[1480 x 1.32 x 1.07](https://www.google.com.tw/search?sxsrf=ACYBGNSOUwG-yvE8vvknXZYyjNfkRFPm9w%3A1578308920484&ei=OBUTXuiYHbbjz7sPrvCxoAo&q=1480+x+1.32+x+1.07&oq=1480+x+1.32+x+1.07&gs_l=psy-ab.3...7569.7839..8004...0.0..0.55.231.5......0....1..gws-wiz.......35i39.8Is8brdM0lQ&ved=0ahUKEwjolLT06u7mAhW28XMBHS54DKQQ4dUDCAs&uact=5) = 2090 sgd ~ [46576 twd](https://www.google.com.tw/search?sxsrf=ACYBGNQXPqFmmKQO5yyGrL-ok2GoS2yoOw%3A1578308929267&ei=QRUTXtvvD5zB3LUP0PWpuAI&q=2090+sgd+to+twd&oq=2090+sgd+to+twd&gs_l=psy-ab.3..0i22i30.22484.24221..24378...2.0..0.89.589.10......0....2j1..gws-wiz.......35i39j33i22i29i30._HBdUnjJHfM&ved=0ahUKEwiblMz46u7mAhWcILcAHdB6CicQ4dUDCAs&uact=5)
+
+
+
 ### [系列](https://www.ballwatch.com/global/zh-hant/collections.html
 首頁上方點選>手錶系列。
 有八組的類別，這樣搜尋起來很省力。像是筆者偏好Engineer M和Fireman的設計感：Ｄ
