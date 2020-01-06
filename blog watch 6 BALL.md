@@ -38,24 +38,26 @@ Webb C. BALL所創立的系統是首個獲得廣泛接受和稱許的成功鐵�
 
 ### 美國有句俗語，叫做“on the ball”（機靈，留心，勤奮，有見識），據說是來自波爾的手錶標準和它帶來的準確性的好名聲。
 
-## 首先是從[波爾錶BALL官網](https://www.ballwatch.com/global/)
-先點選你要的語言。
+## 首先是從[波爾錶BALL官網](https://www.ballwatch.com/global/)先點選你要的語言。
+然後就會進入到
+###[首頁 中文](https://www.ballwatch.com/global/zh-hant/home.html)
 
-[首頁 中文](https://www.ballwatch.com/global/zh-hant/home.html)
-
-[線上選購](https://www.ballwatch.com/global/zh-hant/collections.html
-
+###[線上選購](https://www.ballwatch.com/global/zh-hant/collections.html
+首頁上方點選>線上選購。
 第一次接觸到波爾錶的官網，老實說有價錢和系列很難查詢有點混亂，波爾錶的官網會分成：正在銷售的，和預購的。
 然後價錢是用其他網站查，最後我也跑了幾家實體店面，花了滿多的時間才弄懂波爾錶。這篇會快速總結心得，讓您省時省力！
 
 [gnomonwatches](https://www.gnomonwatches.com/collections/ball-watch-co)
-我是用這個網站來看大概價錢，不過是用美金定價。然後我跑到新加坡唯一家實體gnomonwatches店面去問價錢，發現該網站給的價位，跟實體店面打折後的相比差不多。
+我是用這個網站來看大概價錢，推薦給大家，而且圖片整理也很好！
+不過是用美金定價。然後我跑到新加坡唯一家實體gnomonwatches店面去問價錢，發現該網站給的價位，跟實體店面打折後的相比差不多。
+
 這裡給大家一個換算方式：
-#### USD x 1.32 x 1.07 = SGD
+### USD x 1.32 x 1.07 = SGD
 然後有需要的再自行換算台幣 就差不多有個概念了：Ｄ
 
 ### [系列](https://www.ballwatch.com/global/zh-hant/collections.html
-首頁上方點選>手錶系列，有八組的類別，這樣搜尋起來很省力。像是筆者偏好Engineer M和Fireman的設計感：Ｄ
+首頁上方點選>手錶系列。
+有八組的類別，這樣搜尋起來很省力。像是筆者偏好Engineer M和Fireman的設計感：Ｄ
 1. Engineer II
 1. Engineer M
 1. Engineer Hydrocarbon
@@ -65,9 +67,9 @@ Webb C. BALL所創立的系統是首個獲得廣泛接受和稱許的成功鐵�
 1. Conductor
 1. Roadmaster
 
-
 ### [技術](https://www.ballwatch.com/global/zh-hant/technology.html)
-首頁上方點選>技術，你也可以快速知道此品牌的特色與專長。此篇後段會做整理。看過之後，原來波爾的一些專利技術令人驚豔難忘，除了大家朗朗上口的夜光技術，
+首頁上方點選>技術。
+你也可以快速知道此品牌的特色與專長。此篇後段會做整理。看過之後，原來波爾的一些專利技術令人驚豔難忘，除了大家朗朗上口的夜光技術，
 還有一些防磁防震阿也是很有魅力！
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/watch62a.JPG)
@@ -76,7 +78,7 @@ Webb C. BALL所創立的系統是首個獲得廣泛接受和稱許的成功鐵�
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/watch62c.JPG)
 
-### 最亮耐撞抗磁防水又準
+### 最亮 耐撞 抗磁 防水 又準。好像有點強！
 1. 夜間讀時起革命
 1. 自家製造天文台認證機芯
 1. 904L 精鋼
