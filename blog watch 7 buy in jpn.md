@@ -18,18 +18,13 @@
 有在看錶或者玩錶的人都知道，在亞洲，日本也算是各界錶品牌的一個大市場，尤其是東京。東京都區部人口(2016年1月1日)約925萬人，為日本最多
 （台北人口大概三百萬人，新加坡人口大概五百多萬人）。
 
-### [Jackroad](https://www.jackroad.co.jp/shop/r/rjomaqn/)
+## [Jackroad](https://www.jackroad.co.jp/shop/r/rjomaqn/)
 [地址](https://www.google.com.tw/maps/place/Jackroad/@35.7089299,139.6657768,15z/data=!4m12!1m6!3m5!1s0x0:0x2b38b39b82078987!2sJackroad!8m2!3d35.7089299!4d139.6657768!3m4!1s0x0:0x2b38b39b82078987!8m2!3d35.7089299!4d139.6657768)
 
-區分的非常詳細，主要分，新表區，二手錶區，古董表區，女表區，而且時不時會有中文店員在場。
-
-### [龜吉](http://www.kame-kichi.com)
+## [龜吉](http://www.kame-kichi.com)
 [地址](https://www.google.com.tw/maps/place/%E3%81%BE%E3%81%98%E3%82%81%E3%81%AA%E3%81%A8%E3%81%91%E3%81%84%E3%82%84+%E3%81%8B%E3%82%81%E5%90%89/@35.7093504,139.6634075,17z/data=!3m1!4b1!4m5!3m4!1s0x6018f297492837e3:0xa2c571f9cbcaf172!8m2!3d35.7093504!4d139.6656015)
 
-自稱表價全東京最低，這個還真不是吹的。下面舉一個例子，鬼王為例子，龜吉標價是1,000,980日幣，退稅後折算成人民幣價格為6.1萬元，而且是全新款，
-全球可保！（編者的話：鬼王國內公價91000人民幣；香港公價82500港幣，換成人民幣71000人民幣左右；通過對比，剩下的可不是一點呢
-
-### [寶石廣場](http://housekihiroba.jp)
+## [寶石廣場](http://housekihiroba.jp)
 [地址](https://www.google.com.tw/maps/place/HOUSEKIHIROBA+Shibuya+Main+Store/@35.6610015,139.6971715,17.44z/data=!4m8!1m2!2m1!1z5a-255-z5buj5aC0IOadseS6rOmDvea4i-iwt-WNgA!3m4!1s0x0:0x460ce819afe5cd9!8m2!3d35.6602868!4d139.6981962)
 
 位於東京鬧區涉谷109百貨的後方，大家去涉谷逛街時不仿可覷看看這家寶石廣場。
