@@ -15,9 +15,11 @@
 常常戴著手錶，要是能夠讓心情愉悅，耐用戴個好幾年，基本上就物超所值了。
 
 ## 東京哪裡逛買手錶？
-有在看錶或者玩錶的人都知道，在亞洲，日本也算是各界錶品牌的一個大市場，尤其是東京人口眾多，消費能力驚人，奢侈品的交流量更大（東京大概一千多萬人，台北大概三百萬，新加坡大概五百多萬）。
+有在看錶或者玩錶的人都知道，在亞洲，日本也算是各界錶品牌的一個大市場，尤其是東京人口眾多，消費能力驚人，奢侈品的交流量更大（
+[東京大概一千多萬人](https://en.wikipedia.org/wiki/List_of_Asian_cities_by_population_within_city_limits
+)
+，台北大概三百萬，新加坡大概五百多萬）。
 
-https://en.wikipedia.org/wiki/List_of_Asian_cities_by_population_within_city_limits
 
 
 ## [Jackroad](https://www.jackroad.co.jp/shop/r/rjomaqn/)
