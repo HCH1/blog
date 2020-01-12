@@ -16,11 +16,8 @@
 
 ## 東京哪裡逛買手錶？
 有在看錶或者玩錶的人都知道，在亞洲，日本也算是各界錶品牌的一個大市場，尤其是東京人口眾多，消費能力驚人，奢侈品的交流量更大（
-[東京大概一千多萬人](https://en.wikipedia.org/wiki/List_of_Asian_cities_by_population_within_city_limits
-)
+[東京大概一千多萬人](https://en.wikipedia.org/wiki/List_of_Asian_cities_by_population_within_city_limits)
 ，台北大概三百萬，新加坡大概五百多萬）。
-
-
 
 ## [Jackroad](https://www.jackroad.co.jp/shop/r/rjomaqn/)
 [地址](https://www.google.com.tw/maps/place/Jackroad/@35.7089299,139.6657768,15z/data=!4m12!1m6!3m5!1s0x0:0x2b38b39b82078987!2sJackroad!8m2!3d35.7089299!4d139.6657768!3m4!1s0x0:0x2b38b39b82078987!8m2!3d35.7089299!4d139.6657768)
