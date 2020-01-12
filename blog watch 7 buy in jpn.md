@@ -38,6 +38,7 @@
 ![f1](https://github.com/HCH1/blog/blob/master/fig/watch72a.png)
 
 以網站設計來說，我也比較喜歡寶石廣場。
+
 PRO:
 1. 英文介面好，少翻譯錯誤。
 1. 系列分類清直覺。
@@ -47,7 +48,7 @@ PRO:
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/watch72b.png)
 
-舉例來說，我們先點進去[ROLE](https://housekihiroba.jp/shop/c/c01rx_dC/)
+舉例來說，我們先點進去[ROLEX](https://housekihiroba.jp/shop/c/c01rx_dC/)
 ，往下就會看到清楚的系列分類，像是常見的潛水錶，日顯等等：
 1. ROLEX DAYTONA (new)
 1. ROLEX Explorer(New)
@@ -63,10 +64,15 @@ PRO:
 1. ROLEX Perpetual(New)
 1. ROLEX Sky-Dweller(New)
 
-![f1](https://github.com/HCH1/blog/blob/master/fig/watch72c.png)
-然後我點選
-[DATEJUST](https://housekihiroba.jp/shop/c/c01rxnw08_dC/)
-就會看到網頁後半段有產品的小圖和對應售價，讓買家能夠快速從外形啊顏色啊馬上知道要選哪個。
+![f1](https://github.com/HCH1/blog/blob/master/fig/watch72d.png)
+
+舉例來說，若點選中古的DATEJUST，MEN and color=blue：
+[DATEJUST](https://housekihiroba.jp/shop/c/c01rxus08_dC/?filtercode1=m&filtercode2=bl)
+就會看到網頁被篩選出產品小圖和對應售價，讓買家能夠快速從外形啊顏色啊馬上知道要選哪個。若是沒有售價就代表已售SOLD OUT。
+
+![f1](https://github.com/HCH1/blog/blob/master/fig/watch72e.png)
+
+點選一隻你喜歡的，就會進到產品的詳細介紹，該網站還有特色就是會把中古手錶的瑕疵處也是拍照清楚，不得不佩服日本人的細心謹慎。
 
 
 ### 補充
