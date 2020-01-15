@@ -2,6 +2,7 @@
 ![f1](https://github.com/HCH1/blog/blob/master/fig/helpbuy0.png)
 
 ## 幫代購新加坡以下商品！送禮自用兩相宜。過年犒賞自己：Ｄ
+## 代購第一步：[google form請填寫收件者與商品訊息：Ｄ](https://docs.google.com/forms/d/e/1FAIpQLSc15kKasA8VLIjNCgcmNpE2UMiea6RGQ6-NljsGGqSxL9lVtA/viewform)
 
 ### [Hegen奶瓶界的愛馬仕](https://www.hegen.com/shop)
 ![f1](https://github.com/HCH1/blog/blob/master/fig/helpbuy2.png)
@@ -37,8 +38,6 @@
 備註：
 1. 因為行李箱不大，只收兩位顧客：Ｄ
 1. 只幫代購項鍊或者耳環。
-
-## 代購第一步：[google form請填寫收件者與商品訊息：Ｄ](https://docs.google.com/forms/d/e/1FAIpQLSc15kKasA8VLIjNCgcmNpE2UMiea6RGQ6-NljsGGqSxL9lVtA/viewform)
 
 ## 郵寄方式只限：全家店到店
 1. [請給您家附近全家門市編號查詢](https://www.famiport.com.tw/Web_Famiport/page/ShopQuery.aspx)
