@@ -48,6 +48,9 @@
 #### SPA按摩環境很好，但是45%實在貴ＸＤ
 ![f1](https://github.com/HCH1/blog/blob/master/fig/batam4.jpg)
 
+#### 按摩價位
+![f1](https://github.com/HCH1/blog/blob/master/fig/batam4b.jpg)
+
 #### 早餐豐盛，場地寬敞，面海景
 ![f1](https://github.com/HCH1/blog/blob/master/fig/batam5.jpg)
 
