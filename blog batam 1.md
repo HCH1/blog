@@ -42,8 +42,13 @@
 1. 浴室有橢圓大浴缸，但是熱水不是很熱，水柱也很不大。
 1. wifi不是很順暢，我們是住兩天一夜，週五下午到，大廳的wifi滿快的，但是套房的wifi就常常要重新連線。
 
+#### 大廳與房間享受無敵海景
 ![f1](https://github.com/HCH1/blog/blob/master/fig/batam3.jpg)
+
+#### SPA按摩環境很好，但是45%實在貴ＸＤ
 ![f1](https://github.com/HCH1/blog/blob/master/fig/batam4.jpg)
+
+#### 早餐豐盛，場地寬敞，面海景
 ![f1](https://github.com/HCH1/blog/blob/master/fig/batam5.jpg)
 
 ## End
