@@ -49,7 +49,7 @@
 ![f1](https://github.com/HCH1/blog/blob/master/fig/batam4.jpg)
 
 #### 按摩價位
-![f1](https://github.com/HCH1/blog/blob/master/fig/batam4b.jpg)
+![f1](https://github.com/HCH1/blog/blob/master/fig/batam4b.png)
 
 #### 早餐豐盛，場地寬敞，面海景
 ![f1](https://github.com/HCH1/blog/blob/master/fig/batam5.jpg)
