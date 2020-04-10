@@ -1,4 +1,4 @@
-# 3分鐘弄懂eMask 口罩預購系統！心得與整理(2020) Introduction of eMask Ordering System!
+# 3分鐘弄懂台灣eMask口罩預購系統！教學與懶人包整理(2020) Introduction of eMask Ordering System!
 ![f1](https://github.com/HCH1/blog/blob/master/fig/emask1.png)
 
 #### [圖文好讀版]()
