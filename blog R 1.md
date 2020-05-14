@@ -5,18 +5,23 @@
 #### [My Instagram](https://www.instagram.com/redbox111)
 
 ## 前言
-現今的社會與科技進度飛快，也造成的大量的資訊爆炸性的釋出。諸如前幾年常掛在嘴邊的大數據和人工智慧等等。以前的學習或者上班模式，大多是仰賴於紙本與部分的電腦輸入。而如今，可能excel or powerpoint變成人人必備的辦公技能之一。不光是這些偏向專業或辦公的軟體，就算你要當網紅，你也要會基本的app能力，例如:IG FB 修圖軟體等等。總言之，這些軟體是讓你的生活變得更輕鬆，更有趣才是。
+現今的社會與科技進度飛快，也造成的大量的資訊爆炸性的釋出。諸如前幾年常掛在嘴邊的大數據和人工智慧等等。以前的學習或者上班模式，大多是仰賴於紙本與部分的電腦輸入。而如今，可能excel or powerpoint變成人人必備的辦公技能之一。不光是這些偏向專業或辦公的軟體，就算你要當網紅，你也要會基本的app能力，例如: IG FB 修圖軟體等等。總言之，這些軟體是讓你的生活變得更輕鬆，更有趣才是。
 
 你也知道，當你要跨入一個新知識領域，是痛苦且漫長的學習曲線。熟練之前更是一段不歸路，靠的只是一股腦的傻勁與熱誠。順道一提的是，或許你曾經有過此經驗，在學習某事情的當下，時光飛逝，彷彿進入的**心流**。筆者在學習**程式語言R**的時候，就有類似的經驗，故希望寫下一些經驗談與分享，能夠幫助到某些人，也算是樂趣之一。
 
 ### (以下節錄自維基百科)
-R语言，一種自由軟體程式語言與操作環境，主要用于统计分析、绘图、数据挖掘。R本來是由來自新西蘭奧克蘭大學的罗斯·伊哈卡和罗伯特·杰特曼開發（也因此稱為R），現在由“R開發核心團隊”負責開發。R基于S语言的一个GNU計劃项目，所以也可以当作S语言的一种实现，通常用S语言编写的代码都可以不作修改的在R环境下运行。R的語法是來自Scheme。
+R語言，一種自由軟體程式語言與操作環境，主要用於統計分析、繪圖、數據挖掘。 R本來是由來自新西蘭奧克蘭大學的羅斯·伊哈卡和羅伯特·傑特曼開發（也因此稱為R），現在由“R開發核心團隊”負責開發。 R基於S語言的一個GNU計劃項目，所以也可以當作S語言的一種實現，通常用S語言編寫的代碼都可以不作修改的在R環境下運行。 R的語法是來自Scheme。
 
-R的原始碼可自由下載使用，亦有已編譯的執行檔版本可以下載，可在多种平台下运行，包括UNIX（也包括FreeBSD和Linux）、Windows和MacOS。R主要是以命令行操作，同時有人開發了幾種圖形用戶界面，其中RStudio是最为广泛使用的整合開發環境。
+R的原始碼可自由下載使用，亦有已編譯的執行檔版本可以下載，可在多種平台下運行，包括UNIX（也包括FreeBSD和Linux）、Windows和MacOS。 R主要是以命令行操作，同時有人開發了幾種圖形用戶界面，其中RStudio是最為廣泛使用的整合開發環境。
 
-### 提醒您！
+### 只要您:
+1. 有電腦，MAC or WIN10都可以。
+1. 要有網路，因為隨後會介紹基於網路撰寫的R介面。
+1. 會用excel，有用過vlookup等等的公式或邏輯運算
 
-![f1](https://github.com/HCH1/blog/blob/master/fig/r2.png)
+### 那就來開始介紹囉!
+
+![f1](https://github.com/HCH1/blog/blob/master/fig/r2.JPG)
 
 若您是：
 1. 在海外工作，但身邊有自己的健保卡
@@ -36,7 +41,7 @@ MAC電腦驗安裝元件，才能認證健保卡。
 
 1. 安裝mac.Install1.pkg之前，通常點選 系統（齒輪圖案）然後點選 隱私（房屋圖案），進去解鎖安裝mac.Install1.pkg。
 
-![f1](https://github.com/HCH1/blog/blob/master/fig/r3.png)
+![f1](https://github.com/HCH1/blog/blob/master/fig/r3.JPG)
 
 ## [首次登入請先申請 Register for New Account](https://cloudicweb.nhi.gov.tw/cloudic/system/mlogin.aspx)
 健保卡網路註冊服務。通常你是第一次使用，所以請先註冊。
@@ -61,13 +66,13 @@ MAC電腦驗安裝元件，才能認證健保卡。
 
 這樣你就成功完成帳號和密碼了！
 
-![f1](https://github.com/HCH1/blog/blob/master/fig/emask2.png)
+![f1](https://github.com/HCH1/blog/blob/master/fig/emask2.JPG)
 
 ## [eMask 口罩預購系統](https://emask.taiwan.gov.tw/msk/index.jsp)
 
 點選：健保卡＋註冊密碼 用這個方式身份驗證。
 
-![f1](https://github.com/HCH1/blog/blob/master/fig/r4.png)
+![f1](https://github.com/HCH1/blog/blob/master/fig/r4.JPG)
 
 然後會進到：eMask 口罩預購系統 系統環境檢查。檢查項目有以下三項：
 
@@ -78,7 +83,7 @@ MAC電腦驗安裝元件，才能認證健保卡。
 
 順利通過後就點選下一步：身分驗證
 
-![f1](https://github.com/HCH1/blog/blob/master/fig/r5.png)
+![f1](https://github.com/HCH1/blog/blob/master/fig/r5.JPG)
 
 畫面會進到：驗證方式：健保卡＋註冊密碼
 1. 讀卡機狀態
