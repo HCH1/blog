@@ -1,7 +1,5 @@
-# 3分鐘弄懂R程式語言！教學3與心得分享Variables (2020) Introduction of R programming ep3!
+# 3分鐘弄懂R程式語言！教學3與心得分享Variables Operators (2020) Introduction of R programming ep3!
 ![f1](https://github.com/HCH1/blog/blob/master/fig/r3.JPG)
-
-#### [圖文好讀版]()
 
 ## 前言
 現今的社會與科技進度飛快，也造成的大量的資訊爆炸性的釋出。諸如前幾年常掛在嘴邊的大數據和人工智慧等等。以前的學習或者上班模式，大多是仰賴於紙本與部分的電腦輸入。而如今，可能excel or powerpoint變成人人必備的辦公技能之一。不光是這些偏向專業或辦公的軟體，就算你要當網紅，你也要會基本的app能力，例如: IG FB 修圖軟體等等。總言之，這些軟體是讓你的生活變得更輕鬆，更有趣才是。
@@ -20,102 +18,123 @@ R的原始碼可自由下載使用，亦有已編譯的執行檔版本可以下�
 
 
 ## Variables變數
-導讀: 常用excel的人，大多數會把數據分成數字或文字，然後進行運算，重組，尋找等等。但程式語言會把這類的數據或變量，看得很細，越低階的語言(越靠近PC端)更是嚴謹，例如你可能有聽過有些blog在說: 字符，寬字符，整數，浮點數，雙浮點數，布林值等。
+我們很常遇到一種情況，例如將一個矩陣，取一個外號。好處是: 程式碼簡潔，也方便歸類和使用，也有一個頓點去做事。
+我常用舉例: a <- 1 或 a = 1，這樣a就是整數了。當然你取外號可對"對象object"或者"數據data"來取都可。
 
-做任何事情之前，有"對象"是最重要的。。R語言的objects有六種:
-1. Vectors
-1. Lists
-1. Matrices
-1. Arrays
-1. Factors
-1. Data Frames
+然後外號，可以取長一點但是要小心只用以下就好: nick_name，nick.name，nick1name，nickname之類的。一些特殊符號@#$%^就別去亂用當作外號。
 
-![f1](https://github.com/HCH1/blog/blob/master/fig/r3b.JPG)
-
-[google關鍵字可以找到有人整理成圖片表示，淺顯易懂!](https://www.google.com/search?q=R+-+Data+Types&tbm=isch&ved=2ahUKEwiR9cPJl7PpAhUPWysKHTUTAxkQ2-cCegQIABAA&oq=R+-+Data+Types&gs_lcp=CgNpbWcQDFAAWABgwzRoAHAAeACAAQCIAQCSAQCYAQCqAQtnd3Mtd2l6LWltZw&sclient=img&ei=mSK9XtHEF4-2rQG1pozIAQ&bih=937&biw=1920)
-
-### Vectors向量
-類似公車很多窗戶，數據住在裡面，一個"直排或橫排，類似數學矩陣的row or col。裡面只能塞同一種類型的數據型態!
-
-### Matrices矩陣
-由多個直排或橫排的Vectors組成。裡面只能塞同一種類型的數據型態!
-
-### Data Frames好矩陣
-或有人問，若是矩陣不同的直排我想塞入不同的數據型態，例如點名表，第一col放學號，第二col放人名之類。那請用Data Frames就對了。
-我在使用R做矩陣處理時候，九成都是轉換成Data Frames，非常實用。
+### 外號可用 _ . 數字，但都盡量放在中間
 
 ```
-# Create the data frame.
-BMI <- 	data.frame(
-   gender = c("Male", "Male","Female"), 
-   height = c(152, 171.5, 165), 
-   weight = c(81,93, 78),
-   Age = c(42,38,26)
-)
-print(BMI)
+# Assignment using equal operator.
+var.1 = c(0,1,2,3)           
+# Assignment using leftward operator.
+var.2 <- c("learn","R")   
+# Assignment using rightward operator.   
+c(TRUE,1) -> var.3           
+print(var.1)
+print(var.2)
+print(var.3)
 ```
 
-### Lists清單
-類似捷運車廂，每個車廂可放入不同的對象objects!
+## Operators算子
+1. Arithmetic Operators 算術
+1. Relational Operators 關係
+1. Logical Operators 邏輯
+1. Assignment Operators 賦予
+1. Miscellaneous Operators 雜項
 
-### Arrays超矩陣
-類似多維度的矩陣，不常用。
-
-## 再來，每個對象objects身上可放數據Data Types。至少五種:
-1. integer
-1. numeric
-1. character
-1. logical
-1. factor
-1. missing
-
-### integer整數
-沒有小數點。例如: 1, 100, -9
-
-### numeric數值
-要多細有多細，小數點。例如: 0.1, -0.09, 234.567
-
-### character字符
-英文字或單字之類的。例如: “A”, “hello”, “welcome”
+### Arithmetic Operators 算術
+[以google找圖當作範例來說明](https://www.google.com/search?q=R+Variables+Operators&tbm=isch&ved=2ahUKEwj-yrybmbPpAhVFFnIKHfa2DsEQ2-cCegQIABAA&oq=R+Variables+Operators&gs_lcp=CgNpbWcQAzoECAAQHjoGCAAQCBAeOgQIABAYOgYIABAKEBhQoWNY9mRgwmhoAHAAeACAAT6IAXuSAQEymAEAoAEBqgELZ3dzLXdpei1pbWc&sclient=img&ei=USS9Xr7eKMWsyAP27bqIDA&bih=937&biw=1920#imgrc=9ZUHUT2N6Jwm1M)
+: 算術就是常見的 加 減 乘 除 指數等等，若常用excel這些都一樣不陌生。大多程式語言這部分都一樣。
+1. +
+1. -
+1. *
+1. /
+1. %%
+1. %/%	
+1. ^
 
 ```
-myname <- "nick"
-class(myname)
+v <- c( 2,5.5,6)
+t <- c(8, 3, 4)
+print(v/t)
+print(v%%t)
+print(v%/%t)
 ```
 
-### missing
-例如excel有時候某欄位是空白的，那R讀取後會視為NA。
-
-### logical邏輯
-有人說布林值，代表真或假，二選一。例如: TRUE or FALSE
-
-```
-favourite.numeric <- as.numeric(8.8)
-print(favourite.numeric)
-favourite.numeric == 8.8
-```
-
-### factor因素
-有意義的類別。例如捷運路線圖表，有一col列出顏色:紅線綠線藍線等等，這就是factor。
+### Relational Operators 關係
+基本上就是 大於 等於 小於 不等於。
+1. >
+1. <
+1. ==
+1. <=
+1. >=
+1. !=
 
 ```
-# Create a vector.
-apple_colors <- c('green','green','yellow','red','red','red','green')
-
-# Create a factor object.
-factor_apple <- factor(apple_colors)
-
-# Print the factor.
-print(factor_apple)
-print(nlevels(factor_apple))
+v <- c(2,5.5,6,9)
+t <- c(8,2.5,14,9)
+print(v == t)
+print(v!=t)
 ```
 
-### 總結: 
-對象objects有"向量(vector)"公車 "清單(list)"捷運 矩陣(mx) 好矩陣(df) 超矩陣(array)。
+### Logical Operators 邏輯
+1. &
+1. |
+1. !
+1. &&
+1. ||
 
-### 然後對象身上的Data Types有: 
-在國外搭捷運，付錢有是"整數或小數"，站名"中英(character)"文"二選一(logical)"，很多"顏色(factor)"路線。
+```
+v <- c(3,1,TRUE,2+3i)
+t <- c(4,1,FALSE,2+3i)
+#
+print(v&t)
+[1]  TRUE  TRUE FALSE  TRUE
 
+print(v|t)
+[1]  TRUE FALSE  TRUE  TRUE
+
+print(!v)
+[1] FALSE  TRUE FALSE FALSE
+
+print(v&&t)
+[1] TRUE
+
+print(v||t)
+[1] FALSE
+```
+
+### Assignment Operators 賦予
+就是前半部面講過的取外號。
+
+### Miscellaneous Operators 雜項
+1. %in% 
+1. %*% 
+1. : 
+
+```
+#檢查東西是否在向量vector裡面
+v1 <- 8
+v2 <- 12
+t <- 1:10
+print(v1 %in% t) 
+print(v2 %in% t) 
+```
+
+```
+#矩陣matrix的乘法運算。M_2x3 %*% N_3x2 會變成M_2x2
+M = matrix( c(2,6,5,1,10,4), nrow = 2,ncol = 3,byrow = TRUE)
+t = M %*% t(M)
+print(t)
+```
+
+```
+#給頭尾去生成vector
+v <- 2:8
+print(v)
+```
 
 ## 總結（若喜歡請按讚加分享：）
 因為接觸和使用R一年了，故寫下多篇希望能幫到大家！
