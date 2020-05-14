@@ -17,19 +17,18 @@ R的原始碼可自由下載使用，亦有已編譯的執行檔版本可以下�
 ### 只要您:
 1. 有電腦，MAC or WIN10都可以。
 1. 要有網路，因為隨後會介紹基於網路撰寫的R介面。
-1. 會用excel，有用過vlookup等等的公式或邏輯運算
+1. 會用excel，有用過vlookup等等的公式或邏輯運算。
+
+然後我會把一些好用的網路資源或者SOP跟你說，讓你學習曲線可以快速點!
 
 ### 那就來開始介紹囉!
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/r2.JPG)
 
-若您是：
-1. 在海外工作，但身邊有自己的健保卡
-1. 身邊有讀卡機
-1. 使用MAC電腦
-1. 新手第一次口罩預購，此篇會教你註冊認證等等
+## [請先註冊rstudio cloud](https://rstudio.cloud/projects)
 
-## [我的讀卡機是使用EZ100PU(for MAC)，驅動程式在這](https://www.castlestech.com/zh-hant/%e6%aa%94%e6%a1%88%e4%b8%8b%e8%bc%89/)
+
+
 下載到MAC電腦，解壓縮EZ100_MAC10_15_driver_package.zip，然後安裝EZ100.pkg。
 
 1. 查詢MAC版本，螢幕左上，點選about this mac，大多數是：MAC(10.11/10.12/10.14/10.15.0)
