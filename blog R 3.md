@@ -19,9 +19,9 @@ R的原始碼可自由下載使用，亦有已編譯的執行檔版本可以下�
 
 ## Variables變數
 我們很常遇到一種情況，例如將一個矩陣，取一個外號。好處是: 程式碼簡潔，也方便歸類和使用，也有一個頓點去做事。
-我常用舉例: a <- 1 或 a = 1，這樣a就是整數了。當然你取外號可對"對象object"或者"數據data"來取都可。
+例如: a <- 1 或 a = 1，這樣a就是整數了。當然你取外號可"對象object"或"數據data"來取都可。
 
-然後外號，可以取長一點但是要小心只用以下就好: nick_name，nick.name，nick1name，nickname之類的。一些特殊符號@#$%^就別去亂用當作外號。
+然後外號，可取長一點但小心只用以下就好: nick_name，nick.name，nick1name，nickname之類的。一些特殊符號@#$%^就別去亂用當作外號。
 
 ### 外號可用 _ . 數字，但都盡量放在中間
 
@@ -46,14 +46,7 @@ print(var.3)
 
 ### Arithmetic Operators 算術
 [以google找圖當作範例來說明](https://www.google.com/search?q=R+Variables+Operators&tbm=isch&ved=2ahUKEwj-yrybmbPpAhVFFnIKHfa2DsEQ2-cCegQIABAA&oq=R+Variables+Operators&gs_lcp=CgNpbWcQAzoECAAQHjoGCAAQCBAeOgQIABAYOgYIABAKEBhQoWNY9mRgwmhoAHAAeACAAT6IAXuSAQEymAEAoAEBqgELZ3dzLXdpei1pbWc&sclient=img&ei=USS9Xr7eKMWsyAP27bqIDA&bih=937&biw=1920#imgrc=9ZUHUT2N6Jwm1M)
-: 算術就是常見的 加 減 乘 除 指數等等，若常用excel這些都一樣不陌生。大多程式語言這部分都一樣。
-1. +
-1. -
-1. *
-1. /
-1. %%
-1. %/%	
-1. ^
+: + - * / %% %/% ^ 就是常見的 加 減 乘 除 指數等等，若常用excel這些都一樣不陌生。大多程式語言這部分都一樣。
 
 ```
 v <- c( 2,5.5,6)
@@ -64,13 +57,7 @@ print(v%/%t)
 ```
 
 ### Relational Operators 關係
-基本上就是 大於 等於 小於 不等於。
-1. >
-1. <
-1. ==
-1. <=
-1. >=
-1. !=
+基本上就是 大於 等於 小於 不等於 > < == <= >= !=
 
 ```
 v <- c(2,5.5,6,9)
@@ -80,11 +67,7 @@ print(v!=t)
 ```
 
 ### Logical Operators 邏輯
-1. &
-1. |
-1. !
-1. &&
-1. ||
+& | ! && ||
 
 ```
 v <- c(3,1,TRUE,2+3i)
@@ -110,9 +93,7 @@ print(v||t)
 就是前半部面講過的取外號。
 
 ### Miscellaneous Operators 雜項
-1. %in% 
-1. %*% 
-1. : 
+: %in% %*%
 
 ```
 #檢查東西是否在向量vector裡面
