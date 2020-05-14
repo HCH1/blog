@@ -40,7 +40,7 @@ google關鍵字可以找到有人整理成圖片表示，淺顯易懂!
 ### Matrices矩陣
 由多個直排或橫排的Vectors組成。裡面只能塞同一種類型的數據型態!
 
-### Data Frames超好矩陣
+### Data Frames好矩陣
 或有人問，若是矩陣不同的直排我想塞入不同的數據型態，例如點名表，第一col放學號，第二col放人名之類。那請用Data Frames就對了。
 我在使用R做矩陣處理時候，九成都是轉換成Data Frames，非常實用。
 
@@ -95,8 +95,8 @@ print(favourite.numeric)
 favourite.numeric == 8.8
 ```
 
-### factor
-因素，有意義的類別。例如捷運路線圖表，有一col列出顏色:紅線綠線藍線等等，這就是factor。
+### factor因素
+有意義的類別。例如捷運路線圖表，有一col列出顏色:紅線綠線藍線等等，這就是factor。
 
 ```
 # Create a vector.
@@ -110,9 +110,11 @@ print(factor_apple)
 print(nlevels(factor_apple))
 ```
 
-### 總結: 對象objects有"向量"公車 矩陣 超好矩陣 超矩陣 捷運等等。
+### 總結: 
+對象objects有"向量"公車 "清單"捷運 矩陣 好矩陣 超矩陣。
 
-### 然後對象身上的Data Types有: 在國外搭捷運，付錢有是"整數或小數"，站名"中英"文"二選一"，很多"顏色"路線。
+### 然後對象身上的Data Types有: 
+在國外搭捷運，付錢有是"整數或小數"，站名"中英"文"二選一"，很多"顏色"路線。
 
 
 ## 總結（若喜歡請按讚加分享：）
