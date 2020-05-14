@@ -14,64 +14,41 @@ R語言，一種自由軟體程式語言與操作環境，主要用於統計分�
 R的原始碼可自由下載使用，亦有已編譯的執行檔版本可以下載，可在多種平台下運行，包括UNIX（也包括FreeBSD和Linux）、Windows和MacOS。 R主要是以命令行操作，同時有人開發了幾種圖形用戶界面，其中RStudio是最為廣泛使用的整合開發環境。
 
 ### 只要你:
-1. 有rstudio cloud。
+1. 有使用rstudio cloud。
+1. 有用過excel整理數據甚至會用vlookup。
 這樣你讀這篇會省力。然後我會把一些好用的網路資源或者SOP跟你說，讓你學習曲線可以快速點!
 
 
 ## R - Data Types
+### 變量objects
+導讀: 常用excel的人，大多數會把數據分成數字或文字，然後進行運算，重組，尋找等等。但程式語言會把這類的數據或變量，看得很細，越低階的語言(越靠近PC端)更是嚴謹，例如你可能有聽過有些blog在說: 字符，寬字符，整數，浮點數，雙浮點數，布林值等。
+
+R語言的"變量"型態至少五種:
+1. Vectors
 1. Lists
 1. Matrices
 1. Arrays
 1. Factors
 1. Data Frames
 
-我不太懂為何很少blog提到這個，rstudio cloud，只要有網路網頁，不受限於地點或很多台電腦，就可以使用。
+### Vectors
 
-你要寫excel你就必須安裝office，不然就是用網路excel or google excel。R語言類似，你要不就安裝R語言在你的電腦裡，若你有三台電腦，你就要安裝三次然後三次維護更新。第二種方法就是使用網路R，但百家爭鳴，這裡我使用並推薦rstudio cloud。
 
-rstudio cloud可直接用github登入，github也好用，或可考慮，一勞永逸。
 
-### [或可考慮一起註冊github(擺放程式碼的地方)](https://github.com/)
 
+
+
+### [](https://)
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/r2c.JPG)
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/r2b.JPG)
 
-## 左邊欄位的guide。Your Workspace > Projects
-接下來介紹rstudio cloud操作介面UI。首先左邊欄位中間的guide，會教你如何建立專案。類似再google drive建立folder和excel。
-
-左邊上面點選Your Workspace，畫面中上點選Projects，建立。過幾秒鐘後，畫面中間會出現Untitled Project。點選後會進去到rstudio cloud UI。
-
-(我習慣把介面改成黑底，不傷眼。可去tools > optoins修改)
-
 ![f1](https://github.com/HCH1/blog/blob/master/fig/r2d.JPG)
-
-畫面分成四個，田字。
-1. 左上是撰寫code。
-1. 左下是運算結果。
-1. 右上會儲存數據，可以點開來看。
-1. 右下類似於我的電腦，可看資料放哪，也可上傳 刪除 改名檔案，點選more，還可複製 輸出 設定R的工作位置。
-
-首先新手可先玩玩看左上畫面，可上網找一下些簡單運算，然後點選run，即可運算。
-
-或者直接把程式碼，貼到左下畫面，按下enter，即可運算。
 
 範例:
 ```
-# My first program in R Programming
-myString <- "Hello, World!"
-print ( myString)
 
-# Create a matrix.
-M = matrix( c('a','a','b','c','b','a'), nrow = 2, ncol = 3, byrow = TRUE)
-print(M)
-
-# Create a list.
-list1 <- list(c(2,5,3),21.3,sin)
-
-# Print the list.
-print(list1)
 ```
 
 ## cheat sheets，要知道這裡可以查一些進階語法。
