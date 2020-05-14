@@ -1,4 +1,4 @@
-# 3分鐘弄懂R程式語言！教學與懶人包整理(2020) Introduction of R programming!
+# 3分鐘弄懂R程式語言！教學1與心得分享(2020) Introduction of R programming ep1!
 ![f1](https://github.com/HCH1/blog/blob/master/fig/r1.JPG)
 
 #### [圖文好讀版]()
