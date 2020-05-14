@@ -1,4 +1,4 @@
-# 3分鐘弄懂R程式語言！教學2與心得分享 R - Data Types (2020) Introduction of R programming ep3!
+# 3分鐘弄懂R程式語言！教學3與心得分享Variables (2020) Introduction of R programming ep3!
 ![f1](https://github.com/HCH1/blog/blob/master/fig/r3.JPG)
 
 #### [圖文好讀版]()
@@ -19,8 +19,7 @@ R的原始碼可自由下載使用，亦有已編譯的執行檔版本可以下�
 這樣你讀這篇會省力。然後我會把一些好用的網路資源或者SOP跟你說，讓你學習曲線可以快速點!
 
 
-## R - Data Types
-## 對象objects
+## Variables變數
 導讀: 常用excel的人，大多數會把數據分成數字或文字，然後進行運算，重組，尋找等等。但程式語言會把這類的數據或變量，看得很細，越低階的語言(越靠近PC端)更是嚴謹，例如你可能有聽過有些blog在說: 字符，寬字符，整數，浮點數，雙浮點數，布林值等。
 
 做任何事情之前，有"對象"是最重要的。。R語言的objects有六種:
