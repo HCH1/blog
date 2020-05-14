@@ -32,7 +32,8 @@ R的原始碼可自由下載使用，亦有已編譯的執行檔版本可以下�
 1. Data Frames
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/r2b.JPG)
-google關鍵字可以找到有人整理成圖片表示，淺顯易懂!
+
+[google關鍵字可以找到有人整理成圖片表示，淺顯易懂!](https://www.google.com/search?q=R+-+Data+Types&tbm=isch&ved=2ahUKEwi6j7jtwLLpAhUS5TgGHQk3Bk8Q2-cCegQIABAA&oq=R+-+Data+Types&gs_lcp=CgNpbWcQAzIECAAQHjIGCAAQCBAeMgYIABAIEB5Q2LfVA1jYt9UDYJy91QNoAHAAeACAASqIASqSAQExmAEAoAEBqgELZ3dzLXdpei1pbWc&sclient=img&ei=qse8XrqSMZLK4-EPie6Y-AQ&bih=937&biw=1920#imgrc=a8II-TxJPvFggM)
 
 ### Vectors向量
 類似公車很多窗戶，數據住在裡面，一個"直排或橫排，類似數學矩陣的row or col。裡面只能塞同一種類型的數據型態!
