@@ -20,10 +20,10 @@ R的原始碼可自由下載使用，亦有已編譯的執行檔版本可以下�
 
 
 ## R - Data Types
-### 變量objects
+### 物件或對象objects
 導讀: 常用excel的人，大多數會把數據分成數字或文字，然後進行運算，重組，尋找等等。但程式語言會把這類的數據或變量，看得很細，越低階的語言(越靠近PC端)更是嚴謹，例如你可能有聽過有些blog在說: 字符，寬字符，整數，浮點數，雙浮點數，布林值等。
 
-R語言的"變量"型態至少五種:
+做任何事情之前，有"對象"是最重要的。。R語言的objects有六種:
 1. Vectors
 1. Lists
 1. Matrices
@@ -31,25 +31,89 @@ R語言的"變量"型態至少五種:
 1. Factors
 1. Data Frames
 
-### Vectors
-
-
-
-
-
-
-### [](https://)
-
-![f1](https://github.com/HCH1/blog/blob/master/fig/r2c.JPG)
-
 ![f1](https://github.com/HCH1/blog/blob/master/fig/r2b.JPG)
+google關鍵字可以找到有人整理成圖片表示，淺顯易懂!
 
-![f1](https://github.com/HCH1/blog/blob/master/fig/r2d.JPG)
+### Vectors向量
+類似公車很多窗戶，數據住在裡面，一個"直排或橫排，類似數學矩陣的row or col。裡面只能塞同一種類型的數據型態!
 
-範例:
+### Matrices矩陣
+由多個直排或橫排的Vectors組成。裡面只能塞同一種類型的數據型態!
+
+### Data Frames超好矩陣
+或有人問，若是矩陣不同的直排我想塞入不同的數據型態，例如點名表，第一col放學號，第二col放人名之類。那請用Data Frames就對了。
+我在使用R做矩陣處理時候，九成都是轉換成Data Frames，非常實用。
+
+```
+# Create the data frame.
+BMI <- 	data.frame(
+   gender = c("Male", "Male","Female"), 
+   height = c(152, 171.5, 165), 
+   weight = c(81,93, 78),
+   Age = c(42,38,26)
+)
+print(BMI)
 ```
 
+### Lists清單
+類似捷運車廂，每個車廂可放入不同的對象objects!
+
+### Arrays超矩陣
+類似多維度的矩陣，不常用。
+
+再來，每個對象objects身上可放數據Data Types。至少五種:
+1. integer
+1. numeric
+1. character
+1. logical
+1. factor
+1. missing
+
+### integer整數
+沒有小數點。例如: 1, 100, -9
+
+### numeric數值
+要多細有多細，小數點。例如: 0.1, -0.09, 234.567
+
+### character字符
+英文字或單字之類的。例如: “A”, “hello”, “welcome”
+
 ```
+myname <- "nick"
+class(myname)
+```
+
+### missing
+例如excel有時候某欄位是空白的，那R讀取後會視為NA。
+
+### logical邏輯
+有人說布林值，代表真或假，二選一。例如: TRUE or FALSE
+
+```
+favourite.numeric <- as.numeric(8.8)
+print(favourite.numeric)
+favourite.numeric == 8.8
+```
+
+### factor
+因素，有意義的類別。例如捷運路線圖表，有一col列出顏色:紅線綠線藍線等等，這就是factor。
+
+```
+# Create a vector.
+apple_colors <- c('green','green','yellow','red','red','red','green')
+
+# Create a factor object.
+factor_apple <- factor(apple_colors)
+
+# Print the factor.
+print(factor_apple)
+print(nlevels(factor_apple))
+```
+
+### 總結: 對象objects有"向量"公車 矩陣 超好矩陣 超矩陣 捷運等等。
+
+### 然後對象身上的Data Types有: 在國外搭捷運，付錢有是"整數或小數"，站名"中英"文"二選一"，很多"顏色"路線。
+
 
 ## 總結（若喜歡請按讚加分享：）
 因為接觸和使用R一年了，故寫下多篇希望能幫到大家！
