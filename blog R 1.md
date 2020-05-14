@@ -24,11 +24,12 @@ R的原始碼可自由下載使用，亦有已編譯的執行檔版本可以下�
 
 ## [請先註冊rstudio cloud](https://rstudio.cloud/projects)
 我不太懂為何很少blog提到這個，rstudio cloud，只要有網路網頁，不受限於地點或很多台電腦，就可以使用。
+
 你要寫excel你就必須安裝office，不然就是用網路excel or google excel。R語言類似，你要不就安裝R語言在你的電腦裡，若你有三台電腦，你就要安裝三次然後三次維護更新。第二種方法就是使用網路R，但百家爭鳴，這裡我使用並推薦rstudio cloud。
 
 rstudio cloud可直接用github登入，github也好用，或可考慮，一勞永逸。
 
-#### [或可考慮一起註冊github(擺放程式碼的地方)](https://github.com/)
+### [或可考慮一起註冊github(擺放程式碼的地方)](https://github.com/)
 
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/r1c.JPG)
@@ -71,10 +72,8 @@ list1 <- list(c(2,5,3),21.3,sin)
 print(list1)
 ```
 
-
 ## cheat sheets，要知道這裡可以查一些進階語法。
 這很方便，有些常用熱門的package (類似懶人包)，或被整理成兩到三頁的總結，會有一個全面的概觀!
-
 
 ## 總結（若喜歡請按讚加分享：）
 因為接觸和使用R一年了，故寫下多篇希望能幫到大家！
