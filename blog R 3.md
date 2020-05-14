@@ -23,7 +23,7 @@ R的原始碼可自由下載使用，亦有已編譯的執行檔版本可以下�
 
 然後外號，可取長一點但小心只用以下就好: nick_name，nick.name，nick1name，nickname之類的。一些特殊符號@#$%^就別去亂用當作外號。
 
-### 外號可用 _ . 數字，但都盡量放在中間
+### 外號可用 _ . 123，但都盡量放在中間比較安全
 
 ```
 # Assignment using equal operator.
@@ -46,7 +46,7 @@ print(var.3)
 
 ### Arithmetic Operators 算術
 [以google找圖當作範例來說明](https://www.google.com/search?q=R+Variables+Operators&tbm=isch&ved=2ahUKEwj-yrybmbPpAhVFFnIKHfa2DsEQ2-cCegQIABAA&oq=R+Variables+Operators&gs_lcp=CgNpbWcQAzoECAAQHjoGCAAQCBAeOgQIABAYOgYIABAKEBhQoWNY9mRgwmhoAHAAeACAAT6IAXuSAQEymAEAoAEBqgELZ3dzLXdpei1pbWc&sclient=img&ei=USS9Xr7eKMWsyAP27bqIDA&bih=937&biw=1920#imgrc=9ZUHUT2N6Jwm1M)
-: + - * / %% %/% ^ 就是常見的 加 減 乘 除 指數等等，若常用excel這些都一樣不陌生。大多程式語言這部分都一樣。
+: +  -  *  /  %%  %/%  ^ 就是常見的 加 減 乘 除 指數等等，若常用excel這些都一樣不陌生。大多程式語言這部分都一樣。
 
 ```
 v <- c( 2,5.5,6)
@@ -57,7 +57,7 @@ print(v%/%t)
 ```
 
 ### Relational Operators 關係
-基本上就是 大於 等於 小於 不等於 > < == <= >= !=
+基本上就是 大於 等於 小於 不等於 >  <  ==  <=  >=  !=
 
 ```
 v <- c(2,5.5,6,9)
@@ -67,7 +67,7 @@ print(v!=t)
 ```
 
 ### Logical Operators 邏輯
-& | ! && ||
+&  |  !  &&  ||
 
 ```
 v <- c(3,1,TRUE,2+3i)
@@ -93,7 +93,7 @@ print(v||t)
 就是前半部面講過的取外號。
 
 ### Miscellaneous Operators 雜項
-: %in% %*%
+:  %in%  %*%
 
 ```
 #檢查東西是否在向量vector裡面
