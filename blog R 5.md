@@ -47,7 +47,7 @@ write.csv(x = ans1, row.names = FALSE, file = "ask2.csv")
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/r5c.JPG)
 
-## 最後介紹常用語法，用來檢查數據或對象:
+## 最後介紹常用語法，用來檢查對象數據:
 ```
 dir() #工作位置當下有哪些檔案?
 setwd("/cloud/project") #設定工作環境。也可用右下畫面按鈕設定
