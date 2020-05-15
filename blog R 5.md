@@ -20,7 +20,7 @@
 
 以下範本: 若計算的package很特別那一開始就要先呼叫該懶人包library()。
 
-再來就是任何你要跟你的數據，你就先存成excel CSV，然後讓R去讀取，使用read.csv()，header代表第一row你要不要當表格的標題?
+再來就是任何你的數據，你就先存成excel CSV，然後讓R去讀取，使用read.csv()，header代表第一row你要不要當表格的標題?
 
 再來就是先轉成好矩陣as.data.frame(in1)，最好給他取外號讓他變成其他，好處是: 才不會影響到原始數據。原始數據有時候也會給別人使用。
 
@@ -31,23 +31,49 @@ R語言，工作文件夾的位置很重要，你要在對的位置，才能讀�
 1. 右下畫面上邊有按鈕upload可上傳檔案。
 1. more > set as working 可把工作位置變成當下。這些是常做必要的。檔案要下載就用export。
 1. 將範例貼在左下畫面按enter，跑完之後會在右上畫面有數據。上邊有data(藍圈白三角)，
-1. 點選其中一個data左上畫面(左下會有View(in1))，會預覽表格數據，類似excel。這功能很方便階段性思考數據結構，處理後的檢查和找錯。
+1. 點選其中一個data左上畫面，左下畫面會有View(in1)，左上畫面會預覽表格數據，類似excel。這功能很方便階段性思考數據結構，處理後的檢查和找錯。
 
 ```
 library(plotly)
 in1 = read.csv("ask1.csv", header = TRUE)
 in2 <- as.data.frame(in1)
 a=1
+b=1.1
+c="red"
+d=TRUE
 ans1 <- in2
-write.csv(x = ans1, file = "ask2.csv")
+write.csv(x = ans1, row.names = FALSE, file = "ask2.csv")
 ```
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/r5c.JPG)
 
+## 最後介紹常用語法，用來檢查數據或對象:
+```
+dir() #工作位置當下有哪些檔案?
+setwd("/cloud/project") #設定工作環境。也可用右下畫面按鈕設定
+getwd() #工作位置是?
 
+str() #診斷對象或數據型態
+class() #速診對象或數據型態
+dim() #算矩陣維度
+length() #算向量長度
+head() #列出數據前十項
+as.data.frame() #轉換成好矩陣
+as.character() #轉換成字
+```
 
-
-
+```
+class(a)
+[1] "numeric"
+class(b)
+[1] "numeric"
+class(c)
+[1] "character"
+class(d)
+[1] "logical"
+class(in1)
+[1] "data.frame"
+```
 ## 總結
 讀檔案，計算，存檔案。有不懂得就去官網查語法，除非天天用，不然一定忘。
 其實範本代表規律常做的事情，接觸R語言一段時間後，你也會有自己的範本。這裡先給你懶人包，比較貼近真實案例。
