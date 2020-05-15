@@ -19,6 +19,7 @@
 但這邊所分享的，大多是程式碼前幾行的範本，千篇一律，基本功。
 
 以下範本: 若計算的package很特別那一開始就要先呼叫該懶人包library()。
+你若要安裝package，請在右下畫面上邊選packages > install，跳出的新視窗填入package名稱，然後按下install，就可安裝。不用打指令
 
 再來就是任何你的數據，你就先存成excel CSV，然後讓R去讀取，使用read.csv()，header代表第一row你要不要當表格的標題?
 
