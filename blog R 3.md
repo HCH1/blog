@@ -42,7 +42,17 @@ print(var.3)
 
 ### Arithmetic Operators 算術
 [以google找圖當作範例來說明](https://www.google.com/search?q=R+Variables+Operators&tbm=isch&ved=2ahUKEwj-yrybmbPpAhVFFnIKHfa2DsEQ2-cCegQIABAA&oq=R+Variables+Operators&gs_lcp=CgNpbWcQAzoECAAQHjoGCAAQCBAeOgQIABAYOgYIABAKEBhQoWNY9mRgwmhoAHAAeACAAT6IAXuSAQEymAEAoAEBqgELZ3dzLXdpei1pbWc&sclient=img&ei=USS9Xr7eKMWsyAP27bqIDA&bih=937&biw=1920#imgrc=9ZUHUT2N6Jwm1M)
-: +  -  *  /  %%  %/%  ^ 就是常見的 加 減 乘 除 指數等等，若常用excel這些都一樣不陌生。大多程式語言這部分都一樣。
+```
+: 
++  
+-  
+*  
+/  
+%%  
+%/%  
+^ 
+```
+就是常見的 加 減 乘 除 指數等等，若常用excel這些都一樣不陌生。大多程式語言這部分都一樣。
 
 ```
 v <- c( 2,5.5,6)
