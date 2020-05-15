@@ -32,6 +32,7 @@ for (variable in vector) {
 
 解法很多，提供一種:
 ```
+#直接複製貼上在四格左下，按enter
 a=0
 for (i in 1:10) {
   i <- a+i
@@ -43,10 +44,10 @@ i
 [1] 55
 ```
 
-![f1](https://github.com/HCH1/blog/blob/master/fig/r4.JPG)
+![f1](https://github.com/HCH1/blog/blob/master/fig/r4b.JPG)
 
 ## [ifelse(test, yes, no) 如果這樣 就A 不然B](https://www.rdocumentation.org/packages/base/versions/3.6.2/topics/ifelse)
-首先推薦以上連結，可去官方直接查詢語法怎用，網頁右上有告訴你屬於哪個package懶人包，網頁底大多有範例。
+首先推薦以上連結，可去官方直接查詢語法怎用，網頁右上有告訴你屬於哪個package懶人包 (From base v3.6.2)，網頁底大多有範例。
 
 在for迴圈裡，有時候會用到ifelse二元判別，如果這樣，就A，不然B。當然你也可塞很多串ifelse，就變成多元判斷。
 在真實例子，假如有一個捷運路線表格，col 1代表站名編號，col 2希望你藉由編號模式，找出站名是哪種顏色?紅色綠色藍色?
