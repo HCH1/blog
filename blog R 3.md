@@ -23,7 +23,7 @@ R的原始碼可自由下載使用，亦有已編譯的執行檔版本可以下�
 
 然後外號，可取長一點但小心只用以下就好: nick_name，nick.name，nick1name，nickname之類的。一些特殊符號@#$%^就別去亂用當作外號。
 
-### 外號可用 _ . 123，但都盡量放在中間比較安全
+### 取外號可用 _ . 123，但都盡量放在中間比較安全
 
 ```
 # Assignment using equal operator.
@@ -67,7 +67,7 @@ print(v!=t)
 ```
 
 ### Logical Operators 邏輯
-&  |  !  &&  ||
+比較少用。有這些 &  |  !  &&  ||
 
 ```
 v <- c(3,1,TRUE,2+3i)
@@ -93,7 +93,7 @@ print(v||t)
 就是前半部面講過的取外號。
 
 ### Miscellaneous Operators 雜項
-:  %in%  %*%
+:  %in% (滿常用的)    %*%
 
 ```
 #檢查東西是否在向量vector裡面
