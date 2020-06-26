@@ -1,4 +1,4 @@
-# 2020 Introduction of setup Medium/FB/IG app!
+# 2020 Medium/IG app quick guideline and PROS!
 ![f1](https://github.com/HCH1/blog/blob/master/fig/setblog0.JPG)
 
 ## outline
