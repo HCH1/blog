@@ -1,14 +1,21 @@
 # 2020 Medium/IG app quick guideline and PROS!
 ![f1](https://github.com/HCH1/blog/blob/master/fig/setblog0.JPG)
 
-## outline
+## Outline
 If you want to have your own blog or social media, I recommended use Medium+Instagram to 1st run your blog or small business.
 
-Both Medium and Instagram can meet the SEO of google, means if you spend lots fo time to make your blog and contains speciall and unique, 
+Both Medium and Instagram can meet the SEO of google, means if you spend lots of time to make your blog and contains speciall and unique, 
 and you do not need to concern to fine-tuned coding behind these app, then your blog can high probobility ppo in google 1st pages
 More PROS are: they also support mobile's app, and free, and still famous so far.
 
 Why not to try it now!?
+
+## PROS without being a member
+1. Easy to use via desktop or mobile.
+1. Easy to post photo or write a blog.
+1. Good frame can meet the SEO of google. (high % to pop in google page 1)
+1. Easy to your FB's friends.
+
 
 ## Join Medium app
 1. Go to [website](https://medium.com/)
@@ -18,7 +25,7 @@ Why not to try it now!?
 1. You are done!
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/setblog1a.JPG)
-## PROS without being a member
+## PROS
 1. New story
 1. Stories
 1. Series
@@ -33,9 +40,8 @@ Why not to try it now!?
 1. You are done!
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/setblog2a.JPG)
-## PROS without being a member
-1. post photo.
-1. comment in the post
+## PROS
+1. post photo and comment.
 1. enable story.
 1. link to your FB's friends
 
