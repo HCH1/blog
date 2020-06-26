@@ -10,33 +10,38 @@ More PROS are: they also support mobile's app, and free, and still famous so far
 
 Why not to try it now!?
 
-
 ## Join Medium app
-1. Go to [Medium.com](https://medium.com/)
+1. Go to [website](https://medium.com/)
+1. or by (iphone app)(https://apps.apple.com/us/app/medium/id828256236)
 1. click the “Get Started” button:
-1. Choose Google or Facebook. You’ll then be asked to log into your (Google or Facebook) account. Once you authorize Medium to access your account, 
-it will redirect you back to Medium. 
-4. You are done!
-
+1. Choose Google or Facebook. Once you authorize can access your account, it will re-direct back to main website. 
+1. You are done!
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/setblog1a.JPG)
-## Medium basic functions without a member
+## Basic functions without being a member
+PROS:
+1. New story
+1. Stories
+1. Series
+1. Stats
+1. Profile
+1. Settings
 
-New story
-Stories
-Series
-Stats
-Medium Partner Program
-Reading list
-Publications
-Customize your interests
-Profile
-Settings
-Help
-Sign out
+## Join Instagram app
+1. Go to [website](https://www.instagram.com/)
+1. or by (iphone app)(https://apps.apple.com/us/app/instagram/id389801252)
+1. Choose Google or Facebook. Once you authorize can access your account, it will re-direct back to main website. 
+1. You are done!
 
+![f1](https://github.com/HCH1/blog/blob/master/fig/setblog2a.JPG)
+## Basic functions without being a member
+PROS:
+1. post photo.
+1. comment in the post
+1. enable story.
+1. link to your FB's friends
 
-
+## In summary
 
 
 ## End
