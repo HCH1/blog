@@ -18,8 +18,7 @@ Why not to try it now!?
 1. You are done!
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/setblog1a.JPG)
-## Basic functions without being a member
-PROS:
+## PROS without being a member
 1. New story
 1. Stories
 1. Series
@@ -34,8 +33,7 @@ PROS:
 1. You are done!
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/setblog2a.JPG)
-## Basic functions without being a member
-PROS:
+## PROS without being a member
 1. post photo.
 1. comment in the post
 1. enable story.
