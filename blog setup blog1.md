@@ -19,7 +19,7 @@ Why not to try it now!?
 1. Easy to use via desktop or mobile.
 1. Easy to post photo or write a blog.
 1. Good frame can meet the SEO of google. (high % to pop in google page 1)
-1. Easy to your FB's friends.
+1. Easy to link to your FB's friends.
 
 
 ## Join Medium app
