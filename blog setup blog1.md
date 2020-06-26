@@ -10,7 +10,12 @@ More PROS are: they also support mobile's app, and free, and still famous so far
 
 Why not to try it now!?
 
-## PROS without being a member
+## if you are:
+1. use mobile > desktop, or use WIN10 or IOS system.
+1. willing to learn popular socail media.
+1. startup blog or small business.
+
+## PROS (without being a member)
 1. Easy to use via desktop or mobile.
 1. Easy to post photo or write a blog.
 1. Good frame can meet the SEO of google. (high % to pop in google page 1)
