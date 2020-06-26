@@ -1,5 +1,5 @@
 # 2020 Introduction of setup Medium/FB/IG app!
-![f1](https://github.com/HCH1/blog/blob/master/fig/setblog1.JPG)
+![f1](https://github.com/HCH1/blog/blob/master/fig/setblog0.JPG)
 
 ## outline
 If you want to have your own blog or social media, I recommended use Medium+Instagram to 1st run your blog or small business.
@@ -10,6 +10,7 @@ More PROS are: they also support mobile's app, and free, and still famous so far
 
 Why not to try it now!?
 
+
 ## Join Medium app
 1. Go to [Medium.com](https://medium.com/)
 1. click the “Get Started” button:
@@ -17,6 +18,8 @@ Why not to try it now!?
 it will redirect you back to Medium. 
 4. You are done!
 
+
+![f1](https://github.com/HCH1/blog/blob/master/fig/setblog1a.JPG)
 ## Medium basic functions without a member
 
 New story
