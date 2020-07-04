@@ -37,7 +37,7 @@ EBRC通常通過將選民總數除以議員的現有人數，然後允許最多3
 ref:
 
 [Spotlight on Singapore's next GE: How the electoral boundaries could change](https://www.straitstimes.com/singapore/electoral-boundaries-drawing-the-battle-lines)
-```
+
 Since the 2015 polls, the number of eligible voters has grown by 5.4 per cent to 2.59 million as of April.
 
 Going by the numbers, divisions in the north-eastern part of the island are prime candidates to be redrawn.
@@ -47,7 +47,7 @@ The EBRC typically decides on the minimum and maximum number of voters per Membe
 Based on this formula, each MP in the next election should be taking care of approximately 20,000 to 38,000 voters.
 
 On these grounds alone, two constituencies would need to be changed because they are bursting at the seams.
-```
+
 
 ## 選舉票是否會被追蹤的到? there is a serial number on ballot paper?
 官方說法是，
@@ -75,7 +75,7 @@ On these grounds alone, two constituencies would need to be changed because they
 ref:
 
 [How is my vote still secret if the ballot paper has a serial number on it?](https://www.gov.sg/article/how-is-my-vote-still-secret-if-the-ballot-paper-has-a-serial-number-on-it)
-```
+
 Countering ballot box stuffing
 
 The serial numbers on ballot papers enable strict accounting of all ballot papers issued and cast. That way, the number of papers found in the ballot box at the end of the election can be tallied with the number issued during the poll and the number of ballot papers stocked before the polls opened.  
@@ -93,7 +93,7 @@ However, ballot papers can be examined only under strict conditions, and there a
 All ballot papers and their counterfoils have to be sealed in the Supreme Court vault for 6 months, after which they will be destroyed.
 
 During those 6 months, these documents can only be retrieved by court order. The court will issue such an order only if it is satisfied that a vote has been fraudulently cast and the result of the election may be affected as a result.
-```
+
 ## 若喜歡請按讚加分享：）
 
 ## End
