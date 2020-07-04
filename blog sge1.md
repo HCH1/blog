@@ -73,6 +73,7 @@ On these grounds alone, two constituencies would need to be changed because they
 每張選票都有序號那還秘密個雕，也聽說若是投給反對黨，對於一些政府補助優惠阿或者買房HDB會比較困難等等。
 
 ref:
+
 [How is my vote still secret if the ballot paper has a serial number on it?](https://www.gov.sg/article/how-is-my-vote-still-secret-if-the-ballot-paper-has-a-serial-number-on-it)
 ```
 Countering ballot box stuffing
