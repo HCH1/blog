@@ -24,11 +24,11 @@ OMEGA的海馬系列，擁有300米防水以及瑞士天文台認證的計時表
 
 ## [歐米茄OMEGA官網](https://www.omegawatches.com/)
 點選左邊menu，會得知歐米茄OMEGA主要有5大系列:
-1.星座系列（Constellation）
-1.海馬系列（Seamaster）
-1.超霸系列（Speedmaster）
-1.碟飛系列（De Ville）
-1.特別系列（Specialities）
+1. 星座系列（Constellation）
+1. 海馬系列（Seamaster）
+1. 超霸系列（Speedmaster）
+1. 碟飛系列（De Ville）
+1. 特別系列（Specialities）
 
 海馬系列（Seamaster）與 超霸系列（Speedmaster）這兩款最廣為人知。
 
