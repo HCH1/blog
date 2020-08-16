@@ -141,4 +141,7 @@ Three adjustments:
 - small luminance brightness
 - saturation is large
 ```
+
+## 喜歡這系列的話請按 LIKE👍 訂閱🛎 分享❤️
+
 ## End
