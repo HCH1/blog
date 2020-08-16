@@ -69,4 +69,6 @@ sony RX100 螢幕對著自己時候，頂面右邊有一個 模式轉盤 (辨識
 - [Sony Wisma Atria](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Sony+Wisma+Atria)
 - [Sony Somerset](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=Sony+Somerset)
 
+## 喜歡這系列的話請按 LIKE👍 訂閱🛎 分享❤️
+
 ### End
