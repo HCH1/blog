@@ -38,7 +38,7 @@
 #### 浪琴Longines，商標為飛翼沙漏（時光飛逝，似天使之翼一閃而過，勸君珍惜），是迄今為止最早的仍然有效的商標。
 ![f1](https://github.com/HCH1/blog/blob/master/fig/watch24.png)
 
-#### 雷达RADO手錶，曾10次摘下红点奖桂冠！第一个探索陶瓷材质的腕表品牌。“永不磨损”是经典的广告语。
+#### 雷達RADO手錶，曾10次摘下紅點獎桂冠！第一個探索陶瓷材質的腕錶品牌。 “永不磨損”是經典的廣告語。
 ![f1](https://github.com/HCH1/blog/blob/master/fig/watch241.png)
 
 #### 萬國葡7 IWC Portugieser 7，第一：延續了1930年代起葡萄牙商人所定製手表的大尺寸和簡單乾淨的盤面設計，第二：7天動力儲存顯示與機芯。
@@ -47,7 +47,7 @@
 #### 勞力士Rolex，黑水鬼，綠水鬼。潛水等級，自製可靠機芯，不銹鋼打磨的錶殼和錶帶，天文台認證。
 ![f1](https://github.com/HCH1/blog/blob/master/fig/watch26.png)
 
-#### 歐米伽OMEGA，“Ω”是第二十四個希臘字母，亦是最後一個希臘字母。它像徵著事物的伊始與終極，第一與最後。代表了"完美、極致、卓越、成就"的非凡品質。
+#### 歐米伽OMEGA，“Ω”是第二十四個希臘字母，亦是最後一個希臘字母。它像徵著事物的初始與終極，第一與最後。代表了"完美、極致、卓越、成就"的非凡品質。
 ![f1](https://github.com/HCH1/blog/blob/master/fig/watch242.png)
 
 #### 泰格Tag Heuer，1916年，打造出了世界上最早的運動計時秒錶；1920年，被奧運會選為官方計時器；1962年，由於出色的性能，被美國宇航員帶上太空，成為首個上太空的瑞表品牌
@@ -57,6 +57,13 @@
 ### 收藏或傳家等級，百萬元
 1. 百達翡麗Patek Philippe（標語：你從未擁有一塊百達翡麗，你只是為下一代暫為保管而已。You never actually own a Patek Philippe. You merely look after it for the next generation...）
 1. 江詩丹頓Vacheron Constantin
+1. 理查德米勒RICHARD MILLE (創辦人Richard Mille於1999年創立同名品牌，並獲愛彼（Audemars Piguet）全力支持。該品牌腕錶以創新結構的酒桶型錶殼聞名。產品命名相當簡單，不分系列，僅依上市順序而命名)
+
+![f1](https://github.com/HCH1/blog/blob/master/fig/watch21c.png)
+
+![f1](https://github.com/HCH1/blog/blob/master/fig/watch21d.png)
+
+![f1](https://github.com/HCH1/blog/blob/master/fig/watch21f.png)
 
 #### 你從未擁有一塊百達翡麗，你只是為下一代暫為保管而已。You never actually own a Patek Philippe. You merely look after it for the next generation...）
 ![f1](https://github.com/HCH1/blog/blob/master/fig/watch27.png)
