@@ -1,5 +1,5 @@
 # 3分鐘弄懂手錶品牌分類！心得與整理推薦(2019) Introduction of watch brand! Love mechanical watch!
-![f1](https://github.com/HCH1/blog/blob/master/fig/watch21.png)
+![f1](https://github.com/HCH1/blog/blob/master/fig/watch21b.png)
 
 ## [圖文好讀版]()
 ## [My Instagram](https://www.instagram.com/redbox111)
