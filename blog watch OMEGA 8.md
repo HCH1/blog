@@ -1,5 +1,5 @@
 # 3分鐘弄懂手錶 歐米茄OMEGA！心得與整理推薦(2020) Introduction of OMEGA watch!
-![f1](https://github.com/HCH1/blog/blob/master/fig/omega1.JPG)
+![f1](https://github.com/HCH1/blog/blob/master/fig/omega1a2.JPG)
 
 #### [圖文好讀版]()
 #### [My Instagram](https://www.instagram.com/redbox111)
