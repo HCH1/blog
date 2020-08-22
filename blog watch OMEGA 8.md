@@ -53,7 +53,7 @@ OMEGA的海馬系列，擁有300米防水以及瑞士天文台認證的計時表
 1. 噪音:30分鐘，在130分貝，40 ~ 10000赫茲
 1. 評估結束於1965年3月，超霸在測試中存活下來，並且大部分時間保持在每天5秒內。
 
-
+ 
 1. High temperature: 48 hours at 160 °F (71 °C) followed by 30 minutes at 200 °F (93 °C)
 1. Low temperature: Four hours at 0 °F (−18 °C)
 1. Temperature cycling in near-vacuum: Fifteen cycles of heating to 160 °F (71 °C) for 45 minutes, followed by cooling to 0 °F (−18 °C) for 45 minutes at 10−6 atm
