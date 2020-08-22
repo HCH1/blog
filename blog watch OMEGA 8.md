@@ -92,7 +92,5 @@ It was optional to wear while we were walking on the surface of the Moon ... few
 
 Seamaster也與電影有歷史淵源，並拿來行銷話題，007龐德得愛用錶XD。
 
-## 總結（若喜歡請按讚加分享：）
-比較少玩家在連載討論手錶的故事，故寫下此篇希望引起大家的興趣！
+## 喜歡這系列的話請按 LIKE👍 訂閱🛎 分享❤️
 
-## End
