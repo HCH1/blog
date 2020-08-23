@@ -1,4 +1,4 @@
-# 3分鐘弄懂R程式語言！教學3與心得分享Variables Operators (2020) Introduction of R programming ep3!
+# 三分鐘弄懂R程式語言！教學3與心得分享Variables Operators (2020) Introduction of R programming ep3!
 ![f1](https://github.com/HCH1/blog/blob/master/fig/r3.JPG)
 
 ## 前言
