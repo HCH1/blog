@@ -1,4 +1,4 @@
-# 3分鐘弄懂R程式語言！教學1與心得分享rstudio cloud (2020) Introduction of R programming ep1!
+ㄇ# 3分鐘弄懂R程式語言！教學1與心得分享rstudio cloud (2020) Introduction of R programming ep1!
 ![f1](https://github.com/HCH1/blog/blob/master/fig/r1.JPG)
 
 #### [圖文好讀版]()
@@ -72,7 +72,7 @@ list1 <- list(c(2,5,3),21.3,sin)
 print(list1)
 ```
 
-## cheat sheets，要知道這裡可以查一些進階語法。
+## [cheat sheets](https://rstudio.cloud/learn/cheat-sheets)，要知道這裡可以查一些進階語法。
 這很方便，有些常用熱門的package (類似懶人包)，或被整理成兩到三頁的總結，會有一個全面的概觀!
 
 ## 總結（若喜歡請按讚加分享：）
