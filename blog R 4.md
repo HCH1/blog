@@ -1,4 +1,4 @@
-# 3分鐘弄懂R程式語言！教學4與心得分享For loop and ifelse (2020) Introduction of R programming ep4!
+# 三分鐘弄懂R程式語言！教學4與心得分享For loop and ifelse (2020) Introduction of R programming ep4!
 ![f1](https://github.com/HCH1/blog/blob/master/fig/r4.JPG)
 
 ## 前言
