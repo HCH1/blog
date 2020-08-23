@@ -1,4 +1,4 @@
-# 3分鐘弄懂R程式語言！教學2與心得分享Data Types (2020) Introduction of R programming ep2!
+# 三分鐘弄懂R程式語言！教學2與心得分享Data Types (2020) Introduction of R programming ep2!
 ![f1](https://github.com/HCH1/blog/blob/master/fig/r2.JPG)
 
 #### [圖文好讀版]()
