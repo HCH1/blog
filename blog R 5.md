@@ -1,4 +1,4 @@
-# 3分鐘弄懂R程式語言！教學5與心得分享read.csv as.data.frame write.csv (2020) Introduction of R programming ep5!
+# 三分鐘弄懂R程式語言！教學5與心得分享read.csv as.data.frame write.csv (2020) Introduction of R programming ep5!
 ![f1](https://github.com/HCH1/blog/blob/master/fig/r5.JPG)
 
 ## 前言
