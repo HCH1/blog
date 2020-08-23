@@ -1,4 +1,4 @@
-# 3分鐘弄懂手錶 歐米茄OMEGA！心得與整理推薦 Introduction of OMEGA watch!
+# 三分鐘推薦手錶在日本東京哪裡買?哪裡逛? 心得與整理推薦 (2020) INTRODUCTION OF SHOPPING WATCH IN TOKYO! LIKE👍 訂閱🛎 分享❤️
 ![f1](https://github.com/HCH1/blog/blob/master/fig/omega1a2.JPG)
 
 #### [圖文好讀版]()
