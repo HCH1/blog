@@ -1,4 +1,4 @@
-# 3分鐘學會修圖軟體snapseed之功能:調整影像tune image。推薦與教學(2019連載) One of the best photo filter app!
+# 三分鐘學會修圖軟體snapseed之功能:調整影像tune image。推薦與教學(2019連載) One of the best photo filter app!
 ![f1](https://github.com/HCH1/blog/blob/master/fig/app1.png)
 
 ## 簡介(節錄維基百科) intro (ref wiki)
