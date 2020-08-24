@@ -1,5 +1,5 @@
 # 三分鐘學習物理概念 心得與整理 (2020) INTRODUCTION OF FUNDAMENTALS OF PHYSICS! LIKE👍 訂閱🛎 分享❤️
-![f1](https://github.com/HCH1/blog/blob/master/fig/phy1.JPG)
+![f1](https://github.com/HCH1/blog/blob/master/fig/phy1a.JPG)
 
 ## 前言
 開始上學後，不管是小學國中高中，就開始要學習自然科學等等科目。上了高中更會分組成一到三類組等等。一類組就是文法商類別。二類組就是理工科類別。
