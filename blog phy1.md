@@ -14,12 +14,10 @@
 
 不知結果如何，就請拭目以待吧!廢話不多說，開始吧~
 
-### (圖片大多節錄自google search or wiki)
+## (圖片大多節錄自google search or wiki)
 
 ## 學科其中一個讓人卻步的地方就是一開始會有很多論述阿，定理阿等等，等到你開始想要學習應用的時候都已經看累了XD
 
-
-![f1](https://github.com/HCH1/blog/blob/master/fig/phy1b.JPG)
 
 ## International System of Units (SI) 國際單位制
 
@@ -32,7 +30,9 @@
 1. 光強度
 1. 基本粒子的量度
 
-## 想像成先訂好遊戲規則，也就是單位，這樣科學家們溝通起來就會正確無誤。像是大家都用阿拉伯數字，和一些運算符號，這樣數學家們也好溝通
+![f1](https://github.com/HCH1/blog/blob/master/fig/phy1b.JPG)
+
+## 想像成先訂好遊戲規則，也就是單位，這樣科學家們溝通起來就會好做事。像是大家都用阿拉伯數字，和一些運算符號，這樣數學家們也好溝通
 
 ## 公尺是光在真空中一段時間內走過的路徑的長度間隔為1/299 792 458秒。
 
@@ -46,9 +46,21 @@
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/phy1c.JPG)
 
-## 
+## 平均速率 average velocity
 
+東西會動就有速度，例如公車從A站到達B站，花了幾分鐘，這樣車速是多少?根據不同的看時間角度，就有時速，秒速等等。
 
+公車開開停停，所以看的時間角度越小，例如:秒，就會得到當下的瞬時速度 instantaneous velocity。
+
+用數學平面座標XY來看，也就是斜率，因為用到除法。
+
+![f1](https://github.com/HCH1/blog/blob/master/fig/phy1d.JPG)
+
+## 加速度 acceleration
+
+例如廣告詞，跑車速度零到一百只要三秒，這過程就有加速度。但真實情況是前面起步慢，但後半部跑得多，所以整個過程，細分的加速度又不同。
+
+## 重力加速度 1g = 9.8 m/s^{2}
 
 
 
