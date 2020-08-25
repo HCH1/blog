@@ -97,7 +97,7 @@
 1. x vt at<sup>2</sup> 是同一國。
 1. v at 同一國。
 1. v<sup>2</sup> ax 同一國。單位是公尺兩次 除以 時間兩次。
-
+ 
 1. v = v<sub>0</sub> + a t
 1. x - x<sub>0</sub> = v<sub>0</sub> t + 1/2 a t<sup>2</sup>
 1. v<sup>2</sup> = v<sub>0</sub> <sup>2</sup> + 2 a x
