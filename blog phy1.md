@@ -1,4 +1,4 @@
-# 三分鐘學習物理概念 直線運動學 心得與整理 (2020) INTRODUCTION OF FUNDAMENTALS OF PHYSICS! LIKE👍 訂閱🛎 分享❤️
+# 高中物理淺談與重新發現 直線運動學 心得與整理 (2020) INTRODUCTION OF FUNDAMENTALS OF PHYSICS! LIKE👍 訂閱🛎 分享❤️
 ![f1](https://github.com/HCH1/blog/blob/master/fig/phy1a.JPG)
 
 ## 前言
