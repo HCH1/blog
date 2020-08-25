@@ -61,12 +61,11 @@
 例如廣告詞，跑車速度零到一百只要三秒，這過程就有加速度。但真實情況是前面起步慢，但後半部跑得多，所以整個過程，細分的加速度又不同。
 
 ## 重力加速度 
-- 1g = 9.8 m/s^2^
+- 1g = 9.8 m/s<sup>2</sup>
 
-### [Subscript](https://github.com/markdown-it/markdown-it-sub) / [Superscript](https://github.com/markdown-it/markdown-it-sup)
 
-- 19^th^
-29<sup>th</sup>
+
+
 
 ## 喜歡這系列的話請按 LIKE👍 訂閱🛎 分享❤️
 
