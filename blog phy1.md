@@ -93,7 +93,7 @@
 
 1. v = v0 + at
 1. x - x0 = v0 t + 1/2 a t<sup>2</sup>
-1. v'<sup>2</sup> = v<sup>2</sup> + 2 a x
+1. v<sup>2</sup> = v<sub>0</sub> <sup>2</sup> + 2 a x
 
 以跑車為例子，速度零到一百只要兩秒，所以知道 v and t。
 
