@@ -18,7 +18,7 @@
 
 ## (圖片大多節錄自google search or wiki)
 
-## International System of Units (SI) 國際單位制
+### International System of Units (SI) 國際單位制
 
 1971年，第14屆計量大會選出了7個數量作為基本數量
 1. 時間
@@ -45,7 +45,7 @@
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/phy1c.JPG)
 
-## 距離/速度/加速度/時間 x v a t 公式包
+## 距離/速度/加速度/時間 x v a t 公式組
 
 ### 直線運動學
 
