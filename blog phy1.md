@@ -55,7 +55,7 @@
 
 用數學平面座標XY來看，如果X是時間，Y是距離，那斜率就是速度。
 
-![f1](https://github.com/HCH1/blog/blob/master/fig/phy1d.JPG)
+![f1](https://github.com/HCH1/blog/blob/master/fig/phy1d2.JPG)
 
 ### 加速度 acceleration
 
