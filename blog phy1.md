@@ -63,6 +63,10 @@
 ## 重力加速度 
 - 1g = 9.8 m/s^2^
 
+### [Subscript](https://github.com/markdown-it/markdown-it-sub) / [Superscript](https://github.com/markdown-it/markdown-it-sup)
+
+- 19^th^
+
 
 ## 喜歡這系列的話請按 LIKE👍 訂閱🛎 分享❤️
 
