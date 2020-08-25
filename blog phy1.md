@@ -91,8 +91,8 @@
 
 然後公式等號前後的單位要一樣。
 
-1. v = v0 + at
-1. x - x0 = v0 t + 1/2 a t<sup>2</sup>
+1. v = v<sub>0</sub> + at
+1. x - x<sub>0</sub> = v<sub>0</sub> t + 1/2 a t<sup>2</sup>
 1. v<sup>2</sup> = v<sub>0</sub> <sup>2</sup> + 2 a x
 
 以跑車為例子，速度零到一百只要兩秒，所以知道 v and t。
@@ -110,8 +110,8 @@ v t a x 都知道了，第三個公式可驗算。
 極簡去看:
 
 1. v ~ at
-1. x ~ v0 t + 1/2 a t<sup>2</sup>
-1. v'<sup>2</sup> ~ 2 a x
+1. x ~ v<sub>0</sub> t + 1/2 a t<sup>2</sup>
+1. v<sup>2</sup> ~ 2 a x
 
 
 
