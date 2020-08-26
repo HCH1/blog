@@ -20,7 +20,7 @@
 
 
 ## 向量 標量 Vectors and Scalars
-![f1](https://github.com/HCH1/blog/blob/master/fig/phy2b.JPG)
+![f1](https://github.com/HCH1/blog/blob/master/fig/phy2b2.JPG)
 
 ## 實例:
 在算錢的時候，用到+1 -1，+-其實就代表方向，屬於一維世界。
