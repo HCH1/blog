@@ -83,6 +83,8 @@
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/phy1e.JPG)
 
+![f1](https://github.com/HCH1/blog/blob/master/fig/phy1f.JPG)
+
 ### 英文意思: 當看到一組公式，要先知道每個英文所代表的意思:
 
 1. x是距離，t是時間，此二衍伸出二，即 v and a。
@@ -100,8 +102,6 @@
 1. v-t圖，斜直線公式。
 1. v-t圖，斜直線到X軸的面積 等於 梯形面積 等於 矩形 + 三角形。
 1. 前兩式帶入到第三式，會成立。
-
-![f1](https://github.com/HCH1/blog/blob/master/fig/phy1f.JPG)
 
 ### 實例化: 以跑車為例子，速度零到一百只要兩秒，所以知道 v and t。第一個公式可算出a。第二個公式可算出x。
 
