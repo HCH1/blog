@@ -75,23 +75,23 @@
 
 像是火箭若要飛向月球，則需要夠大的能量和加速度才能脫離地球的遊戲規則。
 
-### 距離 時間 速度 等加速度 x t v a 公式組:
-
-1. v = v<sub>0</sub> + a t
-1. x - x<sub>0</sub> = v<sub>0</sub> t + 1/2 a t<sup>2</sup>
-1. v<sup>2</sup> = v<sub>0</sub> <sup>2</sup> + 2 a x
+## 距離 時間 速度 等加速度 x t v a 公式組:
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/phy1e.JPG)
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/phy1f.JPG)
 
-### 英文意思: 當看到一組公式，要先知道每個英文所代表的意思:
+1. v = v<sub>0</sub> + a t
+1. x - x<sub>0</sub> = v<sub>0</sub> t + 1/2 a t<sup>2</sup>
+1. v<sup>2</sup> = v<sub>0</sub> <sup>2</sup> + 2 a x
+
+### 英文意思: 一組公式，要先知道每個英文所代表的意思:
 
 1. x是距離，t是時間，此二衍伸出二，即 v and a。
 1. v = x/t。單位是 公尺 除以 時間。
 1. a = v/t = x/t<sup>2</sup> 。單位是 公尺 除以 時間<sup>2</sup>。
 
-### 等號的單位: 公式的等號左邊和右邊的單位一定相同:
+### 等號的單位: 等號左邊和右邊的單位相同:
 
 1. x vt at<sup>2</sup> 是同一國。
 1. v at 同一國。
