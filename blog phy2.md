@@ -18,9 +18,9 @@
 
 ## (圖片大多節錄自google search or wiki)
 
-![f1](https://github.com/HCH1/blog/blob/master/fig/phy2b.JPG)
 
 ## 向量 標量 Vectors and Scalars
+![f1](https://github.com/HCH1/blog/blob/master/fig/phy2b.JPG)
 
 ## 實例:
 在算錢的時候，用到+1 -1，+-其實就代表方向，屬於一維世界。
@@ -35,9 +35,9 @@
 相同單位才可疊加。
 
 
+## Components of Vectors
 ![f1](https://github.com/HCH1/blog/blob/master/fig/phy2c.JPG)
 
-## Components of Vectors
 
 
 
