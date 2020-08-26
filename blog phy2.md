@@ -34,6 +34,10 @@
 ## 單位: 相同單位才可疊加。
 
 
+![f1](https://github.com/HCH1/blog/blob/master/fig/phy2c.JPG)
+
+## Components of Vectors
+
 
 
 
