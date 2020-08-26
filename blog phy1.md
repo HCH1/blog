@@ -29,7 +29,7 @@
 1. 光強度
 1. 基本粒子的量度
 
-![f1](https://github.com/HCH1/blog/blob/master/fig/phy1b.JPG)
+![f1](https://github.com/HCH1/blog/blob/master/fig/phy1b2.JPG)
 
 ### 想像成先訂好遊戲規則，也就是單位，這樣科學家們溝通起來就會好做事。像是大家都用阿拉伯數字，和一些運算符號，這樣數學家們也好溝通
 
