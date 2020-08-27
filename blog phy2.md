@@ -57,6 +57,8 @@
 
 為何要看投影?因為有些遊戲規則是在投影上進行。例如:重力加速度g，是指向地心。
 
+![f1](https://github.com/HCH1/blog/blob/master/fig/phy2e.JPG)
+
 假設我往前斜拋一個球，球有一個往右上斜的速度，我站在地面，別人看我拋球為二維平面，所以會有兩大投影，我們要畫最有效率的投影。
 
 拋速度向量等於分量X與分量Y。拋的過程發生啥事?球會在幾秒鐘後到達最高點，然後又降落。
@@ -69,6 +71,7 @@
 
 ## 向量，最有效率的投影是剛好也遵守某(物理)遊戲規則。 
 
+![f1](https://github.com/HCH1/blog/blob/master/fig/phy2f.JPG)
 
 
 
@@ -78,9 +81,6 @@
 
 ## 距離 時間 速度 等加速度 x t v a 公式組:
 
-![f1](https://github.com/HCH1/blog/blob/master/fig/phy2d.JPG)
-
-![f1](https://github.com/HCH1/blog/blob/master/fig/phy2e.JPG)
 
 1. v = v<sub>0</sub> + a t
 1. x - x<sub>0</sub> = v<sub>0</sub> t + 1/2 a t<sup>2</sup>
