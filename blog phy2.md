@@ -18,7 +18,6 @@
 
 ## (圖片大多節錄自google search or wiki)
 
-
 ## 向量 標量 Vectors and Scalars
 ![f1](https://github.com/HCH1/blog/blob/master/fig/phy2b2.JPG)
 
