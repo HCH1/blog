@@ -58,6 +58,8 @@
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/phy2e.JPG)
 
+![f1](https://github.com/HCH1/blog/blob/master/fig/phy2f.JPG)
+
 假設我往前斜拋一個球，球有一個往右上斜的速度，我站在地面，別人看我拋球為二維平面，所以會有兩大投影，我們要畫最有效率的投影。
 
 拋速度向量等於分量X與分量Y。拋的過程發生啥事?球會在幾秒鐘後到達最高點，然後又降落。
@@ -70,7 +72,19 @@
 
 ## 向量，最有效率的投影是剛好也遵守某(物理)遊戲規則。 
 
-![f1](https://github.com/HCH1/blog/blob/master/fig/phy2f.JPG)
+
+## 均速的圓周運動 UNIFORM CIRCULAR MOTION
+![f1](https://github.com/HCH1/blog/blob/master/fig/phy2g.JPG)
+
+![f1](https://github.com/HCH1/blog/blob/master/fig/phy2h.JPG)
+
+
+
+## 實例:
+## 圖表:
+## 單位:
+
+
 
 
 
@@ -79,8 +93,6 @@
 ## 單位:
 
 ## 距離 時間 速度 等加速度 x t v a 公式組:
-
-
 1. v = v<sub>0</sub> + a t
 1. x - x<sub>0</sub> = v<sub>0</sub> t + 1/2 a t<sup>2</sup>
 1. v<sup>2</sup> = v<sub>0</sub> <sup>2</sup> + 2 a x
