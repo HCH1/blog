@@ -54,14 +54,32 @@ F的單位N = kg * m / s<sup>2</sup>
 箱子或物體受到外力，畫成質點和多個箭頭作用力表示，
 
 
-## 摩擦力 Friction f<sup>s,max</sup> = u<sup>k</sup> F<sup>N</sup>
+## 摩擦力 Friction 
+1. f<sub>s,max</sub> = u<sub>s</sub> F<sub>N</sub>
+1. f<sub>k</sub> = u<sub>k</sub> F<sub>N</sub>
 
 ## 單位: 
-u<sup>k</sup> 靜摩擦係數
-F<sup>N</sup> 正向力
+f<sub>s,max</sub> 最大靜摩擦力。
 
+u<sub>s</sub> 靜摩擦係數
+
+F<sub>N</sub> 正向力
+
+f<sub>k</sub> 動摩擦力
+
+u<sub>k</sub> 動摩擦係數
+
+![f1](https://github.com/HCH1/blog/blob/master/fig/phy3d.JPG)
 
 ## 實例:
+固體表面非完美平整，所以接面處一定會有摩擦，若太粗糙，推動過程會有產生噪音或者熱，都是能量損耗與轉換。
+
+要推動桌上書本，萬事起頭難，此為f<sub>s,max</sub> 最大靜摩擦力。
+
+持續推動過程，就是f<sub>k</sub> 動摩擦力
+
+
+
 
 
 ## 圖表: 
