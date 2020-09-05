@@ -65,7 +65,7 @@ Omega 1151是Omega的ETA 7751版本。ETA 7750系列有3個等級，最低的是
 
 2. Broad Arrow (錶寬42-44mm居多)
 
-指針外型為 箭頭型 與 三角型。
+Speedmaster的第一代為CK2915，指針外型為 箭頭型 與 三角型。
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/sm2b.JPG)
 
