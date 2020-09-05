@@ -54,7 +54,7 @@ OMEGA的海馬系列，擁有300米防水以及瑞士天文台認證的計時表
 
 於1993年問世，這個未經打磨的示例是3521.30早期型號之一。 非常適合那些尋求與眾不同之處以及一些其他復雜功能的快速愛好者。
 
-它由原始的Omega 1150機芯提供動力。除了標準的計時功能外，左邊看24小時，錶盤周長看日期，上面左看星期，上面右看月份。指針外型為長劍型 SWORD HANDS。
+它由原始的Omega 1150機芯提供動力。除了標準的計時功能外，左邊看24小時，錶盤周長看日期，上面左看星期，上面右看月份。指針外型為長劍型。
 
 
 ## Omega caliber 1151
@@ -67,38 +67,43 @@ Omega 1151是Omega的ETA 7751版本。ETA 7750系列有3個等級，因此最低
 
 2. Broad Arrow (錶寬42-44mm居多)
 
+指針外型為 箭頭型 與 三角型。
+
 ![f1](https://github.com/HCH1/blog/blob/master/fig/sm2b.JPG)
 
 
-1. '57
+
+
+3. '57
+
+指針外型為 長矛型 。
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/sm2c.JPG)
 
 
-1. Moonwatch
+4. Moonwatch
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/sm2d.JPG)
 
 
-1. Moonphase
+5. Moonphase
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/sm2e.JPG)
 
 
-1. Racing
+6. Racing
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/sm2f.JPG)
 
 
-1. Mark II
+7. Mark II
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/sm2g.JPG)
 
 
-1. Ladies (錶寬大概介於30-38mm。表面設計有橢圓形居多，大數字，紅橘粉多色系列)
+8. Ladies (錶寬大概介於30-38mm。表面設計有橢圓形居多，大數字，紅橘粉多色系列)
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/sm2h.JPG)
-
 
 
 
