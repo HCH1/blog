@@ -122,7 +122,5 @@ It was optional to wear while we were walking on the surface of the Moon ... few
 
 為此，歐米茄被阿波羅13號太空人授予史努比獎，以表彰歐米茄在支持美國第一個載人登月計劃中的“奉獻精神、專業精神和傑出貢獻”。
 
-![f1](https://github.com/HCH1/blog/blob/master/fig/omega1c.JPG)
-
 
 ## 喜歡這系列的話請按 LIKE👍 訂閱🛎 分享❤️
