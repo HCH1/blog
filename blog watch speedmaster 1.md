@@ -30,9 +30,6 @@ OMEGA的海馬系列，擁有300米防水以及瑞士天文台認證的計時表
 ## 本篇專題介紹 超霸系列（Speedmaster）
 手錶品牌除了做工和專利之外，另一個值得玩味的就是與歷史的羈絆，例如BALL手錶與火車計時歷史有關，ROLEX迪通拿與賽車歷史相關，而OMEGA則就是與美國太空史有歷史淵源。
 
-
-![f1](https://github.com/HCH1/blog/blob/master/fig/sm2a.JPG)
-
 ## 分針時針的類別
 
 1. 箭頭型 ARROW HANDS 
@@ -40,20 +37,23 @@ OMEGA的海馬系列，擁有300米防水以及瑞士天文台認證的計時表
 1. 長矛型 LANCE HANDS
 1. 長劍型 SWORD HANDS
 
-![f1](https://github.com/HCH1/blog/blob/master/fig/sm2b.JPG)
-
-![f1](https://github.com/HCH1/blog/blob/master/fig/sm2c.JPG)
-
 ## Speedmaster家族表
-1. Racing
-1. Moonphase
-1. Moonwatch
-1. Mark II
-1. Ladies (錶寬大概介於30-38mm。表面設計有橢圓形居多，大數字，紅橘粉多色系列)
+
+![f1](https://github.com/HCH1/blog/blob/master/fig/sm2a.JPG)
+
 1. Day Date ()
 1. Broad Arrow (錶寬42-44mm居多)
 1. '57
 
+![f1](https://github.com/HCH1/blog/blob/master/fig/sm2b.JPG)
+
+1. Moonphase
+1. Moonwatch
+
+![f1](https://github.com/HCH1/blog/blob/master/fig/sm2c.JPG)
+1. Racing
+1. Mark II
+1. Ladies (錶寬大概介於30-38mm。表面設計有橢圓形居多，大數字，紅橘粉多色系列)
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/eta7751.JPG)
 
