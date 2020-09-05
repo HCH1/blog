@@ -39,21 +39,21 @@ OMEGA的海馬系列，擁有300米防水以及瑞士天文台認證的計時表
 
 ## Speedmaster家族表
 
-![f1](https://github.com/HCH1/blog/blob/master/fig/sm2a.JPG)
-
-1. Day Date ()
+1. Day Date (三重日期)
 1. Broad Arrow (錶寬42-44mm居多)
 1. '57
-
-![f1](https://github.com/HCH1/blog/blob/master/fig/sm2b.JPG)
+![f1](https://github.com/HCH1/blog/blob/master/fig/sm2a.JPG)
 
 1. Moonphase
 1. Moonwatch
+![f1](https://github.com/HCH1/blog/blob/master/fig/sm2b.JPG)
 
-![f1](https://github.com/HCH1/blog/blob/master/fig/sm2c.JPG)
 1. Racing
 1. Mark II
 1. Ladies (錶寬大概介於30-38mm。表面設計有橢圓形居多，大數字，紅橘粉多色系列)
+![f1](https://github.com/HCH1/blog/blob/master/fig/sm2c.JPG)
+
+
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/eta7751.JPG)
 
