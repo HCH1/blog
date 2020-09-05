@@ -40,42 +40,42 @@ OMEGA的海馬系列，擁有300米防水以及瑞士天文台認證的計時表
 ## Speedmaster家族表
 
 1. Day Date (三重日期)
-1. Broad Arrow (錶寬42-44mm居多)
-1. '57
 ![f1](https://github.com/HCH1/blog/blob/master/fig/sm2a.JPG)
+於1993年問世，這個未經打磨的示例是3521.30早期型號之一。 非常適合那些尋求與眾不同之處以及一些其他復雜功能的快速愛好者。
 
-1. Moonphase
-1. Moonwatch
-![f1](https://github.com/HCH1/blog/blob/master/fig/sm2b.JPG)
-
-1. Racing
-1. Mark II
-1. Ladies (錶寬大概介於30-38mm。表面設計有橢圓形居多，大數字，紅橘粉多色系列)
-![f1](https://github.com/HCH1/blog/blob/master/fig/sm2c.JPG)
-
-
-
+它由原始的Omega 1150機芯提供動力。除了標準的計時功能外，左邊看24小時，錶盤周長看日期，上面左看星期，上面右看月份。
 
 ## Omega caliber 1151
 ![f1](https://github.com/HCH1/blog/blob/master/fig/eta7751.JPG)
-
-Base:	ETA 7751
-ate:	Date, Day, Month
-Chronograph:	Chronograph
-Hands:	Hours, Minutes, Small Seconds, Day / Night Indication
 
 Omega 1151是Omega的ETA 7751版本。ETA 7750系列有3個等級，因此最低的是Elabore等級，其次是Top等級，然後是Chronometer等級。 1151中的材料與ETA中的頂級產品相同，
 因此使用了最好的擺輪游絲和擺輪材料，最好的主發條材料等。頂級和天文鐘錶等級之間的唯一區別是，天文鐘錶等級是通過COSC 測試和頂部沒有-材料和構造完全相同。 
 1151不是天文台機芯，因此尚未經過COSC測試。
 
-The Omega 1151 is Omega's version of the ETA 7751. The ETA 7750 family is available in 3 grades, so lowest is Elabore grade, next is Top grade, and then Chronometer grade. The materials in the 1151 are equivalent to the Top grade in the ETA, so the best balance spring and balance wheels materials are used, best mainspring material, etc. The only difference between Top and Chronometer grades is that the Chronometer grades have been through COSC testing, and the Top have not - the materials and construction are exactly the same. The 1151 is not a chronometer movement, so it has not gone through COSC testing.
 
-## Speedmaster Day-Date（又名三重日期）
-於1993年問世，這個未經打磨的示例是3521.30早期型號之一。 非常適合那些尋求與眾不同之處以及一些其他復雜功能的快速愛好者。
+2. Broad Arrow (錶寬42-44mm居多)
+![f1](https://github.com/HCH1/blog/blob/master/fig/sm2b.JPG)
 
-它由原始的Omega 1150機芯提供動力。除了標準的計時功能外，您還將在9:00處獲得24小時制指示器，圍繞錶盤周長的日期指示器以及日期和月份。 在12:00。
+1. '57
+![f1](https://github.com/HCH1/blog/blob/master/fig/sm2c.JPG)
 
-1999年，歐米茄（Omega）將Day-Date Speedy的參考號提高至3523.30，將機芯號提高至1151。在2007年進行了進一步的升級後，Day-Date計時碼表成為3221.90，其時計額定為3606機芯，錶殼直徑為40mm。
+1. Moonwatch
+![f1](https://github.com/HCH1/blog/blob/master/fig/sm2d.JPG)
+
+1. Moonphase
+![f1](https://github.com/HCH1/blog/blob/master/fig/sm2e.JPG)
+
+1. Racing
+![f1](https://github.com/HCH1/blog/blob/master/fig/sm2f.JPG)
+
+1. Mark II
+![f1](https://github.com/HCH1/blog/blob/master/fig/sm2g.JPG)
+
+1. Ladies (錶寬大概介於30-38mm。表面設計有橢圓形居多，大數字，紅橘粉多色系列)
+![f1](https://github.com/HCH1/blog/blob/master/fig/sm2h.JPG)
+
+
+
 
 
 ## OMEGA與美國太空史的歷史淵源
