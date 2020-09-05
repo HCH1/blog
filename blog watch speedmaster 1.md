@@ -1,4 +1,4 @@
-# 三分鐘弄懂手錶OMEGA超霸系列Speedmaster！心得與整理推薦 (2020) Introduction of OMEGA Speedmaster! LIKE👍 訂閱🛎 分享❤️
+# 三分鐘弄懂手錶OMEGA超霸系列Speedmaster！心得與整理推薦 Introduction of OMEGA Speedmaster! LIKE👍 訂閱🛎 分享❤️
 ![f1](https://github.com/HCH1/blog/blob/master/fig/omega1a2.JPG)
 
 ## 前言
