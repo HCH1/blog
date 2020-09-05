@@ -40,10 +40,13 @@ OMEGA的海馬系列，擁有300米防水以及瑞士天文台認證的計時表
 ## Speedmaster家族表
 
 1. Day Date (三重日期)
+
 ![f1](https://github.com/HCH1/blog/blob/master/fig/sm2a.JPG)
+
 於1993年問世，這個未經打磨的示例是3521.30早期型號之一。 非常適合那些尋求與眾不同之處以及一些其他復雜功能的快速愛好者。
 
 它由原始的Omega 1150機芯提供動力。除了標準的計時功能外，左邊看24小時，錶盤周長看日期，上面左看星期，上面右看月份。
+
 
 ## Omega caliber 1151
 ![f1](https://github.com/HCH1/blog/blob/master/fig/eta7751.JPG)
@@ -54,24 +57,37 @@ Omega 1151是Omega的ETA 7751版本。ETA 7750系列有3個等級，因此最低
 
 
 2. Broad Arrow (錶寬42-44mm居多)
+
 ![f1](https://github.com/HCH1/blog/blob/master/fig/sm2b.JPG)
 
+
 1. '57
+
 ![f1](https://github.com/HCH1/blog/blob/master/fig/sm2c.JPG)
 
+
 1. Moonwatch
+
 ![f1](https://github.com/HCH1/blog/blob/master/fig/sm2d.JPG)
 
+
 1. Moonphase
+
 ![f1](https://github.com/HCH1/blog/blob/master/fig/sm2e.JPG)
 
+
 1. Racing
+
 ![f1](https://github.com/HCH1/blog/blob/master/fig/sm2f.JPG)
 
+
 1. Mark II
+
 ![f1](https://github.com/HCH1/blog/blob/master/fig/sm2g.JPG)
 
+
 1. Ladies (錶寬大概介於30-38mm。表面設計有橢圓形居多，大數字，紅橘粉多色系列)
+
 ![f1](https://github.com/HCH1/blog/blob/master/fig/sm2h.JPG)
 
 
