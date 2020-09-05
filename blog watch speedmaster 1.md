@@ -78,7 +78,7 @@ Speedmaster的第一代為CK2915，指針外型為 箭頭型 與 三角型。
 ![f1](https://github.com/HCH1/blog/blob/master/fig/sm2c.JPG)
 
 
-4. Moonwatch (後面有歷史介紹)
+4. Moonwatch (本文後半段有歷史介紹)
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/sm2d.JPG)
 
