@@ -1,5 +1,5 @@
 # 三分鐘弄懂手錶OMEGA超霸系列Speedmaster！心得與整理推薦 (2020) Introduction of OMEGA Speedmaster! LIKE👍 訂閱🛎 分享❤️
-![f1](https://github.com/HCH1/blog/blob/master/fig/speedmaster1.JPG)
+![f1](https://github.com/HCH1/blog/blob/master/fig/sm1.JPG)
 
 #### [圖文好讀版]()
 #### [My Instagram](https://www.instagram.com/redbox111)
@@ -30,7 +30,7 @@ OMEGA的海馬系列，擁有300米防水以及瑞士天文台認證的計時表
 1. 碟飛系列（De Ville）
 1. 特別系列（Specialities）
 
-![f1](https://github.com/HCH1/blog/blob/master/fig/speedmaster2.JPG)
+![f1](https://github.com/HCH1/blog/blob/master/fig/sm2.JPG)
 
 ## 本篇專題介紹 超霸系列（Speedmaster）
 手錶品牌除了做工和專利之外，另一個值得玩味的就是與歷史的羈絆，例如BALL手錶與火車計時歷史有關，ROLEX迪通拿與賽車歷史相關，而OMEGA則就是與美國太空史有歷史淵源。
@@ -38,18 +38,22 @@ OMEGA的海馬系列，擁有300米防水以及瑞士天文台認證的計時表
 
 ## 分針時針的類別
 
-1. 箭頭型
-1. 長毛型
-1. 長劍型
+1. 箭頭型 ARROW HANDS 
+1. 三角型 DAUPHINE HANDS
+1. 長矛型 LANCE HANDS
+1. 長劍型 SWORD HANDS
 
-ARROW HANDS
-Arrow hands feature an arrow-shaped pointer. These are often used for sports or technical watches. Example → Omega Seamaster Planet Ocean
-DAUPHINE HANDS
-One of the most traditional and popular style of hands. Dauphine style hands have a triangle shape and are faceted. The etymology come from ‘dauphin’ the eldest son of the French king. Example → Carl F. Bucherer Manero Peripheral
-LANCE HANDS
-Lance hands are similar to ‘Alpha’ type but are generally thinner. Example → Schwarz Etienne Roma Power reserve
-SWORD HANDS
-Sword hands or Glaive in French – as the name suggests, sword hands are shaped similar to a sword blade. Many Cartier watches provide examples of such hands. Example → Cartier Drive
+## Speedmaster家族表
+1. Racing
+1. Moonphase
+1. Moonwatch
+1. Mark II
+1. Ladies (錶寬大概介於30-38mm。表面設計有橢圓形居多，大數字，紅橘粉多色系列)
+1. Day Date ()
+1. Broad Arrow (錶寬42-44mm居多)
+1. '57
+
+
 
 
 1962年，一些飛行員已經熟悉的品牌被正式招標，這些飛行員正在加入日益壯大的宇航員隊伍。官方考慮的品牌包括百年靈(Breitling)、勞力士(Rolex)和歐米茄(Omega)，以及其他生產機械計時器的品牌。
