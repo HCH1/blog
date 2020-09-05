@@ -1,5 +1,5 @@
 # 三分鐘弄懂手錶OMEGA超霸系列Speedmaster！心得與整理推薦 (2020) Introduction of OMEGA Speedmaster! LIKE👍 訂閱🛎 分享❤️
-![f1](https://github.com/HCH1/blog/blob/master/fig/sm1.JPG)
+![f1](https://github.com/HCH1/blog/blob/master/fig/omega1a2.JPG)
 
 #### [圖文好讀版]()
 #### [My Instagram](https://www.instagram.com/redbox111)
@@ -30,11 +30,11 @@ OMEGA的海馬系列，擁有300米防水以及瑞士天文台認證的計時表
 1. 碟飛系列（De Ville）
 1. 特別系列（Specialities）
 
-![f1](https://github.com/HCH1/blog/blob/master/fig/sm2.JPG)
-
 ## 本篇專題介紹 超霸系列（Speedmaster）
 手錶品牌除了做工和專利之外，另一個值得玩味的就是與歷史的羈絆，例如BALL手錶與火車計時歷史有關，ROLEX迪通拿與賽車歷史相關，而OMEGA則就是與美國太空史有歷史淵源。
 
+
+![f1](https://github.com/HCH1/blog/blob/master/fig/sm2a.JPG)
 
 ## 分針時針的類別
 
@@ -42,6 +42,10 @@ OMEGA的海馬系列，擁有300米防水以及瑞士天文台認證的計時表
 1. 三角型 DAUPHINE HANDS
 1. 長矛型 LANCE HANDS
 1. 長劍型 SWORD HANDS
+
+![f1](https://github.com/HCH1/blog/blob/master/fig/sm2b.JPG)
+
+![f1](https://github.com/HCH1/blog/blob/master/fig/sm2c.JPG)
 
 ## Speedmaster家族表
 1. Racing
@@ -54,36 +58,55 @@ OMEGA的海馬系列，擁有300米防水以及瑞士天文台認證的計時表
 1. '57
 
 
+![f1](https://github.com/HCH1/blog/blob/master/fig/eta7751.JPG)
+
+## Omega caliber 1151
+Base:	ETA 7751
+ate:	Date, Day, Month
+Chronograph:	Chronograph
+Hands:	Hours, Minutes, Small Seconds, Day / Night Indication
+
+Omega 1151是Omega的ETA 7751版本。ETA 7750系列有3個等級，因此最低的是Elabore等級，其次是Top等級，然後是Chronometer等級。 1151中的材料與ETA中的頂級產品相同，
+因此使用了最好的擺輪游絲和擺輪材料，最好的主發條材料等。頂級和天文鐘錶等級之間的唯一區別是，天文鐘錶等級是通過COSC 測試和頂部沒有-材料和構造完全相同。 
+1151不是天文台機芯，因此尚未經過COSC測試。
+
+The Omega 1151 is Omega's version of the ETA 7751. The ETA 7750 family is available in 3 grades, so lowest is Elabore grade, next is Top grade, and then Chronometer grade. The materials in the 1151 are equivalent to the Top grade in the ETA, so the best balance spring and balance wheels materials are used, best mainspring material, etc. The only difference between Top and Chronometer grades is that the Chronometer grades have been through COSC testing, and the Top have not - the materials and construction are exactly the same. The 1151 is not a chronometer movement, so it has not gone through COSC testing.
+
+## Speedmaster Day-Date（又名三重日期）
+於1993年問世，這個未經打磨的示例是3521.30早期型號之一。 非常適合那些尋求與眾不同之處以及一些其他復雜功能的快速愛好者。
+
+它由原始的Omega 1150機芯提供動力。除了標準的計時功能外，您還將在9:00處獲得24小時制指示器，圍繞錶盤周長的日期指示器以及日期和月份。 在12:00。
+
+1999年，歐米茄（Omega）將Day-Date Speedy的參考號提高至3523.30，將機芯號提高至1151。在2007年進行了進一步的升級後，Day-Date計時碼表成為3221.90，其時計額定為3606機芯，錶殼直徑為40mm。
 
 
-1962年，一些飛行員已經熟悉的品牌被正式招標，這些飛行員正在加入日益壯大的宇航員隊伍。官方考慮的品牌包括百年靈(Breitling)、勞力士(Rolex)和歐米茄(Omega)，以及其他生產機械計時器的品牌。
-漢密爾頓提交了一塊懷錶，但被取消了參賽資格，只剩下三個競爭者:勞力士、朗寧-維特瑙(Longines-Wittnauer)和歐米茄。這些手錶都在極端條件下進行了測試:
+## OMEGA與美國太空史的歷史淵源
+從1964年9月21日的備忘錄中摘錄了一份“建議製造商名單”，並提供給了NASA的採購和合同部門，要求為NASA的所有宇航員提供一個標準計時表。
 
-1. 高溫:在160華氏度(71攝氏度)下工作48小時，隨後在200華氏度(93攝氏度)下工作30分鐘
-1. 低溫:0°F(−18°C) 4小時
-1. 近真空溫度循環:15次循環加熱至160華氏度(71攝氏度)45分鐘，然後在10 - 6 atm溫度下冷卻至0華氏度(−18攝氏度)45分鐘
-1. 濕度:在相對濕度為95%、溫度在68°F(20°C)至160°F(71°C)之間的環境下工作250小時
-1. 氧氣環境:100%氧氣，0.35 atm, 71℃，48小時
-1. 電擊:來自不同方向的6次11 ms 40 g電擊
-1. 線性加速度:在333秒內從1 g到7.25 g
-1. 低壓:在160華氏度(71℃)10 - 6 atm環境下工作90分鐘，隨後在200華氏度(93℃)環境下工作30分鐘。
-1. 高壓:1.6 atm 1小時
-1. 振動:3個30分鐘的振動週期，頻率從5到2000赫茲，脈衝最小為8.8 g
-1. 噪音:30分鐘，在130分貝，40 ~ 10000赫茲
-1. 評估結束於1965年3月，超霸在測試中存活下來，並且大部分時間保持在每天5秒內。
+在收到申請的10家製造商中，只有4家提交了手錶供NASA考慮: 浪琴Longines 235T，勞力士Rolex Cosmograph，漢密爾頓Hamilton和歐米茄Omega超霸。
+但是漢密爾頓提交了一塊懷錶，被取消了參賽資格...來亂的XD
 
-(原文
-1. High temperature: 48 hours at 160 °F (71 °C) followed by 30 minutes at 200 °F (93 °C)
-1. Low temperature: Four hours at 0 °F (−18 °C)
-1. Temperature cycling in near-vacuum: Fifteen cycles of heating to 160 °F (71 °C) for 45 minutes, followed by cooling to 0 °F (−18 °C) for 45 minutes at 10−6 atm
-1. Humidity: 250 hours at temperatures between 68 °F (20 °C) and 160 °F (71 °C) at relative humidity of 95%
-1. Oxygen environment: 100% oxygen at 0.35 atm and 71 °C for 48 hours
-1. Shock: Six 11 ms 40 g shocks from different directions
-1. Linear acceleration: from 1 to 7.25 g within 333 seconds
-1. Low pressure: 90 minutes at 10−6 atm at 160 °F (71 °C), followed by 30 minutes at 200 °F (93 °C)
-1. High pressure: 1.6 atm for one hour
-1. Vibration: three cycles of 30 minutes vibration varying from 5 to 2000 Hz with minimum 8.8 g impulse
-1. Acoustic noise: 30 minutes at 130 dB from 40 to 10,000 Hz)
+1. Longines 235T
+1. Rolex Cosmograph
+1. Omega Speedmaster Professional
+
+NASA手錶的第一次資格鑑定計劃是在1965年進行的。要想“獲得美國宇航局所有載人航天任務的飛行資格”，腕錶必須多次通過以下所有測試，不得有任何失敗:
+
+1. 高溫-在160華氏度(71攝氏度)下工作48小時，隨後在200華氏度(93攝氏度)下工作30分鐘。高溫試驗，大氣壓力為5.5 psi (0.35 atm)，相對濕度不超過15%。
+1. 低溫-在0°F(-18°C)溫度下4小時
+1. 溫度壓力室-最大壓力為1.47 x 10exp5 psi (10exp6 atm)，溫度升至160華氏度(71攝氏度)。然後在45分鐘內將溫度降低到0攝氏度(-18攝氏度)，並在45分鐘內再次升高到160攝氏度。還將完成15個這樣的循環。
+1. 相對濕度-在相對濕度至少為95%的條件下，在溫度在68°F到160°F(分別為20°C和71°C)之間變化的總時間為240小時。所用蒸汽的pH值應在6.5到7.5之間。
+1. 純氧氣氛-測試項目應置於壓力為5.5 psi (0.35 atm)的100%氧氣氣氛中48小時。性能超出規格公差、可見燃燒、產生有毒氣體、難聞的氣味或密封件或潤滑劑變質均構成故障。環境溫度應保持在160華氏度(71攝氏度)。
+1. 電擊- 6次電擊，每次40g，在6個不同的方向，每次持續11毫秒。
+1. 加速度-測試項目應在333秒內沿平行於航天器縱向軸的軸線從1g直線加速到7.25g。
+1. 減壓-在溫度為160華氏度(71攝氏度)、1.47 x 10E-5 psi (10 E-6 atm)的真空中90分鐘，在200華氏度(93攝氏度)下30分鐘。
+1. 高壓-測試項目必須承受23.5 psi (1.6 atm)的壓力至少一小時。
+1. 振動- 30分鐘的三個週期(橫向，橫向，縱向，頻率從5到2000 cps, 15分鐘內返回到5 cps。每個脈衝的平均加速度至少為8.8g。
+1. 噪音- 130分貝，頻率由40至10,000赫茲，持續30分鐘。
+
+評估結束於1965年3月，超霸在測試中存活下來，並且大部分時間保持在每天5秒內。
+
+![f1](https://github.com/HCH1/blog/blob/master/fig/omega321.JPG)
 
 ## 1965年，Gemini program 雙子座計劃
 Speedmaster是美國NASA“雙子座4號”任務中第一次太空行走時佩戴的。
@@ -102,9 +125,7 @@ It was optional to wear while we were walking on the surface of the Moon ... few
 
 為此，歐米茄被阿波羅13號太空人授予史努比獎，以表彰歐米茄在支持美國第一個載人登月計劃中的“奉獻精神、專業精神和傑出貢獻”。
 
-
 ![f1](https://github.com/HCH1/blog/blob/master/fig/omega1c.JPG)
 
 
 ## 喜歡這系列的話請按 LIKE👍 訂閱🛎 分享❤️
-
