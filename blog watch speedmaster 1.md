@@ -55,9 +55,10 @@ OMEGA的海馬系列，擁有300米防水以及瑞士天文台認證的計時表
 
 
 
-![f1](https://github.com/HCH1/blog/blob/master/fig/eta7751.JPG)
 
 ## Omega caliber 1151
+![f1](https://github.com/HCH1/blog/blob/master/fig/eta7751.JPG)
+
 Base:	ETA 7751
 ate:	Date, Day, Month
 Chronograph:	Chronograph
