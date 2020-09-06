@@ -172,4 +172,30 @@ It was optional to wear while we were walking on the surface of the Moon ... few
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/sm3a.JPG)
 
+
+## [參考價位～宝石広場アフターサービス](http://housekihiroba.jp)
+[地址](https://www.google.com.tw/maps/place/HOUSEKIHIROBA+Shibuya+Main+Store/@35.6610015,139.6971715,17.44z/data=!4m8!1m2!2m1!1z5a-255-z5buj5aC0IOadseS6rOmDvea4i-iwt-WNgA!3m4!1s0x0:0x460ce819afe5cd9!8m2!3d35.6602868!4d139.6981962)
+
+![f1](https://github.com/HCH1/blog/blob/master/fig/housekihiroba1.png)
+
+![f1](https://github.com/HCH1/blog/blob/master/fig/housekihiroba2.png)
+
+位於東京鬧區涉谷109百貨的後方，大家去涉谷逛街時不仿可覷看看這家寶石廣場。
+店齡最大，流動資金也最強，款式也是最豐富，而且表店周邊也有很多好玩的，是東京最時尚最熱鬧的一個地點，如果你時間不是很充裕的話，這個寶石廣場可以作為首選。
+
+![f1](https://github.com/HCH1/blog/blob/master/fig/watch72a.png)
+
+以網站設計來說，我也比較喜歡寶石廣場。
+
+PRO:
+1. 英文介面好，少翻譯錯誤。
+1. 系列分類清直覺。
+1. 產品圖多，實照清楚
+1. 篩選功能多且強
+1. 一手和二手的數也多（換手率前兩大牌以ROLEX和OMEGA為主，所以這兩大牌子在東京買會比在台北買還便宜。舉例來說，O在台北大概八折，在日本這網站查換算加上退稅後，可以到六到七折！）
+
+![f1](https://github.com/HCH1/blog/blob/master/fig/watch72b.png)
+
+![f1](https://github.com/HCH1/blog/blob/master/fig/housekihiroba3.png)
+
 ## 喜歡這系列的話請按 LIKE👍 訂閱🛎 分享❤️
