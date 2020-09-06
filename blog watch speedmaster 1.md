@@ -194,8 +194,6 @@ PRO:
 1. 篩選功能多且強
 1. 一手和二手的數也多（換手率前兩大牌以ROLEX和OMEGA為主，所以這兩大牌子在東京買會比在台北買還便宜。舉例來說，O在台北大概八折，在日本這網站查換算加上退稅後，可以到六到七折！）
 
-![f1](https://github.com/HCH1/blog/blob/master/fig/watch72b.png)
-
 ![f1](https://github.com/HCH1/blog/blob/master/fig/housekihiroba3.png)
 
 ## 喜歡這系列的話請按 LIKE👍 訂閱🛎 分享❤️
