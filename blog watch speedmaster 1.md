@@ -45,6 +45,14 @@ OMEGA的海馬系列，擁有300米防水以及瑞士天文台認證的計時表
 
 ## Speedmaster家族表
 
+比較有趣的歷史道標:
+
+1957年開始第一支Speedmaster的第一代為CK2915，指針外型為 箭頭型 與 三角型。
+
+1965年，超霸在NASA測試中存活下來，並且大部分時間保持在每天5秒內。
+
+1970年，被阿波羅13號太空人授予史努比獎。
+
 1. Day Date (三重日期)
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/sm2a.JPG)
