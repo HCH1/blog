@@ -49,6 +49,9 @@ speedmaster三重日期規格：
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/speedmaster1.jpg)
 
+![f1](https://github.com/HCH1/blog/blob/master/fig/speedmaster2b.jpg)
+
+
 ## Speedmaster分針時針外型，有以下四類:
 1. 箭頭型 ARROW HANDS 
 1. 三角型 DAUPHINE HANDS
