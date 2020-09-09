@@ -42,6 +42,7 @@ Please select the relevant checklist for the documents you will need to upload w
 1. 國民服T本
 1. 更改名稱的契據或宗教證書
 
+[替代役役男退役證明書英文版申請書](https://www.nca.gov.tw/chaspx/News_Detail.aspx?web=17&id=9416)
 
 (Personal Documents
 
