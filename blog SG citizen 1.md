@@ -12,6 +12,8 @@ Please select the relevant checklist for the documents you will need to upload w
 
 [Adult](https://www.ica.gov.sg/docs/default-source/ica/forms/forms_new_explanatory_notes_(adult).pdf)
 
+[User Guide On Applying for Singapore Citizenship Online](https://www.ica.gov.sg/docs/default-source/ica/files/user_guide.pdf)
+
 個人文件
 
 1. 彩色照片，具有以下要求：
