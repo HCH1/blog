@@ -12,6 +12,59 @@ Please select the relevant checklist for the documents you will need to upload w
 
 [Adult](https://www.ica.gov.sg/docs/default-source/ica/forms/forms_new_explanatory_notes_(adult).pdf)
 
+Personal Documents
+
+Coloured photograph with the following requirements:
+
+a) 35mm wide by 45mm high without border and taken within the last 3 months;
+
+b) Taken full face without headgear, unless you wear a headgear habitually in accordance with religious or racial customs. The headgear must not hide your facial features;
+
+c) The facial image must be between 25mm and 35mm from chin to crown, and taken against plain white background with a matt or semi-matt finish
+
+Foreign Identity Card
+
+Passport, or any other travel document (only for documents not issued by ICA)
+
+Birth Certificate (only for births not registered in Singapore)
+
+Alternatively provide official household census list or family register (where applicable)
+
+個人文件
+
+彩色照片具有以下要求：
+
+a）在最近3個月內拍攝的，寬35毫米，高45毫米（無邊界）；
+
+b）戴上沒有頭盔的全臉，除非您按照宗教或種族習俗習慣戴頭盔。頭飾一定不能掩蓋您的五官。
+
+c）從下巴到冠的面部圖像必須在25mm到35mm之間，並且是在具有啞光或半啞光的純白色背景下拍攝的
+
+外國身份證
+
+護照或任何其他旅行證件（僅適用於非ICA簽發的證件）
+
+出生證明（僅適用於未在新加坡註冊的出生）
+
+或者提供正式的家庭普查名單或戶口簿（如果適用）
+
+
+
+
+
+
+## 成为新加坡公民
+年满21岁并且在新加坡居住至少满两年的新加坡永久居民可申请取得新加坡公民身份。您可通过移民与关卡局电子服务系统在线递交申请，我们会予以考虑。
+我们将根据每份申请的具体资质和现行政策予以评估。所有申请者必须与移民与关卡局预约见面。
+
+更多关于移民事宜的咨询，您可联系移民与关卡局，地址：
+
+Citizen Services Centre
+
+6th Storey, ICA Building
+
+
+
 
 
 
