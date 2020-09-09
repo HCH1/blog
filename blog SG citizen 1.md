@@ -43,7 +43,15 @@ Please select the relevant checklist for the documents you will need to upload w
 1. 更改名稱的契據或宗教證書
 
 [替代役役男退役證明書英文版申請書](https://www.nca.gov.tw/chaspx/News_Detail.aspx?web=17&id=9416)
-替代役退役證明書之核發
+
+[兵役課業務職掌暨電話分機一覽表（臺北市士林區公所網路電話 本所總機：02-28826200)](https://sldo.gov.taipei/News_Content.aspx?n=47B8BC684B4BF857&sms=B0DBE856F627CC53&s=633A33AE529B6B5D)
+林課員
+1.後管綜合業務。
+2.後備軍人緩召業務。
+3.替代役備役管理(含證明書遺失補發)。
+7.其他臨時交辦事項。	６２０９
+
+[替代役退役證明書之核發](https://www.nca.gov.tw/chaspx/content.aspx?web=62)
 管理組東區督考科	02-23167707
 
 
