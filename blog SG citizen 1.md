@@ -43,6 +43,10 @@ Please select the relevant checklist for the documents you will need to upload w
 1. 更改名稱的契據或宗教證書
 
 [替代役役男退役證明書英文版申請書](https://www.nca.gov.tw/chaspx/News_Detail.aspx?web=17&id=9416)
+替代役退役證明書之核發
+管理組東區督考科	02-23167707
+
+
 
 (Personal Documents
 
