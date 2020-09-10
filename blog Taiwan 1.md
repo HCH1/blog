@@ -45,6 +45,9 @@
 1. 定居同意書(雙親)　docx
 1. 定居同意書　odt
 
+## ref
+[駐新加坡台北代表處](https://www.roc-taiwan.org/sg/cat/15.html)
+
 
 
 ### End
