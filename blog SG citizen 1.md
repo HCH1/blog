@@ -10,10 +10,9 @@ You will need to log in to MyICA using your SingPass and apply for you and your 
 ## Documents Required tooltip button
 Please select the relevant checklist for the documents you will need to upload when completing your Singapore Citizenship Application. When preparing your documents, please ensure that each document file size does not exceed 2MB.
 
-[Adult](https://www.ica.gov.sg/docs/default-source/ica/forms/forms_new_explanatory_notes_(adult).pdf)
+## [Adult](https://www.ica.gov.sg/docs/default-source/ica/forms/forms_new_explanatory_notes_(adult).pdf)
 
-[User Guide On Applying for Singapore Citizenship Online](https://www.ica.gov.sg/docs/default-source/ica/files/user_guide.pdf)
-
+## [User Guide On Applying for Singapore Citizenship Online](https://www.ica.gov.sg/docs/default-source/ica/files/user_guide.pdf)
 
 ## [e-service > Singapore Citizenship](https://www.ica.gov.sg/eservicesandforms)
 Document
