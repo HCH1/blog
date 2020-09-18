@@ -15,9 +15,8 @@ Please select the relevant checklist for the documents you will need to upload w
 [User Guide On Applying for Singapore Citizenship Online](https://www.ica.gov.sg/docs/default-source/ica/files/user_guide.pdf)
 
 
-[e-service > Singapore Citizenship](https://www.ica.gov.sg/eservicesandforms)
-
-#	Document
+## [e-service > Singapore Citizenship](https://www.ica.gov.sg/eservicesandforms)
+Document
 1.	Colour Photograph for 
 2.	TAIWAN Identity Card for 
 3.	Deed Poll or religious certificate for change of name for 
