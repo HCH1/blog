@@ -14,6 +14,26 @@ Please select the relevant checklist for the documents you will need to upload w
 
 [User Guide On Applying for Singapore Citizenship Online](https://www.ica.gov.sg/docs/default-source/ica/files/user_guide.pdf)
 
+
+[e-service > Singapore Citizenship](https://www.ica.gov.sg/eservicesandforms)
+
+#	Document
+1.	Colour Photograph for 
+2.	TAIWAN Identity Card for 
+3.	Deed Poll or religious certificate for change of name for 
+4.	Birth Certificate for 
+5.	Educational Qualification from NATIONAL CENTRAL UNIVERSITY for 
+6.	Educational Transcript from NATIONAL CENTRAL UNIVERSITY for 
+7.	Educational Qualification from NATIONAL CHIAO TUNG UNIVERSITY for 
+8.	Educational Transcript from NATIONAL CHIAO TUNG UNIVERSITY for 
+[國立交通大學 學籍成績文件線上申請系統](https://regapp.nctu.edu.tw/Views/User/UserLogin)
+9.	Employment letter for GLOBALFOUNDRIES for 
+10.	Latest 6 months payslips for GLOBALFOUNDRIES
+11.	TAIWAN Travel Document page for 
+12.	Supplementary Document
+
+
+
 個人文件
 
 1. 彩色照片，具有以下要求：
