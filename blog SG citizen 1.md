@@ -26,7 +26,9 @@ Please select the relevant checklist for the documents you will need to upload w
 6.	Educational Transcript from NATIONAL CENTRAL UNIVERSITY for 
 7.	Educational Qualification from NATIONAL CHIAO TUNG UNIVERSITY for 
 8.	Educational Transcript from NATIONAL CHIAO TUNG UNIVERSITY for 
+
 [國立交通大學 學籍成績文件線上申請系統](https://regapp.nctu.edu.tw/Views/User/UserLogin)
+
 9.	Employment letter for GLOBALFOUNDRIES for 
 10.	Latest 6 months payslips for GLOBALFOUNDRIES
 11.	TAIWAN Travel Document page for 
