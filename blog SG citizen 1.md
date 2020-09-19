@@ -17,11 +17,16 @@ Table of Contents
 [e-service > Singapore Citizenship](https://www.ica.gov.sg/eservicesandforms)
 
 2. Part 2: Completing questionnaire
-1. (a) For Singapore Citizen Sponsor
-1. (b) For PR Main Applicant
+
+(a) For Singapore Citizen Sponsor
+
+(b) For PR Main Applicant
+
 3. Part 3: Applicant Details
-1. (a) For Singapore Citizen Sponsor
-1. (b) For PR Main Applicant
+
+(a) For Singapore Citizen Sponsor
+
+(b) For PR Main Applicant
 
 填寫個資，假如您申請過RP以及在ICA有建立過資料。基本上這步驟就變很快大概只花十分鐘。
 
