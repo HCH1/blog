@@ -1,14 +1,8 @@
 ![sg c1](https://github.com/HCH1/blog/blob/master/fig/sgcitizen1.JPG)
 
 # Becoming a Singapore Citizen
-https://www.ica.gov.sg/PR/citizenship/PR_citizenship_becomeasc
 
-Eligibility
-
-1. Have been a Singapore Permanent Resident (PR) for at least two years and are aged 21 and above (you can apply together with your spouse and any unmarried children aged below 21 born to you within the context of a legal marriage or legally adopted by you).
-
-You will need to log in to MyICA using your SingPass and apply for you and your family.
-
+假如您: 至少兩年的新加坡永久居民（PR），並且年齡在21歲以上。未婚無子。申請轉公民的流程會簡便很多。
 
 ## [申請第一步 登入 e-service > Singapore Citizenship](https://www.ica.gov.sg/eservicesandforms)
 
