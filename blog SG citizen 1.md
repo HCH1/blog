@@ -128,6 +128,22 @@ NA
 範例: [替代役役男退役證明書英文版申請書](https://www.nca.gov.tw/chaspx/News_Detail.aspx?web=17&id=9416)
 
 
+## 參加轉換公民三部曲 
+1. e-journey
+1. experimental tour
+1. community sharing;
+
+此步驟大概花一個月。
+
+## 拿到正式批准信
+
+## 去大使館退籍
+
+## 註冊新公民
+
+## 辦新護照 ( 註冊同一天去櫃檯，無須預約）
+
+
 
 ## 備註:
 ## [所需文件檢查表 Checklist for Documents to be submitted for Adult Applications](https://www.ica.gov.sg/docs/default-source/ica/forms/forms_new_explanatory_notes_(adult).pdf)
@@ -169,16 +185,7 @@ Please select the relevant checklist for the documents you will need to upload w
 
 [兵役課業務職掌暨電話分機一覽表（臺北市士林區公所網路電話 本所總機：02-28826200)](https://sldo.gov.taipei/News_Content.aspx?n=47B8BC684B4BF857&sms=B0DBE856F627CC53&s=633A33AE529B6B5D)
 
-林課員
-
-3.替代役備役管理(含證明書遺失補發)。
-
-６２０９
-
 [替代役退役證明書之核發](https://www.nca.gov.tw/chaspx/content.aspx?web=62)
-
-管理組東區督考科	02-23167707
-
 
 
 (Personal Documents
@@ -211,21 +218,5 @@ Other Documents
 1. National Service Transcript
 1. Deed Poll or religious certificate for change of name
 )
-
-
-## 參加轉換公民三部曲 
-1. e-journey
-1. experimental tour
-1. community sharing;
-
-此步驟大概花一個月。
-
-## 拿到正式批准信
-
-## 去大使館退籍
-
-## 註冊新公民
-
-## 辦新護照 ( 註冊同一天去櫃檯，無須預約）
 
 ## End
