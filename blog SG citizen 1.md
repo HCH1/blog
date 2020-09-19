@@ -163,7 +163,7 @@ Please select the relevant checklist for the documents you will need to upload w
 個人文件
 
 1. 彩色照片，具有以下要求：
-1. a）最近3個月內拍攝的，寬35毫米，高45毫米，無邊界；
+1. a）最近3個月內拍攝的，寬35mm，高45mm，無邊界；
 1. b）戴完整面罩不戴頭盔，除非您按照宗教或種族習俗習慣戴頭盔。頭飾一定不能掩蓋您的五官。
 1. c）從下巴到冠的面部圖像必須在25mm到35mm之間，並以無光或半啞光的純白色背景拍攝
 1. 外國身份證
