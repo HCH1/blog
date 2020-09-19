@@ -8,6 +8,8 @@
 
 ## [申請第一步 登入 e-service > Singapore Citizenship](https://www.ica.gov.sg/eservicesandforms)
 
+## [所需文件檢查表 Checklist for Documents to be submitted for Adult Applications](https://www.ica.gov.sg/docs/default-source/ica/forms/forms_new_explanatory_notes_(adult).pdf)
+
 ## [流程導覽PDF User Guide On Applying for Singapore Citizenship Online](https://www.ica.gov.sg/docs/default-source/ica/files/user_guide.pdf)
 Table of Contents
 1. Part 1: Logging into the e-Service to apply
@@ -183,9 +185,7 @@ Please select the relevant checklist for the documents you will need to upload w
 
 [替代役役男退役證明書英文版申請書](https://www.nca.gov.tw/chaspx/News_Detail.aspx?web=17&id=9416)
 
-[兵役課業務職掌暨電話分機一覽表（臺北市士林區公所網路電話 本所總機：02-28826200)](https://sldo.gov.taipei/News_Content.aspx?n=47B8BC684B4BF857&sms=B0DBE856F627CC53&s=633A33AE529B6B5D)
-
-[替代役退役證明書之核發](https://www.nca.gov.tw/chaspx/content.aspx?web=62)
+[兵役課業務職掌暨電話分機一覽表](https://sldo.gov.taipei/News_Content.aspx?n=47B8BC684B4BF857&sms=B0DBE856F627CC53&s=633A33AE529B6B5D)
 
 
 (Personal Documents
