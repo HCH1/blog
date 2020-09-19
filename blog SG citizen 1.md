@@ -1,40 +1,62 @@
+# 三分鐘弄懂申請新加坡轉公民！心得與整理推薦 (2020) Introduction of Becoming a Singapore Citizen! LIKE👍 訂閱🛎 分享❤️
+
 ![sg c1](https://github.com/HCH1/blog/blob/master/fig/sgcitizen1.JPG)
 
 ## [Becoming a Singapore Citizen](https://www.ica.gov.sg/PR/citizenship/PR_citizenship_becomeasc)
 
-假如您: 至少兩年的新加坡永久居民（PR），並且年齡在21歲以上。未婚無子。申請轉公民的流程會簡便很多。
+假如您: 至少兩年的新加坡永久居民（PR），並且年齡在21歲以上，未婚無子，無改名為犯法，申請轉公民的流程會簡便很多!
 
 ## [申請第一步 登入 e-service > Singapore Citizenship](https://www.ica.gov.sg/eservicesandforms)
 
-## [流程導覽 User Guide On Applying for Singapore Citizenship Online](https://www.ica.gov.sg/docs/default-source/ica/files/user_guide.pdf)
+## [流程導覽PDF User Guide On Applying for Singapore Citizenship Online](https://www.ica.gov.sg/docs/default-source/ica/files/user_guide.pdf)
 Table of Contents
 1. Part 1: Logging into the e-Service to apply
 
+[e-service > Singapore Citizenship](https://www.ica.gov.sg/eservicesandforms)
+
 1. Part 2: Completing questionnaire
-
 1. (a) For Singapore Citizen Sponsor
-
 1. (b) For PR Main Applicant
-
 1. Part 3: Applicant Details
-
 1. (a) For Singapore Citizen Sponsor
-
 1. (b) For PR Main Applicant
+
+填寫個資，假如您申請過RP以及在ICA有建立過資料。基本上這步驟就變很快大概只花十分鐘。
 
 1. Part 4: Completing the Relevant Sections in a Form
 
+這步驟最花時間! 都是keyin建檔，還未到上傳資料步驟。
+尤其是要填寫父母和兄弟姊妹的個資以及就業狀況等等。不過這些資料再申請PR時候已經提供過一次紙本資料。若你那時候有存電子檔，只需要翻出來抄寫即可。
+
 1. Section 1: Biodata
+
+本人的個資，電話和email要正確勿改!
 
 1. Section 2: Family
 
+要填寫父母和兄弟姊妹的個資以及就業狀況等等。
+
 1. Section 3: Other Marriage and Biological Children
+
+NA
 
 1. Section 4: Employment
 
+填寫十年內的就職狀況，有點類似履歷表，還需要公司名稱，地址，規模等等
+
 1. Section 5: Education
 
+假如您學士和碩士畢業，那就填寫兩種學校的資訊。
+
 1. Section 6: Travel
+
+有兩大項:
+
+Absence from Singapore in last Six years
+
+All Past and Current Residential Status and Travel Documents Issued2
+
+
 
 1. Section 7: Antecedent
 
