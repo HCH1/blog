@@ -7,32 +7,63 @@ Eligibility
 
 You will need to log in to MyICA using your SingPass and apply for you and your family.
 
-## Documents Required tooltip button
-Please select the relevant checklist for the documents you will need to upload when completing your Singapore Citizenship Application. When preparing your documents, please ensure that each document file size does not exceed 2MB.
-
-## [Adult](https://www.ica.gov.sg/docs/default-source/ica/forms/forms_new_explanatory_notes_(adult).pdf)
 
 ## [User Guide On Applying for Singapore Citizenship Online](https://www.ica.gov.sg/docs/default-source/ica/files/user_guide.pdf)
 
+![sg c1](https://github.com/HCH1/blog/blob/master/fig/sgcitizen2.JPG)
+
 ## [e-service > Singapore Citizenship](https://www.ica.gov.sg/eservicesandforms)
+
+要求上傳的文件有12個:
+
 Document
-1.	Colour Photograph for 
-2.	TAIWAN Identity Card for 
-3.	Deed Poll or religious certificate for change of name for 
-4.	Birth Certificate for 
-5.	Educational Qualification from NATIONAL CENTRAL UNIVERSITY for 
-6.	Educational Transcript from NATIONAL CENTRAL UNIVERSITY for 
-7.	Educational Qualification from NATIONAL CHIAO TUNG UNIVERSITY for 
-8.	Educational Transcript from NATIONAL CHIAO TUNG UNIVERSITY for 
+
+1.	Colour Photograph  
+
+彩色照片，具有以下要求：
+
+最近3個月內拍攝的，寬35mm，高45mm，無邊界。從下巴到頭頂的面部圖像必須在25mm到35mm之間，並以無光純白色背景拍攝。
+
+2.	TAIWAN Identity Card 
+
+台灣身分證正反面。
+
+3.	Deed Poll or religious certificate for change of name  
+4.	Birth Certificate
+
+出生證明英文版。可去老家的戶政事務所申請戶口名簿英文版。
+
+5.	Educational Qualification from NATIONAL xxx UNIVERSITY
+6.	Educational Transcript from NATIONAL xxx UNIVERSITY
+7.	Educational Qualification from NATIONAL xxx UNIVERSITY
+8.	Educational Transcript from NATIONAL xxx UNIVERSITY 
+
+畢業證書英文版。成績單英文版。
 
 [國立交通大學 學籍成績文件線上申請系統](https://regapp.nctu.edu.tw/Views/User/UserLogin)
 
-9.	Employment letter for GLOBALFOUNDRIES for 
-10.	Latest 6 months payslips for GLOBALFOUNDRIES
-11.	TAIWAN Travel Document page for 
+9.	Employment letter for xxx
+
+通常是跟貴司HR申請或者有些公司系統可員工自行申請下載。
+
+10.	Latest 6 months payslips for xxx
+
+有些公司系統可員工自行申請下載。
+
+11.	TAIWAN Travel Document page
+
+台灣護照
+
 12.	Supplementary Document
 
+這邊我提供退伍證明英文版
 
+
+
+## [Checklist for Documents to be submitted for Adult Applications](https://www.ica.gov.sg/docs/default-source/ica/forms/forms_new_explanatory_notes_(adult).pdf)
+Documents Required tooltip button
+
+Please select the relevant checklist for the documents you will need to upload when completing your Singapore Citizenship Application. When preparing your documents, please ensure that each document file size does not exceed 2MB.
 
 個人文件
 
