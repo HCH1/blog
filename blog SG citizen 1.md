@@ -10,7 +10,54 @@ Eligibility
 You will need to log in to MyICA using your SingPass and apply for you and your family.
 
 
-## [流程說明 User Guide On Applying for Singapore Citizenship Online](https://www.ica.gov.sg/docs/default-source/ica/files/user_guide.pdf)
+## [申請第一步 登入 e-service > Singapore Citizenship](https://www.ica.gov.sg/eservicesandforms)
+
+## [流程導覽 User Guide On Applying for Singapore Citizenship Online](https://www.ica.gov.sg/docs/default-source/ica/files/user_guide.pdf)
+Table of Contents
+1. Part 1: Logging into the e-Service to apply
+
+1. Part 2: Completing questionnaire
+
+1. (a) For Singapore Citizen Sponsor
+
+1. (b) For PR Main Applicant
+
+1. Part 3: Applicant Details
+
+1. (a) For Singapore Citizen Sponsor
+
+1. (b) For PR Main Applicant
+
+1. Part 4: Completing the Relevant Sections in a Form
+
+1. Section 1: Biodata
+
+1. Section 2: Family
+
+1. Section 3: Other Marriage and Biological Children
+
+1. Section 4: Employment
+
+1. Section 5: Education
+
+1. Section 6: Travel
+
+1. Section 7: Antecedent
+
+1. Section 8: National Service
+
+1. Section 9: Parent and Siblings
+
+1. Part 5: Review
+
+1. Part 6: Upload Documents Preview
+
+1. Part 7: Upload Documents
+
+1. Part 8: Declaration
+
+1. Part 9: Payment
+
 
 ![sg c1](https://github.com/HCH1/blog/blob/master/fig/sgcitizen2.JPG)
 
