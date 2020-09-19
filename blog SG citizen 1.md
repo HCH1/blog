@@ -73,21 +73,18 @@ NA
 (1) Offences (2) Singapore Citizenship History: 假如您未犯法紀錄以及未申請過新加坡公民。這邊就都選No.
 
 1. Part 5: Review
-
 1. Part 6: Upload Documents Preview
-
 1. Part 7: Upload Documents
 
 要求上傳的電子檔，通常有12類。後半段有專題介紹!
 
 1. Part 8: Declaration
-
 1. Part 9: Payment
 
 
-![sg c1](https://github.com/HCH1/blog/blob/master/fig/sgcitizen2.JPG)
-
 ## [e-service > Singapore Citizenship](https://www.ica.gov.sg/eservicesandforms)
+
+![sg c1](https://github.com/HCH1/blog/blob/master/fig/sgcitizen2.JPG)
 
 ## 要求上傳的電子檔，通常有12類
 1.	Colour Photograph  
