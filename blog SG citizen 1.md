@@ -1,10 +1,10 @@
-# 三分鐘弄懂申請新加坡轉公民！心得與整理推薦 (2020) Introduction of Becoming a Singapore Citizen! LIKE👍 訂閱🛎 分享❤️
+# 三分鐘弄懂申請轉新加坡公民！心得與整理推薦 (2020) Introduction of Becoming a Singapore Citizen! LIKE👍 訂閱🛎 分享❤️
 
 ![sg c1](https://github.com/HCH1/blog/blob/master/fig/sgcitizen1.JPG)
 
 ## [Becoming a Singapore Citizen](https://www.ica.gov.sg/PR/citizenship/PR_citizenship_becomeasc)
 
-假如您: 至少兩年的新加坡永久居民（PR），並且年齡在21歲以上，未婚無子，無改名為犯法，申請轉公民的流程會簡便很多!
+假如您: 至少兩年的新加坡永久居民（PR），並且年齡在21歲以上，未婚無子，無改名，未犯法，申請轉新加坡公民的流程會簡便很多!
 
 ## [申請第一步 登入 e-service > Singapore Citizenship](https://www.ica.gov.sg/eservicesandforms)
 
@@ -30,9 +30,10 @@ Table of Contents
 
 1. Section 1: Biodata
 
-本人的個資，電話和email要正確勿改!
+本人的個資，電話，地址和email要正確勿改!
 
 1. Section 2: Family
+1. Section 9: Parent and Siblings
 
 要填寫父母和兄弟姊妹的個資以及就業狀況等等。
 
@@ -42,7 +43,7 @@ NA
 
 1. Section 4: Employment
 
-填寫十年內的就職狀況，有點類似履歷表，還需要公司名稱，地址，規模等等
+填寫十年內的就職狀況，還需要公司名稱，地址，規模等等。有點類似履歷表你手邊應該會有一份，所以這步驟填寫也不難。
 
 1. Section 5: Education
 
@@ -54,21 +55,33 @@ NA
 
 Absence from Singapore in last Six years
 
+若您六年內沒有超過一年的出差，那就不用填寫第一項。
+
 All Past and Current Residential Status and Travel Documents Issued2
 
-
-
-1. Section 7: Antecedent
+請填寫台灣護照資訊。
 
 1. Section 8: National Service
 
-1. Section 9: Parent and Siblings
+假如拿工作證，這邊就填寫NA. 同一時間也去準備退伍令英文版。
+
+1. Section 7: Antecedent
+
+有兩大項:
+
+Offences 
+
+Singapore Citizenship History
+
+假如您未犯法紀錄以及未申請過新加坡公民。這邊就都選No.
 
 1. Part 5: Review
 
 1. Part 6: Upload Documents Preview
 
 1. Part 7: Upload Documents
+
+要求上傳的電子檔，通常有12類。後半段有專題介紹!
 
 1. Part 8: Declaration
 
@@ -79,10 +92,7 @@ All Past and Current Residential Status and Travel Documents Issued2
 
 ## [e-service > Singapore Citizenship](https://www.ica.gov.sg/eservicesandforms)
 
-要求上傳的文件有12個:
-
-Document
-
+## 要求上傳的電子檔，通常有12類
 1.	Colour Photograph  
 
 彩色照片，具有以下要求：
