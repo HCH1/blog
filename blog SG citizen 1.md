@@ -53,13 +53,9 @@ NA
 
 有兩大項:
 
-Absence from Singapore in last Six years
+(1) Absence from Singapore in last Six years: 若您六年內沒有超過一年的出差，那就不用填寫第一項。
 
-若您六年內沒有超過一年的出差，那就不用填寫第一項。
-
-All Past and Current Residential Status and Travel Documents Issued2
-
-請填寫台灣護照資訊。
+(2) All Past and Current Residential Status and Travel Documents Issued: 請填寫台灣護照資訊。
 
 1. Section 8: National Service
 
@@ -69,11 +65,7 @@ All Past and Current Residential Status and Travel Documents Issued2
 
 有兩大項:
 
-Offences 
-
-Singapore Citizenship History
-
-假如您未犯法紀錄以及未申請過新加坡公民。這邊就都選No.
+(1) Offences (2) Singapore Citizenship History: 假如您未犯法紀錄以及未申請過新加坡公民。這邊就都選No.
 
 1. Part 5: Review
 
@@ -95,46 +87,49 @@ Singapore Citizenship History
 ## 要求上傳的電子檔，通常有12類
 1.	Colour Photograph  
 
-彩色照片，具有以下要求：
-
-最近3個月內拍攝的，寬35mm，高45mm，無邊界。從下巴到頭頂的面部圖像必須在25mm到35mm之間，並以無光純白色背景拍攝。
+彩色照片電子檔，具有以下要求：最近3個月內拍攝的，寬35mm，高45mm，無邊界。從下巴到頭頂的面部圖像必須在25mm到35mm之間，並以無光純白色背景拍攝。
 
 2.	TAIWAN Identity Card 
 
-台灣身分證正反面。
+台灣身分證正反面電子檔。
 
 3.	Deed Poll or religious certificate for change of name  
 4.	Birth Certificate
 
-出生證明英文版。可去老家的戶政事務所申請戶口名簿英文版。
+出生證明英文版電子檔。可去老家的戶政事務所申請戶口名簿英文版。
 
 5.	Educational Qualification from NATIONAL xxx UNIVERSITY
 6.	Educational Transcript from NATIONAL xxx UNIVERSITY
 7.	Educational Qualification from NATIONAL xxx UNIVERSITY
 8.	Educational Transcript from NATIONAL xxx UNIVERSITY 
 
-畢業證書英文版。成績單英文版。
+畢業證書英文版電子檔。成績單英文版。
+
+範例:
 
 [國立交通大學 學籍成績文件線上申請系統](https://regapp.nctu.edu.tw/Views/User/UserLogin)
 
 9.	Employment letter for xxx
 
-通常是跟貴司HR申請或者有些公司系統可員工自行申請下載。
+通常是跟貴司HR申請或者有些公司系統可員工自行申請下載電子檔。
 
 10.	Latest 6 months payslips for xxx
 
-有些公司系統可員工自行申請下載。
+有些公司系統可員工自行申請下載電子檔。
 
 11.	TAIWAN Travel Document page
 
-台灣護照
+台灣護照電子檔。
 
 12.	Supplementary Document
 
-這邊我提供退伍證明英文版
+男生這邊可提供退伍令英文版電子檔。
 
+範例:
 
+[替代役役男退役證明書英文版申請書](https://www.nca.gov.tw/chaspx/News_Detail.aspx?web=17&id=9416)
 
+## 備註:
 ## [所需文件檢查表 Checklist for Documents to be submitted for Adult Applications](https://www.ica.gov.sg/docs/default-source/ica/forms/forms_new_explanatory_notes_(adult).pdf)
 Documents Required tooltip button
 
