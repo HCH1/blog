@@ -25,7 +25,7 @@ Table of Contents
 
 1. Part 4: Completing the Relevant Sections in a Form
 
-這步驟最花時間! 都是keyin建檔，還未到上傳資料步驟。
+這步驟最花時間! 都是key in建檔，還未到上傳資料步驟。
 尤其是要填寫父母和兄弟姊妹的個資以及就業狀況等等。不過這些資料再申請PR時候已經提供過一次紙本資料。若你那時候有存電子檔，只需要翻出來抄寫即可。
 
 1. Section 1: Biodata
