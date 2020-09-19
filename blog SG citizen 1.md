@@ -102,6 +102,8 @@ NA
 
 出生證明英文版電子檔。可去老家的戶政事務所申請戶口名簿英文版。
 
+範例: [兵役課業務職掌暨電話分機一覽表](https://sldo.gov.taipei/News_Content.aspx?n=47B8BC684B4BF857&sms=B0DBE856F627CC53&s=633A33AE529B6B5D)
+
 5.	Educational Qualification from NATIONAL xxx UNIVERSITY
 6.	Educational Transcript from NATIONAL xxx UNIVERSITY
 7.	Educational Qualification from NATIONAL xxx UNIVERSITY
@@ -182,10 +184,6 @@ Please select the relevant checklist for the documents you will need to upload w
 1. 國民服務鑑定
 1. 國民服T本
 1. 更改名稱的契據或宗教證書
-
-[替代役役男退役證明書英文版申請書](https://www.nca.gov.tw/chaspx/News_Detail.aspx?web=17&id=9416)
-
-[兵役課業務職掌暨電話分機一覽表](https://sldo.gov.taipei/News_Content.aspx?n=47B8BC684B4BF857&sms=B0DBE856F627CC53&s=633A33AE529B6B5D)
 
 
 (Personal Documents
