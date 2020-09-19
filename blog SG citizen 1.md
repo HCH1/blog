@@ -4,7 +4,7 @@
 
 ## [Becoming a Singapore Citizen](https://www.ica.gov.sg/PR/citizenship/PR_citizenship_becomeasc)
 
-假如您: 至少兩年的新加坡永久居民（PR），並且年齡在21歲以上，未婚無子，無改名，未犯法，申請轉新加坡公民的流程會簡便很多!
+假如您: 至少兩年的新加坡永久居民（PR），並且年齡在21歲以上，未婚無子，無改名，未犯法，申請轉新加坡公民的流程會簡單很多!
 
 ## [申請第一步 登入 e-service > Singapore Citizenship](https://www.ica.gov.sg/eservicesandforms)
 
