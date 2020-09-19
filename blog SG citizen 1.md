@@ -1,3 +1,5 @@
+![sg c1](https://github.com/HCH1/blog/blob/master/fig/sgcitizen1.JPG)
+
 # Becoming a Singapore Citizen
 https://www.ica.gov.sg/PR/citizenship/PR_citizenship_becomeasc
 
