@@ -16,44 +16,44 @@ Table of Contents
 
 [e-service > Singapore Citizenship](https://www.ica.gov.sg/eservicesandforms)
 
-1. Part 2: Completing questionnaire
+2. Part 2: Completing questionnaire
 1. (a) For Singapore Citizen Sponsor
 1. (b) For PR Main Applicant
-1. Part 3: Applicant Details
+3. Part 3: Applicant Details
 1. (a) For Singapore Citizen Sponsor
 1. (b) For PR Main Applicant
 
 填寫個資，假如您申請過RP以及在ICA有建立過資料。基本上這步驟就變很快大概只花十分鐘。
 
-1. Part 4: Completing the Relevant Sections in a Form
+4. Part 4: Completing the Relevant Sections in a Form
 
 這步驟超級花時間大概一小時! 都是key in建檔! (還未到上傳電子檔的步驟)
 尤其是要填寫父母和兄弟姊妹的個資以及就業狀況等等。不過這些資料再申請PR時候已經提供過一次紙本資料。若你那時候有存電子檔，只需要翻出來抄寫即可。
 
-1. Section 1: Biodata
+5. Section 1: Biodata
 
 本人的個資，電話，地址和email要正確勿改!
 
-1. Section 2: Family
-1. Section 9: Parent and Siblings
+6. Section 2: Family
+7. Section 9: Parent and Siblings
 
 要填寫父母和兄弟姊妹的個資以及就業狀況等等。
 
 ![sg c1](https://github.com/HCH1/blog/blob/master/fig/sgcitizen2c.JPG)
 
-1. Section 3: Other Marriage and Biological Children
+8. Section 3: Other Marriage and Biological Children
 
 NA
 
-1. Section 4: Employment
+9. Section 4: Employment
 
 填寫十年內的就職狀況，還需要公司名稱，地址，規模等等。有點類似履歷表你手邊應該會有一份，所以這步驟填寫也不難。
 
-1. Section 5: Education
+10. Section 5: Education
 
 假如您學士和碩士畢業，那就填寫兩種學校的資訊。
 
-1. Section 6: Travel
+11. Section 6: Travel
 
 有兩大項:
 
@@ -64,24 +64,24 @@ NA
 ![sg c1](https://github.com/HCH1/blog/blob/master/fig/sgcitizen2b.JPG)
 
 
-1. Section 8: National Service
+12. Section 8: National Service
 
 假如拿工作證，這邊就填寫NA. 同一時間也去準備退伍令英文版。
 
-1. Section 7: Antecedent
+13. Section 7: Antecedent
 
 有兩大項:
 
 (1) Offences (2) Singapore Citizenship History: 假如您未犯法紀錄以及未申請過新加坡公民。這邊就都選No.
 
-1. Part 5: Review
-1. Part 6: Upload Documents Preview
-1. Part 7: Upload Documents
+14. Part 5: Review
+15. Part 6: Upload Documents Preview
+16. Part 7: Upload Documents
 
 要求上傳的電子檔，通常有12類。後半段有專題介紹!
 
-1. Part 8: Declaration
-1. Part 9: Payment
+17. Part 8: Declaration
+18. Part 9: Payment
 
 
 ## [e-service > Singapore Citizenship](https://www.ica.gov.sg/eservicesandforms)
