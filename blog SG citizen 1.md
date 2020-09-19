@@ -1,6 +1,6 @@
 ![sg c1](https://github.com/HCH1/blog/blob/master/fig/sgcitizen1.JPG)
 
-# Becoming a Singapore Citizen
+## [Becoming a Singapore Citizen](https://www.ica.gov.sg/PR/citizenship/PR_citizenship_becomeasc)
 
 假如您: 至少兩年的新加坡永久居民（PR），並且年齡在21歲以上。未婚無子。申請轉公民的流程會簡便很多。
 
