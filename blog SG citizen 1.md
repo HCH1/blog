@@ -187,7 +187,7 @@ Please select the relevant checklist for the documents you will need to upload w
 其他文件
 1. 國家服務服務證書
 1. 國民服務鑑定
-1. 國民服T本
+1. 國民服務成績單
 1. 更改名稱的契據或宗教證書
 
 
