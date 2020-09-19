@@ -37,6 +37,8 @@ Table of Contents
 
 要填寫父母和兄弟姊妹的個資以及就業狀況等等。
 
+![sg c1](https://github.com/HCH1/blog/blob/master/fig/sgcitizen2c.JPG)
+
 1. Section 3: Other Marriage and Biological Children
 
 NA
