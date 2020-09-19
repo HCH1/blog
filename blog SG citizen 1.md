@@ -105,9 +105,7 @@ NA
 
 畢業證書英文版電子檔。成績單英文版。
 
-範例:
-
-[國立交通大學 學籍成績文件線上申請系統](https://regapp.nctu.edu.tw/Views/User/UserLogin)
+範例: [國立交通大學 學籍成績文件線上申請系統](https://regapp.nctu.edu.tw/Views/User/UserLogin)
 
 9.	Employment letter for xxx
 
@@ -125,9 +123,9 @@ NA
 
 男生這邊可提供退伍令英文版電子檔。
 
-範例:
+範例: [替代役役男退役證明書英文版申請書](https://www.nca.gov.tw/chaspx/News_Detail.aspx?web=17&id=9416)
 
-[替代役役男退役證明書英文版申請書](https://www.nca.gov.tw/chaspx/News_Detail.aspx?web=17&id=9416)
+
 
 ## 備註:
 ## [所需文件檢查表 Checklist for Documents to be submitted for Adult Applications](https://www.ica.gov.sg/docs/default-source/ica/forms/forms_new_explanatory_notes_(adult).pdf)
@@ -213,33 +211,10 @@ Other Documents
 )
 
 
-
-
-
-
-## 成为新加坡公民
-年满21岁并且在新加坡居住至少满两年的新加坡永久居民可申请取得新加坡公民身份。您可通过移民与关卡局电子服务系统在线递交申请，我们会予以考虑。
-我们将根据每份申请的具体资质和现行政策予以评估。所有申请者必须与移民与关卡局预约见面。
-
-更多关于移民事宜的咨询，您可联系移民与关卡局，地址：
-
-Citizen Services Centre
-
-6th Storey, ICA Building
-
-
-
-
-
-
 # 新加坡申請公民：
 
 ![sg c1](https://github.com/HCH1/blog/blob/master/fig/sg%20c1.png)
 
-### 公民申請條件是什麼？
-
-- 年滿21歲，並且在申請之前已經成為 新加坡永久居民
-> 至少2年。
 ### 申請流程：
 - 提前在ICA網站預約提交資料的時間，到時間去ICA遞交申請 。
 - 拿到 原則批准信 
