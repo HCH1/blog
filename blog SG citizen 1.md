@@ -57,7 +57,7 @@ NA
 
 (2) All Past and Current Residential Status and Travel Documents Issued: 請填寫台灣護照資訊。
 
-![sg c1](https://github.com/HCH1/blog/blob/master/fig/sgcitizen2.JPG)
+![sg c1](https://github.com/HCH1/blog/blob/master/fig/sgcitizen2b.JPG)
 
 
 1. Section 8: National Service
