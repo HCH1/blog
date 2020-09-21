@@ -137,6 +137,10 @@ NA
 範例: [替代役役男退役證明書英文版申請書](https://www.nca.gov.tw/chaspx/News_Detail.aspx?web=17&id=9416)
 
 
+## 電子檔都上傳後，確認資料無誤。刷卡100$，遞交。
+
+## 恭喜你完成 申請轉新加坡公民
+
 ## 參加轉換公民三部曲 
 1. e-journey
 1. experimental tour
