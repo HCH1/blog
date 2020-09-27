@@ -11,6 +11,11 @@ Sony RX100 V 等校於 24-70mm f/1.8-2.8
 
 [Sonnar T* FE 55mm F1.8 ZA SEL55F18Z 1390$](https://www.sony.com.sg/electronics/camera-lenses/sel55f18z#local_banner_default)
 
+拍攝技巧:
+
+可利用網襪 絲布或花朵吊飾 放置在鏡頭前，會有虛化與染色效果。
+
+
 
 ## 這就是我手中的一機三鏡，不到0.001立方米，卻滿足了我基本所有的日常拍攝需求，不必有任何心理和身體的負擔，用影像表達我看到的世界。
 
