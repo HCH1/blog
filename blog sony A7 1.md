@@ -1,6 +1,18 @@
 # 三分鐘弄懂sony A7系列 與鏡頭搭配！心得與整理推薦 (2020) Introduction of sony A7! LIKE👍 訂閱🛎 分享❤️
 
-![sg c1](https://github.com/HCH1/blog/blob/master/fig/sonya71.JPG)
+![f1](https://github.com/HCH1/blog/blob/master/fig/sonya71.JPG)
+
+## 這就是我手中的一機三鏡，不到0.001立方米，卻滿足了我基本所有的日常拍攝需求，不必有任何心理和身體的負擔，用影像表達我看到的世界。
+
+
+
+[FE 28mm F2全畫幅廣角定焦鏡頭（SEL28F20）](https://www.sonystyle.com.cn/products/lenses/sel28f20/sel28f20.html)
+
+[廣角轉換器SEL075UWC](https://www.sonystyle.com.cn/products/lenses/sel075uwc/sel075uwc.html)
+
+魚眼 SEL057FEC
+
+
 
 ## [Becoming a Singapore Citizen](https://www.ica.gov.sg/PR/citizenship/PR_citizenship_becomeasc)
 攝影所涵蓋的類別非常廣泛，風光攝影，紀實攝影，人像攝影，野生動物攝影，微距攝影等等。攝影的類別不同，所需要的鏡頭也有所不同。
