@@ -7,6 +7,8 @@
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/sonya71b.jpg)
 
+[Sony a7R II Manual](https://www.alphashooters.com/wp-content/docs/sony-a7rii-manual.pdf)
+
 Sony RX100 V 等校於 24-70mm f/1.8-2.8
 
 [Sonnar T* FE 55mm F1.8 ZA SEL55F18Z 1390$](https://www.sony.com.sg/electronics/camera-lenses/sel55f18z#local_banner_default)
