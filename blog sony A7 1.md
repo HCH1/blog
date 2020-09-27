@@ -2,9 +2,17 @@
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/sonya71.JPG)
 
+## A7R2 vs RX100 V
+![f1](https://github.com/HCH1/blog/blob/master/fig/sonya71a.JPG)
+
+![f1](https://github.com/HCH1/blog/blob/master/fig/sonya71b.JPG)
+
+Sony RX100 V 等校於 24-70mm f/1.8-2.8
+
+[Sonnar T* FE 55mm F1.8 ZA SEL55F18Z 1390$](https://www.sony.com.sg/electronics/camera-lenses/sel55f18z#local_banner_default)
+
+
 ## 這就是我手中的一機三鏡，不到0.001立方米，卻滿足了我基本所有的日常拍攝需求，不必有任何心理和身體的負擔，用影像表達我看到的世界。
-
-
 
 [FE 28mm F2全畫幅廣角定焦鏡頭（SEL28F20）](https://www.sonystyle.com.cn/products/lenses/sel28f20/sel28f20.html)
 
@@ -12,15 +20,9 @@
 
 魚眼 SEL057FEC
 
-
-
 ## [Becoming a Singapore Citizen](https://www.ica.gov.sg/PR/citizenship/PR_citizenship_becomeasc)
 攝影所涵蓋的類別非常廣泛，風光攝影，紀實攝影，人像攝影，野生動物攝影，微距攝影等等。攝影的類別不同，所需要的鏡頭也有所不同。
 在購買鏡頭時我們需要根據自己所喜愛或者很多長攝影的剛入門的朋友，並不知道該如何去選擇鏡頭，下面，斯莫格小姐姐就給大家分享一下最常見的10個攝影類別，選擇某種的鏡頭會比較合適？
-
-
-
-
 
 第一，人像攝影用什麼鏡頭？
 
