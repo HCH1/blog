@@ -5,7 +5,7 @@
 ## A7R2 vs RX100 V
 ![f1](https://github.com/HCH1/blog/blob/master/fig/sonya71a.JPG)
 
-![f1](https://github.com/HCH1/blog/blob/master/fig/sonya71b.JPG)
+![f1](https://github.com/HCH1/blog/blob/master/fig/sonya71b.jpg)
 
 Sony RX100 V 等校於 24-70mm f/1.8-2.8
 
