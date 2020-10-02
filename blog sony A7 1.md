@@ -114,31 +114,4 @@ Sony RX100 V 等校於 24-70mm f/1.8-2.8
 
 
 
-
-
-
-
-
-
-假如您: 至少兩年的新加坡永久居民（PR），並且年齡在21歲以上，未婚無子，無改名，未犯法，申請轉新加坡公民的流程會簡單很多!
-
-## [申請第一步 登入 e-service > Singapore Citizenship](https://www.ica.gov.sg/eservicesandforms)
-
-## [所需文件檢查表 Checklist for Documents to be submitted for Adult Applications](https://www.ica.gov.sg/docs/default-source/ica/forms/forms_new_explanatory_notes_(adult).pdf)
-
-## [流程導覽PDF User Guide On Applying for Singapore Citizenship Online](https://www.ica.gov.sg/docs/default-source/ica/files/user_guide.pdf)
-Table of Contents
-1. Part 1: Logging into the e-Service to apply
-
-[e-service > Singapore Citizenship](https://www.ica.gov.sg/eservicesandforms)
-
-2. Part 2: Completing questionnaire
-
-(a) For Singapore Citizen Sponsor
-
-(b) For PR Main Applicant
-
-3. Part 3: Applicant Details
-
-
 ## End
