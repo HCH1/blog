@@ -4,6 +4,8 @@
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/sonyclass1b.JPG)
 
+[Sony α7 II](https://store.sony.com.sg/collections/alpha-full-frame-cameras/products/ilce-7m2k)
+
 [Sonnar T* FE 55mm F1.8 ZA SEL55F18Z 1390$](https://www.sony.com.sg/electronics/camera-lenses/sel55f18z#local_banner_default)
 
 ## 逆光寫真技巧:
