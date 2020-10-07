@@ -8,6 +8,12 @@
 
 [Sonnar T* FE 55mm F1.8 ZA SEL55F18Z 999$](https://www.sony.com.sg/electronics/camera-lenses/sel55f18z#local_banner_default)
 
+## 創意拍:
+1. [保鮮膜包鏡頭前 用麥克筆上色](https://www.youtube.com/watch?v=KlDIdTKfIrs)
+1. 投影機屏幕
+1. 三菱鏡 prism refraction 
+
+
 ## 逆光寫真技巧:
 1. 鋼圈最大，或可曝光補償+1。
 1. 角落要有光暈 
