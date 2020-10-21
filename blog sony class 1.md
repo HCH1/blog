@@ -15,6 +15,9 @@ T型背景架
 C型架
 一個背景架，一塊背景布，一個金貝MSN-V600，一個大的柔光箱，一個柔光板，夠你玩各種光影拍攝了。如果是玩單燈400瓦有點勉強哦。
 
+## [Godox 600Ws Strobe Studio Flash Light Kit 3pcs 200Ws Photographic Lighting - Strobes, Light Stands, Triggers, Soft Box](https://shopee.sg/Godox-600Ws-Strobe-Studio-Flash-Light-Kit-3pcs-200Ws-Photographic-Lighting-Strobes-Light-Stands-Triggers-Soft-Box-i.218275519.6317429510)
+Godox 200Ws
+Godox 80cm  Octangon Softbox *1
 
 ## [國產燈兩個品牌分別是，金貝，神牛](https://www.zhihu.com/question/34311328)
 國產燈兩個品牌分別是，金貝，神牛
