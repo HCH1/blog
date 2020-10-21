@@ -16,8 +16,22 @@ C型架
 一個背景架，一塊背景布，一個金貝MSN-V600，一個大的柔光箱，一個柔光板，夠你玩各種光影拍攝了。如果是玩單燈400瓦有點勉強哦。
 
 ## [Godox 600Ws Strobe Studio Flash Light Kit 3pcs 200Ws Photographic Lighting - Strobes, Light Stands, Triggers, Soft Box](https://shopee.sg/Godox-600Ws-Strobe-Studio-Flash-Light-Kit-3pcs-200Ws-Photographic-Lighting-Strobes-Light-Stands-Triggers-Soft-Box-i.218275519.6317429510)
+
+## [神牛V1開箱 │ 外觀、介面、功能介紹](https://www.youtube.com/watch?v=5bmrfWXjdvY)
+## [Godox神牛V1闪光灯详细评测 实战篇](https://www.youtube.com/watch?v=OehKN0EoujM)
+Godox V1 250$
+
+1. 打牆反閃
+1. 離機引閃 4545原則 TTL 懶人模式
+1. 光圈控閃光 快門控背景 IOS大背景亮
+
+
+Godox 80cm Octangon Softbox 40$
+
+Godox SL60W 200$
+
 Godox 200Ws
-Godox 80cm  Octangon Softbox *1
+
 
 ## [國產燈兩個品牌分別是，金貝，神牛](https://www.zhihu.com/question/34311328)
 國產燈兩個品牌分別是，金貝，神牛
