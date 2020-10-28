@@ -4,9 +4,15 @@
 
 ## 男性護膚步驟:
 1. 洗臉 刮鬍子
-1. 補水
+1. 化妝水
 1. 乳液
 1. 防曬
+1. Foundation底妝 [RIMMEL Match Perfection Foundation True Beige 30ml](https://www.watsons.com.sg/match-perfection-foundation-true-beige-30ml/p/BP_76595)
+1. [concealer遮瑕](https://www.watsons.com.sg/search?text=concealer)
+1. eyebrows []()
+1. [face powder](https://www.watsons.com.sg/search?text=face+powder)
+
+e.g. https://www.youtube.com/watch?v=UvKvr9NU1kk
 
 
 一目了然地化妝順序
