@@ -11,6 +11,7 @@
 1. [concealer遮瑕](https://www.watsons.com.sg/search?text=concealer)
 1. eyebrows []()
 1. [face powder](https://www.watsons.com.sg/search?text=face+powder)
+1. [Makeup remover](https://www.watsons.com.sg/search?text=+Makeup+remover)
 
 e.g. https://www.youtube.com/watch?v=UvKvr9NU1kk
 
