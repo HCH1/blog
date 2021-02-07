@@ -2,7 +2,7 @@
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/sonya71d.JPG)
 
-## 前言
+## 前言 (wiki)
 索尼 α7（型號：ILCE-7）是2013年10月索尼公司推出的可換鏡頭全畫幅數位相機，使用索尼E接環，法蘭距18mm。是世界首台全畫幅微單相機。
 
 同時推出的還有無低通高像素版本α7R，具備三千六百萬像素CMOS傳感器。索尼公司在之後也發布了不少近似模具機型，形成了α7系列機型。
@@ -85,13 +85,10 @@
 ![f1](https://github.com/HCH1/blog/blob/master/fig/sonya71e5.JPG)
 
 
-
 ### 更換鏡頭要注意事項
 更換鏡頭時 將相機的電源開關設定為OFF。然後最好找一桌面 迅速裝上/取出鏡頭。重點是分離後的機身俯放在桌面(減少接觸空氣也讓灰塵較難掉落到CMOS感光元件)，鏡頭也是開口朝下放在蓋子上
 
-![f1](https://github.com/HCH1/blog/blob/master/fig/sonya712.JPG)
-
-
+![f1](https://github.com/HCH1/blog/blob/master/fig/sonya71e.JPG)
 
 
 ## 人像寫真大師 Albert Watson
@@ -116,6 +113,6 @@ Albert Watson只和喬布斯有過一次合作，卻讓人印象深刻。據Albe
 
 “通過這張照片，你看著他，你就知道這傢伙有多厲害，你能看到他的激情。後來我聽說這一直是他最喜歡的照片。”
 
-
+![f1](https://github.com/HCH1/blog/blob/master/fig/sonya71e6.JPG)
 
 ## End
