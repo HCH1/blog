@@ -33,7 +33,7 @@
 
 我第一顆鏡頭是買蔡司55mm 真心推薦拍人像寫真的第一顆神鏡來練功
 
-### [sony 55mm f1.8](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sony+55m+f1.8)
+### [sony 55mm f1.8](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sony+55mm+f1.8)
 
 - 蔡司ZEISS定焦鏡 色彩好銳度高邊緣佳 也相對保值
 - 全片幅FE E口代表適用於SONY A7
@@ -41,7 +41,7 @@
 - T* 抗反光鍍膜可大幅減少耀光
 - 重量 281 g (很輕 機身加鏡頭 小於一公斤 MacBook Air是1.29kg)
 
-### [作品分享](https://www.xiaohongshu.com/user/profile/5cd401c500000000110287e3?xhsshare=CopyLink&appuid=5cd401c500000000110287e3&apptime=1607316287)
+### [我的作品分享](https://www.xiaohongshu.com/user/profile/5cd401c500000000110287e3?xhsshare=CopyLink&appuid=5cd401c500000000110287e3&apptime=1607316287)
 
 
 ## 人像寫真鏡頭 請記住 3 5 8 也就是大多使用85mm-50mm-35mm。iphone等校焦距大概是30mm。
@@ -53,6 +53,7 @@
 - 光圈越大類似於眼睛睜大不是瞇瞇眼 所以比較可分出前後
 
 所以 85mm f1.8 就很容易造成虛化背景，30mm f4 就很難造成虛化背景
+
 
 
 
