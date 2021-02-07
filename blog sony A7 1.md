@@ -1,6 +1,6 @@
 # 三分鐘弄懂sony A7系列 鏡頭搭配 心得與整理推薦 (2021) Introduction of sony A7! LIKE👍 訂閱🛎 分享❤️
 
-![f1](https://github.com/HCH1/blog/blob/master/fig/sonya71.JPG)
+![f1](https://github.com/HCH1/blog/blob/master/fig/sonya71d.JPG)
 
 ## 前言
 索尼 α7（型號：ILCE-7）是2013年10月索尼公司推出的可換鏡頭全畫幅數位相機，使用索尼E接環，法蘭距18mm。是世界首台全畫幅微單相機。
@@ -53,24 +53,6 @@
 - 光圈越大類似於眼睛睜大不是瞇瞇眼 所以比較可分出前後
 
 所以 85mm f1.8 就很容易造成虛化背景，30mm f4 就很難造成虛化背景
-
-
-
-
-
-
-
-## A7R2 vs RX100 V
-![f1](https://github.com/HCH1/blog/blob/master/fig/sonya71a.JPG)
-
-![f1](https://github.com/HCH1/blog/blob/master/fig/sonya71b.jpg)
-
-[Sony a7R II Manual](https://www.alphashooters.com/wp-content/docs/sony-a7rii-manual.pdf)
-
-Sony RX100 V 等校於 24-70mm f/1.8-2.8
-
-[Sonnar T* FE 55mm F1.8 ZA SEL55F18Z 1390$](https://www.sony.com.sg/electronics/camera-lenses/sel55f18z#local_banner_default)
-
 
 
 
