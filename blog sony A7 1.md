@@ -1,6 +1,7 @@
-# 三分鐘弄懂sony A7系列 與鏡頭搭配！心得與整理推薦 (2020) Introduction of sony A7! LIKE👍 訂閱🛎 分享❤️
+# 三分鐘弄懂sony A7系列 鏡頭搭配 心得與整理推薦 (2021) Introduction of sony A7! LIKE👍 訂閱🛎 分享❤️
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/sonya71.JPG)
+
 
 ## A7R2 vs RX100 V
 ![f1](https://github.com/HCH1/blog/blob/master/fig/sonya71a.JPG)
@@ -12,6 +13,13 @@
 Sony RX100 V 等校於 24-70mm f/1.8-2.8
 
 [Sonnar T* FE 55mm F1.8 ZA SEL55F18Z 1390$](https://www.sony.com.sg/electronics/camera-lenses/sel55f18z#local_banner_default)
+
+
+
+
+
+
+
 
 拍攝技巧:
 
