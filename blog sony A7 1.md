@@ -15,11 +15,62 @@
 
 ## 懶人包+任意門
 以下連結 先讓初次接觸的你 有個概念~
-- [sony RX100m5a 價位](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sony+A7m2+價位)
-- [sony RX100m5a 規格](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sony+A7m2+規格)
-- [sony RX100m5a 說明指南](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sony+A7m2+說明指南)
+- [sony A7m2 價位](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sony+A7m2+價位)
+- [sony A7m2 規格](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sony+A7m2+規格)
+- [sony A7m2 說明指南](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sony+A7m2+說明指南)
+
+## 心得與整理推薦
+
+前幾年我是購買RX100m5a來當作旅遊相機 因為真的 輕快準。也在這寫了篇文章 瀏覽率也算高搜尋也在第一頁 希望當時有幫到各位。
+
+由於2020疫情的發生 造成無法旅遊目的出國 那是萌生了一個念頭 若大風景拍不了 或許我可練拍人像寫真 做了一些功課後 在2020年底購入sony A7。
+
+優點:
+
+以 可換鏡頭全畫幅數位相機 來說 SONY重量就是輕 不到500g (iPhone 12 Pro Max是226g 大概兩支手機重)
+
+可WIFI傳照到在手機。以我外拍的習慣來說 單反拍完後 再搭車回家的路上 我就會手機抓照片 大概100張十分鐘搞定 然後就用手機APP開始篩選與調色修圖 真心方便
+
+我第一顆鏡頭是買 真心推薦拍人像寫真的第一顆鏡頭可買
+- [sony 55mm f1.8](https://www.google.com.tw/search?source=hp&ei=JzIkXMrUB42y9QOcxZ6YAg&q=sony+55m+f1.8+價位)
+
+人像寫真鏡頭 記住 3 5 8 也就是大多使用85mm-50mm-35mm。iphone等校焦距大概是30mm。
+
+數字越大攝影師與模特的拍攝距離會越遠，例如在室內咖啡廳用35拍攝比較得心應手，在戶外就用85可隔兩三公尺拍攝而且背景虛化也很棒，85有些網友說很好上手 或說就是無腦虛化，背景虛化就是有種質感與美
+
+背景虛化基於兩種因素: 焦距與光圈
+- 焦距越大類類似於看很遠 遠景會被壓縮感 像那種焦距破百就是俗稱的打野打鳥鏡頭。
+- 光圈越大類似於眼睛睜大不是瞇瞇眼 所以比較可分出前後
+
+所以 85mm f1.8 就很容易造成虛化背景，30mm f4 就很難造成虛化背景
 
 
+人像攝影一般用85mm-50mm-35mm，這三枚人像定焦各有各的用處，想要照片更加的專業，更加的質素好，你只需要選擇其中一枚，便可以享受攝影的樂趣了，
+常見的光圈選擇都是F1.8,1.4,1.2，價格按照光圈大小售賣，根據個人的預算來進行挑選還是可以的。對於半幅機器來說，佳能擁有1.6的係數，尼康具有1.5的係數，想要50mm效果的朋友可以選擇35mm​​，
+想要85mm效果的朋友可以選擇50mm。三枚大光圈的定焦都是能夠帶來非常有趣的攝影體驗，可以嘗試一下！)
+
+
+
+
+
+規格與功能
+ZEISS 35 mm 全片幅標準定焦鏡頭
+明亮的 F1.8 最大光圈
+ZEISS T* 抗反光鍍膜可大幅減少耀光
+9 片圓形光圈葉片，營造迷人散景效果
+防塵防滴設計
+最短對焦距離
+0.5 m
+最高放大倍率 (X)
+0.14 倍
+濾鏡口徑 (MM)
+49 mm
+重量
+281 g
+
+
+
+### [作品分享](https://www.xiaohongshu.com/user/profile/5cd401c500000000110287e3?xhsshare=CopyLink&appuid=5cd401c500000000110287e3&apptime=1607316287)
 
 
 
@@ -138,7 +189,6 @@ Sony RX100 V 等校於 24-70mm f/1.8-2.8
 長焦在車展比較多人用，能拍出模特的大特寫，可以減少干擾的背景。
 
 好了，以上就是斯莫格格姐姐分享的人像攝影，自然風景，紀實攝影，活動商業攝影，微距攝影，鳥類攝影，旅遊攝影，建築攝影，街拍夜景，車展模特，10個攝影類別的鏡頭選擇，希望能幫助到大家！
-
 
 
 ## End
