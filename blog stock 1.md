@@ -26,8 +26,8 @@ ARK Invest以投資
 4. Digital Wallets 數位錢包
 5. Bitcoin’s Fundamentals 數位貨幣
 6. Bitcoin: Preparing For Institutions 
-7. Electric Vehicles (EVs) 
-8. Automation 電動汽車
+7. Electric Vehicles (EVs) 電動汽車
+8. Automation 自動化
 9. Autonomous Ride-Hailing 
 10. Delivery Drones 無人機
 11. Orbital Aerospace 
@@ -49,12 +49,12 @@ ARK Invest以投資
 
 還有現在人會花很多時間在手機上還有APP，像是FB IG 抖音等等。這些與軟體工程有關係，像是資料架構以及程式語言設計等等。但是硬體架構就是跟運算能力和儲存硬碟有關，
 
-### 感覺以後晶片可以看做成一種原物料，是很多產業直接或間接需要的。
+#### 晶片未來或可看成一種原物料，晶片是很多產業直接或間接需要的!
 
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/stock2b.JPG)
 
-### 虛擬與數位
+### 虛擬數位
 
 Virtual Worlds 虛擬世界 
 
@@ -66,7 +66,7 @@ Digital Wallets 數位錢包
 
 這概念類似以前人們會帶紙鈔錢幣出門，之後推廣VISA信用卡支付等等。現在就是要從信用卡進化到下一世代，數位錢包。
 
-### 未來出門要帶手機和支付APP 會比信用卡好用很多又快速
+#### 未來出門要帶手機和支付APP，會比信用卡好用很多又快速!
 
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/stock2c.JPG)
@@ -77,15 +77,31 @@ If all S&P 500 companies were to allocate 1% of their cash to bitcoin, ARK estim
 
 前五百強大公司若將1%現金變成數位貨幣並流動交易，數位貨幣的價值會更高。其實更重要的是認同度，若大家都相信並且有流動率，這東西就會有價值。
 
-最近比較大的新聞有: 
-- Microstrategy CEO 2020七月購買幾百萬美元等值的比特幣
-- Square 2020十月將資產的1％分配給比特幣
-- PayPal 2020十月推出加密貨幣買賣服務
-- 特斯拉CEO也是在2021二月宣佈有購買比特幣
+2020Q4-2021比較大的新聞有: 
+- 2020七月
+- Microstrategy CEO 購買幾百萬美元等值的比特幣
+- 2020十月
+- Square 將資產的1％分配給比特幣
+- PayPal 推出加密貨幣買賣服務
+- 新加坡最大的銀行星展銀行宣布計劃啟動加密貨幣交易所
+- 2021二月
+- 特斯拉CEO宣佈已購買15億美元的比特幣，並將接受比特幣支付
 
 
+### Electric Vehicles (EVs) 電動汽車
+
+Based on Wright’s Law, ARK forecasts that EV sales should increase roughly 20-fold from ~2.2 million in 2020 to 40 million units in 2025.
+
+根據萊特定律，ARK預測，電動汽車的銷量將從2020年的約220萬輛增長20倍，到2025年達到4000萬輛。電動汽車市場的領導者正在開發創新的電池設計，以更低的成本實現更長距離的車輛。
+
+萊特定律，經驗曲線效應的內容比只研究勞動時間的學習曲線效應更廣泛。它是說一項任務越是經常執行，做它的代價越小。任務可以是任何的產品或服務。數量每翻一番，代價值（包括行政管理、營銷、分配、製造）下降一個常量百分比。這個更廣泛的效應是六十年代末由布魯斯·亨得森在波士頓顧問集團（BCG）首次提出的。BCG在七十年代的研究觀察了不同行業的經驗曲線效應發現這個值在百分之十到二十五之間。
+
+這些效應經常用圖形表示。曲線在橫軸上表示積累值，在縱軸上表示產出的代價。 產出每翻一番代價下降15%的曲線被稱作“85%經驗曲線”，表示單位代價下降到最初水平的85%。
+
+#### 換言之就是熟能生巧，漸漸的省時省力省錢!
 
 
+### Automation 自動化
 
 
 
