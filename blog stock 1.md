@@ -28,12 +28,12 @@ ARK Invest以投資
 6. Bitcoin: Preparing For Institutions 
 7. Electric Vehicles (EVs) 電動汽車
 8. Automation 自動化
-9. Autonomous Ride-Hailing 
-10. Delivery Drones 無人機
-11. Orbital Aerospace 
+9. Autonomous Ride-Hailing 自駕
+10. Delivery Drones 送貨無人機
+11. Orbital Aerospace 軌道航空
 12. 3D Printing 3d列印
-13. Long Read Sequencing 
-14. Multi-Cancer Screening 
+13. Long Read Sequencing 長讀測序
+14. Multi-Cancer Screening 多癌篩查
 15. Cell and Gene Therapy: Generation 基因
 
 
@@ -69,7 +69,6 @@ Digital Wallets 數位錢包
 #### 未來出門要帶手機和支付APP，會比信用卡好用很多又快速!
 
 
-![f1](https://github.com/HCH1/blog/blob/master/fig/stock2c.JPG)
 
 ### Bitcoin’s Fundamentals 數位貨幣
 
@@ -100,8 +99,6 @@ Based on Wright’s Law, ARK forecasts that EV sales should increase roughly 20-
 
 #### 換言之就是熟能生巧，漸漸的省時省力省錢!
 
-
-### Automation 自動化
 
 
 
