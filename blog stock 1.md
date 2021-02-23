@@ -1,4 +1,4 @@
-# 三分鐘分享ARK方舟投資與Cathie Wood凱西伍德 心得與整理推薦! LIKE👍 訂閱🛎 分享❤️
+# 三分鐘分享ARK方舟投資與Cathie Wood凱西伍德 心得與整理推薦! (LIKE👍 訂閱🛎 分享❤️)
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/stock0.JPG)
 
