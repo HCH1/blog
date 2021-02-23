@@ -69,6 +69,7 @@ Digital Wallets 數位錢包
 #### 未來出門要帶手機和支付APP，會比信用卡好用很多又快速!
 
 
+![f1](https://github.com/HCH1/blog/blob/master/fig/stock2c.JPG)
 
 ### Bitcoin’s Fundamentals 數位貨幣
 
@@ -100,6 +101,34 @@ Based on Wright’s Law, ARK forecasts that EV sales should increase roughly 20-
 #### 換言之就是熟能生巧，漸漸的省時省力省錢!
 
 
+![f1](https://github.com/HCH1/blog/blob/master/fig/stock2d.JPG)
+
+### Orbital Aerospace 軌道航空
+
+火箭和衛星成本的下降正在顛覆曾經看似壟斷和官僚的產業。
+由於深度學習，移動連接，傳感器，3D打印和機器人技術的進步，數十年來不斷膨脹的成本開始下降。 結果，衛星發射和火箭著陸的數量激增。
+根據ARK的研究，軌道航空航天機會-包括衛星連接和高超音速飛行-每年將超過3700億美元
+
+根據我們的研究，乘坐短途航班的乘客願意為私人飛機上每節省兩個小時支付大約15,000美元。
+根據短途航班市場的經濟狀況，ARK估計，從紐約市飛往日本的2至3小時私人超音速飛行中，乘客和企業將願意支付100,000美元以節省13小時。
+如果270萬人次為長途高超音速飛機支付約100,000美元，則該市場的年收入將達到2700億美元
+
+#### 空運的進化與革命，越快越高與條件式便宜
+
+
+
+### 3D Printing 3d列印
+
+3D打印是一種增材製造的形式，可逐層構建對象，這與傳統的消減製造法不同，後者從較大的塊中移除材料。
+•3D打印縮短了設計和生產之間的時間，將權力轉移給了設計師，並降低了供應鏈的複雜性，而其成本僅為傳統製造成本的一小部分。
+•ARK相信3D打印將徹底改變製造業，其年增長率約為60％，從去年的120億美元增長到2025年的1200億美元。
+
+
+
+
+13. Long Read Sequencing 長讀測序
+14. Multi-Cancer Screening 多癌篩查
+15. Cell and Gene Therapy: Generation 基因
 
 
 
