@@ -5,6 +5,9 @@
 [ref](https://www.xiaohongshu.com/discovery/item/5fd1ded2000000000101e435?xhsshare=CopyLink&appuid=5cd401c500000000110287e3&apptime=1615957091)
 
 
+## 口訣: 直 橫 升降 (x y z) 繞 差 跟 低 搖 
+
+
 ## 向前推進&向後拉遠
 只需規劃好這條路徑的拍攝起點和終點，沿路勻速行走做大範圍移動，即可輕鬆實現
 
