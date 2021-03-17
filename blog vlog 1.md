@@ -1,8 +1,8 @@
-# 三分鐘弄懂 十種運鏡 心得與整理推薦 (2020) Introduction of camera movement! LIKE👍 訂閱🛎 分享❤️
+# 三分鐘弄懂 十種運鏡 心得與整理推薦 (2021) Introduction of camera movement! LIKE👍 訂閱🛎 分享❤️
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/vlog1.JPG)
 
-[ref](https://www.xiaohongshu.com/discovery/item/5fd1ded2000000000101e435?xhsshare=CopyLink&appuid=5cd401c500000000110287e3&apptime=1615957091)
+[參考影片](https://www.xiaohongshu.com/discovery/item/5fd1ded2000000000101e435?xhsshare=CopyLink&appuid=5cd401c500000000110287e3&apptime=1615957091)
 
 
 ## 口訣: 直 橫 升降 (x y z) 繞 差 跟 低 搖 
