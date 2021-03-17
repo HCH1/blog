@@ -2,11 +2,8 @@
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/vlog1.JPG)
 
-![f1](https://github.com/HCH1/blog/blob/master/fig/vlog1b.JPG)
-
 [ref](https://www.xiaohongshu.com/discovery/item/5fd1ded2000000000101e435?xhsshare=CopyLink&appuid=5cd401c500000000110287e3&apptime=1615957091)
 
-[Sonnar T* FE 55mm F1.8 ZA SEL55F18Z 999$](https://www.sony.com.sg/electronics/camera-lenses/sel55f18z#local_banner_default)
 
 ## 向前推進&向後拉遠
 只需規劃好這條路徑的拍攝起點和終點，沿路勻速行走做大範圍移動，即可輕鬆實現
