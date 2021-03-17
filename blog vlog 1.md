@@ -52,6 +52,14 @@
 ![f1](https://github.com/HCH1/blog/blob/master/fig/vlog1b.JPG)
 
 ## 推薦 智雲穩定器 ZHIYUN SMOOTH-X
+1. 很輕 246g (iphone 12 162g; sony RX100 ~300g)
+2. 26cm自拍棒 (略輸鄉民的30cm)
+3. app ZY Cami 懶人包 一秒出大片
+4. 控制把手上有三個按鈕: 拍照或錄影 模式切換 雲台運動
+5. 底部是1/4螺絲口 可接脚架
+6. 入門價格299人民幣
+
+[ZHIYUN SMOOTH-X 說明書](https://oss.zhiyun-tech.com/zyplay/instructions_edit/instructions/SMOOTH-X%20%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf)
 
 是ZHIYUN消費級市場的新作品，在經歷了功能十分完備的SMOOTH 4和極緻小巧的SMOOTH-Q2之後，我們依然希望將視頻增穩功能和更多可玩性普及給更基礎的、甚至不知道什麼是“雲台”的視頻用戶，能讓更多人體驗雲台拍攝的樂趣和拍攝效果，分享記錄自己和家人好友的精彩生活。因而，SMOOTH-X在形態和售價上，突破了行業壁壘，首髮灰色、白色，售價下探至299元起，同時保留不亞於同類產品的精細做工和出色品質。本篇回答將為您展示SMOOTH-X的主要特點。更好用的旋轉折疊設計
 
