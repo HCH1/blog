@@ -8,14 +8,21 @@
 
 ## SEA三大本業
 1. 電玩 Garena 英雄聯盟
-2. 電商 shopee 蝦皮
-3. 電子錢包 SeaMoney
+2. 電商 shopee 蝦皮 東南亞版的淘寶
+3. 電子錢包 SeaMoney 東南亞版的支付寶
+
+2020-2021，Sea 的股價累計上漲超過400%，市值飆升至約 980 億美元——相當於1.5 個百度。目前，Sea是東南亞市值最高的上市科技公司。
+
+
+![f1](https://github.com/HCH1/blog/blob/master/fig/sea1d.JPG)
 
 ## 電玩起家
 Sea通常被稱為一家“遊戲和電商公司”。在它的三塊主營業務中，數字娛樂業務也就是遊戲業務不僅是最早發展的，也是最大的營收來源，同時是唯一盈利的板塊。 
 2019年財報顯示，Sea遊戲業務的收入高達 18 億美元，佔總收入 6 成，利潤高達10億美元。 Sea成立於2009年5月，由出生在中國天津的華人 Forrest Li （李小冬）在新加坡創辦。
 在2017年改名為Sea以前，Garena是這家公司的名字，事實上也是其遊戲品牌的名稱。
 
+
+![f1](https://github.com/HCH1/blog/blob/master/fig/sea1c.JPG)
 
 ## 跨入電商 東南亞第一
 
@@ -33,7 +40,7 @@ Sea通常被稱為一家“遊戲和電商公司”。在它的三塊主營業�
 這就是東南亞的冬海。就這樣一個由中國人創立，在中國資本的加持下，把阿里、騰訊無縫複製的新加坡企業，成為了東南亞的互聯網霸主。
 
 
-![f1](https://github.com/HCH1/blog/blob/master/fig/sea1.JPG)
+![f1](https://github.com/HCH1/blog/blob/master/fig/sea1b.JPG)
 
 ## 台灣護國神山 台積電 市值約六千億美元
 
