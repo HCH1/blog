@@ -1,6 +1,6 @@
 # 三分鐘分享 升息三部曲: 減債 縮表 升息 心得與整理推薦! (LIKE👍 訂閱🛎 分享❤️)
 
-![f1](https://github.com/HCH1/blog/blob/master/fig/stock5a.JPG)
+![f1](https://github.com/HCH1/blog/blob/master/fig/oven1a.JPG)
 
 ## 烤箱選購指南丨電烤箱推薦
 
