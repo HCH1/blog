@@ -62,4 +62,9 @@
 11. 產品類別: 常規烤箱
 12. 熱管材質: 不銹鋼
 
+
+## Cornell Convection Oven Counter Table Top Electric Rotisserie Oven 28L CEO-E2821SL
+https://www.lazada.sg/catalog/?q=Cornell+Electric+Oven+28l&_keyori=ss&from=input&spm=a2o42.searchlist.search.go.5b654fe086rdUc
+
+
 ## End
