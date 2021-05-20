@@ -65,6 +65,39 @@
 ## Mistral OVEN 30L
 https://www.lazada.sg/catalog/?q=mistral+OVEN+30L&_keyori=ss&from=input&spm=a2o42.searchlist.search.go.659742b7LP3zdj
 
+90-230°C溫度控制
+
+60分鐘定時器，帶保持功能
+
+6種加熱模式：底部，頂部，頂部和底部，頂部+風扇，烤肉店，對流
+
+內置內部照明
+
+電源指示燈
+
+配件：烤盤，鐵絲架，麵包屑盤，烤肉叉，托盤手柄，烤肉叉手柄
+
+規格：
+
+型號：MO1530
+
+容量：30公升
+
+功率：1500瓦
+
+電壓：220-240 V | 50-60赫茲
+
+尺寸（長x寬x高）（毫米）：
+
+-329 x 320 x 278（腔）
+
+-452 x 388 x 298（產品）
+
+-515 x 415 x 375（包裝）
+
+重量：7.2公斤（淨重）| 8.4公斤（毛重）
+
+
 90-230°C temperature control
 
 60 minutes timer with stay on function
