@@ -47,8 +47,7 @@
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/oven1b.jpg)
 
-## 品牌名稱：Hauswirt/海氏
-產品參數：
+## Cornell Electric Oven 28l
 1. 產品名稱：Hauswirt/海氏 C40
 2. 品牌: Hauswirt/海氏型號: C40
 3. 容量範圍: 31L(含)-40L(含)
