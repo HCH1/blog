@@ -62,6 +62,27 @@
 12. 熱管材質: 不銹鋼
 
 
+## Mistral OVEN 30L
+https://www.lazada.sg/catalog/?q=mistral+OVEN+30L&_keyori=ss&from=input&spm=a2o42.searchlist.search.go.659742b7LP3zdj
+
+90-230°C temperature control
+
+60 minutes timer with stay on function
+
+6 Functions: Bottom Heat, Top Heat,Top & Bottom Heat, Rotisserie and Convection
+
+Built-in internal light
+
+Power indicator
+
+Accessories: baking tray, wire rack, crumb tray, rotisserie fork, tray handle and rotisserie handle
+
+Power: 1500W
+
+Warranty: 1 year Warranty
+
+
+
 ## Cornell Oven 28L
 https://www.lazada.sg/catalog/?q=Cornell+Electric+Oven+28l&_keyori=ss&from=input&spm=a2o42.searchlist.search.go.5b654fe086rdUc
 
@@ -79,7 +100,7 @@ Inner Tray Size: 34cm * 25cm
 
 
 
-## mayer OVEN 30L 
+## Mayer OVEN 30L 
 https://www.lazada.sg/catalog/?q=mayer+OVEN+30L&_keyori=ss&from=input&spm=a2o42.home.search.go.654346b5mcCO2d
 
 This 30 L Electric Oven can fit all kinds of food perfectly.
