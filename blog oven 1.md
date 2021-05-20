@@ -45,7 +45,7 @@
 如果受熱不夠均勻，溫控不夠準確，會影響烘焙的上色、口感等一系列問題，當然並不是所有的機械式控溫都不准。
 
 
-![f1](https://github.com/HCH1/blog/blob/master/fig/oven1b.JPG)
+![f1](https://github.com/HCH1/blog/blob/master/fig/oven1b.jpg)
 
 ## 品牌名稱：Hauswirt/海氏
 產品參數：
