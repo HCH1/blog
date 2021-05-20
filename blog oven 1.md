@@ -62,8 +62,41 @@
 12. 熱管材質: 不銹鋼
 
 
-## Cornell Convection Oven Counter Table Top Electric Rotisserie Oven 28L CEO-E2821SL
+## Cornell Oven 28L
 https://www.lazada.sg/catalog/?q=Cornell+Electric+Oven+28l&_keyori=ss&from=input&spm=a2o42.searchlist.search.go.5b654fe086rdUc
+
+Total Capacity: 28L
+
+Power Consumption: 220~240V /50/60Hz /2100W
+
+Timers: 60 Mins timer with chime
+
+Warranty: 1 Year
+
+Dimensions (W x H x D) 528mm x 350mm x 320mm
+
+Inner Tray Size: 34cm * 25cm
+
+
+
+## mayer OVEN 30L 
+https://www.lazada.sg/catalog/?q=mayer+OVEN+30L&_keyori=ss&from=input&spm=a2o42.home.search.go.654346b5mcCO2d
+
+This 30 L Electric Oven can fit all kinds of food perfectly.
+
+With temperature settings between 100 - 250°C and timer, you can reheat food or toast goodies or bake with no fuss.
+
+Capacity: 30 L
+
+Power: 1450-1750 W
+
+Voltage: 220-240 V | 50~60 Hz
+
+Weight: N.W 7.6 kg I G.W 8.8 kg
+
+Product Dimension (mm): 481 x 378 x 339
+
+Accessories: Bake pan x 1, Wire rack x 1, Rotisserie x 1, Rotisserie handle x 1 & Bake pan handle x 1
 
 
 ## End
