@@ -2,7 +2,7 @@
 
 ![f1](https://github.com/HCH1/blog/blob/master/fig/stock6.JPG)
 
-## 馬斯克 宣佈計劃成立比特幣採礦委員會
+## 計劃成立比特幣採礦委員會
 
 特斯拉(TSLA.US)首席執行官馬斯克及MicroStrategy(MSTR.US)首席執行官Michael Saylor宣佈，他們與設在北美的比特幣採礦公司舉行了一次閉門會議，這些公司計劃成立一個名為比特幣採礦委員會的團體，
 該團體將圍繞實踐中使用的能源類型提供透明度，並推動其向更多的可再生資源發展。
@@ -12,7 +12,7 @@ Saylor稱：“昨天我很高興主持了馬斯克和北美領先的比特幣�
 他補充表示，來自Argo Blockchain、Blockap、Core Scientific、Galaxy Digital(BRPHF.US)、Hive Blockchain(HVBTF.US)、Hut 8 Mining(HUTMF.US)、Marathon Digital Holdings(MARA.US)
 和Riot Blockchain(RIOT.US)的高管出席了會議，並同意組建一個團體，使能源報告標準化，追求環境、社會和公司治理(ESG)目標並發展市場。
 
-## 達利歐“站臺”比特幣：通脹迫在眉睫，寧願持有比特幣
+## 「對衝基金教父」的橋水聯合基金創始人瑞-達利歐 Ray Dalio
 
 被譽為「對衝基金教父」的橋水聯合基金（Bridgewater Associates）創始人瑞-達利歐（Ray Dalio）對迫在眉睫的全球債務危機深表擔憂，並因此從一度懷疑比特幣的立場轉向了涉足這種加密貨幣。
 
