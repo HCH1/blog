@@ -1,12 +1,12 @@
 # 2022 Omega speedmaster racing red dial
-![f1](https://github.com/HCH1/blog/blob/master/fig/seo1.png)
+![f1](https://github.com/HCH1/blog/blob/master/fig/.png)
 
 ## intro
 - [Omega speedmaster racing red dial](https://www.omegawatches.com/watch-omega-speedmaster-racing-co-axial-chronometer-chronograph-40-mm-32630405011001)
 
 搜尋引擎最佳化（英語：search engine optimization，缩写为SEO），是一種透過了解搜尋引擎的運作規則來調整網站，以及提高目的網站在有關搜尋引擎內排名的方式。由於不少研究發現，搜尋引擎的用戶往往只會留意搜尋結果最前面的幾個條目，所以不少網站都希望透過各種形式來影響搜尋引擎的排序，讓自己的網站可以有優秀的搜尋排名。當中尤以各種依靠廣告維生的網站為甚。
 
-## https://mangools.com/blog/learn-seo/
+
 ## 歐米茄速度大師賽車
 超霸腕錶於 1957 年推出時，因其計時性能和設計美學而受到賽車和拉力賽車手的重視。事實上，它的錶盤設計靈感來自意大利汽車的儀表板。在它在太空中聲名鵲起的近十年前，超霸已經確立了自己作為世界上最受歡迎的計時碼表之一的地位。
 
