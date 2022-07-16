@@ -1,4 +1,4 @@
-# 2022 Omega speedmaster racing red dial
+# 2022 歐米茄 星座石英錶
 ![f1](https://github.com/HCH1/blog/blob/master/fig/.png)
 
 
