@@ -60,7 +60,6 @@ b) 10 元登記粉紅色身份證"
 向 ICA 大樓（第 6 層）公民部門報告，宣誓放棄、效忠和忠誠。
 
 隔天Singpass才會更新，才可開始申請IC和護照。
-
 https://eservices.ica.gov.sg/ibook/index.do
 
 新護照申請 70$
@@ -72,16 +71,13 @@ https://eservices.ica.gov.sg/ibook/index.do
 可能你在新加坡寫好的一些委託書之類的文件，家人不太懂電腦操作，在台灣7-11可以輕鬆解決這類問題。你只要先上傳文件，之後到台灣家裡附近小妻請無敵店員幫你列印即可~
 
 ibon文件下載>請先在這裡上傳所需列印之檔案，取得「取件編號」後，即可至7-ELEVEN 門市內之ibon機台選擇「列印掃描 > ibon文件下載列印」，就可以輕鬆取得文件囉！
-
 https://www.ibon.com.tw/printscan_ie.aspx#D073&gsc.tab=0
 
 
 ## 如何寄正本到新加坡?
 用郵局的 國際快捷又稱EMS(英文為International Express Mail Service)，算是速度最快，五天以內送到家裡。
 
-郵局新加坡國際快捷資費網址：
-
-https://www.post.gov.tw/post/internet/Postal/index.jsp?ID=1438065720874
+郵局新加坡國際快捷資費網址：https://www.post.gov.tw/post/internet/Postal/index.jsp?ID=1438065720874
 
 
 ## End
