@@ -79,5 +79,9 @@ https://www.ibon.com.tw/printscan_ie.aspx#D073&gsc.tab=0
 ## 如何寄正本到新加坡?
 用郵局的 國際快捷又稱EMS(英文為International Express Mail Service)，算是速度最快，五天以內送到家裡。
 
+郵局新加坡國際快捷資費網址：
+
+https://www.post.gov.tw/post/internet/Postal/index.jsp?ID=1438065720874
+
 
 ## End
